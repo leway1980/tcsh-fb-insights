@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="從公開貼文與文件，回看慈大附中 2017–2025 年的課程發展與課外活動里程碑。">
+  <meta name="theme-color" content="#123d35">
+  <title>慈中 Facebook 歷程｜課程與活動洞察</title>
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./data.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#insights">跳到洞察</a>
+  <header class="site-header">
+    <div class="frame header-content">
+      <a class="wordmark" href="#top">慈中 Facebook 歷程</a>
+      <nav aria-label="報告導覽">
+        <a href="#insights">看洞察</a>
+        <a href="#records">查紀錄</a>
+        <a href="#coverage">資料範圍</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="frame hero-layout">
+        <div>
+          <p class="period">2017—2025 · 慈濟大學附屬高級中學</p>
+          <h1 id="page-title">慈中的課程與<br class="desktop-break">課外活動怎麼演變？</h1>
+          <p class="intro">從新課綱前導、在地走讀到校慶服務與國際交流。選一個主題，就能看到關鍵時間點、當時的做法與公開原文。</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#insights">展開主題洞察</a>
+            <a class="button light" href="#records">搜尋貼文與事件</a>
+          </div>
+        </div>
+        <div class="hero-context" aria-label="已收錄資料">
+          <dl>
+            <div><dt>Facebook 貼文</dt><dd id="hero-posts">78</dd></div>
+            <div><dt>公開網頁事件</dt><dd id="hero-events">59</dd></div>
+          </dl>
+          <p>里程碑初版。貼文集中在 2017 年 12 月與 2025 年 11–12 月，完整年度仍待查核。</p>
+          <a href="#coverage">查看各月查核狀態</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="insights" class="frame section" aria-labelledby="insights-title">
+      <div class="section-top">
+        <div>
+          <h2 id="insights-title">從六個主題讀懂變化</h2>
+          <p>點開主題，往下看支持這項觀察的時間點和原文。</p>
+        </div>
+        <div class="segment" role="group" aria-label="篩選洞察類型">
+          <button type="button" data-group="all" aria-pressed="true">全部</button>
+          <button type="button" data-group="course" aria-pressed="false">課程發展</button>
+          <button type="button" data-group="activity" aria-pressed="false">課外活動</button>
+        </div>
+      </div>
+      <div id="insight-list" class="insight-list"></div>
+      <noscript><p>請啟用 JavaScript 來展開主題並篩選紀錄。</p></noscript>
+    </section>
+
+    <section id="records" class="records-area" aria-labelledby="records-title">
+      <div class="frame section">
+        <div class="section-top">
+          <div>
+            <h2 id="records-title">查貼文與公開事件</h2>
+            <p>Facebook 依發文年份查找，公開網頁依活動或課程適用年份查找。</p>
+          </div>
+        </div>
+        <form class="filters" id="record-filters" role="search">
+          <label class="search-label">關鍵字
+            <input id="query" type="search" placeholder="例如：感飢 12、港市尋蹤" autocomplete="off">
+          </label>
+          <label>年份<select id="year"><option value="all">全部年份</option></select></label>
+          <label>主題<select id="topic"><option value="all">全部主題</option></select></label>
+          <label>來源<select id="kind"><option value="all">全部來源</option><option value="fb">Facebook 貼文</option><option value="web">公開網頁事件</option></select></label>
+          <button type="button" class="button reset" id="clear-filters">清除篩選</button>
+        </form>
+        <div class="results-top">
+          <p id="result-count" role="status" aria-live="polite"></p>
+          <button type="button" class="button small" id="remove-month" hidden></button>
+        </div>
+        <div id="record-list" class="record-list"></div>
+        <button type="button" class="button load" id="load-more" hidden>顯示更多紀錄</button>
+      </div>
+    </section>
+
+    <section id="coverage" class="frame section" aria-labelledby="coverage-title">
+      <div class="section-top">
+        <div>
+          <h2 id="coverage-title">Facebook 各月查核進度</h2>
+          <p>點有篇數的月份，就能查閱當月貼文。頁面顯示空結果、待查或已定位時，該月總篇數仍未知。</p>
+        </div>
+      </div>
+      <ul class="legend" aria-label="查核進度圖例">
+        <li><span class="sample scanned" aria-hidden="true">28</span>讀到跨月</li>
+        <li><span class="sample partial" aria-hidden="true">21*</span>當月部分</li>
+        <li><span class="sample located" aria-hidden="true">有</span>原文已定位</li>
+        <li><span class="sample empty" aria-hidden="true">空</span>介面無結果</li>
+        <li><span class="sample pending" aria-hidden="true">—</span>待查</li>
+      </ul>
+      <div class="coverage-scroll" role="region" aria-label="可橫向捲動的各月查核表" tabindex="0">
+        <table id="coverage-table" aria-labelledby="coverage-title"></table>
+      </div>
+      <p class="coverage-note" id="coverage-note"></p>
+      <details class="method">
+        <summary>怎麼讀這份報告？</summary>
+        <ul>
+          <li>同一場活動可能有預告、現場紀錄和回顧等數篇貼文。公開網頁也可能報導同一場活動。</li>
+          <li>發文日期、活動日期、網頁刊登日或課程適用年分列。原文沒有明示時，活動日期保留未載。</li>
+          <li>部分 Facebook 單篇頁與貼文串時間相差 8 小時。這些紀錄附有註記，並沿用貼文串顯示時間。Facebook 原文有時需要登入。</li>
+          <li>目前的月份覆蓋適合閱讀具證據的里程碑。跨年活動頻率仍待完整底帳對照。</li>
+        </ul>
+      </details>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="frame footer-content">
+      <p>慈中 Facebook 歷程 · 公開資料整理</p>
+      <div><a href="https://www.facebook.com/tcsh.edu/" rel="noopener noreferrer" target="_blank">學校粉專</a><a href="https://www.tcsh.hlc.edu.tw/home" rel="noopener noreferrer" target="_blank">學校官網</a></div>
+    </div>
+  </footer>
+</body>
+</html>
