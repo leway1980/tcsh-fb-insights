@@ -226,17 +226,17 @@ window.reportData = {
       [
         "2021-04",
         "partial",
-        4
+        5
       ],
       [
         "2021-05",
         "partial",
-        6
+        7
       ],
       [
         "2021-06",
         "partial",
-        6
+        7
       ],
       [
         "2021-07",
@@ -246,12 +246,12 @@ window.reportData = {
       [
         "2021-08",
         "partial",
-        6
+        7
       ],
       [
         "2021-09",
         "partial",
-        6
+        7
       ],
       [
         "2021-10",
@@ -261,17 +261,17 @@ window.reportData = {
       [
         "2021-11",
         "partial",
-        2
+        3
       ],
       [
         "2021-12",
         "partial",
-        4
+        5
       ],
       [
         "2022-01",
         "partial",
-        6
+        7
       ],
       [
         "2022-02",
@@ -699,15 +699,19 @@ window.reportData = {
         "fb-284",
         "fb-285",
         "fb-286",
+        "fb-288",
+        "fb-289",
         "fb-291",
         "fb-296",
         "fb-298",
         "fb-302",
         "fb-303",
         "fb-304",
+        "fb-305",
         "fb-307",
         "fb-309",
         "fb-310",
+        "fb-311",
         "fb-312",
         "fb-313",
         "fb-314",
@@ -717,6 +721,7 @@ window.reportData = {
         "fb-319",
         "fb-320",
         "fb-321",
+        "fb-324",
         "fb-325",
         "fb-326",
         "fb-329",
@@ -1369,7 +1374,13 @@ window.reportData = {
         "fb-1054",
         "fb-1055",
         "fb-1056",
-        "fb-1057"
+        "fb-1057",
+        "fb-1059",
+        "fb-1060",
+        "fb-1061",
+        "fb-1062",
+        "fb-1064",
+        "fb-1065"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1385,7 +1396,13 @@ window.reportData = {
         "fb-131",
         "fb-199",
         "fb-248",
+        "fb-287",
         "fb-293",
+        "fb-301",
+        "fb-308",
+        "fb-317",
+        "fb-323",
+        "fb-328",
         "fb-340",
         "fb-341",
         "fb-351",
@@ -1406,7 +1423,9 @@ window.reportData = {
         "fb-1032",
         "fb-1042",
         "fb-1049",
-        "fb-1051"
+        "fb-1051",
+        "fb-1058",
+        "fb-1063"
       ]
     }
   },
@@ -8708,10 +8727,12 @@ window.reportData = {
       "time": "15:57",
       "activity": "",
       "notes": [
-        "火箭隊台灣盃發射獲堅定不移獎，正文展開。"
+        "火箭隊參與台灣盃火箭競賽，完成發射並獲堅定不移獎。",
+        "正文涉及學生或家庭個人資訊，僅留安全索引。",
+        "畫面日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -8720,7 +8741,8 @@ window.reportData = {
       ],
       "title": "火箭隊台灣盃發射獲堅定不移獎",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 15:57，單篇畫面顯示 00:57，兩讀值待核。"
     },
     {
       "id": "fb-288",
@@ -8729,19 +8751,20 @@ window.reportData = {
       "time": "15:47",
       "activity": "",
       "notes": [
-        "美式教育，正文截斷待核。"
+        "國際教育處公告雙聯學位與美國高中證書的線上說明會。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XB6X6BywdVfyXuQS4ebKHfCbUeWA9RSbbq4wzzWQwY5JXv59Qxm6xajC39LuCU19l"
         }
       ],
-      "title": "美式教育",
+      "title": "雙聯學位及美國高中證書說明會",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 15:47，單篇畫面顯示 00:47，兩讀值待核。"
     },
     {
       "id": "fb-289",
@@ -8750,10 +8773,10 @@ window.reportData = {
       "time": "22:23",
       "activity": "",
       "notes": [
-        "國一新生家長信、報到與營隊，正文展開，信件圖片待核。"
+        "官粉介紹給國一新生與家長的三項生活叮嚀，並公告報到及營隊日期。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -8762,7 +8785,8 @@ window.reportData = {
       ],
       "title": "國一新生家長信、報到與營隊",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 22:23，單篇畫面顯示 07:23，兩讀值待核。"
     },
     {
       "id": "fb-290",
@@ -9004,7 +9028,9 @@ window.reportData = {
       "time": "16:31",
       "activity": "",
       "notes": [
-        "美西團核桃市府議會，正文截斷。"
+        "美西修學團在核桃市議會以英語分享氣候、減碳及永續主題。",
+        "正文涉及學生或家庭個人資訊，僅留安全索引。",
+        "畫面日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9016,7 +9042,8 @@ window.reportData = {
       ],
       "title": "美西團核桃市府議會",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 16:31，單篇畫面顯示 01:31，兩讀值待核。"
     },
     {
       "id": "fb-302",
@@ -9090,10 +9117,10 @@ window.reportData = {
       "time": "11:22",
       "activity": "",
       "notes": [
-        "新馬修學第五天，正文截斷。"
+        "新馬修學第五天走訪馬六甲古城，與當地學伴交流，並以導覽及學習單認識文化。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -9154,7 +9181,9 @@ window.reportData = {
       "time": "12:57",
       "activity": "",
       "notes": [
-        "新馬修學第四天，新加坡多元文化街區，正文部分可見。"
+        "新馬修學第四天探索新加坡多元文化街區。",
+        "正文涉及學生或家庭個人資訊，僅留安全索引。",
+        "畫面日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9218,10 +9247,10 @@ window.reportData = {
       "time": "11:00",
       "activity": "",
       "notes": [
-        "新馬修學第三天拜訪，正文截斷。"
+        "新馬修學第三天，小學組與菩提小學進行城市走讀；中學組與文殊中學進行校際及環保交流。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -9348,7 +9377,8 @@ window.reportData = {
       "time": "23:16",
       "activity": "",
       "notes": [
-        "泰北國際志工團，正文截斷。"
+        "泰北志工團走訪清真寺和社區機構，進行跨世代交流。",
+        "正文涉及學生或家庭個人資訊，僅留安全索引。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9360,7 +9390,8 @@ window.reportData = {
       ],
       "title": "泰北國際志工團",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 23:16，單篇畫面顯示 08:16，兩讀值待核。"
     },
     {
       "id": "fb-318",
@@ -9478,7 +9509,9 @@ window.reportData = {
       "time": "15:51",
       "activity": "",
       "notes": [
-        "美西團參訪 Stanford 和 UC Berkeley，正文截斷。"
+        "美西修學團參訪史丹佛大學與加州大學柏克萊分校。",
+        "正文涉及學生或家庭個人資訊，僅留安全索引。",
+        "畫面日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9490,7 +9523,8 @@ window.reportData = {
       ],
       "title": "美西團參訪 Stanford 和 UC Berkeley",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 15:51，單篇畫面顯示 00:51，兩讀值待核。"
     },
     {
       "id": "fb-324",
@@ -9499,10 +9533,10 @@ window.reportData = {
       "time": "11:25",
       "activity": "",
       "notes": [
-        "新馬修學第二天校際交流共學，正文截斷。"
+        "新馬修學第二天，小學組與菩提小學共學，中學組入班體驗全英語與數位課程，教師交流深度學習。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -9564,7 +9598,8 @@ window.reportData = {
       "time": "00:49",
       "activity": "",
       "notes": [
-        "泰北國際志工團，正文截斷。"
+        "附中泰北團在清邁慈濟學校入班與準備營隊。目前只讀到正文前段，文字待查。",
+        "畫面日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9585,7 +9620,9 @@ window.reportData = {
       "time": "00:37",
       "activity": "",
       "notes": [
-        "泰北國際志工團，正文截斷。"
+        "泰北志工團到清邁大學附中及清邁慈濟學校交流。",
+        "正文涉及學生或家庭個人資訊，僅留安全索引。",
+        "畫面日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -18955,7 +18992,8 @@ window.reportData = {
       "time": "16:19",
       "activity": "2021-12-20",
       "notes": [
-        "貼文記錄高三學測前的閉關衝刺與祝福活動。"
+        "貼文記錄高三學測前的閉關衝刺與祝福活動。",
+        "另一入口核為同一則。"
       ],
       "media": "相片",
       "partial": false,
@@ -18967,7 +19005,8 @@ window.reportData = {
       ],
       "title": "110 學年度高三閉關衝刺祝福",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 16:19，兩個網址的單篇畫面均顯示 00:19，兩讀值待核。"
     },
     {
       "id": "fb-768",
@@ -25107,6 +25146,175 @@ window.reportData = {
       ],
       "title": "開學防疫與雙語教育活動預告",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1058",
+      "year": 2021,
+      "published": "2021-04-14",
+      "time": "18:19",
+      "activity": "",
+      "notes": [
+        "官粉記錄國中組詩與小說項目獲獎。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02gTW3ibCtjjXNvn7rNEfYtWCQQLVqpQT5iCPC4FrdkHWWpr94GffnGAFDWEuAkws1l"
+        }
+      ],
+      "title": "數感盃數學寫作競賽",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1059",
+      "year": 2021,
+      "published": "2021-05-15",
+      "time": "20:16",
+      "activity": "",
+      "notes": [
+        "粉專轉知當時花蓮的準三級警戒與九項防疫措施。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JsBzZpZQZ4wb7qWDTQJFVULTuKd8ucPPRTehUzXURT15yaRaNku3RJeHdAwpT2jql"
+        }
+      ],
+      "title": "花蓮準三級警戒公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1060",
+      "year": 2021,
+      "published": "2021-06-15",
+      "time": "19:49",
+      "activity": "",
+      "notes": [
+        "粉專預告國小暨幼兒園將於 6 月 18 日上午舉行線上畢業典禮。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid026DJBDSCeeBqApGZDb56ZeQ47e19JQk89ygjnkGKyxGCjdCYBAS6RRtsmQ2JGKR6rl"
+        }
+      ],
+      "title": "國小及幼兒園線上畢業典禮公告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1061",
+      "year": 2021,
+      "published": "2021-08-12",
+      "time": "15:35",
+      "activity": "",
+      "notes": [
+        "十大教師社群發表教案與特色課程，進行校本課程統整、年級銜接及跨領域教案修訂。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0porDveMXVNVw9VrfmxEbLurvmHrg8GjBuC4cB669Wh5TJhHh9aUqbbX3kZAA56GGl"
+        }
+      ],
+      "title": "國小教師教學成果發表",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 15:35，單篇顯示 00:35，兩讀值待核。"
+    },
+    {
+      "id": "fb-1062",
+      "year": 2021,
+      "published": "2021-09-15",
+      "time": "20:26",
+      "activity": "",
+      "notes": [
+        "官粉記錄醫護團隊入園為幼兒進行例行健康檢查。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02uP7rRERjPQrrj3KzHVALUE6Popkop8EL1i3Yiv5LtAvNe7jNzPLYo3TSb4W9gTMWl"
+        }
+      ],
+      "title": "附幼學年度健康檢查",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1063",
+      "year": 2021,
+      "published": "2021-11-15",
+      "time": "14:56",
+      "activity": "",
+      "notes": [
+        "官粉記錄校隊在縣運多項中長跑競賽獲獎。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0WPZBtuu2LSBiaGqKsEKvE9kX6b5G9HiEx11fSXi4v7jbJcX3DwCrCLT6sm8a5UgRl"
+        }
+      ],
+      "title": "風起長跑隊花蓮縣運佳績",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1064",
+      "year": 2021,
+      "published": "2021-12-20",
+      "time": "12:04",
+      "activity": "",
+      "notes": [
+        "粉專介紹以 12 月為生命教育月，並預告飢餓體驗及音樂會。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GDXmXS1QVtJfzUuDNsDR4KGtCrfmCBHurRUViJgtm33vTPJPUQWNxi5M2M7d3TfVl"
+        }
+      ],
+      "title": "生命教育月與感飢 12",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1065",
+      "year": 2022,
+      "published": "2022-01-15",
+      "time": "00:02",
+      "activity": "",
+      "notes": [
+        "校方與輔導室安排高一學生以書寫道謝、道歉對象回顧一學期的學習與生活。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0LjCUj2MQsequ86BX5GMYzAibnFa9bXZ8VWdJF8jG22u4gMXgVZsTemCdxZ4hDPkcl"
+        }
+      ],
+      "title": "高一心靈晚粥",
+      "topic": "生命教育與服務",
       "kind": "fb"
     }
   ]
