@@ -82,6 +82,11 @@ window.reportData = {
         "2025-05",
         "partial",
         8
+      ],
+      [
+        "2025-04",
+        "partial",
+        17
       ]
     ],
     "asOf": "2026-11-27"
@@ -8697,6 +8702,363 @@ window.reportData = {
       ],
       "title": "縣科展高中七組全獲獎、國中十組中九組獲獎",
       "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-351",
+      "year": 2025,
+      "published": "2025-04-29",
+      "time": "18:53",
+      "activity": "",
+      "notes": [
+        "高三成年禮介紹造血幹細胞捐贈，畢業考後 11 人參與驗血。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02EDz93nbgrWHMinr9nB5dLTtFo1jji19P4okUN5gR2amG3Uob2d7JC44fyx3k3eh4l"
+        }
+      ],
+      "title": "高三成年禮介紹造血幹細胞捐贈",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-352",
+      "year": 2025,
+      "published": "2025-04-25",
+      "time": "19:06",
+      "activity": "",
+      "notes": [
+        "愛閱週閱讀市集，24 班圍繞人權、旅遊、人文與 AI 主題設計遊戲，並有說書音樂演出。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ufcLf52oQgztzNMBCmQdd9y3XoQVxUfYXM3MxHXFb9M2dDHgPZWa4G64ZxYZ5aV4l"
+        }
+      ],
+      "title": "愛閱週閱讀市集",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-353",
+      "year": 2025,
+      "published": "2025-04-24",
+      "time": "10:15",
+      "activity": "",
+      "notes": [
+        "全校教師與行政團隊參加社會情緒學習增能工作坊，討論五項核心能力與情境演練。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ajHTppvSPVVg9yUz7dqKs1XcpQocXwYJtiwsg3kbZYDHYmqJurP7GhJoWu8paPfDl"
+        }
+      ],
+      "title": "全校教師與行政團隊參加社會情緒學習增能工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-354",
+      "year": 2025,
+      "published": "2025-04-24",
+      "time": "09:00",
+      "activity": "",
+      "notes": [
+        "國二雙語班以英語體驗新聞播報、大稻埕走讀及藝術展，結合語言與文化。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0NBBSfe6zx6PRjGtuaSNshM5yGHDQ9F1Z4czTatYsLvZxio8TFhSQGoDStDB6xEnql"
+        }
+      ],
+      "title": "國二雙語班以英語體驗新聞播報、大稻埕走讀及藝術展",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-355",
+      "year": 2025,
+      "published": "2025-04-19",
+      "time": "17:29",
+      "activity": "",
+      "notes": [
+        "第三場招生說明會，學校介紹與家長、畢業生經驗分享。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid06sdY3o1hvzoFMN44zdVv4dzoKLbzQDyhCqcpqdXy2WbjnfqkQ4w5tG4CLZcuQEgpl"
+        }
+      ],
+      "title": "第三場招生說明會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-356",
+      "year": 2025,
+      "published": "2025-04-17",
+      "time": "20:48",
+      "activity": "",
+      "notes": [
+        "MCI 校長來台頒發美國高中文憑，分享素材待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0geKAeeBeEmwUEMiayaPB6Gr9YsVWVtXCA2dfTA8cPaAnz5KyQG8CPtic5DRuvvVgl"
+        }
+      ],
+      "title": "MCI 校長來台頒發美國高中文憑",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-357",
+      "year": 2025,
+      "published": "2025-04-16",
+      "time": "19:33",
+      "activity": "",
+      "notes": [
+        "慈濟59週年精舍準備壽桃分享師生，正文已展開，影片未核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1458922998422656/"
+        }
+      ],
+      "title": "慈濟59週年精舍準備壽桃分享師生",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-358",
+      "year": 2025,
+      "published": "2025-04-16",
+      "time": "17:16",
+      "activity": "",
+      "notes": [
+        "高國一招生說明會倒數三天，正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02wfGF3hJ8Z8P3CcKwsRuWEsYSBMoCCaWnuaN17qA4DEkWhW7swA47eQcY4pjP9zYel"
+        }
+      ],
+      "title": "高國一招生說明會倒數三天",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-359",
+      "year": 2025,
+      "published": "2025-04-15",
+      "time": "22:10",
+      "activity": "2025-04-13",
+      "notes": [
+        "04/13 文學桌遊工作坊，37 位國中生結合故事與 AI 設計桌遊、互相闖關。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ijknL1T2ayTLE7W7upKztSbPPx6UWUixyg3UzFunVrPhtNjvYK99f8rfeS8bFgJWl"
+        }
+      ],
+      "title": "04/13 文學桌遊工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-360",
+      "year": 2025,
+      "published": "2025-04-15",
+      "time": "11:10",
+      "activity": "",
+      "notes": [
+        "美國緬因中央中學師長來訪，為雙聯學位畢業生頒證，學生分享線上學習與赴美體驗。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid08sq7MS3uiPyPSCC9srcKn1wSW4Foj9H87BTrvPapQeEkLEHbDB3xjWFfLNBVyKjzl"
+        }
+      ],
+      "title": "美國緬因中央中學師長來訪",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-361",
+      "year": 2025,
+      "published": "2025-04-13",
+      "time": "12:38",
+      "activity": "",
+      "notes": [
+        "花蓮縣英語動態競賽高中讀者劇場特優、國中說故事第一等成果。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02jzVHomCmStT2HvZKL2YS8tZN7AQjUHciuKsQhxhHrgPzMbX9LtMFuNLW39wGG1SWl"
+        }
+      ],
+      "title": "花蓮縣英語動態競賽高中讀者劇場特優、國中說故事第一等成果。正文已展開",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-362",
+      "year": 2025,
+      "published": "2025-04-12",
+      "time": "21:38",
+      "activity": "",
+      "notes": [
+        "精舍路跑 25 年，師生沿 8.6 公里路線到精舍。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid035KCi9YHzNfovJohqUnoTEBNxE2fb8V2iUnw6W3x3MoZqyGHidgTYqMi5GXCKhgm9l"
+        }
+      ],
+      "title": "精舍路跑 25 年",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-363",
+      "year": 2025,
+      "published": "2025-04-10",
+      "time": "11:39",
+      "activity": "",
+      "notes": [
+        "愛閱週高一二班級選書師入班說書。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0c4iRfkfkSmZcF3ptDC4AhDG97oVaqFqnPopKFKp36H9kFwCoeq7hEZBe9BfpEZdjl"
+        }
+      ],
+      "title": "愛閱週高一二班級選書師入班說書。正文已展開",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-364",
+      "year": 2025,
+      "published": "2025-04-03",
+      "time": "12:00",
+      "activity": "",
+      "notes": [
+        "花蓮縣賽國中八年級大隊接力第二，校方稱創校史最佳紀錄。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0eExkC39De6E9tErNfYfCsCJgffR3w2W5mnDa6eHkHn7vLK24kSGWwqgmaiAv1wyDl"
+        }
+      ],
+      "title": "花蓮縣賽國中八年級大隊接力第二",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-365",
+      "year": 2025,
+      "published": "2025-04-03",
+      "time": "10:36",
+      "activity": "",
+      "notes": [
+        "第 33 所姐妹校相關影片分享，正文已展開，外部影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wvzQCsEjqBqchkSjaqHv9xeBbqoq4x4nshmL4bQWNb14Vh1GrqqF4mm2QRV8ket1l"
+        }
+      ],
+      "title": "第 33 所姐妹校相關影片分享",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-366",
+      "year": 2025,
+      "published": "2025-04-02",
+      "time": "11:11",
+      "activity": "2025-04-01",
+      "notes": [
+        "04/01 美國 Bret Harte 小學師生來訪，簽訂姐妹校合作，學生參與課堂和茶道。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02vCWuzRd291qGo9iRwVCnqsDGemK6eYtDanVqkUU7BsKP7jQBZe3YHjK2fh3ztjU5l"
+        }
+      ],
+      "title": "04/01 美國 Bret Harte 小學師生來訪",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-367",
+      "year": 2025,
+      "published": "2025-04-02",
+      "time": "09:24",
+      "activity": "",
+      "notes": [
+        "介紹課程、社團、國際交流與住宿並宣傳招生說明會。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02HC6nuxRQ8F8oUvYqK71vF58Ya76NRhgqoYX2epeM6mFn1LphqYzdnWRqbWr3tswcl"
+        }
+      ],
+      "title": "介紹課程、社團、國際交流與住宿並宣傳招生說明會。正文已展開",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]

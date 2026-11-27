@@ -352,7 +352,7 @@ function renderCoverage() {
       }
     }
   }
-  get('coverage-note').textContent = `範圍 ${inScope} 個月，${pending} 個月待查。收錄的貼文中 ${partialCount} 則仍待核完整正文或影音，${unverifiedTimeCount} 則的發文時刻待核。`;
+  get('coverage-note').textContent = `範圍 ${inScope} 個月，${pending} 個月待查。收錄的貼文中 ${partialCount} 則有正文、影音或內容疑點待核，${unverifiedTimeCount} 則的發文時刻待核。`;
 }
 
 get('hero-posts').textContent = String(postCount);
