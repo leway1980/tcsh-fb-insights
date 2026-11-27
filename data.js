@@ -9,6 +9,16 @@ window.reportData = {
         0
       ],
       [
+        "2017-09",
+        "empty",
+        0
+      ],
+      [
+        "2017-10",
+        "empty",
+        0
+      ],
+      [
         "2017-11",
         "partial",
         68
@@ -17,6 +27,11 @@ window.reportData = {
         "2017-12",
         "partial",
         62
+      ],
+      [
+        "2018-01",
+        "partial",
+        5
       ],
       [
         "2018-02",
@@ -84,9 +99,14 @@ window.reportData = {
         4
       ],
       [
+        "2020-07",
+        "partial",
+        4
+      ],
+      [
         "2020-08",
         "partial",
-        3
+        4
       ],
       [
         "2020-09",
@@ -107,6 +127,16 @@ window.reportData = {
         "2020-12",
         "partial",
         3
+      ],
+      [
+        "2021-01",
+        "partial",
+        4
+      ],
+      [
+        "2021-02",
+        "partial",
+        4
       ],
       [
         "2021-03",
@@ -20918,6 +20948,385 @@ window.reportData = {
       ],
       "title": "3 月 6 日官帖，僅保留編目",
       "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-907",
+      "year": 2018,
+      "published": "2018-01-31",
+      "time": "23:02",
+      "activity": "2018-01-30",
+      "notes": [
+        "附小教師把探索教育融入環境教育，以分組闖關學習，並到萬榮鄉明利國小交流。已核對可見文字，圖片型表情符號可能缺漏。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0fDyC1q7aFKbCoBZVS1SVd8Put9VxCHr2o68VnRA579zmyRrNWJvHUPKRS5E1Cjbhl"
+        }
+      ],
+      "title": "附小教師環境教育研習與明利國小交流",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-908",
+      "year": 2018,
+      "published": "2018-01-31",
+      "time": "20:12",
+      "activity": "",
+      "notes": [
+        "學生用直線描繪幾何曲線，也以拼塊分析三角形與正方形的組合。相簿連結在畫面截斷。"
+      ],
+      "media": "外部相簿",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0FDKeVQjXgSJ9vg5XbMw2LGtBoB5kujgat9V4QXB1ndHReja3zBbgJNyWhs1KwqyGl"
+        }
+      ],
+      "title": "寒假奧林匹亞資優營的幾何探索",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-909",
+      "year": 2018,
+      "published": "2018-01-20",
+      "time": "16:21",
+      "activity": "",
+      "notes": [
+        "幼兒園、國小及中學教師分享各學段主題課程，包含幼兒探究、國小行動與中學社會領域「走讀東海岸」。影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1751604181815441/"
+        }
+      ],
+      "title": "幼、小、中教師的新課綱共備工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-910",
+      "year": 2018,
+      "published": "2018-01-20",
+      "time": "10:36",
+      "activity": "",
+      "notes": [
+        "三個學段的學生參與打包、回收空箱、傳遞與補充物資，和志工一起分工。已核對可見文字，圖片型表情符號可能缺漏。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Aq5brNp315t3bjm4bCyy9T6KEqCzo2skq925H8JdtimyKGc31kwoPQvThWqfZo1cl"
+        }
+      ],
+      "title": "幼、小、中學生協作打包冬令物資",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-911",
+      "year": 2018,
+      "published": "2018-01-09",
+      "time": "09:34",
+      "activity": "2018-03-03、2018-03-04",
+      "notes": [
+        "公告北中南東各區招生說明，國一場 3 月 3 日、高一場 3 月 4 日。報名連結與未擷取的圖片型表情符號待核。"
+      ],
+      "media": "外部報名網頁",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid029rQABC71BFLFANWcd4d8Ah8x6TJiC9azobA6DHEsxqeZzSvrdEwwmReimyxaaU8Bl"
+        }
+      ],
+      "title": "107 學年度國、高中新生招生說明",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-912",
+      "year": 2020,
+      "published": "2020-08-09",
+      "time": "15:15",
+      "activity": "",
+      "notes": [
+        "已核對日期、發文時刻及正式網址，Facebook 顯示內文目前無法查看。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid025CYPGQ9uBJFnYDHt1uYaT8HP7tiYnXsfsGj7YKVAYvA3dnFND8tqM5t2vGKLhLeYl"
+        }
+      ],
+      "title": "8 月 9 日官帖，內容暫時無法查看",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-913",
+      "year": 2021,
+      "published": "2021-02-27",
+      "time": "11:50",
+      "activity": "",
+      "notes": [
+        "粉專以標籤記錄高三最後一次親師座談，主題為學測後的升學方向及目標。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0k5WitJpZarVBrPD1cNCjVYXkAEBHCUgFRgh8CiLitumVwR8nuNF1sYJpjwB5eLYCl"
+        }
+      ],
+      "title": "高三學測後的親師升學座談",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-914",
+      "year": 2021,
+      "published": "2021-02-26",
+      "time": "18:44",
+      "activity": "2021-03-13",
+      "notes": [
+        "公告招生說明會於台北、台中、高雄、花蓮和桃園同步舉行。相片及報名連結待核。"
+      ],
+      "media": "相片及外部報名網頁",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02J8VDYtHATCuFKsH85CKjXcrcLVEf6fYLvZRXx3J5x7QWFibQhFG6ihbF9vAVZFiBl"
+        }
+      ],
+      "title": "國中部 110 學年度招生說明會預告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-915",
+      "year": 2021,
+      "published": "2021-02-03",
+      "time": "20:40",
+      "activity": "",
+      "notes": [
+        "因應教育部防疫措施，貼文宣布高中以下開學日延至 2 月 22 日，並提到校方召開防疫會議。公告附圖中的措施待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0m8fsFoUMUJJRV8khH1c3E6t44CCjc932JdtkKT8Gu98Mn8AQQ4YBK5woee8Cxmi3l"
+        }
+      ],
+      "title": "防疫延後開學公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-916",
+      "year": 2021,
+      "published": "2021-02-03",
+      "time": "20:22",
+      "activity": "",
+      "notes": [
+        "幼兒製作點心向廚房工作人員致謝，也包水餃與家人分享。轉分享的回顧及相片待核。"
+      ],
+      "media": "轉分享與相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02SnXUJYo8AZDPjFNYqUNuJP1KbRaCY9QJaCAzb71sWquXR9tziJXr1tbrVizFgpuCl"
+        }
+      ],
+      "title": "附幼歲末感恩與新春包餃",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-917",
+      "year": 2020,
+      "published": "2020-07-31",
+      "time": "20:00",
+      "activity": "",
+      "notes": [
+        "同卡已核對日期、發文時刻及正式網址，尚未確認正文展開。附圖待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02rcMxN96afa1SS3W77SN3x6XfLWHV9MdaWoPCnAe9AMQeJiEstV3CQGgYuvriatckl"
+        }
+      ],
+      "title": "7 月 31 日官帖，正文待核",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-918",
+      "year": 2020,
+      "published": "2020-07-20",
+      "time": "18:00",
+      "activity": "",
+      "notes": [
+        "貼文記載疫情期間仍有 18 位學員參與醫院志工服務與培訓。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0FnrF1dSLgrQp7vrPEDTnsfKEnM6iddKC4KfABGxqfgiVei4h8YA367Uqffjvg76Gl"
+        }
+      ],
+      "title": "中學部暑期醫療志工營開營",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-919",
+      "year": 2020,
+      "published": "2020-07-10",
+      "time": "22:21",
+      "activity": "",
+      "notes": [
+        "粉專公告 76 位附小志工獲表揚。完整外部報導及圖片型表情符號待核。"
+      ],
+      "media": "外部報導",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0qbAtMWvtvNckPyNRJuztFYoosnNpmhqBrPBDNFC9aTJpjU9iDN74x4Yozy8qA673l"
+        }
+      ],
+      "title": "附小 76 位小志工獲表揚",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-920",
+      "year": 2020,
+      "published": "2020-07-09",
+      "time": "12:23",
+      "activity": "",
+      "notes": [
+        "已核對粉專附上的簡短說明。分享的文章在畫面無法查看。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wRWAr9TbB1EvkmiWpgNMBfd6fJBXWt8BDdVEngrRKiEGBpqHPHbiF2J5M8aZxEErl"
+        }
+      ],
+      "title": "粉專轉分享校友文章",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-921",
+      "year": 2021,
+      "published": "2021-01-26",
+      "time": "22:16",
+      "activity": "",
+      "notes": [
+        "學校師長與志工前往山區，為執勤人員送上保暖物資。因涉及個人隱私，僅保留編目；相片及新聞連結待核。"
+      ],
+      "media": "相片及外部新聞",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid07h2aBkZtquf9E1Qpgo5CbnmXKiQPw4tyz4Ua1bXjttzQyMHGS8LLEr2fKX6VrLynl"
+        }
+      ],
+      "title": "和平山區寒冬關懷",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-922",
+      "year": 2021,
+      "published": "2021-01-23",
+      "time": "17:49",
+      "activity": "",
+      "notes": [
+        "校方介紹校園導覽、圖書館活動及辦學特色，並公告後續場次。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid021FJvkzxxXhkJhtVnneSBCoZkDHaWz7Bi9hPWGfm2nU9DCJmERJ95qzxUKkwKzpC6l"
+        }
+      ],
+      "title": "附小招生說明會與校園導覽",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "列表顯示 17:49，單篇頁初次載入顯示 01:49，發文時刻待複核。"
+    },
+    {
+      "id": "fb-923",
+      "year": 2021,
+      "published": "2021-01-20",
+      "time": "00:26",
+      "activity": "",
+      "notes": [
+        "校方說明寒假前的防疫準備與返校提醒。正文以「明天」描述休業式，實際日期待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0A1gdBeA1XGHmDhVfK4UTYpiRfXPCgudGkq1Vaa7U4RauGbbeD8NN8qkGL5U76PkVl"
+        }
+      ],
+      "title": "寒假前防疫提醒",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-924",
+      "year": 2021,
+      "published": "2021-01-07",
+      "time": "15:13",
+      "activity": "2021-01-07、2021-01-08",
+      "notes": [
+        "貼文說明兩場幼兒園成果發表會的日期與分班安排。影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/446748326331869/"
+        }
+      ],
+      "title": "附幼兩場成果發表會",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     }
   ]
