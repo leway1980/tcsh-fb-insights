@@ -126,7 +126,7 @@ window.reportData = {
       [
         "2019-08",
         "partial",
-        4
+        6
       ],
       [
         "2019-09",
@@ -186,7 +186,7 @@ window.reportData = {
       [
         "2020-08",
         "partial",
-        4
+        6
       ],
       [
         "2020-09",
@@ -4470,7 +4470,7 @@ window.reportData = {
       "time": "22:33",
       "activity": "2017-11-18",
       "notes": [
-        "11/18 漫遊書香品味咖啡回顧影片。正文或影片待核"
+        "官粉影片說明記錄 11 月 18 日以書香與咖啡為題的活動回顧。影音待逐段核對。"
       ],
       "media": "影片",
       "partial": true,
@@ -4480,7 +4480,7 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/videos/1730158277293365/"
         }
       ],
-      "title": "11/18 漫遊書香品味咖啡回顧影片",
+      "title": "漫遊書香品味咖啡活動回顧",
       "topic": "招生與校園生活",
       "kind": "fb"
     },
@@ -4512,9 +4512,9 @@ window.reportData = {
       "time": "13:02",
       "activity": "",
       "notes": [
-        "大愛新聞，粉專自身分享。正文或影片待核"
+        "官粉公開轉分享大愛新聞。官方作者、發文日期時刻與來源網址已核對。公開清冊僅摘要編目。"
       ],
-      "media": "相片或分享",
+      "media": "轉分享",
       "partial": true,
       "sources": [
         {
@@ -4594,9 +4594,9 @@ window.reportData = {
       "year": 2017,
       "published": "2017-11-18",
       "time": "17:03",
-      "activity": "",
+      "activity": "2017-11-18",
       "notes": [
-        "青春18手護花蓮、慈中18邁向國際。正文或影片待核"
+        "官粉影片說明記錄 11 月 18 日閉幕後師生共同撤場，反映活動結束後的團隊分工。影音待逐段核對。"
       ],
       "media": "影片",
       "partial": true,
@@ -4607,7 +4607,7 @@ window.reportData = {
         }
       ],
       "title": "青春18手護花蓮、慈中18邁向國際",
-      "topic": "國際與雙語",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     },
     {
@@ -4617,7 +4617,7 @@ window.reportData = {
       "time": "16:48",
       "activity": "",
       "notes": [
-        "慈中師生團隊。正文或影片待核"
+        "官粉影片說明肯定慈中師生團隊，影音待逐段核對。"
       ],
       "media": "影片",
       "partial": true,
@@ -4638,9 +4638,9 @@ window.reportData = {
       "time": "16:37",
       "activity": "",
       "notes": [
-        "活動圓滿閉幕。正文或影片待核"
+        "官粉轉分享文字記錄高三與校友在閉幕接力衝線，並收到校友集結的祝福影片。已核對外層文字，內嵌影片待核。"
       ],
-      "media": "相片或分享",
+      "media": "轉分享",
       "partial": true,
       "sources": [
         {
@@ -4648,8 +4648,8 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Du6Kpj2gFCrDa7EY1WQjNpB5KSCP5LVcmzntxNN9qjjH3XhGYXcW4T7oVrqUBnyQl"
         }
       ],
-      "title": "活動圓滿閉幕",
-      "topic": "招生與校園生活",
+      "title": "閉幕接力與校友祝福",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     },
     {
@@ -5771,11 +5771,11 @@ window.reportData = {
       "year": 2025,
       "published": "2025-10-29",
       "time": "11:49",
-      "activity": "",
+      "activity": "2025-10-24 至 2025-10-26",
       "notes": [
-        "自我探索與品格實踐。僅見標籤，正文待核"
+        "童軍隊參與地方露營與技能專科章挑戰，練習搭帳、備餐和營地整理。已補可讀正文，相片待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -5783,8 +5783,8 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0MZoC5DD7zqEonY8sNTo83rzTc18mrJkafXUXRv9NucAfMcbN6xGopDfRajb1qAZzl"
         }
       ],
-      "title": "自我探索與品格實踐",
-      "topic": "招生與校園生活",
+      "title": "童軍團參與花蓮縣童軍露營",
+      "topic": "在地與校外學習",
       "kind": "fb"
     },
     {
@@ -5836,9 +5836,9 @@ window.reportData = {
       "time": "08:00",
       "activity": "2025-10-25",
       "notes": [
-        "10/25 兩組學子參加花蓮青年夢想家並獲行動獎勵金。正文截斷"
+        "兩組學生在 10 月 25 日花蓮青年夢想家活動進行提案分享，獲行動獎勵金。已補可讀正文，相片待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -5846,8 +5846,8 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034mkTuAvu1JXzcbmWvjhk93hHVLgxffcmvFPS2HGLzbhcrVXsDuTCQ9cYN8j36fEQl"
         }
       ],
-      "title": "10/25 兩組學子參加花蓮青年夢想家並獲行動獎勵金",
-      "topic": "招生與校園生活",
+      "title": "兩組學子獲花蓮青年夢想家行動獎勵金",
+      "topic": "競賽與成果",
       "kind": "fb"
     },
     {
@@ -5857,9 +5857,9 @@ window.reportData = {
       "time": "12:19",
       "activity": "",
       "notes": [
-        "國三學生獲獎祝賀。具體獎項在截斷處，待核"
+        "依粉專消息，學生以電波發電主題的作品獲國中組全國決賽銅牌。已補可讀正文，作品技術主張與相片待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -5867,8 +5867,8 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022jUaMfp3B3FzhN292HcjKyRriWWEAc5RKodHvjtiR4Ab8XivfRDg6iEqns3L3peql"
         }
       ],
-      "title": "國三學生獲獎祝賀",
-      "topic": "招生與校園生活",
+      "title": "學生獲全國永續能源創意實作競賽銅牌",
+      "topic": "競賽與成果",
       "kind": "fb"
     },
     {
@@ -5921,9 +5921,9 @@ window.reportData = {
       "time": "18:40",
       "activity": "",
       "notes": [
-        "高中職圖書館輔導團北四區觀摩研習會議。正文截斷；重疊"
+        "高中職圖書館輔導團北四區觀摩研習探討數位公民素養，由慈大附中與花蓮女中分享閱讀推動經驗。已補可讀正文，相片待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -5932,8 +5932,9 @@ window.reportData = {
         }
       ],
       "title": "高中職圖書館輔導團北四區觀摩研習會議",
-      "topic": "招生與校園生活",
-      "kind": "fb"
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "清冊記為 18:40，本次單篇顯示 03:40，兩種讀值待核"
     },
     {
       "id": "fb-199",
@@ -5942,7 +5943,7 @@ window.reportData = {
       "time": "17:50",
       "activity": "",
       "notes": [
-        "慈中二十五歲。正文截斷；重疊"
+        "已辨識為校慶相關公開貼文。正文含私人金融資料，清冊保留編目和來源連結。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -5984,9 +5985,9 @@ window.reportData = {
       "time": "19:56",
       "activity": "2025-10-15",
       "notes": [
-        "10/15 宿舍防災演練。正文截斷"
+        "10 月 15 日晚間辦理住宿生地震防災演練，練習趴下、掩護、穩住及疏散。已補可讀正文，相片待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -5996,7 +5997,8 @@ window.reportData = {
       ],
       "title": "10/15 宿舍防災演練",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 19:56，本次單篇顯示 04:56，兩種讀值待核"
     },
     {
       "id": "fb-202",
@@ -6237,9 +6239,9 @@ window.reportData = {
       "time": "21:21",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；同分鐘候選"
+        "光復救援系列短片。已核對外層官粉說明，同分鐘另一則短片採不同永久連結與片長。這則長 20 秒，影音內容待逐段核對。"
       ],
-      "media": "影片",
+      "media": "Reel 短片",
       "partial": true,
       "sources": [
         {
@@ -6258,9 +6260,9 @@ window.reportData = {
       "time": "21:21",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；同分鐘候選"
+        "光復救援系列短片。已核對外層官粉說明，同分鐘另一則短片採不同永久連結與片長。這則長 22 秒，影音內容待逐段核對。"
       ],
-      "media": "影片",
+      "media": "Reel 短片",
       "partial": true,
       "sources": [
         {
@@ -6342,9 +6344,9 @@ window.reportData = {
       "time": "21:17",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；同分鐘候選"
+        "光復救援系列短片。已核對外層官粉說明，同分鐘另一則短片採不同永久連結與片長。這則長 21 秒，影音內容待逐段核對。"
       ],
-      "media": "影片",
+      "media": "Reel 短片",
       "partial": true,
       "sources": [
         {
@@ -6363,9 +6365,9 @@ window.reportData = {
       "time": "21:17",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；同分鐘候選"
+        "光復救援系列短片。已核對外層官粉說明，同分鐘另一則短片採不同永久連結與片長。這則長 40 秒，影音內容待逐段核對。"
       ],
-      "media": "影片",
+      "media": "Reel 短片",
       "partial": true,
       "sources": [
         {
@@ -22511,9 +22513,9 @@ window.reportData = {
       "time": "15:09",
       "activity": "2019-05-18",
       "notes": [
-        "已保存原文開頭，記錄學校為高三設計成年禮。完整正文待回補。"
+        "學校安排高三學生進行步道挑戰、體驗關卡與加冠儀式。已補官粉正文，相片待核。"
       ],
-      "media": "",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -22523,7 +22525,8 @@ window.reportData = {
       ],
       "title": "第十七屆高三成年禮",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 15:09，單篇初載曾顯示 00:09，兩種讀值待核"
     },
     {
       "id": "fb-977",
@@ -23090,6 +23093,90 @@ window.reportData = {
       ],
       "title": "國中教育會考期間家長會與師長陪考",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1004",
+      "year": 2019,
+      "published": "2019-08-08",
+      "time": "00:58",
+      "activity": "2019-08-04",
+      "notes": [
+        "原文標明是馬來西亞國際修學暨志工人文交流第二天的第二篇紀錄，感謝參與及協助的交流夥伴。相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02DfzDtQTiqezcbNVKTyk6fXbQHDtqpitXB8rcFTr4bT6Mi7B2qUKbcMyB7qm4uZBEl"
+        }
+      ],
+      "title": "馬來西亞國際修學暨志工交流第二天",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1005",
+      "year": 2019,
+      "published": "2019-08-20",
+      "time": "21:03",
+      "activity": "",
+      "notes": [
+        "粉專在轉分享說明中記錄三位校友赴俄羅斯採訪國際技職競賽，為台灣參賽者加油。已核對外層文字，內嵌分享待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid09bmSMFsND1soLvXtFBy5xM7q3Khm2sCXEbSkGzYNiYMpLFa4h9ovr8WmSckdGVnGl"
+        }
+      ],
+      "title": "校友赴俄羅斯採訪國際技職競賽",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1006",
+      "year": 2020,
+      "published": "2020-08-01",
+      "time": "22:46",
+      "activity": "",
+      "notes": [
+        "新生參與慈誠懿德見面活動、生活品德教育、性平與身體界線課程，以及新課綱和學習策略活動。相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034FcEFEd6mxJAjdw6vVBzTxZdANBw2pCy7UaTAUvnHXhbjrXppn7RWaZp7Rc41xhwl"
+        }
+      ],
+      "title": "新生成長營第二天安排生活教育與學習策略",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1007",
+      "year": 2020,
+      "published": "2020-08-09",
+      "time": "15:18",
+      "activity": "",
+      "notes": [
+        "原文記錄三天全英語課程，按國一、高一的學習進程設計。藉由關卡練習各國貨幣與餐桌禮儀，國中部也實作披薩點餐。影片待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/296003481728671/"
+        }
+      ],
+      "title": "國一、高一新生美語生活營",
+      "topic": "國際與雙語",
       "kind": "fb"
     }
   ]
