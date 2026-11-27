@@ -21,7 +21,7 @@ window.reportData = {
       [
         "2018-04",
         "partial",
-        1
+        7
       ],
       [
         "2018-05",
@@ -31,7 +31,7 @@ window.reportData = {
       [
         "2018-06",
         "partial",
-        5
+        6
       ],
       [
         "2018-07",
@@ -70,6 +70,11 @@ window.reportData = {
       ],
       [
         "2019-12",
+        "partial",
+        4
+      ],
+      [
+        "2020-09",
         "partial",
         4
       ],
@@ -20236,6 +20241,237 @@ window.reportData = {
       ],
       "title": "附小三年級自行車家鄉踏查",
       "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-876",
+      "year": 2018,
+      "published": "2018-04-30",
+      "time": "14:22",
+      "activity": "",
+      "notes": [
+        "在兩潭自行車道用英語完成闖關與情境演練、記錄沿途景觀並訪談外籍人士。這張相片貼文與同日影片以相同文字說明活動，各有正式網址。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0hATQJaVSU6R2SHbbY1xMRqCsaUBZq9W9KRvw5a6QSxi62xugLo7XwPpUNZ9APKikl"
+        }
+      ],
+      "title": "附小五年級雙語班單車校外教學",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-877",
+      "year": 2018,
+      "published": "2018-04-28",
+      "time": "13:56",
+      "activity": "",
+      "notes": [
+        "畢業前攀登慈悲喜捨山，沿途安排闖關和書寫畢業感言，回程拾垃圾。已核對貼文說明，影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1789952807980578/"
+        }
+      ],
+      "title": "附小六年級畢業生登山與淨山",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-878",
+      "year": 2018,
+      "published": "2018-04-20",
+      "time": "22:58",
+      "activity": "",
+      "notes": [
+        "貼文記載 70 位學生報考，其中 38 位在 Movers 或 Flyers 達 14 盾以上。已核對貼文說明，影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1787085414933984/"
+        }
+      ],
+      "title": "附小劍橋英檢報考與成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-879",
+      "year": 2018,
+      "published": "2018-04-20",
+      "time": "14:00",
+      "activity": "",
+      "notes": [
+        "朝會與綜合活動課演練地震掩護、海嘯避難及煙霧體驗。已核對貼文說明，影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1786926451616547/"
+        }
+      ],
+      "title": "附小複合式防災實作",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-880",
+      "year": 2018,
+      "published": "2018-04-10",
+      "time": "20:38",
+      "activity": "",
+      "notes": [
+        "粉專刊登新聞文字，介紹兒童節才藝園遊會和闖關學習。涉及個人隱私，僅保留編目；新聞影音待核。"
+      ],
+      "media": "外部新聞影音",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02mdB1GEvGWCKNcTt5NQJXvtisGHR5z1PEUiXi1QM6Pjds33AdgSc9ja891DE9HSU3l"
+        }
+      ],
+      "title": "附小兒童節才藝園遊會",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-881",
+      "year": 2018,
+      "published": "2018-04-01",
+      "time": "22:08",
+      "activity": "",
+      "notes": [
+        "附幼赴慈濟科技大學參與健康故事屋開幕演出。同篇提及高三生涯輔導講座。已核對貼文說明，影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1779815342327658/"
+        }
+      ],
+      "title": "附幼參與健康故事屋開幕演出",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-882",
+      "year": 2018,
+      "published": "2018-06-29",
+      "time": "08:00",
+      "activity": "",
+      "notes": [
+        "已保存通知開頭，提到英語戲劇、童軍露營、日本修學等學期活動。完整通知待回補。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0DnYLKneMyVY9dsQD9HVSKGjReVnshanfjkeDqYujoQhvYm35D3fvGNu6FeTSq7aNl"
+        }
+      ],
+      "title": "中學部暑假前給家長的通知",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-883",
+      "year": 2020,
+      "published": "2020-09-30",
+      "time": "13:46",
+      "activity": "2020-09-30",
+      "notes": [
+        "附幼以摺衣、穿脫鞋及開關門等闖關檢視生活自理學習。已核對正文，外部影片和照片待核。"
+      ],
+      "media": "相片及外部影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0oRUEkFEJNPLL82q5vZeEgL2whY771UJupKJA29rjsF3qdng8gcigJgMBmFatwKgGl"
+        }
+      ],
+      "title": "附幼生活教育月闖關驗收",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-884",
+      "year": 2020,
+      "published": "2020-09-28",
+      "time": "16:33",
+      "activity": "",
+      "notes": [
+        "粉專公布兩位績優教保服務人員及三位獲 20 年資深表揚的教保人員。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037TbNbcaPdUZpqJWDmJmbp76XAnT5jUQWt9jPBsn3UvtBhQnaBG3WL1Bg84QA19b1l"
+        }
+      ],
+      "title": "教師節公布附幼教保服務表揚",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-885",
+      "year": 2020,
+      "published": "2020-09-19",
+      "time": "17:33",
+      "activity": "",
+      "notes": [
+        "已核對作者、發文時刻與正式網址。正文尚待整理，附圖待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033aqbMHh7CrcwkZYSu9ckTKbuoqtxwfGf8szxoXRxPpFG6B38Vs6tHVfuZptjMux6l"
+        }
+      ],
+      "title": "9 月 19 日官帖，正文待核",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-886",
+      "year": 2020,
+      "published": "2020-09-10",
+      "time": "16:43",
+      "activity": "",
+      "notes": [
+        "已核對作者、發文時刻與正式網址。「查看更多」是否成功展開待重驗，附圖待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0NhsQ74TsW3G6zyd2pDiTjFexRea1z6M3UpWPCop6fkTDYY1vn2Pph9yeGakzTKy8l"
+        }
+      ],
+      "title": "9 月 10 日官帖，正文待核",
+      "topic": "主題待核",
       "kind": "fb"
     }
   ]
