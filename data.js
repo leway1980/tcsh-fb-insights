@@ -112,6 +112,11 @@ window.reportData = {
         "2024-11",
         "partial",
         20
+      ],
+      [
+        "2024-10",
+        "partial",
+        10
       ]
     ],
     "asOf": "2026-11-27"
@@ -11311,6 +11316,216 @@ window.reportData = {
         }
       ],
       "title": "親師生合作整理颱風後校園",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-474",
+      "year": 2024,
+      "published": "2024-10-27",
+      "time": "13:00",
+      "activity": "2024-10-27",
+      "notes": [
+        "慈大附中承辦花蓮區賽事。校方貼文記載有 1,006 位學生共同挑戰數學。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0VGggWXattQpGe5nBHj86JGFYt6SKqp1hPuXVpv6wB7nPmhrZz7pSagB9BdteSQkEl"
+        }
+      ],
+      "title": "第 20 屆更生日報盃數學競賽",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-475",
+      "year": 2024,
+      "published": "2024-10-26",
+      "time": "23:20",
+      "activity": "",
+      "notes": [
+        "國一各班透過英語歌曲練習及舞臺演出，培養英語表達信心和班級合作。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0eL6TBZcdGqAVFY9mVAX54Y3PPgR9Dk6ZxudnFxzDoRFUhV5q3cLrHm2v86DhLGRGl"
+        }
+      ],
+      "title": "國一英語歌唱比賽",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-476",
+      "year": 2024,
+      "published": "2024-10-22",
+      "time": "16:44",
+      "activity": "2024-11-09",
+      "notes": [
+        "公告雙語班英語劇 11 月 9 日在慈濟大學中央校區演藝廳演出，並提供索票方式。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02rNGpYm6Z4t8gb2EvDHG3LDXAsFJg42rRkXAfGrZV7rtDS2Ws44UAktxAsagrkRz1l"
+        }
+      ],
+      "title": "公告雙語班英語劇公演",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-477",
+      "year": 2024,
+      "published": "2024-10-22",
+      "time": "09:24",
+      "activity": "",
+      "notes": [
+        "粉專分享的內容記載五國十二校、近千位學生參與，討論同理心、溝通、創造力和批判思考等能力。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0NxW9xyxa4hVZYTUaaVnkoYTyMwmZjbU6N1frtpZhk7TbzLMAPpyXBLqSwp7zXJv3l"
+        }
+      ],
+      "title": "跨國交流討論 AI 時代的人類能力",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-478",
+      "year": 2024,
+      "published": "2024-10-16",
+      "time": "17:45",
+      "activity": "",
+      "notes": [
+        "以全英文講座分享 AI、人力資源與數據分析的職涯經驗，邀請學生思考方向與跨國合作。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02L4yTGsJ8Wgy8fb35cQNcC1DDfRGiht4P5YMraMWtLGmDXzTEvbotjGtiZZCgz9kfl"
+        }
+      ],
+      "title": "五國七校合辦國際 AI 講座",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-479",
+      "year": 2024,
+      "published": "2024-10-07",
+      "time": "16:36",
+      "activity": "2024-10-13",
+      "notes": [
+        "預告 10 月 13 日於國家圖書館舉辦論壇，從花蓮辦學歷程回顧慈濟教育的發展。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ubtyeBNTqwRexPFoGidXnsneMsYoyuBQAvSK69SnMDdUTnmyowux21sTiFq8YTYdl"
+        }
+      ],
+      "title": "預告慈濟教育三十五週年論壇",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-480",
+      "year": 2024,
+      "published": "2024-10-04",
+      "time": "09:41",
+      "activity": "2024-10-03",
+      "notes": [
+        "粉專貼文記載緬因中央中學為花蓮與台南慈濟高中修讀雙聯學位的 17 位學生舉辦雲端開學典禮。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ibEezygSjyxHH4okeMap7t9AVyhZQhMQJn8sCCWGWvGv7Eiw2oyXog3V8kZ1kqJhl"
+        }
+      ],
+      "title": "MCI 雙聯學位第四屆雲端開學",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-481",
+      "year": 2024,
+      "published": "2024-10-03",
+      "time": "11:54",
+      "activity": "2024-10-15 至 2024-10-16",
+      "notes": [
+        "貼文說明有通勤生返校取書，中學部第一次段考原定 10 月 15 至 16 日進行，任課教師會彈性調整範圍。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02vhtnXi1J2oY63QigwNeFShVGi7eKxYwmJv2gBoixZJ8XgW2c35sJaRHiwAFPSXQbl"
+        }
+      ],
+      "title": "停課期間開放學生取書與段考公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-482",
+      "year": 2024,
+      "published": "2024-10-02",
+      "time": "21:21",
+      "activity": "2024-10-03",
+      "notes": [
+        "在安全許可下，10 月 3 日上午開放中學部通勤生返校取書，並提醒複習第一次段考。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0LUg2p4yPQ8vXmKuaJ4biE64M2rNwnF6bM2yxtscGidroxR72gLfgdbU4FSdxeUQZl"
+        }
+      ],
+      "title": "颱風停課及通勤生取書安排",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-483",
+      "year": 2024,
+      "published": "2024-10-01",
+      "time": "20:11",
+      "activity": "2024-10-02",
+      "notes": [
+        "粉專通知花蓮隔天仍停班停課，並說明校方已作防災準備、持續關心學生安全。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02C6FWLAV31WjuEDuZK4RYoaXK6zKnGKr38ZPrHgWAuDbRegtdq87BEHrnErsFFT7pl"
+        }
+      ],
+      "title": "颱風期間停班停課和校園防災",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
