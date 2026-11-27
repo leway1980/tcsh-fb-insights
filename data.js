@@ -62,6 +62,11 @@ window.reportData = {
         "2025-09",
         "partial",
         38
+      ],
+      [
+        "2025-08",
+        "partial",
+        37
       ]
     ],
     "asOf": "2026-11-27"
@@ -6513,6 +6518,783 @@ window.reportData = {
         }
       ],
       "title": "慈大附中語文表現",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-248",
+      "year": 2025,
+      "published": "2025-08-27",
+      "time": "19:42",
+      "activity": "",
+      "notes": [
+        "合心共識營圓緣座談，師長分享幼教、英語劇、雙聯學位、公民議題及泰北、新馬國際學習。正文展開；兩截止重疊"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0qwGNnooRjwdehSumavtWCB6Yz1wVEn7XFFkcNpDxfsVqABoExhFM2dwwsvmd5epzl"
+        }
+      ],
+      "title": "合心共識營圓緣座談，師長分享幼教、英語劇、雙聯學位、公民議題及泰北、新馬國際學習",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-249",
+      "year": 2025,
+      "published": "2025-08-27",
+      "time": "14:20",
+      "activity": "",
+      "notes": [
+        "共識營師長與精舍師父座談，交流修行、工作與生活體會。正文展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0p2rVLg8BKXrkNRqGrdCPm4mMfwHBA2Ubw343GcDYVrQbiwWg1rMdqe4YR1vVBPt3l"
+        }
+      ],
+      "title": "共識營師長與精舍師父座談，交流修行、工作與生活體會",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-250",
+      "year": 2025,
+      "published": "2025-08-27",
+      "time": "12:27",
+      "activity": "",
+      "notes": [
+        "共識營分享尼泊爾藍毗尼教育實踐與慈濟教育。正文展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02zURWxUsRY86KrTNudd7E9Skndc1Ks8tdSZkQexywii8t4vcK2Z4Um1wkuSnmfhC8l"
+        }
+      ],
+      "title": "共識營分享尼泊爾藍毗尼教育實踐與慈濟教育",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-251",
+      "year": 2025,
+      "published": "2025-08-27",
+      "time": "08:48",
+      "activity": "",
+      "notes": [
+        "共識營第二天到靜思精舍，認識法脈。正文展開、影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/719660171049872/"
+        }
+      ],
+      "title": "共識營第二天到靜思精舍，認識法脈",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-252",
+      "year": 2025,
+      "published": "2025-08-26",
+      "time": "11:38",
+      "activity": "",
+      "notes": [
+        "共識營首日回顧創校歷程與以人為本教育；馬來西亞及泰北師長參與。正文展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0TZdaJi3JrV7b27BsNxQyhz3meQawoNu1xEYabAPzJf1VR88jsgCBvyAEQHw4c3GNl"
+        }
+      ],
+      "title": "共識營首日回顧創校歷程與以人為本教育；馬來西亞及泰北師長參與",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-253",
+      "year": 2025,
+      "published": "2025-08-26",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "全校師長於靜思堂開啟兩天共識營。正文展開、影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1300943171386199/"
+        }
+      ],
+      "title": "全校師長於靜思堂開啟兩天共識營",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-254",
+      "year": 2025,
+      "published": "2025-08-13",
+      "time": "15:52",
+      "activity": "",
+      "notes": [
+        "印尼國際修學團登機返程。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1394629341606366/"
+        }
+      ],
+      "title": "印尼國際修學團登機返程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-255",
+      "year": 2025,
+      "published": "2025-08-13",
+      "time": "02:19",
+      "activity": "",
+      "notes": [
+        "印尼修學團分享習經院孩子自立及生命體悟。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1271946584338843/"
+        }
+      ],
+      "title": "印尼修學團分享習經院孩子自立及生命體悟",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-256",
+      "year": 2025,
+      "published": "2025-08-13",
+      "time": "00:31",
+      "activity": "2025-08-10",
+      "notes": [
+        "08/10 印尼修學團參訪習經院，交流校園、義診與自力更生。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ysauqq7KPU7qaLnRWo7zWzVPE1Wy23hehi5TTB97AD1WXTpZXeWrar8sCckQQVQjl"
+        }
+      ],
+      "title": "08/10 印尼修學團參訪習經院，交流校園、義診與自力更生",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-257",
+      "year": 2025,
+      "published": "2025-08-12",
+      "time": "20:50",
+      "activity": "2025-08-13",
+      "notes": [
+        "縣府宣布 08/13 停班課，學校及宿舍完成防颱與供餐準備。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0tRyB1LpoqGKniLxBPrHp732tRT6DfZvnrsyJ4uKwBqdiUcV2NCbEFo1Nm19qHQsul"
+        }
+      ],
+      "title": "縣府宣布 08/13 停班課，學校及宿舍完成防颱與供餐準備",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-258",
+      "year": 2025,
+      "published": "2025-08-11",
+      "time": "20:17",
+      "activity": "",
+      "notes": [
+        "印尼修學團共同學習成長。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1920517001823718/"
+        }
+      ],
+      "title": "印尼修學團共同學習成長",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-259",
+      "year": 2025,
+      "published": "2025-08-16",
+      "time": "10:54",
+      "activity": "2025-08-12",
+      "notes": [
+        "08/12 印尼修學團參訪縮影公園，體驗蠟染。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02thuuRi7jwePEXpKK3jFXREDFM7WaocpH7GkxsD5n8qVnPfuN2rTXubV8gdHiy6Spl"
+        }
+      ],
+      "title": "08/12 印尼修學團參訪縮影公園，體驗蠟染",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-260",
+      "year": 2025,
+      "published": "2025-08-15",
+      "time": "18:16",
+      "activity": "2025-08-11",
+      "notes": [
+        "08/11 印尼慈濟國際學校學伴、課堂與文化交流。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0YMa5YVqjZGCsfwpaRCwk8K6UatsPtQL1qxPxbAVDCcvkTYPF5BEEgB2nNzz4mu8Dl"
+        }
+      ],
+      "title": "08/11 印尼慈濟國際學校學伴、課堂與文化交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-261",
+      "year": 2025,
+      "published": "2025-08-13",
+      "time": "13:38",
+      "activity": "",
+      "notes": [
+        "楊柳颱風期間宿舍安全。正文截斷、換卡待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0cnS5uAyf5ifJ3VE2uyiTEX2gqNjuJFeLs1CC3hYMUuj2EhbKTZjShmvX9kwCfwZKl"
+        }
+      ],
+      "title": "楊柳颱風期間宿舍安全",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-262",
+      "year": 2025,
+      "published": "2025-08-11",
+      "time": "11:19",
+      "activity": "2025-08-09",
+      "notes": [
+        "08/09 印尼修學團走訪扶困區、學校與雅加達文化地標。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ihgM9ha3g8yXfU4Mgi4YWj4YoLuerjfpgwW353M1NTMzmGTdqvQwDdba7koAMW1Bl"
+        }
+      ],
+      "title": "08/09 印尼修學團走訪扶困區、學校與雅加達文化地標",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-263",
+      "year": 2025,
+      "published": "2025-08-11",
+      "time": "01:45",
+      "activity": "",
+      "notes": [
+        "印尼國際修學團，品德、感恩與惜福。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/685713617856989/"
+        }
+      ],
+      "title": "印尼國際修學團，品德、感恩與惜福",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-264",
+      "year": 2025,
+      "published": "2025-08-11",
+      "time": "01:40",
+      "activity": "",
+      "notes": [
+        "印尼國際修學團，志工與孩子互動。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1804514097088064/"
+        }
+      ],
+      "title": "印尼國際修學團，志工與孩子互動",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-265",
+      "year": 2025,
+      "published": "2025-08-09",
+      "time": "13:10",
+      "activity": "2025-08-09",
+      "notes": [
+        "08/09 印尼修學團參訪卡馬爾穆阿拉扶困區。正文截斷、影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1512442703449229/"
+        }
+      ],
+      "title": "08/09 印尼修學團參訪卡馬爾穆阿拉扶困區",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-266",
+      "year": 2025,
+      "published": "2025-08-09",
+      "time": "12:51",
+      "activity": "2025-08-08",
+      "notes": [
+        "08/08 印尼修學團參訪慈濟金卡蓮大愛學校。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02YUtQirWUKqmR3DR3QZytkTbhh3NMviZ8HWBQFPojZAf6QADBa2GuV9eBt7wiaZtql"
+        }
+      ],
+      "title": "08/08 印尼修學團參訪慈濟金卡蓮大愛學校",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-267",
+      "year": 2025,
+      "published": "2025-08-09",
+      "time": "11:57",
+      "activity": "2025-08-07",
+      "notes": [
+        "08/07 印尼修學團啟程。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02WPt8aJGBh7qj2vPgFY8GC1jexb1qFEjtYEmJDMMAqMSjh2SheF9CEiksk36TU6jql"
+        }
+      ],
+      "title": "08/07 印尼修學團啟程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-268",
+      "year": 2025,
+      "published": "2025-08-09",
+      "time": "00:30",
+      "activity": "",
+      "notes": [
+        "印尼修學團，慈濟制服與團體禮儀。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1290779839078722/"
+        }
+      ],
+      "title": "印尼修學團，慈濟制服與團體禮儀",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-269",
+      "year": 2025,
+      "published": "2025-08-08",
+      "time": "21:28",
+      "activity": "",
+      "notes": [
+        "父親節感恩祝福。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1942566659811192/"
+        }
+      ],
+      "title": "父親節感恩祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-270",
+      "year": 2025,
+      "published": "2025-08-08",
+      "time": "01:41",
+      "activity": "",
+      "notes": [
+        "印尼修學團抵達雅加達。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/797631815936213/"
+        }
+      ],
+      "title": "印尼修學團抵達雅加達",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-271",
+      "year": 2025,
+      "published": "2025-08-07",
+      "time": "08:44",
+      "activity": "",
+      "notes": [
+        "國際修學團起飛。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/2587185024952517/"
+        }
+      ],
+      "title": "國際修學團起飛",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-272",
+      "year": 2025,
+      "published": "2025-08-06",
+      "time": "17:25",
+      "activity": "",
+      "notes": [
+        "第八任校長交接，慈大與附中合作。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1316593529908008/"
+        }
+      ],
+      "title": "第八任校長交接，慈大與附中合作",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-273",
+      "year": 2025,
+      "published": "2025-08-06",
+      "time": "16:52",
+      "activity": "",
+      "notes": [
+        "第八任校長交接，教育志業代表致詞。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1091931236245251/"
+        }
+      ],
+      "title": "第八任校長交接，教育志業代表致詞",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-274",
+      "year": 2025,
+      "published": "2025-08-06",
+      "time": "16:18",
+      "activity": "",
+      "notes": [
+        "第八任校長交接，基金會代表致詞。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/708658855500611/"
+        }
+      ],
+      "title": "第八任校長交接，基金會代表致詞",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-275",
+      "year": 2025,
+      "published": "2025-08-06",
+      "time": "10:52",
+      "activity": "",
+      "notes": [
+        "第八任校長交接，校長致詞。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1254149236168895/"
+        }
+      ],
+      "title": "第八任校長交接，校長致詞",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-276",
+      "year": 2025,
+      "published": "2025-08-06",
+      "time": "10:39",
+      "activity": "",
+      "notes": [
+        "第八任校長交接，校長致詞。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/763825779455938/"
+        }
+      ],
+      "title": "第八任校長交接，校長致詞",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-277",
+      "year": 2025,
+      "published": "2025-08-06",
+      "time": "09:11",
+      "activity": "",
+      "notes": [
+        "第八任校長交接，學生代表感恩。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/2209474449499469/"
+        }
+      ],
+      "title": "第八任校長交接，學生代表感恩",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-278",
+      "year": 2025,
+      "published": "2025-08-06",
+      "time": "08:24",
+      "activity": "",
+      "notes": [
+        "第八任校長交接，師長代表分享。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1812965322963538/"
+        }
+      ],
+      "title": "第八任校長交接，師長代表分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-279",
+      "year": 2025,
+      "published": "2025-08-05",
+      "time": "22:27",
+      "activity": "",
+      "notes": [
+        "終身為師育良才。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0B9eUQ41tFoPJEN7qP1uxi54xGmBAVuHenk4b6r6JBf4FY2o24zbsVsw2RzdCVv4Wl"
+        }
+      ],
+      "title": "終身為師育良才",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-280",
+      "year": 2025,
+      "published": "2025-08-05",
+      "time": "20:53",
+      "activity": "",
+      "notes": [
+        "慈中與花蓮高工於智慧鐵人創意競賽技職組獲全國第四及全闖獎。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02QHAhE2tCLzJDNRHjBzp6rWp5YNee6QotZEVazq9bCPTAQH1Bp5GkRG1m63Kteh4Ul"
+        }
+      ],
+      "title": "慈中與花蓮高工於智慧鐵人創意競賽技職組獲全國第四及全闖獎",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-281",
+      "year": 2025,
+      "published": "2025-08-05",
+      "time": "19:42",
+      "activity": "",
+      "notes": [
+        "印尼修學團交流準備。可見文字，影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1074502414812059/"
+        }
+      ],
+      "title": "印尼修學團交流準備",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-282",
+      "year": 2025,
+      "published": "2025-08-04",
+      "time": "22:18",
+      "activity": "",
+      "notes": [
+        "第八任校長交接典禮。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GNhpFDmNeFbqJjsESGKxg94nYoa32bnAYYcCXQrmCZUm3sLsFd3Mi49GaEwnAGhBl"
+        }
+      ],
+      "title": "第八任校長交接典禮",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-283",
+      "year": 2025,
+      "published": "2025-08-02",
+      "time": "18:54",
+      "activity": "",
+      "notes": [
+        "新生成長營圓滿。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0BtnUc78rxphz3gNKgbxwLfTwEmi3ZxcEDePh7BY3hkJ8maByf879JywGhxLH7jJTl"
+        }
+      ],
+      "title": "新生成長營圓滿",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-284",
+      "year": 2025,
+      "published": "2025-08-01",
+      "time": "16:07",
+      "activity": "",
+      "notes": [
+        "感恩兩任校長。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0NdVyvUzggrw6v8A963W9RuEkP4g1YECDwPfVcYBL4MuSQJf1Stk4wJiQx7pWTdbGl"
+        }
+      ],
+      "title": "感恩兩任校長",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
