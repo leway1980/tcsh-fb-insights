@@ -126,7 +126,7 @@ window.reportData = {
       [
         "2024-08",
         "partial",
-        13
+        19
       ]
     ],
     "asOf": "2026-11-27"
@@ -11966,6 +11966,138 @@ window.reportData = {
         }
       ],
       "title": "馬來西亞教育旅行四校交流回顧",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-504",
+      "year": 2024,
+      "published": "2024-08-12",
+      "time": "15:41",
+      "activity": "2024-08-12",
+      "notes": [
+        "馬來西亞國際志工人文交流的影片文字，公告三國四校聯合演出，並列總彩和彩排後的正式演出安排。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1560955871432964/"
+        }
+      ],
+      "title": "三國四校預告當天聯合演出",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-505",
+      "year": 2024,
+      "published": "2024-08-11",
+      "time": "21:44",
+      "activity": "",
+      "notes": [
+        "粉專貼文分享三國三校在慈濟馬來西亞國際學校的交流，並引導讀者在 YouTube 觀看短片。",
+        "影音內容待核。"
+      ],
+      "media": "連結影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid029YAMFM4e97FFVwm1pxem7zVSmrXU6kpQXGYrRWD7Nb17qP9yVVc4U9ByU5sqerKMl"
+        }
+      ],
+      "title": "分享三國三校在馬來西亞的交流片段",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-506",
+      "year": 2024,
+      "published": "2024-08-11",
+      "time": "13:18",
+      "activity": "",
+      "notes": [
+        "馬來西亞國際志工人文交流的影片文字指出三國四校共學即將開始。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/506477625105209/"
+        }
+      ],
+      "title": "預告三國四校共學",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-507",
+      "year": 2024,
+      "published": "2024-08-09",
+      "time": "08:48",
+      "activity": "",
+      "notes": [
+        "影片文字記錄團隊早上出發去霹靂州，預告下午第一場表演。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1625891774620247/"
+        }
+      ],
+      "title": "馬來西亞交流團赴霹靂州演出",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-508",
+      "year": 2024,
+      "published": "2024-08-08",
+      "time": "17:46",
+      "activity": "",
+      "notes": [
+        "馬來西亞國際志工人文交流的影片文字，向家長表達感謝。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1480891405904171/"
+        }
+      ],
+      "title": "馬來西亞交流團向家長致謝",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-509",
+      "year": 2024,
+      "published": "2024-08-08",
+      "time": "09:08",
+      "activity": "",
+      "notes": [
+        "影片文字提到交流團啟動關懷長者與難民孩子的活動。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1846101572564157/"
+        }
+      ],
+      "title": "交流團啟動關懷長者與難民兒童活動",
       "topic": "國際與雙語",
       "kind": "fb"
     }
