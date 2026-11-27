@@ -126,12 +126,12 @@ window.reportData = {
       [
         "2019-08",
         "partial",
-        6
+        13
       ],
       [
         "2019-09",
         "partial",
-        6
+        7
       ],
       [
         "2019-10",
@@ -291,12 +291,12 @@ window.reportData = {
       [
         "2022-05",
         "partial",
-        9
+        14
       ],
       [
         "2022-06",
         "partial",
-        6
+        8
       ],
       [
         "2022-07",
@@ -1694,7 +1694,22 @@ window.reportData = {
         "fb-1291",
         "fb-1292",
         "fb-1293",
-        "fb-1295"
+        "fb-1295",
+        "fb-1296",
+        "fb-1297",
+        "fb-1298",
+        "fb-1299",
+        "fb-1300",
+        "fb-1301",
+        "fb-1302",
+        "fb-1303",
+        "fb-1304",
+        "fb-1305",
+        "fb-1306",
+        "fb-1307",
+        "fb-1308",
+        "fb-1309",
+        "fb-1310"
       ],
       "noVisibleText": [
         "fb-27",
@@ -30699,6 +30714,328 @@ window.reportData = {
       ],
       "title": "附幼 111 學年度招生公告",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1296",
+      "year": 2019,
+      "published": "2019-08-16",
+      "time": "19:15",
+      "activity": "",
+      "notes": [
+        "國小部教師透過教學案例演練和分組討論精進班級經營。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0v22tiC4pSrpupkcjus235NDH1i8Zau8CHhqbqM7W9oSxrb1vW1dgXsgTtz2K37Yxl"
+        }
+      ],
+      "title": "班級經營實務演練工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1297",
+      "year": 2019,
+      "published": "2019-08-16",
+      "time": "18:06",
+      "activity": "",
+      "notes": [
+        "圖書館邀請青年科幻創作者分享跨領域閱讀和書寫如何累積創作素材。",
+        "封存文字省略具名學生的個別心得。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02C5VC5yqiMGhLoiw3itPJbSmxSwULU79RoEC3wTzPDJnRYCPxpK8T1c9TNYhZHG2Jl"
+        }
+      ],
+      "title": "圖書館科幻作家講座（可見摘錄）",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1298",
+      "year": 2019,
+      "published": "2019-08-22",
+      "time": "23:01",
+      "activity": "",
+      "notes": [
+        "國高中教師共同盤點領域社群、校定必修、多元選修和自主學習，研議新學年度的課程規劃。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0AbsE15PU6rb72aip8FuchfrKUqbVAKDjvf7a2w47LnYF7psR5S47cLPcSnovN2hbl"
+        }
+      ],
+      "title": "108 學年度中學部教師教學共備",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1299",
+      "year": 2019,
+      "published": "2019-08-21",
+      "time": "23:17",
+      "activity": "",
+      "notes": [
+        "教師演練 CPR、AED 及蜂螫、熱傷害和癲癇等校園緊急應變。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/2293677360963015/"
+        }
+      ],
+      "title": "中學部校園緊急傷病演練",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1300",
+      "year": 2022,
+      "published": "2022-05-10",
+      "time": "09:45",
+      "activity": "",
+      "notes": [
+        "官帖介紹兩校師生往返臺灣和新加坡進行文化交流。",
+        "封存文字為部分摘錄，省略分享人姓名及後段。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Fez7ypCQQu77R2JGMub5f7pnQU9FrtdC5P37dpaUuKmTp2QEvbDKC8nJvGjV1rXVl"
+        }
+      ],
+      "title": "慈小與新加坡菩提小學交流（可見摘錄）",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "單篇初載曾顯示 5 月 9 日，穩定後日期錨點與列表同為 5 月 10 日 09:45。"
+    },
+    {
+      "id": "fb-1301",
+      "year": 2022,
+      "published": "2022-05-25",
+      "time": "18:59",
+      "activity": "",
+      "notes": [
+        "官粉記錄附幼教師在停課期間編排每日兩堂直播課程及舞蹈律動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02WNF9GVafc3AExTyM7YhnTfHBQvRr56SBo1iknihYTpSAtzkMyb6a8ej1F2NVmuyhl"
+        }
+      ],
+      "title": "附幼停課期間的直播課程",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1302",
+      "year": 2022,
+      "published": "2022-05-25",
+      "time": "09:19",
+      "activity": "",
+      "notes": [
+        "官帖說明學生在臺修讀線上課程，並於一次暑假赴美參加實體課程，完成後可獲兩張畢業證書。",
+        "封存前兩段，省略具名學生敘事和分享人。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02iWecvTyukL81yjCziwkWKAfPKgTXqB8wqPWm4NvbG7Cv3a1A45rszps3Kz4zWzv7l"
+        }
+      ],
+      "title": "與美國緬因中學合作雙聯學位（可見摘錄）",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1303",
+      "year": 2019,
+      "published": "2019-08-23",
+      "time": "21:13",
+      "activity": "",
+      "notes": [
+        "官帖外層邀請讀者給慈小學生支持與鼓勵。",
+        "此篇封存官帖外層文字。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0hZpwfBeJykvVyT8T6JMhmoxBNdAUd1aiDfp9ao7PAZc1iUtspBAfkjvGkNAmL2QVl"
+        }
+      ],
+      "title": "為慈小學生加油（官帖外層文字）",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "列表顯示 21:13，單篇初次載入顯示 06:13。"
+    },
+    {
+      "id": "fb-1304",
+      "year": 2019,
+      "published": "2019-08-07",
+      "time": "16:57",
+      "activity": "",
+      "notes": [
+        "師生到雪隆交流人文教育，同學以國樂、國術及舞蹈參與展演。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid06uvZ63ryRkR3AdM1UAu9n4vuv8phgU8hmXba6JS48udoYLpeTZLmxL1aLEbPcMk4l"
+        }
+      ],
+      "title": "馬來西亞國際修學與志工人文交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1305",
+      "year": 2022,
+      "published": "2022-05-06",
+      "time": "19:12",
+      "activity": "",
+      "notes": [
+        "圖書館以說書、音樂和舞蹈結合閱讀分享，呼應世界閱讀日。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0BqQ7jpjrBdTqquGEvJXJYZyEANXcxxjVh59D5N9TqmmA9C8hHNqiX6DCFJua1zDKl"
+        }
+      ],
+      "title": "圖書館愛閱週說書人音樂會",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1306",
+      "year": 2022,
+      "published": "2022-05-06",
+      "time": "16:48",
+      "activity": "",
+      "notes": [
+        "料理系列第 22 集邀請親子製作杏仁瓦片與鳳梨冰茶。封存官粉外層可見文字。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ER1xBUj63qEZgy4WQzfKZbFHJbDKQixZvJrg8vnvnUTLKHYWJY4RfR9VxpwuLTo6l"
+        }
+      ],
+      "title": "附幼杏仁瓦片與鳳梨冰茶（可見文字）",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1307",
+      "year": 2019,
+      "published": "2019-08-07",
+      "time": "15:18",
+      "activity": "",
+      "notes": [
+        "官帖記錄師生抵達雪隆後的展演彩排，並收錄未署名的學生心得。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Zqr7PqinonZT2a2sMddu4H2RoRFwMXYYVampUFWoJvZPX37eHKkdtugjqAD7zL8sl"
+        }
+      ],
+      "title": "馬來西亞國際修學首日與展演彩排",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "列表日期錨點顯示 15:18，單篇初次載入顯示 00:18。"
+    },
+    {
+      "id": "fb-1308",
+      "year": 2019,
+      "published": "2019-09-28",
+      "time": "08:45",
+      "activity": "",
+      "notes": [
+        "幼兒園師生一起擬活動計畫，孩子畫老師畫像並設計行動券。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0yQB7fRD9e59MpfVG11XcsmAdB1HsE2gQJsFJckQBDjrdmQys84AkEPacCehSMtUPl"
+        }
+      ],
+      "title": "附幼教師節敬師秘密計畫",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1309",
+      "year": 2022,
+      "published": "2022-06-26",
+      "time": "16:36",
+      "activity": "",
+      "notes": [
+        "疫情期間以分段線上播出呈現音樂社團成果，包括鋼琴及多種樂器。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JSWU41zLkBVURbAQN2fptnM276cwGoM38y5koRydTd3zFVj59JsBtAgqNYhg8fpDl"
+        }
+      ],
+      "title": "附小仲夏夜線上音樂會",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1310",
+      "year": 2022,
+      "published": "2022-06-24",
+      "time": "15:00",
+      "activity": "",
+      "notes": [
+        "社團成果包括圖書館靜態作品展、疊杯、直排輪、扯鈴等動態表演。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0YuZzhsyhZtMwrP6gMaJMxeWT7wdHoQWSpFvpjbyoghFzSxo8XQKAjXyHYfTpnGUQl"
+        }
+      ],
+      "title": "附小動靜態社團才藝成果發表",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     }
   ]
