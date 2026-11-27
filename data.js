@@ -51,12 +51,12 @@ window.reportData = {
       [
         "2018-05",
         "partial",
-        6
+        8
       ],
       [
         "2018-06",
         "partial",
-        6
+        7
       ],
       [
         "2018-07",
@@ -4830,7 +4830,7 @@ window.reportData = {
       "time": "21:28",
       "activity": "",
       "notes": [
-        "慈中十八歲生日。正文或影片待核"
+        "影片說明記錄幼兒園善解班親師生為校慶送上祝福。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -5019,7 +5019,7 @@ window.reportData = {
       "time": "15:44",
       "activity": "",
       "notes": [
-        "師生手護花蓮志工服務。正文或影片待核"
+        "影片說明記錄校慶系列「手護花蓮」志工服務，師生和孩子一起參與。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -5208,7 +5208,7 @@ window.reportData = {
       "time": "11:41",
       "activity": "2017-11-18",
       "notes": [
-        "11/18 校慶運動會預告影片。正文及影片待核"
+        "影片說明預告 11 月 18 日校慶運動會，幼兒園參與準備。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7103,7 +7103,7 @@ window.reportData = {
       "time": "15:52",
       "activity": "",
       "notes": [
-        "印尼國際修學團登機返程。可見文字，影音待核"
+        "影片說明記錄印尼國際修學團登機返程。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7124,7 +7124,7 @@ window.reportData = {
       "time": "02:19",
       "activity": "",
       "notes": [
-        "印尼修學團分享習經院孩子自立及生命體悟。可見文字，影音待核"
+        "影片說明以習經院參訪記錄修學團對自立及生命價值的觀察。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7187,7 +7187,7 @@ window.reportData = {
       "time": "20:17",
       "activity": "",
       "notes": [
-        "印尼修學團共同學習成長。可見文字，影音待核"
+        "影片說明記錄印尼修學團與當地孩子共同學習。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7292,7 +7292,7 @@ window.reportData = {
       "time": "01:45",
       "activity": "",
       "notes": [
-        "印尼國際修學團，品德、感恩與惜福。可見文字，影音待核"
+        "影片說明談品德教育及感恩惜福。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7313,7 +7313,7 @@ window.reportData = {
       "time": "01:40",
       "activity": "",
       "notes": [
-        "印尼國際修學團，志工與孩子互動。可見文字，影音待核"
+        "影片說明記錄志工互動前的禮儀提醒及與當地孩子的交流。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7334,7 +7334,7 @@ window.reportData = {
       "time": "13:10",
       "activity": "2025-08-09",
       "notes": [
-        "08/09 印尼修學團參訪卡馬爾穆阿拉扶困區。正文截斷、影音待核"
+        "影片說明標示 8 月 9 日走訪印尼卡馬爾穆阿拉、努魯伊斯蘭小學及金卡蓮慈濟大愛學校，並記錄呈現印尼語版〈一家人〉。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7397,7 +7397,7 @@ window.reportData = {
       "time": "00:30",
       "activity": "",
       "notes": [
-        "印尼修學團，慈濟制服與團體禮儀。可見文字，影音待核"
+        "影片說明談慈濟制服的團體禮儀及自我約束。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7418,7 +7418,7 @@ window.reportData = {
       "time": "21:28",
       "activity": "",
       "notes": [
-        "父親節感恩祝福。可見文字，影音待核"
+        "父親節影片說明向父親表達感謝與祝福。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7439,7 +7439,7 @@ window.reportData = {
       "time": "01:41",
       "activity": "",
       "notes": [
-        "印尼修學團抵達雅加達。可見文字，影音待核"
+        "影片說明記錄印尼修學團抵達雅加達。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7460,7 +7460,7 @@ window.reportData = {
       "time": "08:44",
       "activity": "",
       "notes": [
-        "國際修學團起飛。可見文字，影音待核"
+        "影片說明記錄國際修學團啟程，感謝家長與師長支持。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7670,7 +7670,7 @@ window.reportData = {
       "time": "19:42",
       "activity": "",
       "notes": [
-        "印尼修學團交流準備。可見文字，影音待核"
+        "影片說明記錄印尼修學團出發前的交流準備。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -8027,7 +8027,7 @@ window.reportData = {
       "time": "02:34",
       "activity": "",
       "notes": [
-        "美西團與核桃市議員座談，影片待核"
+        "美西團與核桃市議員座談。已保存可見影片說明，播放器長度 1:00。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -8132,7 +8132,7 @@ window.reportData = {
       "time": "14:11",
       "activity": "",
       "notes": [
-        "新馬國際修學學習圓滿，影片待核"
+        "新馬國際修學學習圓滿。已保存可見影片說明，播放器長度 2:32。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -8144,7 +8144,8 @@ window.reportData = {
       ],
       "title": "新馬國際修學學習圓滿",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 14:11，本次影片單篇介面顯示 14:10，兩種讀值待核"
     },
     {
       "id": "fb-304",
@@ -8153,7 +8154,7 @@ window.reportData = {
       "time": "13:15",
       "activity": "",
       "notes": [
-        "新馬修學志工服務，影片待核"
+        "新馬修學志工服務。已保存可見影片說明，播放器長度 1:09。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -8258,7 +8259,7 @@ window.reportData = {
       "time": "12:53",
       "activity": "",
       "notes": [
-        "新馬修學城市探索與團隊領導，影片待核"
+        "新馬修學城市探索與團隊領導。已保存可見影片說明，播放器長度 2:03。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -8270,7 +8271,8 @@ window.reportData = {
       ],
       "title": "新馬修學城市探索與團隊領導",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 12:53，本次影片單篇介面顯示 12:52，兩種讀值待核"
     },
     {
       "id": "fb-310",
@@ -8363,7 +8365,7 @@ window.reportData = {
       "time": "00:55",
       "activity": "",
       "notes": [
-        "新馬修學走進印度神廟，影片待核"
+        "新馬修學走進印度神廟。已保存可見影片說明，播放器長度 1:35。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -8375,7 +8377,8 @@ window.reportData = {
       ],
       "title": "新馬修學走進印度神廟",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 00:55，本次影片單篇介面顯示 00:54，兩種讀值待核"
     },
     {
       "id": "fb-315",
@@ -8468,7 +8471,7 @@ window.reportData = {
       "time": "01:25",
       "activity": "",
       "notes": [
-        "新加坡歷史課萊佛士，影片待核"
+        "新加坡歷史課萊佛士。已保存可見影片說明，播放器長度 2:24。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -8480,7 +8483,8 @@ window.reportData = {
       ],
       "title": "新加坡歷史課萊佛士",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 01:25，本次影片單篇介面顯示 01:24，兩種讀值待核"
     },
     {
       "id": "fb-320",
@@ -8489,7 +8493,7 @@ window.reportData = {
       "time": "01:16",
       "activity": "",
       "notes": [
-        "新加坡歷史課紅頭巾，影片待核"
+        "新加坡歷史課紅頭巾。已保存可見影片說明，播放器長度 2:57。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -8501,7 +8505,8 @@ window.reportData = {
       ],
       "title": "新加坡歷史課紅頭巾",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 01:16，本次影片單篇介面顯示 01:15，兩種讀值待核"
     },
     {
       "id": "fb-321",
@@ -8594,7 +8599,7 @@ window.reportData = {
       "time": "01:57",
       "activity": "",
       "notes": [
-        "新馬修學小學校際交流，影片待核"
+        "新馬修學小學校際交流。已保存可見影片說明，播放器長度 7:50。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -8606,7 +8611,8 @@ window.reportData = {
       ],
       "title": "新馬修學小學校際交流",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 01:57，本次影片單篇介面顯示 01:55，兩種讀值待核"
     },
     {
       "id": "fb-326",
@@ -23285,6 +23291,69 @@ window.reportData = {
       ],
       "title": "附小三年級參訪花蓮縣消防局",
       "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1013",
+      "year": 2018,
+      "published": "2018-05-11",
+      "time": "22:17",
+      "activity": "",
+      "notes": [
+        "成年禮先走佐倉步道，再由慈懿會、人文室、學務處與輔導室共同設計禮敬、悲、智、願、行五站。內容包含生活禮儀、有限物資料理、團隊合作和發願。相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02bPj4YBL3atjtLGGqStEn13aHhBsK9gFVPEhjazgKu37W9rbt8okreBxhZdhRsJWFl"
+        }
+      ],
+      "title": "第十六屆高三成年禮分站活動",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1014",
+      "year": 2018,
+      "published": "2018-05-12",
+      "time": "00:35",
+      "activity": "",
+      "notes": [
+        "完成步道挑戰與分站後，高三學生宣誓並接受加冠。慈誠懿德志工參與籌備，校方勉勵畢業生承擔責任並回饋。相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0tt53VnCwiCoqMjft8kAQRFMrtAu2Bhy26LDStfiQeezteVHRHA6H9MbgrAtJxQ5Xl"
+        }
+      ],
+      "title": "第十六屆高三成年禮加冠儀式",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1015",
+      "year": 2018,
+      "published": "2018-06-24",
+      "time": "07:10",
+      "activity": "",
+      "notes": [
+        "官粉公開影片記錄附幼畢業宿營與學習展演。涉及可識別幼兒的內容僅留編目，影片待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1816381622004363/"
+        }
+      ],
+      "title": "附幼畢業宿營晚會與學習展演",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
