@@ -176,12 +176,12 @@ window.reportData = {
       [
         "2020-06",
         "partial",
-        6
+        12
       ],
       [
         "2020-07",
         "partial",
-        12
+        15
       ],
       [
         "2020-08",
@@ -311,12 +311,12 @@ window.reportData = {
       [
         "2022-09",
         "partial",
-        15
+        16
       ],
       [
         "2022-10",
         "partial",
-        6
+        12
       ],
       [
         "2022-11",
@@ -1752,7 +1752,23 @@ window.reportData = {
         "fb-1356",
         "fb-1357",
         "fb-1358",
-        "fb-1359"
+        "fb-1359",
+        "fb-1360",
+        "fb-1361",
+        "fb-1362",
+        "fb-1363",
+        "fb-1364",
+        "fb-1365",
+        "fb-1366",
+        "fb-1367",
+        "fb-1368",
+        "fb-1369",
+        "fb-1370",
+        "fb-1371",
+        "fb-1372",
+        "fb-1373",
+        "fb-1374",
+        "fb-1375"
       ],
       "noVisibleText": [
         "fb-27",
@@ -17786,7 +17802,8 @@ window.reportData = {
       ],
       "title": "附小地震避難演練",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 17:26，原址與另一入口的單篇都顯示 02:26。兩入口的日期錨點與正文相同。"
     },
     {
       "id": "fb-686",
@@ -32138,6 +32155,346 @@ window.reportData = {
       ],
       "title": "附小與附幼分流辦理新生報到（可見摘錄）",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1360",
+      "year": 2020,
+      "published": "2020-06-12",
+      "time": "17:10",
+      "activity": "",
+      "notes": [
+        "官帖記錄畢業前分批練習單車挑戰，並欣賞大學兒家系帶來的靜思劇場。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/962493500846886/"
+        }
+      ],
+      "title": "附幼畢業前單車練習與靜思劇場",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1361",
+      "year": 2020,
+      "published": "2020-06-12",
+      "time": "10:55",
+      "activity": "",
+      "notes": [
+        "官粉外層兩句感謝高三畢業生回饋母校。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0HKCbhb21jrM6cHbWtuwHCvxjQQgriPWjpMomXYFAhjy88CsTPC1jyMohtCzSdDA8l"
+        }
+      ],
+      "title": "高三畢業生回饋母校（官帖外層文字）",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1362",
+      "year": 2020,
+      "published": "2020-06-11",
+      "time": "06:11",
+      "activity": "",
+      "notes": [
+        "官帖說明畢業典禮在靜思堂舉行，家長及親友透過線上直播收看。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0366JkgUe1dfvwzBdaiXUutZNiwAUCwTZLNYZGAEzvbpsuRtcymu5Yr9poSWEEvVBhl"
+        }
+      ],
+      "title": "第十八屆國高中畢業典禮通知",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1363",
+      "year": 2020,
+      "published": "2020-06-09",
+      "time": "14:15",
+      "activity": "",
+      "notes": [
+        "官粉外層推薦運用設計思考探索人生的大專青年營。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xjd4dRFSerVZmv54pisKhqX1Day8ajAi9K6CUAq9PW2XWqnaqVNd4JoDgXCSt5eNl"
+        }
+      ],
+      "title": "官粉推薦 Life Maker 大專青年營",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1364",
+      "year": 2020,
+      "published": "2020-06-08",
+      "time": "13:23",
+      "activity": "",
+      "notes": [
+        "官帖以不具名群體方式記錄成年禮後學生自願參與社區服務及骨髓捐贈建檔。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02LEUXaVxXHH7f46k6NpG6AsK1H3bgVD57Bn1weqeBdwTnrWypgcfrrNUUEdVbmHVSl"
+        }
+      ],
+      "title": "成年禮後的生命關懷行動",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1365",
+      "year": 2020,
+      "published": "2020-06-08",
+      "time": "11:03",
+      "activity": "",
+      "notes": [
+        "官粉外層請讀者推薦外籍教師，說明學校希望擴充雙語學習機會。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid032yEeZDeaZEHEQ2xCvPZ66zNxa4R2RuRzjStCP1c6CDSYa7UgHNgtgdASGKPa8Vcol"
+        }
+      ],
+      "title": "官粉徵詢外籍教師推薦",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1366",
+      "year": 2020,
+      "published": "2020-07-08",
+      "time": "15:37",
+      "activity": "",
+      "notes": [
+        "官帖歡迎免試入學錄取的新生並連向校方報到公告。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02CY8jVRzisay9UYDA6nF2hb4L9RNk9B1cv88z5pVHd9LUS57doi4Ch3ZusPYgTfn2l"
+        }
+      ],
+      "title": "高中免試入學錄取暨報到通知",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1367",
+      "year": 2022,
+      "published": "2022-09-21",
+      "time": "09:00",
+      "activity": "",
+      "notes": [
+        "官帖介紹豐田移民村及保留的歷史遺跡。封存首段，省略具名家庭敘事及後段。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022S19yiLJK6pSc8fdaFFBprexjdepAMuXyqXj6pdZv98YNJXFHkWMRFU57hUXuGM4l"
+        }
+      ],
+      "title": "在地文史課程認識豐田移民村（可見摘錄）",
+      "topic": "在地與校外學習",
+      "kind": "fb",
+      "timeNote": "單篇初載顯示 9 月 20 日，穩定後日期錨點與列表同為 9 月 21 日 09:00。"
+    },
+    {
+      "id": "fb-1368",
+      "year": 2022,
+      "published": "2022-10-27",
+      "time": "15:12",
+      "activity": "",
+      "notes": [
+        "國二課程結合海洋公民教育、水域安全、離岸流辨識與 CPR、AED 實作。",
+        "官帖記錄岸上與浪區兩類活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid071pdCEFuQ5qMDfHNn7QtegcMWrPFXpUfkkAu12C9H4j2DXfuqtypCJ7u64yBsLzwl"
+        }
+      ],
+      "title": "六年一貫彈性課程航向海洋",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1369",
+      "year": 2022,
+      "published": "2022-10-25",
+      "time": "17:11",
+      "activity": "",
+      "notes": [
+        "圖書館以萬聖節尋寶和閱讀賓果引導學生翻閱書本並分享閱讀。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02aCht3KyahAj6Qzh31q53KkqvhtqB22VkPCL2fMmbGFVbx6PFYwwhHf76rWDF6H8dl"
+        }
+      ],
+      "title": "附小圖書館萬聖節閱讀賓果",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1370",
+      "year": 2022,
+      "published": "2022-10-27",
+      "time": "17:31",
+      "activity": "",
+      "notes": [
+        "國三班級在課餘練習發聲、肢體語言、情緒和節奏，再結合舞蹈與歌曲演出《阿拉丁》。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Yn9Gg6f2SS8HHpcZF6rJa9MngM2NPqsERkAhZYXyypoDUpCCCSfqvumtcaZQXjq2l"
+        }
+      ],
+      "title": "國三雙語班阿拉丁音樂劇展演預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "列表顯示 17:31，單篇顯示 02:31，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1371",
+      "year": 2022,
+      "published": "2022-10-27",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "小六學生將生活經驗寫成兩個劇本，於雙語班成果展以英語戲劇演出。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid021Tm3qLeNCikSEhRbP5DnVXwXFdJ8ycQ27QhcCcRBBuWTr53YpRvm11wHyWnABB3Ll"
+        }
+      ],
+      "title": "小六雙語班自寫劇本成果展預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1372",
+      "year": 2022,
+      "published": "2022-10-25",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "二年級學生照顧水球一週，透過模擬情境、照顧分工和畢業典禮練習責任與告別。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022GwPmf3uRJh32KfTh8XN2LzGJZwmPhrbZC3DowDG9M1q7TtxQz8QFNbFXMSRCg1bl"
+        }
+      ],
+      "title": "人文方案課程水寶來我家",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1373",
+      "year": 2022,
+      "published": "2022-10-24",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "官帖介紹《拜訪森林》如何串聯四個童話，並公告雙語班展演與索票資訊。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0vXxV2xWAfCkEHGCVzTC24n2QAsTNtdhLrpe7WWmNy1Gocad8yzMbwFUA4jYHZQxnl"
+        }
+      ],
+      "title": "雙語班拜訪森林音樂劇展演預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "單篇初載顯示 10 月 23 日，穩定後日期錨點與列表同為 10 月 24 日 10:00。"
+    },
+    {
+      "id": "fb-1374",
+      "year": 2020,
+      "published": "2020-07-05",
+      "time": "23:11",
+      "activity": "",
+      "notes": [
+        "疫情調整畢業宿營後，幼兒園以師長與家長祝福舉辦感恩活動，並回顧單車挑戰及畢業準備。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02DXFWhRirQhuLpHQPhAx19PWQLniHitynJ7PeCLX4PCvreqFoWU7KJnCqL2cR8ChPl"
+        }
+      ],
+      "title": "附幼畢業系列感恩活動",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1375",
+      "year": 2020,
+      "published": "2020-07-05",
+      "time": "11:56",
+      "activity": "",
+      "notes": [
+        "官帖邀請讀者支持學生參與藝文活動。封存官粉前段，省略可識別作品資訊與創作說明。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037yJGijs69VQugjNHyURESZFHrKmLhzLYCtrVYRnTPrFPPexsgcJ21dKUJoRsCMW2l"
+        }
+      ],
+      "title": "官粉邀請支持學生藝文創作（可見摘錄）",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     }
   ]
