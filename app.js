@@ -94,7 +94,7 @@ function sourceLinks(record) {
 function dates(record) {
   const list = element('dl', 'record-dates');
   const entries = record.kind === 'fb'
-    ? [['發文', [record.published, record.time].filter(Boolean).join(' ')], ['活動', record.activity || '原文未載']]
+    ? [['發文', [record.published, record.time].filter(Boolean).join(' ')], ['活動', record.activity || (record.partial ? '待核對' : '原文未載')]]
     : [['活動或適用', record.activity], ['刊登或備查', record.published || '未載']];
   for (const [label, value] of entries) {
     const pair = element('div');
@@ -135,7 +135,7 @@ function resetControls() {
   query.value = '';
   yearFilter.value = 'all';
   topicFilter.value = 'all';
-  kindFilter.value = 'all';
+  kindFilter.value = 'fb';
   monthFilter = '';
   visibleLimit = pageSize;
 }
@@ -163,8 +163,16 @@ function renderInsights() {
     icon.setAttribute('aria-hidden', 'true');
     summary.append(content, icon);
     const expanded = element('div', 'insight-expanded');
+    const sources = insight.evidence.map(id => byId.get(id)).filter(Boolean);
+    const fbSources = sources.filter(record => record.kind === 'fb');
+    const webSources = sources.filter(record => record.kind === 'web');
     const timeline = element('ol', 'evidence-list');
-    for (const id of insight.evidence) timeline.append(evidenceItem(byId.get(id)));
+    for (const record of fbSources) timeline.append(evidenceItem(record));
+    const evidenceNote = element('p', 'record-hint', fbSources.length ? '以下為已收錄的 Facebook 貼文。跨年份觀察也參考補充公開資料。' : '這項觀察的依據是補充公開資料，目前尚無已收錄的 Facebook 貼文。');
+    const supplement = element('details', 'method');
+    const webList = element('ol', 'evidence-list');
+    for (const record of webSources) webList.append(evidenceItem(record));
+    supplement.append(element('summary', '', '查看補充來源：公開網頁事件（' + webSources.length + ' 筆）'), webList);
     const more = element('button', 'button more-topic', '查詢更多「' + insight.topic + '」紀錄');
     more.type = 'button';
     more.addEventListener('click', () => {
@@ -173,7 +181,9 @@ function renderInsights() {
       showRecords();
     });
     expanded.append(element('p', 'insight-explanation', insight.detail),
-      element('h4', 'evidence-title', '時間點與原文'), timeline, more);
+      evidenceNote, element('h4', 'evidence-title', '已收錄的 Facebook 貼文'), timeline);
+    if (webSources.length) expanded.append(supplement);
+    expanded.append(more);
     panel.append(summary, expanded);
     list.append(panel);
   }

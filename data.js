@@ -11,7 +11,7 @@ window.reportData = {
       [
         "2017-12",
         "partial",
-        21
+        62
       ],
       [
         "2018-12",
@@ -47,9 +47,14 @@ window.reportData = {
         "2025-12",
         "scanned",
         28
+      ],
+      [
+        "2017-11",
+        "partial",
+        55
       ]
     ],
-    "asOf": "2026-11-26"
+    "asOf": "2026-11-27"
   },
   "topics": [
     "課程與專題",
@@ -1794,10 +1799,10 @@ window.reportData = {
       "timeNote": "",
       "activity": "",
       "notes": [
-        "可見文字指向東區老人之家機構關懷"
+        "中學與小學學生假日到東區老人之家陪伴長者，祝福健康平安"
       ],
       "media": "相片，正文待展開",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -1814,19 +1819,20 @@ window.reportData = {
       "published": "2017-12-16",
       "time": "19:24",
       "timeNote": "",
-      "activity": "",
+      "activity": "2017-12-16 至 12-17",
       "notes": [
-        "可見開頭提到星星，活動情境待核"
+        "與其他學校學生共學星座盤",
+        "天候不佳，改用 Stellarium 模擬星空並聽希臘神話"
       ],
       "media": "相片，正文待展開",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022fesxaPvgMtaZ87DmRbVzirzvfC4RuvKYaGR1MixKCfeAjzwwnF4E6PqtEttwWxDl"
         }
       ],
-      "title": "星空相關相片，主題待確認",
+      "title": "均質化假日天文營",
       "topic": "主題待核",
       "kind": "fb"
     },
@@ -1838,17 +1844,17 @@ window.reportData = {
       "timeNote": "",
       "activity": "",
       "notes": [
-        "可見文字提到馬來西亞吉隆坡慈濟國際學校精進研習營"
+        "為期一週的研習營圓緣，師長共同發願與祝福"
       ],
       "media": "相片，正文待展開",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02RPpWQn3g6sYrLAdGRVaGmfAkhNc4nWptL9FQND4AviDHtxuQ4Jc4w96oM4XmHnF9l"
         }
       ],
-      "title": "吉隆坡慈濟國際學校研習營",
+      "title": "吉隆坡慈濟國際學校研習營圓緣",
       "topic": "國際與雙語",
       "kind": "fb"
     },
@@ -2913,6 +2919,2059 @@ window.reportData = {
       "published": "2025 年 9 月（備查）",
       "topic": "課程與專題",
       "kind": "web"
+    },
+    {
+      "id": "fb-79",
+      "year": 2017,
+      "published": "2017-12-16",
+      "time": "09:22",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "均質化教師研習討論 3D 列印、雷射切割與三軸雕刻教學"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0uWSJY2to298KDsEtuEpzxNZodwPDQu526vP1Tzbc4CsEmb8ZGXByBgmVffdSV2Yrl"
+        }
+      ],
+      "title": "新創藝術工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-80",
+      "year": 2017,
+      "published": "2017-12-16",
+      "time": "08:15",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "舞集演出及學生生命教育體會"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0apRCFb2wrzrXxrvpDifQtNBbQZMJE2QheEwZA5BZARaugCxRXk7Meh9xtNCntLVUl"
+        }
+      ],
+      "title": "鳥與水舞集演出",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-81",
+      "year": 2017,
+      "published": "2017-12-15",
+      "time": "20:03",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "講座談陪伴、習慣、自主與多元學習"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0mEgDsiLrh32Rzgc3NCSkEYTYStBsc4gU7cxJWWtuSxGpVW1oPDejrCJyob7dpYxVl"
+        }
+      ],
+      "title": "小學及幼兒園親職講座",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-82",
+      "year": 2017,
+      "published": "2017-12-15",
+      "time": "12:17",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "教師以貼近生活的戲劇呈現靜思語"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0njHESRr8tZaGEGXbjGYgAF1W6r4MSPPCY2Nfqxq8t4D5NeT9CYu1J6KanL36zW5Zl"
+        }
+      ],
+      "title": "幼兒園靜思劇場",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-83",
+      "year": 2017,
+      "published": "2017-12-14",
+      "time": "19:38",
+      "timeNote": "",
+      "activity": "2017-12-14",
+      "notes": [
+        "數感實驗室共同創辦人向高一、高二分享生活中的數學"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02dDDtKxQLPUf65tSsCpn7AJnqCDW3UU3NC6GcANViY6Rf5ha4r75FbHKdVWkMsoCyl"
+        }
+      ],
+      "title": "生活中的數學講座",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-84",
+      "year": 2017,
+      "published": "2017-12-13",
+      "time": "12:30",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "參觀原住民特藏館並學太魯閣族舞蹈，影片未逐幀檢視"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1737670256542167/"
+        }
+      ],
+      "title": "附幼參訪原住民特藏館影片",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-85",
+      "year": 2017,
+      "published": "2017-12-13",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "由書信興趣延伸參訪郵局，認識投遞並體驗蓋郵戳"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid036ATRnwgM53QmzEeiALd2tudNkgFDidmkQwWJBxZvvDrtjqFNeshrodGM4JFMVXjbl"
+        }
+      ],
+      "title": "附幼郵局參訪",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-86",
+      "year": 2017,
+      "published": "2017-12-12",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "師長、家長會與高二學生以勤學、必勝、智慧三道門祝福高三"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GmK1vQdpf2UyoFyyVCbLv56fbgzRpqfDCpPy8qVeU325V3MnxVktR1LfNkC4TafJl"
+        }
+      ],
+      "title": "高三閉關祝福典禮",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-87",
+      "year": 2017,
+      "published": "2017-12-11",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "馬來西亞精進研習營到慈大咖啡空間交流"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0WHYoqmPRH1y1pnqBXKC75Gcs2ostj6jukxNY5NAT67VLENvji2L6YHuzCuEUtuQvl"
+        }
+      ],
+      "title": "研習營咖啡交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-88",
+      "year": 2017,
+      "published": "2017-12-11",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "小組以三個問題回顧一天所學"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02abRNEFKbxFMpfnPqhVuSiVRovuhLXLBJjQgtKNdNQ6y7SwxExFtC1ev4pKBRjH61l"
+        }
+      ],
+      "title": "研習營課後回顧",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-89",
+      "year": 2017,
+      "published": "2017-12-11",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "分享與慈中相遇及教育志業"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0btLgJVyAFGSKJZsrDafaVkgseDagsCfYpmDTbcwPfncQfm976CA92QABXeo1W7bAl"
+        }
+      ],
+      "title": "研習營校長分享",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-90",
+      "year": 2017,
+      "published": "2017-12-11",
+      "time": "12:26",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "文字標記明日教師的再想像與團體活動，影片未逐幀檢視"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1736955129947013/"
+        }
+      ],
+      "title": "研習營團體活動影片",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-91",
+      "year": 2017,
+      "published": "2017-12-11",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "以快問快答與小組討論整理教師能力，分享教學處境"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0guVbRaTDSWVGUTNxj3FysEkGPy7qqRG8XV1mUNz1DyTDdkAoYp94oB4GQEtHPbtHl"
+        }
+      ],
+      "title": "研習營下午討論",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-92",
+      "year": 2017,
+      "published": "2017-12-11",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "研習探討 AI、新課綱與教師協作"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wdxHvV8zqvNZZG7fu8CpfKour7HufVsfWxMywPNvet84jfCTLZ7q8iCnRRDtdWdfl"
+        }
+      ],
+      "title": "明日教師工作坊",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-93",
+      "year": 2017,
+      "published": "2017-12-11",
+      "time": "09:02",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "接待吉隆坡慈濟國際學校師長，開啟一週培訓"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0iYchHLU1tjUbMa7tUqNTiBqkjZQ1ooRyq3ihM4QUmwJJw68CjHDQiTVwmcFDygCjl"
+        }
+      ],
+      "title": "馬來西亞研習營開場",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-94",
+      "year": 2017,
+      "published": "2017-12-10",
+      "time": "14:09",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "粉專分享三本木農業高校以夏祭接待的當地新聞"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ChCRPnMpFK39E6MLGSE96D2kTp58e5wfsHcTrT1wxPTms98rV2zyYhaRuUTo5d4el"
+        }
+      ],
+      "title": "日本教育旅行新聞分享",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-95",
+      "year": 2017,
+      "published": "2017-12-09",
+      "time": "11:37",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "小組預先規劃東京六小時城市探索，練習資訊整合、合作與解題"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Wi7zyNCiAHZTsyg2Hr2U3d4kMgf2nUMcmsYMHZw8CpaKVYZ7an738D65xMKB5DTJl"
+        }
+      ],
+      "title": "東京城市探索",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-96",
+      "year": 2017,
+      "published": "2017-12-08",
+      "time": "19:14",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "記錄農村寄宿、佛寺參訪與三本木農業高校夏祭體驗"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02usx6uyKLKPuXeBj2kaSRASLcHAhcrjBWPTk39m5QGvk3aMmiLFWjGqE1tnHFLag3l"
+        }
+      ],
+      "title": "農家生活與高校交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-97",
+      "year": 2017,
+      "published": "2017-12-06",
+      "time": "21:32",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "粉專新增 30 張日本教育交流旅行相片，內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02a8SpgBuGeSMvi6rvSPTCQ79cNtXQJgmGKWFDEB7dqt33sFGeH8wt6GrYtghFTsq8l"
+        }
+      ],
+      "title": "日本教育交流旅行相簿",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-98",
+      "year": 2017,
+      "published": "2017-12-06",
+      "time": "20:52",
+      "timeNote": "",
+      "activity": "",
+      "notes": [
+        "記錄日本教育旅行第三天，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04cMqvBpc2myTaWBSTU5joZG1iYCaSaHbJB85rTGnwxqnKar6kUdR988ssbxna4RQl"
+        }
+      ],
+      "title": "日本教育旅行 Day 3 晚安",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-99",
+      "year": 2017,
+      "published": "2017-12-06",
+      "time": "20:18",
+      "activity": "",
+      "notes": [
+        "晚餐前家訪與自己料理，影片未逐幀檢視"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1735091650133361/"
+        }
+      ],
+      "title": "日本教育旅行家訪影片",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-100",
+      "year": 2017,
+      "published": "2017-12-06",
+      "time": "17:17",
+      "activity": "",
+      "notes": [
+        "日本教育旅行第三天，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02pbQ3P5mxP8nxHP8LrxueMcAPAHMZxmyAjTBCGfoZCeZHiTMjBTa2BKZsrQjJy57Kl"
+        }
+      ],
+      "title": "日本教育旅行 Day 3",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-101",
+      "year": 2017,
+      "published": "2017-12-05",
+      "time": "20:49",
+      "activity": "",
+      "notes": [
+        "日本教育旅行穿浴衣唱校歌，正文與影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1734753453500514/"
+        }
+      ],
+      "title": "穿浴衣唱校歌影片",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-102",
+      "year": 2017,
+      "published": "2017-12-05",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "日本教育旅行第二天，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ZWjYVv6y51qPeGJQcQk3VCxZzT51oeAGcvwFeuCwfPT71qJ1TrpHsdnvm2rsXZLel"
+        }
+      ],
+      "title": "日本教育旅行 Day 2",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-103",
+      "year": 2017,
+      "published": "2017-12-05",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "粉專分享日本岩手縣官員來訪與防災交流影片，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02i38QTPnhoGgX4mScoCR8jvUU21rHfZSXXWqU1SQyby5Ho4JreUYAzc3jEHSkNYavl"
+        }
+      ],
+      "title": "岩手縣防災交流新聞分享",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-104",
+      "year": 2017,
+      "published": "2017-12-05",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "離村式影片，未逐幀檢視"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1734622320180294/"
+        }
+      ],
+      "title": "日本教育旅行離村式影片一",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-105",
+      "year": 2017,
+      "published": "2017-12-05",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "離村式影片，未逐幀檢視"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1734622093513650/"
+        }
+      ],
+      "title": "日本教育旅行離村式影片二",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-106",
+      "year": 2017,
+      "published": "2017-12-05",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "離村式影片，未逐幀檢視"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1734620213513838/"
+        }
+      ],
+      "title": "日本教育旅行離村式影片三",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-107",
+      "year": 2017,
+      "published": "2017-12-05",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "日本教育旅行紀錄，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0kJQ8czEsJ1PWbjc5JhSauHJTgrPk37XMcUFf7YkdtjTT1VphYg93b3g9pkstEcWCl"
+        }
+      ],
+      "title": "日本教育旅行 Day 1 又二分之一",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-108",
+      "year": 2017,
+      "published": "2017-12-04",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "日本教育旅行交流紀錄，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037fPR52orDRi5yAfhZ1day1mFp6nH1Gnt36XFk8beztyqiep3YqCUhQLSuDgHiek8l"
+        }
+      ],
+      "title": "瑞雪迎交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-109",
+      "year": 2017,
+      "published": "2017-12-02",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "說課後分組討論並給予回饋"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0fk7RfmRNUmKvb3WAKPGJTc7V3yHHcVAvKnmZ167crvYboH6DQkUXGwdYQiD67G1tl"
+        }
+      ],
+      "title": "說課後分組討論",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-110",
+      "year": 2017,
+      "published": "2017-12-02",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "說課現場照片"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Rj9gbtGtG8fet2CjvxGFYHGP3Bh6bvRdGgauhay8vNQqiW6imcsfxFCq4TNoWPvcl"
+        }
+      ],
+      "title": "說課進行中",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-111",
+      "year": 2017,
+      "published": "2017-12-02",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "國小自然教學照片"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Vzcx38WBx2NAgXKmZ4vNpvfGadWAHpDRTtmtHUU9NHhEhfFntrVcLhJiK4LbdezQl"
+        }
+      ],
+      "title": "國小自然教學",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-112",
+      "year": 2017,
+      "published": "2017-12-02",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "國中數學教學演示照片"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033esxWncmZ1B96dTFs3JSXcwPwuMctUCJeQcoEUVcNnLhPrT6thixBi3gZNcwopsZl"
+        }
+      ],
+      "title": "國中數學演示",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-113",
+      "year": 2017,
+      "published": "2017-12-02",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "高年級數學教學照片"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04oPa9RQjxPa3EFBwYY2FDtHmqZQTAnAyKiWYvb8H23Q4opiucS2urd1oXp9U7FV7l"
+        }
+      ],
+      "title": "高年級數學教學",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-114",
+      "year": 2017,
+      "published": "2017-12-02",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "中年級國語教學演示照片"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid028KHTopEudUxkXuUYogFjf84ChozfxVcwALYeyDCQx5QjHzDsEEpwT5fptJLBCsD6l"
+        }
+      ],
+      "title": "中年級國語教學演示",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-115",
+      "year": 2017,
+      "published": "2017-12-01",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "",
+      "notes": [
+        "講座介紹德國學校、文化與語言，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid026HLYNw8JzT7LJw4Uevh92CsK8fy6o4aibg6hjTBdTfGFp4C3Hd3vaxmTqTvjBUiZl"
+        }
+      ],
+      "title": "雙語班德國國際講座",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-116",
+      "year": 2017,
+      "published": "2017-12-01",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "2017-11-24",
+      "notes": [
+        "附小四年級 11 月 24 日校外教學回顧，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0LENEEHTowjLAmwHQdf2agPKuJTLjkYaL4z8UaDXxDQpDVaAs1yAvd7XHkX2n7uQ4l"
+        }
+      ],
+      "title": "附小四年級校外教學",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-117",
+      "year": 2017,
+      "published": "2017-12-01",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "2017-11-24",
+      "notes": [
+        "附小二年級 11 月 24 日校外教學回顧，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04Q25fHY58387Q7Kxmz6BTBSj1eHi1HfXD9LyjqQWzC3hDgW4h8XjQnn9vWvt27ikl"
+        }
+      ],
+      "title": "附小二年級校外教學",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-118",
+      "year": 2017,
+      "published": "2017-12-01",
+      "time": "",
+      "timeNote": "發文時間尚未核對",
+      "activity": "2017-11-24",
+      "notes": [
+        "附小一年級 11 月 24 日校外教學回顧，正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid06Mvdvfj1R22R6KaFYS4Ujaj5h5urS3NuPeNAzTudtj3zXvkvXLnquy6CfK37DSy4l"
+        }
+      ],
+      "title": "附小一年級校外教學",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-119",
+      "year": 2017,
+      "published": "2017-12-06",
+      "time": "10:21",
+      "activity": "",
+      "notes": [
+        "粉專介紹寒假四種課程，完整正文待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0WQKW96YLzqud6aAoHweBHPtVEHNcwxviRziMGgVzSUxGF4DsnCx1Z4drhXcyfGNUl"
+        }
+      ],
+      "title": "寒假課程介紹",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-120",
+      "year": 2017,
+      "published": "2017-11-30",
+      "time": "16:55",
+      "activity": "",
+      "notes": [
+        "慈小四年級歡迎新加坡菩提學校，表演哈卡舞。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1732828340359692/"
+        }
+      ],
+      "title": "慈小四年級歡迎新加坡菩提學校，表演哈卡舞",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-121",
+      "year": 2017,
+      "published": "2017-11-30",
+      "time": "14:57",
+      "activity": "",
+      "notes": [
+        "幼兒園與德國校長國際交流。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1732806217028571/"
+        }
+      ],
+      "title": "幼兒園與德國校長國際交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-122",
+      "year": 2017,
+      "published": "2017-11-30",
+      "time": "11:25",
+      "activity": "",
+      "notes": [
+        "幼兒園國際交流。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1732758123700047/"
+        }
+      ],
+      "title": "幼兒園國際交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-123",
+      "year": 2017,
+      "published": "2017-11-30",
+      "time": "10:33",
+      "activity": "",
+      "notes": [
+        "幼兒園國際交流。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0TJ86WhEDBjq73KK1ZnPmHfrqHGRAHzgWpk3Mm1KFd2aHyKEAh7a6bg17Cbov1Jtcl"
+        }
+      ],
+      "title": "幼兒園國際交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-124",
+      "year": 2017,
+      "published": "2017-11-30",
+      "time": "08:05",
+      "activity": "",
+      "notes": [
+        "歡迎新馬華裔青少年華語暨人文營。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02U7xQiEuLP3XHmZhJsW4z2V2bKx9MuPWJXej3JxPrcRfqdEnAQbKGBp8vYwz99Ezjl"
+        }
+      ],
+      "title": "歡迎新馬華裔青少年華語暨人文營",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-125",
+      "year": 2017,
+      "published": "2017-11-27",
+      "time": "09:45",
+      "activity": "2017-11-24",
+      "notes": [
+        "11/24 一至四年級戶外教學，分赴藥草園、碾米廠、森林園區及環保站、農場及地方法院。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02k6pg1WyhJ3TeEDWs3E26Ku6D9erBxCATRTw1rCGhNFCqZK3DjRhVABJxzFh6fWRhl"
+        }
+      ],
+      "title": "11/24 一至四年級戶外教學，分赴藥草園、碾米廠、森林園區及環保站、",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-126",
+      "year": 2017,
+      "published": "2017-11-26",
+      "time": "19:29",
+      "activity": "",
+      "notes": [
+        "國術隊。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Y9LZmLmiJoqmEUrQs1JzrJzHZRqr9zF2BfcTdpPmQqsgfk2fP4H4RHeWZzF9qePal"
+        }
+      ],
+      "title": "國術隊",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-127",
+      "year": 2017,
+      "published": "2017-11-24",
+      "time": "17:30",
+      "activity": "",
+      "notes": [
+        "校慶活動結束。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0WiSygjpw72EVFPGFvELhYuXQf3oUxqYAhWa5N5giJ9eWUGRERgCXLy8MSjR9SFkal"
+        }
+      ],
+      "title": "校慶活動結束",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-128",
+      "year": 2017,
+      "published": "2017-11-24",
+      "time": "16:30",
+      "activity": "",
+      "notes": [
+        "小學部活動。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02dknSXHt6rF4yhjBsvQWhtGKh69JwD4MNHRgNMqQ6nRpuEaji7NqtEZbiNNS6UTAol"
+        }
+      ],
+      "title": "小學部活動",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-129",
+      "year": 2017,
+      "published": "2017-11-22",
+      "time": "22:33",
+      "activity": "2017-11-18",
+      "notes": [
+        "11/18 漫遊書香品味咖啡回顧影片。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1730158277293365/"
+        }
+      ],
+      "title": "11/18 漫遊書香品味咖啡回顧影片",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-130",
+      "year": 2017,
+      "published": "2017-11-22",
+      "time": "16:04",
+      "activity": "",
+      "notes": [
+        "大愛新聞，粉專自身分享。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0FhiWasKqDUB8oPCrDJPq8Q6wbc6oUsd46zLB7WxDCx6BFaV5Gz7X6NZTZbYfW7zrl"
+        }
+      ],
+      "title": "大愛新聞，粉專自身分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-131",
+      "year": 2017,
+      "published": "2017-11-22",
+      "time": "13:02",
+      "activity": "",
+      "notes": [
+        "大愛新聞，粉專自身分享。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02DMRPNiWwBDSg32XPp7XB4gLZ934hibWEZzrGmBBWimgPP98w5DVTggYgbAo79Siml"
+        }
+      ],
+      "title": "大愛新聞，粉專自身分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-132",
+      "year": 2017,
+      "published": "2017-11-22",
+      "time": "10:55",
+      "activity": "",
+      "notes": [
+        "大愛新聞，粉專自身分享。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04BZxawrfTADn36iZGG6Ux2o3jkvofJicEHi2zQEvCRiHt1vkaTCVpKD3e5ivomnMl"
+        }
+      ],
+      "title": "大愛新聞，粉專自身分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-133",
+      "year": 2017,
+      "published": "2017-11-22",
+      "time": "10:50",
+      "activity": "",
+      "notes": [
+        "大愛新聞，粉專自身分享。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Jc1S1xUNQ8wfiVWdcqUT2Ctcryfs8bMRbktkGnwFpeMhKVnZSivr52B7383iPuewl"
+        }
+      ],
+      "title": "大愛新聞，粉專自身分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-134",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "18:45",
+      "activity": "",
+      "notes": [
+        "妙膳廳接待韓國姊妹校。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0AVCqeiMDUDapZvoYiw3siKmNedEYVa4jNbfkCnzbd7avEa1U8Lqi6PjHUKkkVa9Rl"
+        }
+      ],
+      "title": "妙膳廳接待韓國姊妹校",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-135",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "17:03",
+      "activity": "",
+      "notes": [
+        "青春18手護花蓮、慈中18邁向國際。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1728701700772356/"
+        }
+      ],
+      "title": "青春18手護花蓮、慈中18邁向國際",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-136",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "16:48",
+      "activity": "",
+      "notes": [
+        "慈中師生團隊。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1728696130772913/"
+        }
+      ],
+      "title": "慈中師生團隊",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-137",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "16:37",
+      "activity": "",
+      "notes": [
+        "活動圓滿閉幕。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Du6Kpj2gFCrDa7EY1WQjNpB5KSCP5LVcmzntxNN9qjjH3XhGYXcW4T7oVrqUBnyQl"
+        }
+      ],
+      "title": "活動圓滿閉幕",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-138",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "16:15",
+      "activity": "",
+      "notes": [
+        "賽事跑道紀錄。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033xF4wmyqKkeNBe9te3LPPdseLBnT9y8zXzWnq45GdVnb51BbERr7aZ8G793XpRuEl"
+        }
+      ],
+      "title": "賽事跑道紀錄",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-139",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "08:43",
+      "activity": "",
+      "notes": [
+        "高三師生宣誓。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1728569510785575/"
+        }
+      ],
+      "title": "高三師生宣誓",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-140",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "08:40",
+      "activity": "",
+      "notes": [
+        "埃及主題活動。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1728568307452362/"
+        }
+      ],
+      "title": "埃及主題活動",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-141",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "08:30",
+      "activity": "",
+      "notes": [
+        "西班牙鬥牛主題活動。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1728564984119361/"
+        }
+      ],
+      "title": "西班牙鬥牛主題活動",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-142",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "08:23",
+      "activity": "",
+      "notes": [
+        "校慶活動。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02V6kDCs1EyQ7RsR8X72XkXfyhAsxxUQmni3rJdKBtpPTvygSJExjCVfu6AQqerNqhl"
+        }
+      ],
+      "title": "校慶活動",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-143",
+      "year": 2017,
+      "published": "2017-11-18",
+      "time": "06:08",
+      "activity": "",
+      "notes": [
+        "邀請參加十八歲校慶。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0jLV2dDpFy1Fvy28CCpwNLNem35KUX4urA8ScAtWha6DBTiksjbbRsXmc5AXSZ9rvl"
+        }
+      ],
+      "title": "邀請參加十八歲校慶",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-144",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "22:32",
+      "activity": "",
+      "notes": [
+        "青春18手護花蓮、慈中18邁向國際。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1728387024137157/"
+        }
+      ],
+      "title": "青春18手護花蓮、慈中18邁向國際",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-145",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "21:31",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0KQyDXZYisSyeY8KA599qLy666fJi7LLRtN6846gjfq6cgE51HFKHVrH9oVzkM67Hl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-146",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "21:28",
+      "activity": "",
+      "notes": [
+        "慈中十八歲生日。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1728362314139628/"
+        }
+      ],
+      "title": "慈中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-147",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "21:27",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02h9ueV7BJZE8DMbEMEBtMxvDSPkkSEQ1wcGTHvfXsUUmFb4gL5mGn7pxxg4bizURPl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-148",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "21:26",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0B1M3sR1urwUHYhse3xKkwjmMX3V3dMfmLBgPUXPU6HebeKDuEMFXhuFYjJEMrTvxl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-149",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "21:25",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02kXWCXKYm6xqSDDuro95gFxyGAtJCeVg62kbhWrRVSji3ipUwQa6sUjDGg2p8YBHdl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-150",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "21:24",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02RtsQEgoj3hNCE4o332UpRNeQvZx71w5x9aYTnN6schuWiU4GRyPcewMXeYyoHUmLl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-151",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "18:38",
+      "activity": "",
+      "notes": [
+        "妙膳廳製作校慶蛋糕。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02oEYkzkrg6nWRabudf2ZU1fzGydHJK9N5nBh8PgN7RF1M7LGeDsfWAv58vuLrqt1yl"
+        }
+      ],
+      "title": "妙膳廳製作校慶蛋糕",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-152",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "21:29",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0i2uoADBKNiPCiNsh5ZZtYUfxFY9AnnuHHQ7qzj65kcN5jR9h3cHuAPNDwEgy4eijl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-153",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "16:45",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid025NG8LSKqoSq8sHkDUsgw2GkC1BXga3jHNWMRhwxUVcbc7He8ytB75Peu5bu5hNzml"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-154",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "16:44",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02rzCnvg3WLn5ySEUdpS6LNuivCVktWcNvfV9rpbGfoCymBGDakwhtyDck63PGbsZdl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-155",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "15:44",
+      "activity": "",
+      "notes": [
+        "師生手護花蓮志工服務。正文或影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1728281297481063/"
+        }
+      ],
+      "title": "師生手護花蓮志工服務",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-156",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "08:18",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02tkCu2jKubZ6zyFn94dtTba7mSc84m4FH9QAPKbDfNAKt1sjH1SV3QyYoDr24TogAl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-157",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "07:36",
+      "activity": "",
+      "notes": [
+        "小學部練習大會操。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02amuSyhmy5T2i4YZyLjsFH3X4ngDFF49hmfMCEBRuf74YUYTADpH4ryhK7dRTC5pAl"
+        }
+      ],
+      "title": "小學部練習大會操",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-158",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "06:45",
+      "activity": "",
+      "notes": [
+        "預告到花蓮各地手護花蓮。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0vxCd9Umw5SiEyNU94au3U4bBCdF1Mps9TQaxyLBgSmNt8i8VJDopJGdtCfrz68uVl"
+        }
+      ],
+      "title": "預告到花蓮各地手護花蓮",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-159",
+      "year": 2017,
+      "published": "2017-11-17",
+      "time": "04:53",
+      "activity": "",
+      "notes": [
+        "分享教師研習影片回憶。正文或影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02vQy1dXfKyWRShfauxmhySzaS9jGdcGYbH9QSSK8uTpwMY5rV3GYiqu7kV6eRaWZcl"
+        }
+      ],
+      "title": "分享教師研習影片回憶",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-160",
+      "year": 2017,
+      "published": "2017-11-16",
+      "time": "20:35",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。依可見文字摘錄"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Fch6wZM8vA8ow6maTpA6G9XtFufHdXgNXx1qsTaUGrFbEFeWGqkt6FztVv6mgfawl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-161",
+      "year": 2017,
+      "published": "2017-11-16",
+      "time": "20:26",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。分享內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0a54XH8QRJPs2LFMT7fpWp3B8qoe4iZK4PG4MHg71vpDoTYuehyT5Sjzx2axa28EZl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-162",
+      "year": 2017,
+      "published": "2017-11-16",
+      "time": "20:17",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。分享內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0p2R9os75cJ1KAGVjq2a8JbcbNxzztg6FJRmzcCq4mwLcZqTQdE6UjY3UfdzZVngYl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-163",
+      "year": 2017,
+      "published": "2017-11-16",
+      "time": "13:10",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。分享內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0rcoKvwNjyGKBRKqjpjDwVXmpJhAYDQTaxqhMXC6GvNi5CUPutVmdQDmC9uubkjBMl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-164",
+      "year": 2017,
+      "published": "2017-11-16",
+      "time": "11:41",
+      "activity": "2017-11-18",
+      "notes": [
+        "11/18 校慶運動會預告影片。正文及影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1727899750852551/"
+        }
+      ],
+      "title": "11/18 校慶運動會預告影片",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-165",
+      "year": 2017,
+      "published": "2017-11-16",
+      "time": "10:32",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。分享內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid06bo5YQaPKKMghVQzXV3nmwB2m597c5PqoRjKeH7cHS9uoSAHvN7uooScjNARYcAcl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-166",
+      "year": 2017,
+      "published": "2017-11-16",
+      "time": "10:26",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。分享內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid07ub1D4Myc6ATB8F5JpLiSbB1ty83jjnN8Cvvcc3GKFsP7czTEFjYqN8YsVJV4xQYl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-167",
+      "year": 2017,
+      "published": "2017-11-15",
+      "time": "20:09",
+      "activity": "",
+      "notes": [
+        "小學部學生影片。正文及影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1727604014215458/"
+        }
+      ],
+      "title": "小學部學生影片",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-168",
+      "year": 2017,
+      "published": "2017-11-15",
+      "time": "17:32",
+      "activity": "",
+      "notes": [
+        "青春18手護花蓮、慈中18邁向國際。正文及影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1727601567549036/"
+        }
+      ],
+      "title": "青春18手護花蓮、慈中18邁向國際",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-169",
+      "year": 2017,
+      "published": "2017-11-15",
+      "time": "17:22",
+      "activity": "",
+      "notes": [
+        "校慶運動會與慈誠懿德參與。完整正文待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ePUnccNYDMYk8YxXEQeHTcaCzYSTJQrV1X4X3TkbkxyUa9grQV8Yf31qTWHcup8nl"
+        }
+      ],
+      "title": "校慶運動會與慈誠懿德參與",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-170",
+      "year": 2017,
+      "published": "2017-11-15",
+      "time": "15:17",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。分享內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02jVz4tsDb9Atg5VdhNV28DXCE8zZBQKjWwP2d31VszCh3isiteUNtcCHpoGaq4m7Rl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-171",
+      "year": 2017,
+      "published": "2017-11-15",
+      "time": "07:55",
+      "activity": "",
+      "notes": [
+        "校友大聲說愛第四波。完整正文待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0aVk3nvyV7MUHPb7bo6MHptXtJ7t9kJchY6b4sURLBzWpfsBiBASdk2cf8tPgy1sFl"
+        }
+      ],
+      "title": "校友大聲說愛第四波",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-172",
+      "year": 2017,
+      "published": "2017-11-14",
+      "time": "22:31",
+      "activity": "",
+      "notes": [
+        "慶祝十八歲漫遊書香品味咖啡活動。完整正文待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0388UKSXd4HhKKeSGmfvkTRkiQ27QUM51XBLcoggX44utAfMF1EztrYfjVqkPTKCF7l"
+        }
+      ],
+      "title": "慶祝十八歲漫遊書香品味咖啡活動",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-173",
+      "year": 2017,
+      "published": "2017-11-14",
+      "time": "17:30",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。完整正文待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0gq8FYhuL9VargvoTvzr4iCw2fg2jf933ZAXZw62HNrdadgkXchzuoa6togRi8XGPl"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-174",
+      "year": 2017,
+      "published": "2017-11-14",
+      "time": "17:00",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日。正文及影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1727214477587745/"
+        }
+      ],
+      "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
     }
   ]
 };
