@@ -77,6 +77,11 @@ window.reportData = {
         "2025-06",
         "partial",
         11
+      ],
+      [
+        "2025-05",
+        "partial",
+        8
       ]
     ],
     "asOf": "2026-11-27"
@@ -8524,6 +8529,174 @@ window.reportData = {
       ],
       "title": "公告 06/07 14:00–16:40 於花蓮靜思堂舉行 113 學年度畢業典禮。正文已展開",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-343",
+      "year": 2025,
+      "published": "2025-05-28",
+      "time": "18:24",
+      "activity": "",
+      "notes": [
+        "學生錄取慈濟大學醫學系，分享科學實驗班、醫院研究及服務偏鄉的志向。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02uCk73yj9C5BuvPycKhNDMyRzgi95GiRnaA5oRvfXn18ax6YMJac4mrfXAuLwaBEEl"
+        }
+      ],
+      "title": "學生錄取慈濟大學醫學系",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-344",
+      "year": 2025,
+      "published": "2025-05-27",
+      "time": "17:08",
+      "activity": "",
+      "notes": [
+        "國二童軍在龍門露營區舉行兩天一夜隔宿露營，練習合作與生活技能。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0RRtwb5vf1kym7N1hk8zqpQtDmN8WpanYn3aPpCT2NxdqDxs8fVXM63DnDsF8fWzsl"
+        }
+      ],
+      "title": "國二童軍在龍門露營區舉行兩天一夜隔宿露營",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-345",
+      "year": 2025,
+      "published": "2025-05-24",
+      "time": "15:04",
+      "activity": "",
+      "notes": [
+        "花蓮縣華紙公益盃 AI 自走車運算思維機器人大賽，慈中國中組足球對抗賽奪冠。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02podUFnJiMxh9rKqkzssapWa3nq5g3MavYCHWzGkzWKvouRh8qcXVeZWgTJksz2vel"
+        }
+      ],
+      "title": "花蓮縣華紙公益盃 AI 自走車運算思維機器人大賽",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-346",
+      "year": 2025,
+      "published": "2025-05-23",
+      "time": "17:46",
+      "activity": "",
+      "notes": [
+        "花蓮市語文競賽，校方稱取得三項第一、八位選手挺進縣賽。正文已展開，第二名數量文內不一致"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0pr9DXfZh9KAewtW5qRRu9KmJSZAvjNAB6BKnhfwxUKTfXETRWu6ZePNwY1pEnMh8l"
+        }
+      ],
+      "title": "花蓮市語文競賽",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-347",
+      "year": 2025,
+      "published": "2025-05-23",
+      "time": "12:07",
+      "activity": "",
+      "notes": [
+        "介紹第23屆畢業生作品《序青春》，敘述離別與成長。正文已展開，音影片未核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0HBmsfohLcPKLLuUmvD5zEX6H38oj79NQn3vAEE4UJ8QvHXSg2XEymB5gv77LpHoal"
+        }
+      ],
+      "title": "介紹第23屆畢業生作品《序青春》",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-348",
+      "year": 2025,
+      "published": "2025-05-16",
+      "time": "18:37",
+      "activity": "",
+      "notes": [
+        "國三會考前看考場後，家長準備祝福點心，導師與學校為學生打氣並提醒隔日集合。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02n7EteKtM6Py4X64YLHYqrB5znyQUYUYo2tiMA5A9jf6cGaUKchqVWg4L7gMMCn1Cl"
+        }
+      ],
+      "title": "國三會考前看考場後",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-349",
+      "year": 2025,
+      "published": "2025-05-11",
+      "time": "11:16",
+      "activity": "",
+      "notes": [
+        "親師生與校友到靜思堂參與慈濟59週年浴佛典禮，於母親節、佛誕節及慈濟日祈福。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02tkruKwrZAoUDYNrnHHQr6i7nWhVf6fHbLPU4sYCt9QpH3RfVcU76qNCMhQ2yEf8hl"
+        }
+      ],
+      "title": "親師生與校友到靜思堂參與慈濟59週年浴佛典禮",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-350",
+      "year": 2025,
+      "published": "2025-05-05",
+      "time": "08:25",
+      "activity": "",
+      "notes": [
+        "縣科展高中七組全獲獎、國中十組中九組獲獎，部分作品代表參加全國賽，校方稱獲縣團體第二。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02DcpXnXaFvButR9smWr49sitjvdSFVEsvKi2SbSrhhAPFsEqSmEx347WKQpeA1mm2l"
+        }
+      ],
+      "title": "縣科展高中七組全獲獎、國中十組中九組獲獎",
+      "topic": "競賽與成果",
       "kind": "fb"
     }
   ]
