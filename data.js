@@ -371,7 +371,7 @@ window.reportData = {
       [
         "2023-09",
         "partial",
-        9
+        10
       ],
       [
         "2023-10",
@@ -381,17 +381,17 @@ window.reportData = {
       [
         "2023-11",
         "partial",
-        7
+        8
       ],
       [
         "2023-12",
         "partial",
-        11
+        12
       ],
       [
         "2024-01",
         "partial",
-        8
+        9
       ],
       [
         "2024-02",
@@ -401,7 +401,7 @@ window.reportData = {
       [
         "2024-03",
         "partial",
-        8
+        10
       ],
       [
         "2024-04",
@@ -642,12 +642,23 @@ window.reportData = {
         "fb-188",
         "fb-189",
         "fb-191",
+        "fb-192",
+        "fb-193",
         "fb-194",
         "fb-195",
         "fb-196",
+        "fb-197",
         "fb-198",
+        "fb-200",
         "fb-201",
         "fb-202",
+        "fb-203",
+        "fb-204",
+        "fb-205",
+        "fb-206",
+        "fb-207",
+        "fb-208",
+        "fb-209",
         "fb-210",
         "fb-211",
         "fb-212",
@@ -658,7 +669,24 @@ window.reportData = {
         "fb-217",
         "fb-218",
         "fb-219",
+        "fb-220",
+        "fb-221",
+        "fb-222",
+        "fb-223",
+        "fb-224",
         "fb-225",
+        "fb-226",
+        "fb-227",
+        "fb-228",
+        "fb-229",
+        "fb-230",
+        "fb-231",
+        "fb-232",
+        "fb-233",
+        "fb-234",
+        "fb-235",
+        "fb-236",
+        "fb-237",
         "fb-238",
         "fb-239",
         "fb-240",
@@ -1419,7 +1447,12 @@ window.reportData = {
         "fb-1072",
         "fb-1073",
         "fb-1074",
-        "fb-1075"
+        "fb-1075",
+        "fb-1076",
+        "fb-1077",
+        "fb-1079",
+        "fb-1080",
+        "fb-1081"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1433,6 +1466,7 @@ window.reportData = {
       ],
       "indexOnly": [
         "fb-131",
+        "fb-190",
         "fb-199",
         "fb-247",
         "fb-248",
@@ -1472,7 +1506,8 @@ window.reportData = {
         "fb-1063",
         "fb-1066",
         "fb-1067",
-        "fb-1068"
+        "fb-1068",
+        "fb-1078"
       ]
     }
   },
@@ -6723,7 +6758,8 @@ window.reportData = {
       "time": "08:00",
       "activity": "",
       "notes": [
-        "學校參加科普列車花蓮站，在花蓮車站設攤。正文截斷。"
+        "官粉記錄科普列車花蓮站的學校攤位。正文涉及學生個人資訊，僅留安全索引。",
+        "日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -6765,10 +6801,10 @@ window.reportData = {
       "time": "17:45",
       "activity": "",
       "notes": [
-        "慈中25，校友回娘家。正文截斷。；與下筆時間及 ID 不同但主題相同，待核別名。"
+        "粉專說明校友回娘家活動，公告感恩餐會及校友會成立大會的報名資訊。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6777,7 +6813,8 @@ window.reportData = {
       ],
       "title": "慈中25，校友回娘家",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-10-28 17:45。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-193",
@@ -6786,10 +6823,10 @@ window.reportData = {
       "time": "17:43",
       "activity": "",
       "notes": [
-        "慈中25，校友回娘家。正文截斷。；待核與上筆關係。"
+        "粉專說明校友回娘家活動，公告感恩餐會及校友會成立大會的報名資訊。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6798,7 +6835,8 @@ window.reportData = {
       ],
       "title": "慈中25，校友回娘家",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-10-28 17:43。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-194",
@@ -6871,10 +6909,10 @@ window.reportData = {
       "time": "09:06",
       "activity": "",
       "notes": [
-        "114 年更生杯數學競賽開始。"
+        "官粉短說明記錄更生盃數學競賽開始。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6883,7 +6921,8 @@ window.reportData = {
       ],
       "title": "114 年更生杯數學競賽開始",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-10-19 09:06。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-198",
@@ -6935,10 +6974,10 @@ window.reportData = {
       "time": "11:53",
       "activity": "",
       "notes": [
-        "參訪聯華電子，認識半導體產業。正文截斷；重疊。"
+        "校方教學及行政主管參訪聯華電子，記錄將產業對跨域整合、協作與創新能力的觀察納入課程及生涯輔導參考。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7000,10 +7039,10 @@ window.reportData = {
       "time": "10:09",
       "activity": "",
       "notes": [
-        "更生盃數學競賽與校園參訪報名。正文截斷。"
+        "官粉公告更生盃數學競賽當日的校園參訪，介紹高中課程與學生生活。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7021,10 +7060,10 @@ window.reportData = {
       "time": "21:32",
       "activity": "2025-09-29",
       "notes": [
-        "9/29 光復救災紀錄。"
+        "官粉短說明記錄 9 月 29 日慈中師生參與光復災後服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7033,7 +7072,8 @@ window.reportData = {
       ],
       "title": "9/29 光復救災紀錄",
       "topic": "在地與校外學習",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-10-01 21:32。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-205",
@@ -7042,10 +7082,10 @@ window.reportData = {
       "time": "21:31",
       "activity": "2025-09-29",
       "notes": [
-        "9/29 光復救災紀錄。"
+        "官粉短說明記錄 9 月 29 日慈中師生參與光復災後服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7054,7 +7094,8 @@ window.reportData = {
       ],
       "title": "9/29 光復救災紀錄",
       "topic": "在地與校外學習",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-10-01 21:31。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-206",
@@ -7063,10 +7104,10 @@ window.reportData = {
       "time": "21:30",
       "activity": "2025-09-29",
       "notes": [
-        "9/29 光復救災紀錄。"
+        "官粉短說明記錄 9 月 29 日慈中師生參與光復災後服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7075,7 +7116,8 @@ window.reportData = {
       ],
       "title": "9/29 光復救災紀錄",
       "topic": "在地與校外學習",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-10-01 21:30。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-207",
@@ -7084,10 +7126,10 @@ window.reportData = {
       "time": "21:29",
       "activity": "2025-09-29",
       "notes": [
-        "9/29 光復救災紀錄。"
+        "官粉短說明記錄 9 月 29 日慈中師生參與光復災後服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7096,7 +7138,8 @@ window.reportData = {
       ],
       "title": "9/29 光復救災紀錄",
       "topic": "在地與校外學習",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-10-01 21:29。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-208",
@@ -7105,10 +7148,10 @@ window.reportData = {
       "time": "21:28",
       "activity": "2025-09-29",
       "notes": [
-        "9/29 光復救災紀錄。"
+        "官粉短說明記錄 9 月 29 日慈中師生參與光復災後服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7117,7 +7160,8 @@ window.reportData = {
       ],
       "title": "9/29 光復救災紀錄",
       "topic": "在地與校外學習",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-10-01 21:28。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-209",
@@ -7126,10 +7170,10 @@ window.reportData = {
       "time": "21:25",
       "activity": "2025-09-29",
       "notes": [
-        "9/29 光復救災紀錄。"
+        "官粉短說明記錄 9 月 29 日慈中師生參與光復災後服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7138,7 +7182,8 @@ window.reportData = {
       ],
       "title": "9/29 光復救災紀錄",
       "topic": "在地與校外學習",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-10-01 21:25。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-210",
@@ -7360,10 +7405,10 @@ window.reportData = {
       "time": "21:16",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7372,7 +7417,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-29 21:16。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-221",
@@ -7381,10 +7427,10 @@ window.reportData = {
       "time": "21:14",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7393,7 +7439,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-29 21:14。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-222",
@@ -7402,10 +7449,10 @@ window.reportData = {
       "time": "21:13",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7414,7 +7461,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-29 21:13。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-223",
@@ -7423,10 +7471,10 @@ window.reportData = {
       "time": "21:12",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7435,7 +7483,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-29 21:12。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-224",
@@ -7444,10 +7493,10 @@ window.reportData = {
       "time": "21:11",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7456,7 +7505,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-29 21:11。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-225",
@@ -7486,10 +7536,10 @@ window.reportData = {
       "time": "16:15",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7498,7 +7548,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:15。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-227",
@@ -7507,10 +7558,10 @@ window.reportData = {
       "time": "16:14",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7519,7 +7570,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:14。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-228",
@@ -7528,10 +7580,10 @@ window.reportData = {
       "time": "16:13",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7540,7 +7592,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:13。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-229",
@@ -7549,10 +7602,10 @@ window.reportData = {
       "time": "16:12",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7561,7 +7614,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:12。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-230",
@@ -7570,10 +7624,10 @@ window.reportData = {
       "time": "16:10",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7582,7 +7636,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:10。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-231",
@@ -7591,10 +7646,10 @@ window.reportData = {
       "time": "16:09",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7603,7 +7658,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:09。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-232",
@@ -7612,10 +7668,10 @@ window.reportData = {
       "time": "16:08",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7624,7 +7680,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:08。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-233",
@@ -7633,10 +7690,10 @@ window.reportData = {
       "time": "16:06",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7645,7 +7702,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:06。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-234",
@@ -7654,10 +7712,10 @@ window.reportData = {
       "time": "16:05",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7666,7 +7724,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:05。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-235",
@@ -7675,10 +7734,10 @@ window.reportData = {
       "time": "16:02",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7687,7 +7746,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:02。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-236",
@@ -7696,10 +7756,10 @@ window.reportData = {
       "time": "16:01",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。影音、正文待核。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7708,7 +7768,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 16:01。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-237",
@@ -7717,10 +7778,10 @@ window.reportData = {
       "time": "15:58",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行，慈中篇。正文截斷。"
+        "官粉短說明記錄慈中親師生參與光復災後志工服務。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7729,7 +7790,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行，慈中篇",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期與時刻沿用清冊 2025-09-28 15:58。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-238",
@@ -15310,7 +15372,8 @@ window.reportData = {
       ],
       "title": "第 24 屆國際文化校慶運動會閉幕",
       "topic": "校慶、藝文與體育",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 18:08，單篇畫面顯示 02:08，兩讀值待核。"
     },
     {
       "id": "fb-592",
@@ -15751,7 +15814,8 @@ window.reportData = {
       "time": "18:13",
       "activity": "2023-10-21",
       "notes": [
-        "粉專用玻里尼西亞島嶼的故事預告 10 月 21 日雙語班音樂劇公演。"
+        "粉專用玻里尼西亞島嶼的故事預告 10 月 21 日雙語班音樂劇公演。",
+        "另一入口核為同一則。"
       ],
       "media": "",
       "partial": false,
@@ -15763,7 +15827,8 @@ window.reportData = {
       ],
       "title": "雙語班音樂劇公演預告：玻里尼西亞",
       "topic": "校慶、藝文與體育",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 2023-10-19 18:13，兩個入口的單篇均顯示 2023-10-19 03:13，兩讀值待核。"
     },
     {
       "id": "fb-613",
@@ -16330,7 +16395,8 @@ window.reportData = {
       "time": "17:56",
       "activity": "",
       "notes": [
-        "校方分享班親座談，學生參與主持與才藝表演，導師和家長討論孩子的成長。"
+        "校方分享班親座談，學生參與主持與才藝表演，導師和家長討論孩子的成長。",
+        "另一入口核為同一則。"
       ],
       "media": "",
       "partial": false,
@@ -16342,7 +16408,8 @@ window.reportData = {
       ],
       "title": "親師座談與學生展演紀錄",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 2023-09-16 17:56，兩個入口的單篇均顯示 2023-09-16 02:56，兩讀值待核。"
     },
     {
       "id": "fb-640",
@@ -16352,7 +16419,8 @@ window.reportData = {
       "activity": "",
       "notes": [
         "粉專刊出 112 年校園流感疫苗電子意願書通知。",
-        "畫面中的簽署連結縮寫顯示，目標未核。"
+        "畫面中的簽署連結縮寫顯示，目標未核。",
+        "另一入口核為同一則。"
       ],
       "media": "連結",
       "partial": true,
@@ -16364,7 +16432,8 @@ window.reportData = {
       ],
       "title": "校園流感疫苗電子意願書通知",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 2023-09-16 10:16，兩個入口的單篇均顯示 2023-09-15 19:16，兩讀值待核。"
     },
     {
       "id": "fb-641",
@@ -25607,6 +25676,136 @@ window.reportData = {
       "topic": "國際與雙語",
       "kind": "fb",
       "timeNote": "粉專列表顯示 14:47，單篇顯示 14:46，兩讀值待核。"
+    },
+    {
+      "id": "fb-1076",
+      "year": 2023,
+      "published": "2023-09-15",
+      "time": "09:19",
+      "activity": "",
+      "notes": [
+        "輔導室在親師座談前安排線上親職講座，介紹數位使用界線、親子對話與建立自律。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid03UHgkor4CpbJrNY5XRZuqC9sAHTdGwg14cGdthMcP9nTdukgrsRMniVsJcunauGyl"
+        }
+      ],
+      "title": "線上親職講座談孩子與 3C",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 2023-09-15 09:19，單篇顯示 2023-09-14 18:19，兩讀值待核。"
+    },
+    {
+      "id": "fb-1077",
+      "year": 2023,
+      "published": "2023-11-18",
+      "time": "17:32",
+      "activity": "",
+      "notes": [
+        "粉專記錄第 24 屆校慶運動會各年段大隊接力；與同日閉幕紀錄各有不同日期錨點和文字。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02H1cjbjc8qaja7VCcHJJyVUfBtELHDZ7TVbrKYnRt2YuAzRoFLgF5dY5wMu5KgvJsl"
+        }
+      ],
+      "title": "校慶運動會各年段大隊接力",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 17:32，單篇顯示 01:32，兩讀值待核。"
+    },
+    {
+      "id": "fb-1078",
+      "year": 2023,
+      "published": "2023-12-19",
+      "time": "22:31",
+      "activity": "",
+      "notes": [
+        "粉專記錄學測前的高三祝福活動。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02x5wmZVsCN96qNUw3TbkxjG3X99jcQogJFXMK1DH9qYcj5PzsZWSJAGkCZFyzeeqkl"
+        }
+      ],
+      "title": "高三學測閉關衝刺祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 22:31，單篇顯示 06:31，兩讀值待核。"
+    },
+    {
+      "id": "fb-1079",
+      "year": 2024,
+      "published": "2024-01-20",
+      "time": "11:22",
+      "activity": "",
+      "notes": [
+        "附小與建基學校共赴舊金山天使島，從移民歷史探討族群理解與包容。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0DgXyhsmrkkHWnPcM8Vxu8RDp39qmXAuXYy7ewhfmTgJTHjVuoB6pmQTtBFWvo1EBl"
+        }
+      ],
+      "title": "附小美國天使島校外教學",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1080",
+      "year": 2024,
+      "published": "2024-03-20",
+      "time": "14:29",
+      "activity": "",
+      "notes": [
+        "校方預告能源教育觀摩活動，規劃經驗分享、場域參訪與資源串聯。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0TFwSHsmpTcexgiVGFFbXUn7sQmSjLk7tp1L8B3VVNcx86xET8BRB91DF1qerrdXbl"
+        }
+      ],
+      "title": "能源教育觀摩與場域參訪預告",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1081",
+      "year": 2024,
+      "published": "2024-03-20",
+      "time": "22:23",
+      "activity": "",
+      "notes": [
+        "建基學校與慈小學生共訪支亞干及馬太鞍，體驗部落文化、料理、射箭與濕地生態。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid025Nb8V3bAb25LZYzBVoYxYiRP9xRt7kkY9U65bmJ1R3RkuAuApxXM5R3qxXj1d38al"
+        }
+      ],
+      "title": "美國建基學校來訪及花蓮部落走讀",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 22:23，單篇顯示 07:23，兩讀值待核。"
     }
   ]
 };
