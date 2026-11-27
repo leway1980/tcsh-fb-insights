@@ -41,12 +41,12 @@ window.reportData = {
       [
         "2018-03",
         "partial",
-        5
+        7
       ],
       [
         "2018-04",
         "partial",
-        7
+        10
       ],
       [
         "2018-05",
@@ -4428,9 +4428,9 @@ window.reportData = {
       "time": "17:30",
       "activity": "",
       "notes": [
-        "校慶活動結束。正文或影片待核"
+        "官粉記錄校慶活動結束，感謝參與師生、家長及校友，並邀請分享活動照片。比對兩個入口的日期錨點與照片後確認同篇，相片待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -4440,7 +4440,8 @@ window.reportData = {
       ],
       "title": "校慶活動結束",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 17:30，原入口曾顯示 01:30，兩種讀值待核"
     },
     {
       "id": "fb-128",
@@ -4449,9 +4450,9 @@ window.reportData = {
       "time": "16:30",
       "activity": "",
       "notes": [
-        "小學部活動。正文或影片待核"
+        "官粉文字記錄附小二年級參訪花蓮碾米廠並親手製作麻糬。兩個入口的相簿群組與五張照片 ID 一致，相片待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -4459,9 +4460,10 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02dknSXHt6rF4yhjBsvQWhtGKh69JwD4MNHRgNMqQ6nRpuEaji7NqtEZbiNNS6UTAol"
         }
       ],
-      "title": "小學部活動",
-      "topic": "招生與校園生活",
-      "kind": "fb"
+      "title": "附小二年級校外教學參觀花蓮碾米廠",
+      "topic": "在地與校外學習",
+      "kind": "fb",
+      "timeNote": "清冊記為 16:30，原入口曾顯示 00:30，兩種讀值待核"
     },
     {
       "id": "fb-129",
@@ -4575,7 +4577,7 @@ window.reportData = {
       "time": "18:45",
       "activity": "",
       "notes": [
-        "妙膳廳接待韓國姊妹校。依可見文字摘錄"
+        "官粉正文記錄校方以妙膳廳接待韓國姊妹校新上中學。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -4587,7 +4589,8 @@ window.reportData = {
       ],
       "title": "妙膳廳接待韓國姊妹校",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 18:45，單篇介面曾顯示 02:45，兩種讀值待核"
     },
     {
       "id": "fb-135",
@@ -4680,7 +4683,7 @@ window.reportData = {
       "time": "08:43",
       "activity": "",
       "notes": [
-        "高三師生宣誓。正文或影片待核"
+        "影片說明記錄第 16 屆高三師生宣誓及學測祝福，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -4701,7 +4704,7 @@ window.reportData = {
       "time": "08:40",
       "activity": "",
       "notes": [
-        "埃及主題活動。正文或影片待核"
+        "影片說明記錄埃及主題亮相，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -4722,7 +4725,7 @@ window.reportData = {
       "time": "08:30",
       "activity": "",
       "notes": [
-        "西班牙鬥牛主題活動。正文或影片待核"
+        "影片說明記錄西班牙鬥牛主題，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -4785,7 +4788,7 @@ window.reportData = {
       "time": "22:32",
       "activity": "",
       "notes": [
-        "青春18手護花蓮、慈中18邁向國際。正文或影片待核"
+        "官粉影片說明與標籤記錄小學部「手護花蓮」校慶活動，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -5729,11 +5732,11 @@ window.reportData = {
       "year": 2025,
       "published": "2025-10-31",
       "time": "14:02",
-      "activity": "",
+      "activity": "2025-11-15（公演公告）",
       "notes": [
-        "雙語班英語劇公演《心的力量》。正文截斷"
+        "官粉公告雙語班英語劇《心的力量》，國小、國一、國二與高二四組演出。已核兩個入口同篇及完整可讀文字，海報與圖片型表情符號待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -6176,9 +6179,9 @@ window.reportData = {
       "time": "21:24",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；跨截止重疊"
+        "慈中光復救援系列短片，已保存官粉的兩行說明。短片內容、片長和單篇時刻待核。"
       ],
-      "media": "影片",
+      "media": "Reel 短片",
       "partial": true,
       "sources": [
         {
@@ -6197,9 +6200,9 @@ window.reportData = {
       "time": "21:23",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；跨截止重疊"
+        "慈中光復救援系列短片，已保存官粉的兩行說明。短片內容、片長和單篇時刻待核。"
       ],
-      "media": "影片",
+      "media": "Reel 短片",
       "partial": true,
       "sources": [
         {
@@ -6218,9 +6221,9 @@ window.reportData = {
       "time": "21:22",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；跨截止重疊"
+        "慈中光復救援系列短片，已保存官粉的兩行說明。短片內容、片長和單篇時刻待核。"
       ],
-      "media": "影片",
+      "media": "Reel 短片",
       "partial": true,
       "sources": [
         {
@@ -7037,7 +7040,7 @@ window.reportData = {
       "time": "08:48",
       "activity": "",
       "notes": [
-        "共識營第二天到靜思精舍，認識法脈。正文展開、影音待核"
+        "影片說明記錄共識營第二天回到靜思精舍，師長與師父交流並認識法脈。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7079,7 +7082,7 @@ window.reportData = {
       "time": "10:00",
       "activity": "",
       "notes": [
-        "全校師長於靜思堂開啟兩天共識營。正文展開、影音待核"
+        "影片說明記錄新學年開始前，全校師長齊聚靜思堂，展開兩天合心共識營。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7478,7 +7481,7 @@ window.reportData = {
       "time": "17:25",
       "activity": "",
       "notes": [
-        "第八任校長交接，慈大與附中合作。可見文字，影音待核"
+        "影片說明摘述慈濟大學校長談慈大與附中合作，連結基礎教育、科技素養、全球視野與人文關懷。影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7499,7 +7502,7 @@ window.reportData = {
       "time": "16:52",
       "activity": "",
       "notes": [
-        "第八任校長交接，教育志業代表致詞。可見文字，影音待核"
+        "影片說明摘述教育志業代表就教育傳承致詞，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7520,7 +7523,7 @@ window.reportData = {
       "time": "16:18",
       "activity": "",
       "notes": [
-        "第八任校長交接，基金會代表致詞。可見文字，影音待核"
+        "影片說明摘述基金會代表談對教育的承擔與責任，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7541,7 +7544,7 @@ window.reportData = {
       "time": "10:52",
       "activity": "",
       "notes": [
-        "第八任校長交接，校長致詞。可見文字，影音待核"
+        "已保存廖逸貞校長致詞影片的說明，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7562,7 +7565,7 @@ window.reportData = {
       "time": "10:39",
       "activity": "",
       "notes": [
-        "第八任校長交接，校長致詞。可見文字，影音待核"
+        "已保存李玲惠校長致詞影片的說明，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7583,7 +7586,7 @@ window.reportData = {
       "time": "09:11",
       "activity": "",
       "notes": [
-        "第八任校長交接，學生代表感恩。可見文字，影音待核"
+        "已保存學生代表於校長交接典禮分享感恩的影片說明，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -7604,7 +7607,7 @@ window.reportData = {
       "time": "08:24",
       "activity": "",
       "notes": [
-        "第八任校長交接，師長代表分享。可見文字，影音待核"
+        "已保存師長代表於校長交接典禮分享受人提攜與拓展視野的影片說明，影音待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -23177,6 +23180,111 @@ window.reportData = {
       ],
       "title": "國一、高一新生美語生活營",
       "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1008",
+      "year": 2018,
+      "published": "2018-03-15",
+      "time": "18:01",
+      "activity": "",
+      "notes": [
+        "官粉說明記錄師生栽植畢業樹、埋入時空膠囊，並約定二十年後相聚，現場也邀請校友分享祝福。影音待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1772879033021289/"
+        }
+      ],
+      "title": "附小六年級種植畢業樹並埋下時空膠囊",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1009",
+      "year": 2018,
+      "published": "2018-03-15",
+      "time": "20:02",
+      "activity": "",
+      "notes": [
+        "官粉公布 107 年繁星推薦共 38 人錄取，其中 14 人錄取國立大學。校方鼓勵錄取學生先預習相關課程並協助同學準備甄選。相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid026c1fQMYfuJuV5QPDAkPoCfsCJKHw9YdRVgnfazyaajEigKnzBqd8NJxN8MieAJ3rl"
+        }
+      ],
+      "title": "107 年繁星推薦錄取成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1010",
+      "year": 2018,
+      "published": "2018-04-15",
+      "time": "21:02",
+      "activity": "",
+      "notes": [
+        "官粉外層文字祝賀國術隊獲佳績，內嵌分享及具體獎項待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0HvussrpKKLjgFbRkSTcWUruzanot1E59RymALbXGWmzicBpTGTwYHNeHBQbwSJVCl"
+        }
+      ],
+      "title": "粉專祝賀慈中國術隊競賽表現",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1011",
+      "year": 2018,
+      "published": "2018-04-15",
+      "time": "22:56",
+      "activity": "",
+      "notes": [
+        "粉專發文記錄台北招生說明會。正文涉及可識別家庭敘事情境，清冊保留公開編目。"
+      ],
+      "media": "相片或正文待核",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ftdVXaHntdRJtDy1Nu5rNph13kFsfKfAmNKB6ESMPyRPb7LrQBZwne4YGJzt8L7Gl"
+        }
+      ],
+      "title": "台北招生說明會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1012",
+      "year": 2018,
+      "published": "2018-04-28",
+      "time": "12:58",
+      "activity": "",
+      "notes": [
+        "校外教學認識消防車、救護車及生命探測器等器材，並向消防與搜救人員致謝。已保存影片說明，影音待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1789942154648310/"
+        }
+      ],
+      "title": "附小三年級參訪花蓮縣消防局",
+      "topic": "在地與校外學習",
       "kind": "fb"
     }
   ]
