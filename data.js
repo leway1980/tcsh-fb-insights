@@ -126,7 +126,7 @@ window.reportData = {
       [
         "2024-08",
         "partial",
-        19
+        28
       ]
     ],
     "asOf": "2026-11-27"
@@ -12098,6 +12098,199 @@ window.reportData = {
         }
       ],
       "title": "交流團啟動關懷長者與難民兒童活動",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-510",
+      "year": 2024,
+      "published": "2024-08-09",
+      "time": "18:29",
+      "activity": "",
+      "notes": [
+        "記錄新生美語營第三天，從英語課程延伸到認識自己與探索世界。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ji78x8MUMPpkc71nGHpDRewMqSuhJ4ECjb1TAvWmqDqhRLTufhQVjnT9FGque37vl"
+        }
+      ],
+      "title": "新生美語營 Day 3",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-511",
+      "year": 2024,
+      "published": "2024-08-08",
+      "time": "19:24",
+      "activity": "",
+      "notes": [
+        "記錄第二天以電影和角色為取材，結合英語與文化學習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0uqz84JzTCRnu3gksUaa6co4qqZSjVELQqUzPTKjz8ACs4KfJNSKYjzrmPTAdKkpml"
+        }
+      ],
+      "title": "新生美語營 Day 2",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-512",
+      "year": 2024,
+      "published": "2024-08-08",
+      "time": "11:51",
+      "activity": "",
+      "notes": [
+        "粉專邀請家長到 YouTube 觀看學生第一晚的表現。",
+        "影音內容待核。"
+      ],
+      "media": "連結影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02YhLWMxYnACuSjE2zttT7ya8dGHv23GweXMpGEQb1vAHrb7K2MUicxw8A3EA8ek6il"
+        }
+      ],
+      "title": "分享馬來西亞交流團第一晚影片",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-513",
+      "year": 2024,
+      "published": "2024-08-06",
+      "time": "17:01",
+      "activity": "",
+      "notes": [
+        "影片說明文字向家長報告團隊已抵達馬來西亞。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/490586913581788/"
+        }
+      ],
+      "title": "志工人文交流團抵達馬來西亞",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-514",
+      "year": 2024,
+      "published": "2024-08-06",
+      "time": "08:33",
+      "activity": "",
+      "notes": [
+        "影片說明文字向家長報告交流團已到機場。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/7985824434842323/"
+        }
+      ],
+      "title": "馬來西亞交流團抵達機場",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-515",
+      "year": 2024,
+      "published": "2024-08-06",
+      "time": "08:31",
+      "activity": "",
+      "notes": [
+        "馬來西亞國際志工人文交流的影片說明只列校格、國格與慈濟格。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/868858111827828/"
+        }
+      ],
+      "title": "「校格、國格、慈濟格」交流影片",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-516",
+      "year": 2024,
+      "published": "2024-08-06",
+      "time": "21:13",
+      "activity": "2024-08-06",
+      "notes": [
+        "凱米颱風使成長營改至 8 月 6 日，濃縮為一天。校方與學長姐志工帶領國一、高一新生認識校園並參與團隊活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02tekDKqEH22jEwLKG5A4PfxjkLpG2mH9e8KFuExourrvHfr9YNeXsLA6eLovUYXyWl"
+        }
+      ],
+      "title": "國一、高一新生成長營",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-517",
+      "year": 2024,
+      "published": "2024-08-06",
+      "time": "10:29",
+      "activity": "",
+      "notes": [
+        "邀請有興趣的高一學生與家長報名線上說明會，認識雙聯學位和美國高中證書課程。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02TeCkjuyq6jTHnpRsra8QP5HSnLi6KS5J4JNM7v5fyLJ5jNQU6zyJAYZhqkUM1Hel"
+        }
+      ],
+      "title": "雙聯學位與美國高中證書說明會報名",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-518",
+      "year": 2024,
+      "published": "2024-08-07",
+      "time": "18:10",
+      "activity": "",
+      "notes": [
+        "記錄國一及高一新生參與美語營第一天，從課程互動練習英語。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0sUGjmyukMyLgcYRvGr1CzKaPU9WpwTSshNcPZvJzhGm13A7ivFoyt438kAU9T1xel"
+        }
+      ],
+      "title": "新生美語營 Day 1",
       "topic": "國際與雙語",
       "kind": "fb"
     }
