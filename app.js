@@ -388,10 +388,12 @@ function renderCoverage() {
   }
   const body = table.createTBody();
   const known = new Map(report.coverage.visited.map(([month, state, count]) => [month, [state, count]]));
-  const states = { partial: '當月部分', scanned: '讀到跨月', located: '原文已定位', empty: '介面無結果', pending: '待查' };
-  const symbols = { located: '有', empty: '空', pending: '—' };
+  const pageOrigin = report.coverage.pageOrigin;
+  const states = { partial: '當月部分', scanned: '讀到跨月', located: '原文已定位', empty: '介面無結果', before: '早於粉專建立日', pending: '待查' };
+  const symbols = { located: '有', empty: '空', before: '未建', pending: '—' };
   let pending = 0;
   let inScope = 0;
+  let beforeCreation = 0;
   for (let year = 2017; year <= 2025; year++) {
     const row = body.insertRow();
     const label = element('th', '', String(year));
@@ -405,9 +407,11 @@ function renderCoverage() {
         continue;
       }
       inScope++;
-      const [state, count] = known.get(key) || ['pending', 0];
+      const [recordedState, count] = known.get(key) || ['pending', 0];
+      const state = pageOrigin && key < pageOrigin.date.slice(0, 7) && !count ? 'before' : recordedState;
       if (state === 'pending') pending++;
-      cell.className = state;
+      if (state === 'before') beforeCreation++;
+      cell.className = state === 'before' ? 'pending' : state;
       const spoken = year + ' 年 ' + month + ' 月，' + states[state] + (count ? '，收錄 ' + count + ' 則' : '');
       cell.title = spoken;
       if (count) {
@@ -430,11 +434,19 @@ function renderCoverage() {
   }
   const coverageSummary = pending
     ? `範圍 ${inScope} 個月，${pending} 個月待查。`
-    : `${inScope} 個月都有初次查核紀錄。各月實際發文總數仍待對帳。`;
+    : beforeCreation
+      ? `查核範圍 ${inScope} 個月，其中 ${beforeCreation} 個月早於粉專建立日。其餘月份已初查，實際發文總數仍待對帳。`
+      : `${inScope} 個月都有初次查核紀錄。各月實際發文總數仍待對帳。`;
   const timeSummary = unverifiedTimeCount
     ? `${unverifiedTimeCount} 則發文時刻待核。`
     : '已收錄的貼文皆有發文時刻，有介面讀值差異者逐篇附註。';
   get('coverage-note').textContent = `${coverageSummary}已封存 ${storedText.size} 則文字，${pendingTextCount} 則文字待查，${noVisibleText.size} 則未見獨立正文，${indexOnly.size} 則僅留索引。${timeSummary}`;
+  if (pageOrigin) {
+    const [year, month, day] = pageOrigin.date.split('-').map(Number);
+    const originLink = element('a', '', '查閱 Facebook 粉專透明度');
+    originLink.href = pageOrigin.url;
+    get('coverage-origin').append(`此粉專於 ${year} 年 ${month} 月 ${day} 日建立。`, originLink);
+  }
 }
 
 get('hero-posts').textContent = String(postCount);

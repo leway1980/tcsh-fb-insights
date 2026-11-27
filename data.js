@@ -86,7 +86,7 @@ window.reportData = {
       [
         "2018-12",
         "partial",
-        7
+        11
       ],
       [
         "2019-01",
@@ -236,7 +236,7 @@ window.reportData = {
       [
         "2021-06",
         "partial",
-        7
+        9
       ],
       [
         "2021-07",
@@ -396,7 +396,7 @@ window.reportData = {
       [
         "2024-02",
         "partial",
-        4
+        7
       ],
       [
         "2024-03",
@@ -1822,7 +1822,13 @@ window.reportData = {
         "fb-1431",
         "fb-1432",
         "fb-1433",
-        "fb-1434"
+        "fb-1434",
+        "fb-1435",
+        "fb-1436",
+        "fb-1437",
+        "fb-1438",
+        "fb-1439",
+        "fb-1440"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1845,7 +1851,8 @@ window.reportData = {
         "fb-1233",
         "fb-1263",
         "fb-1323",
-        "fb-1415"
+        "fb-1415",
+        "fb-1442"
       ],
       "indexOnly": [
         "fb-81",
@@ -1947,8 +1954,14 @@ window.reportData = {
         "fb-1377",
         "fb-1381",
         "fb-1385",
-        "fb-1400"
+        "fb-1400",
+        "fb-1441",
+        "fb-1443"
       ]
+    },
+    "pageOrigin": {
+      "date": "2017-11-05",
+      "url": "https://www.facebook.com/tcsh.edu/about_profile_transparency"
     }
   },
   "topics": [
@@ -33822,6 +33835,196 @@ window.reportData = {
       ],
       "title": "慈大附中四區同步辦理第二次招生說明會",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1435",
+      "year": 2021,
+      "published": "2021-06-23",
+      "time": "19:23",
+      "activity": "",
+      "notes": [
+        "官帖提醒 6 月 23 日晚上舉辦線上招生說明會，並預告密室逃脫抽獎。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0351cuWunGugxP9Ke7WxmxZdgQKxGi1tDzGBwyUrw3iSKyW6XZN5siN61KTaVuF2zRl"
+        }
+      ],
+      "title": "慈中線上招生說明會與密室逃脫抽獎公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1436",
+      "year": 2021,
+      "published": "2021-06-21",
+      "time": "19:31",
+      "activity": "",
+      "notes": [
+        "官帖邀請關注 6 月 21 日晚間招生說明會，並提示有神秘嘉賓。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02LK4Zf1f4GnJ55weuGq2QFaNxpV1WLvWUXq7tHZbur8ETTjrLknbQzNbPpt9YK5Jml"
+        }
+      ],
+      "title": "慈中線上招生說明會當晚預告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1437",
+      "year": 2024,
+      "published": "2024-02-21",
+      "time": "22:38",
+      "activity": "",
+      "notes": [
+        "官帖記錄馬來西亞姊妹校師長訪校，與慈中的教師及家長志工交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02osa3mTiGpSSgizacf9iCAgCUrsLzWCj4oDFaEBBXTjYSYs3H64zk9eYg6iqsszshl"
+        }
+      ],
+      "title": "馬來西亞江沙崇華獨立中學到訪慈中",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1438",
+      "year": 2018,
+      "published": "2018-12-20",
+      "time": "16:28",
+      "activity": "",
+      "notes": [
+        "官帖記錄高三學生考前的閉關衝刺祝福，由校方師長、家長及慈濟師父共同參與。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0QHpkzUK1MHJBVUoGLPEkLcaJQR6PyWbqE6C9rWkp67a3Br2dBMEKVqCPnKJ3hrVPl"
+        }
+      ],
+      "title": "高三閉關衝刺祝福活動",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1439",
+      "year": 2018,
+      "published": "2018-12-07",
+      "time": "09:15",
+      "activity": "",
+      "notes": [
+        "官帖分享名家講座新聞，主題包括野生動物保育及青年國際視野。封存官帖開頭標題。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0sPMhYrwtatSFD4VcGE1nK9FtWTtHVLuWb8sPUNQYf44NJLuDMRTGs3Ltri6cqavWl"
+        }
+      ],
+      "title": "圖書館名家講座談保育與青年國際視野（節錄）",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1440",
+      "year": 2018,
+      "published": "2018-12-07",
+      "time": "01:13",
+      "activity": "",
+      "notes": [
+        "官帖記錄修學團體跟著接待家庭做農事、參訪蘋果產業及津輕地區的文學和祭典。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02p86X7ejQ8bm6hrjvaLgv1sdUWBYzoRyi3K8GY3m9n5B5BSh5XT8AityrW5bCu8nzl"
+        }
+      ],
+      "title": "青森國際修學第四天走訪農家與津輕文化",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1441",
+      "year": 2018,
+      "published": "2018-12-05",
+      "time": "23:38",
+      "activity": "",
+      "notes": [
+        "官帖正文涉及具名學生及家庭互動，保留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0TJzo1YuWTLbzRS1K76iFxJH7d7Hrbu5DyEiXFxiDe2CadkwV2S4u8KBNzwHritLul"
+        }
+      ],
+      "title": "校園動態（索引）",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1442",
+      "year": 2024,
+      "published": "2024-02-22",
+      "time": "22:05",
+      "activity": "",
+      "notes": [
+        "官粉外層未見獨立正文，分享的 2 月 21 日交流貼文另有原址。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Rx3BF2ETF1anjB7MW9bj9FNL8b8aDdCYgXi7vYwR9V5tr1swydw2DDy6nuDgVdfUl"
+        }
+      ],
+      "title": "官粉分享馬來西亞姊妹校交流官帖",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "列表顯示 22:05，同原址單篇顯示 06:05；兩介面日期皆為 2 月 22 日。"
+    },
+    {
+      "id": "fb-1443",
+      "year": 2024,
+      "published": "2024-02-02",
+      "time": "18:00",
+      "activity": "",
+      "notes": [
+        "官帖為科展消息，正文涉及個別學生資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ny3PYSDwYZExGFujqrRjSNrsTku9QV9zoCmXLrPTzcnwANuRNuKQESq3ZRVrUyZql"
+        }
+      ],
+      "title": "科展消息（索引）",
+      "topic": "競賽與成果",
       "kind": "fb"
     }
   ]
