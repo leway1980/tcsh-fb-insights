@@ -206,17 +206,17 @@ window.reportData = {
       [
         "2020-12",
         "partial",
-        8
+        10
       ],
       [
         "2021-01",
         "partial",
-        6
+        8
       ],
       [
         "2021-02",
         "partial",
-        5
+        6
       ],
       [
         "2021-03",
@@ -331,7 +331,7 @@ window.reportData = {
       [
         "2023-01",
         "partial",
-        8
+        10
       ],
       [
         "2023-02",
@@ -1783,7 +1783,13 @@ window.reportData = {
         "fb-1390",
         "fb-1391",
         "fb-1392",
-        "fb-1393"
+        "fb-1393",
+        "fb-1394",
+        "fb-1395",
+        "fb-1396",
+        "fb-1397",
+        "fb-1398",
+        "fb-1399"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1906,7 +1912,8 @@ window.reportData = {
         "fb-1352",
         "fb-1377",
         "fb-1381",
-        "fb-1385"
+        "fb-1385",
+        "fb-1400"
       ]
     }
   },
@@ -16394,7 +16401,8 @@ window.reportData = {
       "activity": "",
       "notes": [
         "貼文回顧高中多元選修，課程結合認識在地農產、菜園實作及跨領域教學。",
-        "教學團隊分享不同年度的種植與收成經驗。"
+        "教學團隊分享不同年度的種植與收成經驗。",
+        "兩個官帖入口的日期錨點與可見正文一致。"
       ],
       "media": "相片",
       "partial": false,
@@ -16448,7 +16456,8 @@ window.reportData = {
       ],
       "title": "附小聖誕快閃",
       "topic": "校慶、藝文與體育",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 23:05，原址及另一入口的單篇顯示 07:05。兩個官帖入口的日期錨點與可見正文一致。"
     },
     {
       "id": "fb-622",
@@ -32903,6 +32912,154 @@ window.reportData = {
       ],
       "title": "夜市遊戲學機率與水土保持防災特展",
       "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1394",
+      "year": 2020,
+      "published": "2020-12-25",
+      "time": "11:42",
+      "activity": "",
+      "notes": [
+        "中外籍英語教師以聖誕故事、歌曲、套圈圈及英語闖關將語言學習融入活動。",
+        "封存文字省略三行歌曲歌詞。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0aXpQ4nKCkayfi3FhQRQuY1tWLZEVSzH2YjPjfxznB5B2wmc5LqtiX3dQ7jW88iMfl"
+        }
+      ],
+      "title": "附小聖誕英語日闖關",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1395",
+      "year": 2020,
+      "published": "2020-12-28",
+      "time": "16:13",
+      "activity": "",
+      "notes": [
+        "附小潔能成果展以太陽能車船、稻稈應用、能源教具和密室解謎帶領學生認識節能。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Yws1k8py4igDemFQtDpc8HmJM9zWNGAPJWwL1sF1kGzMzPMmHEf5AGG6brqB7qMQl"
+        }
+      ],
+      "title": "宜花東潔能教育成果展",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1396",
+      "year": 2021,
+      "published": "2021-01-17",
+      "time": "08:50",
+      "activity": "",
+      "notes": [
+        "附小與大學團隊合作，讓小學生動手認識太陽能、風力、生質能源及電磁現象。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0218RseERA3TJ3pAWv5TGe89StwesoeU56rBcXPkGXUXJ2o651M85qnYij3aZnxwYml"
+        }
+      ],
+      "title": "附小潔能科學營動手做綠能",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1397",
+      "year": 2023,
+      "published": "2023-01-22",
+      "time": "00:00",
+      "activity": "",
+      "notes": [
+        "官帖以兔年諧音祝福新年，附慈中招生資訊。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023eLM4zk4LwgS4FP8ngtrzNYaZQMKfNSrgCme67mi5q8cGJatnnpvVYnn2SAE6EYTl"
+        }
+      ],
+      "title": "兔年新春祝福與招生提醒",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1398",
+      "year": 2023,
+      "published": "2023-01-17",
+      "time": "08:51",
+      "activity": "",
+      "notes": [
+        "官帖記錄附小招生說明會，介紹人文、雙語、科學探究、社團及校隊，並邀請家長參與體驗營。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0xa85EF8K9zcZN6z5LaPCaPcoPtLDuayzSmXLDamDy4JkiFw6EdEK1pUJFD9Yfpvrl"
+        }
+      ],
+      "title": "附小第三場招生說明會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1399",
+      "year": 2021,
+      "published": "2021-01-12",
+      "time": "17:45",
+      "activity": "",
+      "notes": [
+        "官帖記錄寒夜提供熱食，並以快問快答帶住宿學生討論生活自理。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02hh2v26vAyrYeJEPUspCy5VdcvnBoZKBrjWLRRbUWV8KsqErvPQLd13XzZ9Wcmzodl"
+        }
+      ],
+      "title": "住校國一晚自習後的生活自理活動",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1400",
+      "year": 2021,
+      "published": "2021-02-25",
+      "time": "08:24",
+      "activity": "",
+      "notes": [
+        "官帖分享學生考試成果。正文涉及具名個別成績，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0AJHRNSskdm9Fv8zh6GJQLR4yg8Q2iAzHYZDZaqeGSpBUaxrfwcC4FzHBq2QdEeBBl"
+        }
+      ],
+      "title": "官帖分享學生考試成果",
+      "topic": "競賽與成果",
       "kind": "fb"
     }
   ]
