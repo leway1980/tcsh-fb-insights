@@ -107,6 +107,11 @@ window.reportData = {
         "2024-12",
         "partial",
         45
+      ],
+      [
+        "2024-11",
+        "partial",
+        10
       ]
     ],
     "asOf": "2026-11-27"
@@ -10886,6 +10891,217 @@ window.reportData = {
       ],
       "title": "教師閱讀增能工作坊涵蓋媒體資訊判讀、數位公民與批判思考",
       "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-454",
+      "year": 2024,
+      "published": "2024-11-29",
+      "time": "18:04",
+      "activity": "",
+      "notes": [
+        "轉分享盛岡第一高校訪校交流。粉專正文已展開或完整顯示"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02BLEq4VKrsm4n9tWT9doK4BLV4Hy1owLySsQdiGcpus14ekNijZUThQGQoCxeqQd6l"
+        }
+      ],
+      "title": "轉分享盛岡第一高校訪校交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-455",
+      "year": 2024,
+      "published": "2024-11-29",
+      "time": "17:56",
+      "activity": "",
+      "notes": [
+        "與史瓦帝尼圓通中學視訊文化交流",
+        "同篇另預告 2024-12-07 在三重體育館舉辦成果展"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0bBou7E6vWGf95TdmiGwjckAzhq5o3pvzSzximai7bsieVZJ4rDBAe9dDGFo5oLgl"
+        }
+      ],
+      "title": "與史瓦帝尼圓通中學視訊文化交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-456",
+      "year": 2024,
+      "published": "2024-11-29",
+      "time": "17:27",
+      "activity": "",
+      "notes": [
+        "中學生網站小論文競賽七篇獲獎。粉專正文已展開或完整顯示"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid032yTKKdA8QvBaFtp4KUTAWGojtSUZ8J3dGFRnLEQMhR7AGi6oE9nLPSUuChjwNzmWl"
+        }
+      ],
+      "title": "中學生網站小論文競賽七篇獲獎",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-457",
+      "year": 2024,
+      "published": "2024-11-28",
+      "time": "09:52",
+      "activity": "2024-11-22",
+      "notes": [
+        "高二參訪慈濟大學及東華大學探索學系。粉專正文已展開或完整顯示"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02sKeH4kPPbBG2WhKqVgTbE9KypXJQvsnnv4MLmSZd9Evb9RCg9996jXwE6xL53zRgl"
+        }
+      ],
+      "title": "高二參訪慈濟大學及東華大學探索學系",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-458",
+      "year": 2024,
+      "published": "2024-11-27",
+      "time": "11:33",
+      "activity": "",
+      "notes": [
+        "全國學生美術比賽決賽佳作。粉專正文已展開或完整顯示"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0seD9cRbEr3pBxud8CtDwDqyMFeC7sxKdyKvqMYBDek3TTaYNV2wjD3XXKy3aUyecl"
+        }
+      ],
+      "title": "全國學生美術比賽決賽佳作",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-459",
+      "year": 2024,
+      "published": "2024-11-27",
+      "time": "10:45",
+      "activity": "",
+      "notes": [
+        "分享盛岡第一高校第三度來訪新聞。粉專正文已展開或完整顯示"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02YVYR2537tkQJ31qybFVyAws9VpusofVmNEPnNYT9AdzPDgquKNCjHwN5v6Qi1Pc2l"
+        }
+      ],
+      "title": "分享盛岡第一高校第三度來訪新聞",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-460",
+      "year": 2024,
+      "published": "2024-11-26",
+      "time": "11:13",
+      "activity": "",
+      "notes": [
+        "全國語文競賽獲兩項特優及四項優等。粉專正文已展開或完整顯示"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0j9fyAPjftz4CWRpNxysZjcABXLgxSKJW8L6xdXNpyvnFaqqJUJVmaWTcS7aFPJa5l"
+        }
+      ],
+      "title": "全國語文競賽獲兩項特優及四項優等",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-461",
+      "year": 2024,
+      "published": "2024-11-25",
+      "time": "18:46",
+      "activity": "",
+      "notes": [
+        "預告全國語文競賽佳績。粉專正文已展開或完整顯示"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0mQHeznQ8ED6pk25xZ9TtT25rwSh2gefaxxQN2ngFh5swe9fGXg8ba1V6XWqtdPSul"
+        }
+      ],
+      "title": "預告全國語文競賽佳績",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-462",
+      "year": 2024,
+      "published": "2024-11-25",
+      "time": "18:28",
+      "activity": "",
+      "notes": [
+        "更生盃數學競賽中學部獲獎。粉專正文已展開或完整顯示"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Qf1XnZq82F6zpQ6ZNjDWeHcBMxKWkNZRnhX4ZoztLrkfLfkEPADtnRJCqYixomaPl"
+        }
+      ],
+      "title": "更生盃數學競賽中學部獲獎",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-463",
+      "year": 2024,
+      "published": "2024-11-14",
+      "time": "10:12",
+      "activity": "2024-12-21",
+      "notes": [
+        "分享慈中二十五週年校慶節目。粉專正文已展開或完整顯示"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022YLWkEU8KUZByzHYt3nqt1R6wPNekzfvb9aHc2sYHiXPire2mJh3pVD2pQx6Lek6l"
+        }
+      ],
+      "title": "分享慈中二十五週年校慶節目",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     }
   ]
