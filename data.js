@@ -72,6 +72,11 @@ window.reportData = {
         "2025-07",
         "partial",
         47
+      ],
+      [
+        "2025-06",
+        "partial",
+        11
       ]
     ],
     "asOf": "2026-11-27"
@@ -8288,6 +8293,237 @@ window.reportData = {
       ],
       "title": "新馬修學出發準備",
       "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-332",
+      "year": 2025,
+      "published": "2025-06-29",
+      "time": "23:49",
+      "activity": "",
+      "notes": [
+        "慈濟未來菁英國際探索營出發，正文截斷待核；07/10 截止見"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GhGekuiAJku4hDdpua1VobnCn3hwTcBusjeGQfShcB2feZSwqERcrxBM6EMBRonUl"
+        }
+      ],
+      "title": "慈濟未來菁英國際探索營出發",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-333",
+      "year": 2025,
+      "published": "2025-06-26",
+      "time": "18:12",
+      "activity": "",
+      "notes": [
+        "橫跨玉山山脈，國際教育啟航，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0coXRjCXQNAXX68zZAdsNLHTVDFnt4fMo2x3GYPkD9JefeHaWn6KsU8fSMSLvQFrXl"
+        }
+      ],
+      "title": "橫跨玉山山脈",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-334",
+      "year": 2025,
+      "published": "2025-06-20",
+      "time": "08:40",
+      "activity": "",
+      "notes": [
+        "官方轉分享大愛電視節目，自己寫下適性揚才、全人教育及不同志向的學生努力。粉專正文已展開，影片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0bjvwptrWmHrgMtN27UusKC4TPxsAm5VDUt79aJ344QDioFhdP6S4ir6GN4EURELKl"
+        }
+      ],
+      "title": "官方轉分享大愛電視節目",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-335",
+      "year": 2025,
+      "published": "2025-06-13",
+      "time": "20:00",
+      "activity": "",
+      "notes": [
+        "高一多元選修製作法式吐司，認識浸蛋液、煎製與法國飲食文化。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02yXi4ji7EazWtUjLenb3csmgfsrjauSTvWgpVnb917w8dGygUvmpSA7P7LAhzcCdjl"
+        }
+      ],
+      "title": "高一多元選修製作法式吐司",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-336",
+      "year": 2025,
+      "published": "2025-06-13",
+      "time": "13:09",
+      "activity": "",
+      "notes": [
+        "校方報告截至六月中旬透過多元入學管道，六成學生錄取國立大學或醫學相關科系，並述及選系、選校與生涯探索。正文已展開，數字為校方說法"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid026UUbzNUDqxdvnJfueCUmc2W3VkpeMFT4qb5XmtJUPzDWywFffj2JTvTh4BvC8c5Al"
+        }
+      ],
+      "title": "校方報告截至六月中旬透過多元入學管道",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-337",
+      "year": 2025,
+      "published": "2025-06-13",
+      "time": "12:50",
+      "activity": "",
+      "notes": [
+        "暑期五國交流團授旗，包含美國、泰國、新加坡、馬來西亞及印尼，交流內容含科技、雙聯、服務與長者陪伴。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid09Dbbe7f7kYB5Qr8LX1ceXncQQ6i9b4P6ZbaZm1U7mLZgMBYQr8hgXcisxF3Fneddl"
+        }
+      ],
+      "title": "暑期五國交流團授旗",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-338",
+      "year": 2025,
+      "published": "2025-06-11",
+      "time": "22:18",
+      "activity": "",
+      "notes": [
+        "國小、國中、高中三組代表花蓮縣參加全國科展，授旗並分享探索與嘗試。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0rzRXAJTDdPbNsHyCCuGRar9fXtuPRiX9t6k51Ak4vLxtwzY7K5uDtsx5XwbbLjvzl"
+        }
+      ],
+      "title": "國小、國中、高中三組代表花蓮縣參加全國科展",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-339",
+      "year": 2025,
+      "published": "2025-06-10",
+      "time": "17:14",
+      "activity": "2025-07-25",
+      "notes": [
+        "濟天之翼火箭隊晉級台灣盃全國決賽，規劃 07/25 屏東旭海發射，述及設計、航電、酬載及回收訓練。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0246ertbzeEzP1oL2aJrsrPokGV2NZBX9rfSrmBCxUFMyh6tTMoemgf7cMJLaauCTfl"
+        }
+      ],
+      "title": "濟天之翼火箭隊晉級台灣盃全國決賽",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-340",
+      "year": 2025,
+      "published": "2025-06-07",
+      "time": "18:20",
+      "activity": "",
+      "notes": [
+        "113學年度畢業典禮，幼兒園至高中 532 位畢業生、19 位取得慈中與美國 MCI 雙聯證書。正文已展開，數字為校方說法"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid028LA8sSH74A37YiPu85kbdkjhyKMujxmPEiGwtWZJS46JxKjiZuUuaDB82wU4X4kSl"
+        }
+      ],
+      "title": "113學年度畢業典禮",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-341",
+      "year": 2025,
+      "published": "2025-06-06",
+      "time": "16:56",
+      "activity": "",
+      "notes": [
+        "校方報告會考成果，包含兩位 5A 且作文滿級分、十位全科精熟，並分享學習歷程。正文已展開，數字為校方說法"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02c3wEM2dKENsahuNjmPxYdqJJHL1GxXedwkeWzz2fLxArrDCaT1uDvxhTAMaPwwwl"
+        }
+      ],
+      "title": "校方報告會考成果",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-342",
+      "year": 2025,
+      "published": "2025-06-03",
+      "time": "17:21",
+      "activity": "2025-06-07",
+      "notes": [
+        "公告 06/07 14:00–16:40 於花蓮靜思堂舉行 113 學年度畢業典禮。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02XBroJPNChKhot36JT4fk5oLEeDd3i5MqHYD799W3N2cenuiMUpE6WYSyEeuWTDMKl"
+        }
+      ],
+      "title": "公告 06/07 14:00–16:40 於花蓮靜思堂舉行 113 學年度畢業典禮。正文已展開",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
