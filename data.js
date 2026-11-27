@@ -156,17 +156,17 @@ window.reportData = {
       [
         "2020-02",
         "partial",
-        4
+        5
       ],
       [
         "2020-03",
         "partial",
-        4
+        5
       ],
       [
         "2020-04",
         "partial",
-        4
+        5
       ],
       [
         "2020-05",
@@ -176,7 +176,7 @@ window.reportData = {
       [
         "2020-06",
         "partial",
-        4
+        6
       ],
       [
         "2020-07",
@@ -735,9 +735,19 @@ window.reportData = {
         "fb-347",
         "fb-352",
         "fb-353",
+        "fb-354",
+        "fb-355",
+        "fb-356",
         "fb-358",
         "fb-359",
         "fb-360",
+        "fb-361",
+        "fb-362",
+        "fb-363",
+        "fb-364",
+        "fb-365",
+        "fb-366",
+        "fb-367",
         "fb-371",
         "fb-372",
         "fb-389",
@@ -1336,7 +1346,11 @@ window.reportData = {
         "fb-1040",
         "fb-1041",
         "fb-1043",
-        "fb-1044"
+        "fb-1044",
+        "fb-1045",
+        "fb-1046",
+        "fb-1047",
+        "fb-1048"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1344,6 +1358,7 @@ window.reportData = {
         "fb-97",
         "fb-177",
         "fb-187",
+        "fb-357",
         "fb-1028",
         "fb-1029"
       ],
@@ -1354,6 +1369,7 @@ window.reportData = {
         "fb-293",
         "fb-340",
         "fb-341",
+        "fb-351",
         "fb-893",
         "fb-906",
         "fb-1011",
@@ -1364,7 +1380,8 @@ window.reportData = {
         "fb-1026",
         "fb-1030",
         "fb-1032",
-        "fb-1042"
+        "fb-1042",
+        "fb-1049"
       ]
     }
   },
@@ -10032,10 +10049,10 @@ window.reportData = {
       "time": "18:53",
       "activity": "",
       "notes": [
-        "高三成年禮介紹造血幹細胞捐贈，畢業考後 11 人參與驗血。正文已展開。"
+        "官粉記錄高三成年禮中的捐贈觀念介紹。正文涉及學生個人資訊，僅留安全索引。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -10044,7 +10061,8 @@ window.reportData = {
       ],
       "title": "高三成年禮介紹造血幹細胞捐贈",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 18:53，單篇畫面顯示 03:53，兩讀值待核。"
     },
     {
       "id": "fb-352",
@@ -10096,7 +10114,7 @@ window.reportData = {
       "time": "09:00",
       "activity": "",
       "notes": [
-        "國二雙語班以英語體驗新聞播報、大稻埕走讀及藝術展，結合語言與文化。正文已展開。"
+        "國二雙語班用英語體驗新聞播報、大稻埕走讀與藝術展，封存文字遮蔽學生姓名。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10108,7 +10126,8 @@ window.reportData = {
       ],
       "title": "國二雙語班以英語體驗新聞播報、大稻埕走讀及藝術展",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期錨點初載顯示 4 月 23 日，載入後顯示 4 月 24 日 09:00。"
     },
     {
       "id": "fb-355",
@@ -10117,7 +10136,7 @@ window.reportData = {
       "time": "17:29",
       "activity": "",
       "notes": [
-        "第三場招生說明會，學校介紹與家長、畢業生經驗分享。正文已展開。"
+        "第三場招生說明會包含學校介紹、家長經驗與高三學生分享。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10129,7 +10148,8 @@ window.reportData = {
       ],
       "title": "第三場招生說明會",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 17:29，單篇畫面顯示 02:29，兩讀值待核。"
     },
     {
       "id": "fb-356",
@@ -10138,10 +10158,10 @@ window.reportData = {
       "time": "20:48",
       "activity": "",
       "notes": [
-        "MCI 校長來台頒發美國高中文憑，分享素材待核。"
+        "官粉短文記錄美國緬因中央中學校長來台頒發美國高中文憑。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -10159,7 +10179,7 @@ window.reportData = {
       "time": "19:33",
       "activity": "",
       "notes": [
-        "慈濟59週年精舍準備壽桃分享師生，正文已展開。"
+        "公開官粉卡未見獨立正文，保留日期時間與連結。"
       ],
       "media": "影片",
       "partial": true,
@@ -10245,7 +10265,7 @@ window.reportData = {
       "time": "12:38",
       "activity": "",
       "notes": [
-        "花蓮縣英語動態競賽高中讀者劇場特優、國中說故事第一等成果。正文已展開。"
+        "粉專記錄縣內英語讀者劇場、說故事、歌唱及演講的校隊成果，封存文字遮蔽學生名單。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10255,7 +10275,7 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02jzVHomCmStT2HvZKL2YS8tZN7AQjUHciuKsQhxhHrgPzMbX9LtMFuNLW39wGG1SWl"
         }
       ],
-      "title": "花蓮縣英語動態競賽高中讀者劇場特優、國中說故事第一等成果。正文已展開",
+      "title": "花蓮縣學生英語動態競賽",
       "topic": "競賽與成果",
       "kind": "fb"
     },
@@ -10266,7 +10286,7 @@ window.reportData = {
       "time": "21:38",
       "activity": "",
       "notes": [
-        "精舍路跑 25 年，師生沿 8.6 公里路線到精舍。正文已展開。"
+        "精舍路跑邁入第 25 年，師生和慈誠懿德從校園沿 8.6 公里路線前往精舍。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10278,7 +10298,8 @@ window.reportData = {
       ],
       "title": "精舍路跑 25 年",
       "topic": "校慶、藝文與體育",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 21:38，單篇畫面顯示 06:38，兩讀值待核。"
     },
     {
       "id": "fb-363",
@@ -10287,7 +10308,7 @@ window.reportData = {
       "time": "11:39",
       "activity": "",
       "notes": [
-        "愛閱週高一二班級選書師入班說書。正文已展開。"
+        "愛閱週開始，高一、高二進行班級選書與入班說書。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10297,7 +10318,7 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0c4iRfkfkSmZcF3ptDC4AhDG97oVaqFqnPopKFKp36H9kFwCoeq7hEZBe9BfpEZdjl"
         }
       ],
-      "title": "愛閱週高一二班級選書師入班說書。正文已展開",
+      "title": "愛閱週班級選書與入班說書",
       "topic": "課程與專題",
       "kind": "fb"
     },
@@ -10308,7 +10329,7 @@ window.reportData = {
       "time": "12:00",
       "activity": "",
       "notes": [
-        "花蓮縣賽國中八年級大隊接力第二，校方稱創校史最佳紀錄。正文已展開。"
+        "國中八年級大隊接力獲縣賽第二，粉專記錄練習與團隊合作。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10329,10 +10350,10 @@ window.reportData = {
       "time": "10:36",
       "activity": "",
       "notes": [
-        "第 33 所姐妹校相關影片分享，正文已展開。"
+        "官粉以短文記錄第 33 所姐妹校，並分享連結。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -10350,7 +10371,7 @@ window.reportData = {
       "time": "11:11",
       "activity": "2025-04-01",
       "notes": [
-        "04/01 美國 Bret Harte 小學師生來訪，簽訂姐妹校合作，學生參與課堂和茶道。正文已展開。"
+        "與美國 Bret Harte 小學締結姐妹校，安排電腦、數學課及茶道交流。封存文字遮蔽學生姓名。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10371,7 +10392,7 @@ window.reportData = {
       "time": "09:24",
       "activity": "",
       "notes": [
-        "介紹課程、社團、國際交流與住宿並宣傳招生說明會。正文已展開。"
+        "粉專介紹課程、社團、交流與住宿，並宣傳招生說明會。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10381,7 +10402,7 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02HC6nuxRQ8F8oUvYqK71vF58Ya76NRhgqoYX2epeM6mFn1LphqYzdnWRqbWr3tswcl"
         }
       ],
-      "title": "介紹課程、社團、國際交流與住宿並宣傳招生說明會。正文已展開",
+      "title": "課程、社團與住宿介紹及招生說明會",
       "topic": "招生與校園生活",
       "kind": "fb"
     },
@@ -22609,7 +22630,7 @@ window.reportData = {
       "time": "20:09",
       "activity": "",
       "notes": [
-        "已核對粉專附上的簡短文字，分享附圖待核。"
+        "粉專轉分享校友營養師資訊，自有短文已封存。另一入口核為同一則。"
       ],
       "media": "轉分享相片",
       "partial": true,
@@ -22621,7 +22642,8 @@ window.reportData = {
       ],
       "title": "粉專轉分享校友營養師訊息",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 20:09，兩網址的官粉外層均顯示 05:09，兩讀值待核。"
     },
     {
       "id": "fb-943",
@@ -24769,6 +24791,111 @@ window.reportData = {
         }
       ],
       "title": "國小小志工與校長茶敘",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1045",
+      "year": 2020,
+      "published": "2020-02-19",
+      "time": "21:37",
+      "activity": "",
+      "notes": [
+        "校方記錄開學前的防疫小組會議、物資盤點、校門措施和用餐動線。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0qj9HJK2Sh8jwSyJnN7Tx9gcTqsYYfDdRyXmfY2dE45Xz5P652RarBH4G3HJjiLgdl"
+        }
+      ],
+      "title": "開學前的校園防疫準備",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1046",
+      "year": 2020,
+      "published": "2020-03-19",
+      "time": "12:21",
+      "activity": "",
+      "notes": [
+        "附幼在主題課程分享環境清潔、肢體活動與飲食等生活習慣。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/216131029469674/"
+        }
+      ],
+      "title": "附幼防疫小尖兵主題課程",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1047",
+      "year": 2020,
+      "published": "2020-04-14",
+      "time": "11:31",
+      "activity": "",
+      "notes": [
+        "官粉感謝校友參與校園介紹，並公告國中與高中部招生說明會。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/512773712722996/"
+        }
+      ],
+      "title": "校友參與及 109 學年度招生說明",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1048",
+      "year": 2020,
+      "published": "2020-06-13",
+      "time": "11:20",
+      "activity": "",
+      "notes": [
+        "均質化活動邀請多校國中生玩桌遊，從遊戲機制練習寫故事。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0DrUN75pFPpXXRdkM5hLEGFyymjAvAPHPYbqH4c4o8KoQeFWZX2B5gzg3ZKhRa8Yyl"
+        }
+      ],
+      "title": "跨校國中生文學桌遊工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1049",
+      "year": 2020,
+      "published": "2020-06-15",
+      "time": "20:17",
+      "activity": "",
+      "notes": [
+        "師生前往派出所表達感謝。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0pCFFhLftzwfBbhCQmMbgvvoNNHVyFYGCeYoijn6fveu8fPJb3bCBAFfRed7PvNa8l"
+        }
+      ],
+      "title": "國小警察節感恩活動",
       "topic": "生命教育與服務",
       "kind": "fb"
     }
