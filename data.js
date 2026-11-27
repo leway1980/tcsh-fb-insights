@@ -19,6 +19,16 @@ window.reportData = {
         62
       ],
       [
+        "2018-02",
+        "partial",
+        4
+      ],
+      [
+        "2018-03",
+        "partial",
+        5
+      ],
+      [
         "2018-04",
         "partial",
         7
@@ -74,6 +84,11 @@ window.reportData = {
         4
       ],
       [
+        "2020-08",
+        "partial",
+        3
+      ],
+      [
         "2020-09",
         "partial",
         4
@@ -92,6 +107,16 @@ window.reportData = {
         "2020-12",
         "partial",
         3
+      ],
+      [
+        "2021-03",
+        "partial",
+        4
+      ],
+      [
+        "2021-04",
+        "partial",
+        4
       ],
       [
         "2021-05",
@@ -20471,6 +20496,427 @@ window.reportData = {
         }
       ],
       "title": "9 月 10 日官帖，正文待核",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-887",
+      "year": 2018,
+      "published": "2018-03-31",
+      "time": "19:50",
+      "activity": "",
+      "notes": [
+        "消防、環保、稅務、醫療和生活禮儀融入闖關，惜福市場義賣所得捐助 0206 花蓮地震。已核對貼文說明，影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1779385145704011/"
+        }
+      ],
+      "title": "附小兒童嘉年華闖關與地震捐助",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-888",
+      "year": 2018,
+      "published": "2018-03-31",
+      "time": "15:57",
+      "activity": "",
+      "notes": [
+        "學童自行組隊、報名及練習，節目有歌唱、相聲、武術與扯鈴。已核對可見文字，圖片型表情符號可能缺漏。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0jQR5qkdFEH87KLJndDWPzb3dhwNotxp1DGHfJA6NSGz66RGimQdKsqN8SpntB4ACl"
+        }
+      ],
+      "title": "附小兒童節才藝大賽",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-889",
+      "year": 2018,
+      "published": "2018-03-20",
+      "time": "09:26",
+      "activity": "",
+      "notes": [
+        "為三名高一學生的減塑主題作品邀請投票，貼文記載當日中午截止。外部投票頁待核。"
+      ],
+      "media": "外部投票頁",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02SnJoY9HaJr7bDxQb79bKHsP45zN5iig2XedBbxZ1RG3r95xVJ8rvrUSF41Zs9giWl"
+        }
+      ],
+      "title": "高中生環保作品的網路人氣獎投票",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-890",
+      "year": 2018,
+      "published": "2018-03-17",
+      "time": "14:25",
+      "activity": "2018-03-17",
+      "notes": [
+        "準小一親子體驗英語、國語、美勞及趣味數學。同日貼文也記錄繪畫比賽頒獎。影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1773671762942016/"
+        }
+      ],
+      "title": "附小招生說明與繪畫比賽頒獎",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-891",
+      "year": 2018,
+      "published": "2018-03-10",
+      "time": "10:07",
+      "activity": "2018-03-09",
+      "notes": [
+        "導師和家長交流班級經營、課業、生活教育及學校活動。發文在活動隔日。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02JBDbZBndVu3FDSDv4mPKpcPf7MkQ4JhXa4yocfTpEPxqQq9YyNu9ZjXuGiEJKcy8l"
+        }
+      ],
+      "title": "附小學校日與親師交流",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-892",
+      "year": 2020,
+      "published": "2020-08-31",
+      "time": "21:41",
+      "activity": "2020-08-31",
+      "notes": [
+        "貼文記載全園迎接 180 名幼兒，其中 80 名新生。教師以陪伴、點心與課程協助孩子適應開學。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02o1DzJ2nAqiRG44x3mevcrVh4G9QQAWuYkSemykjGNmTfSyv16Fu3FWCrPhan3QaNl"
+        }
+      ],
+      "title": "附幼 109 學年度開學日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-893",
+      "year": 2021,
+      "published": "2021-04-29",
+      "time": "16:46",
+      "activity": "",
+      "notes": [
+        "已核對作者、發文時刻及正式網址。正文涉及個人隱私，僅列清冊；相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033oQ2NbVBy6caZZACt4YfAbAvNPHsXDFDciXm9MjanKaTtrQjTLgmzBj9wkXpGFZ2l"
+        }
+      ],
+      "title": "4 月 29 日官帖，僅保留編目",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-894",
+      "year": 2021,
+      "published": "2021-04-20",
+      "time": "18:31",
+      "activity": "",
+      "notes": [
+        "附小與附幼師生日存竹筒，將零用錢用於助人。貼文也記錄孩子在太魯閣號事故後思考如何關懷他人。相片及外部連結待核。"
+      ],
+      "media": "相片及外部連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0iEvZGWCXVgLLu5LFFbPo1MyjKAJZkrzyFQnBayn8fHdb8AnRottiJ3bcwYDzSqZtl"
+        }
+      ],
+      "title": "附小與附幼竹筒回精舍",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-895",
+      "year": 2021,
+      "published": "2021-04-10",
+      "time": "15:03",
+      "activity": "",
+      "notes": [
+        "貼文介紹因應 108 課綱的課程、多元學習與志工服務，並記載第二場說明會於北中南東同步進行。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034CfCumFBi2NWDA1AhpCyeJA8eT75a3jXNoUCwse426u1arGKvmXzdjrfyaWJVRaYl"
+        }
+      ],
+      "title": "中學部第二場招生說明會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-896",
+      "year": 2021,
+      "published": "2021-04-01",
+      "time": "21:46",
+      "activity": "",
+      "notes": [
+        "粉專發布四月及五月招生說明會的國中部、高中部報名資訊。相片及報名連結待核。"
+      ],
+      "media": "相片及報名網頁",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037rxqeWoxctkYkemfQWRjCWiFTt81Di1MWMMpAnwCmM8qrYmCDtKdLdoqniZcWLZbl"
+        }
+      ],
+      "title": "公告中學部四、五月招生說明會報名",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-897",
+      "year": 2018,
+      "published": "2018-02-28",
+      "time": "11:05",
+      "activity": "",
+      "notes": [
+        "貼文以開拓多元潛能與全人全程教育介紹學校，並提供國中部與高中部招生報名資訊。報名連結待核。"
+      ],
+      "media": "外部報名網頁",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02UEco4bwb1hSsyhf8mxeLoJjsQtEQwkvme4enqpqroPJYgRmCzouKAfeUgCr147W4l"
+        }
+      ],
+      "title": "中學部招生與全人教育說明",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-898",
+      "year": 2018,
+      "published": "2018-02-23",
+      "time": "17:52",
+      "activity": "",
+      "notes": [
+        "六年級科任團隊的「有愛無礙」獲 106 年全國國際教育優良課程方案徵選佳作。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0npjy1oDy9TAxGK1RxH7dFLGmBkBHd3RHifgdMBokurmMorNYFieZS4fGMsWsLxR2l"
+        }
+      ],
+      "title": "附小國際教育方案「有愛無礙」獲佳作",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-899",
+      "year": 2018,
+      "published": "2018-02-10",
+      "time": "19:12",
+      "activity": "",
+      "notes": [
+        "貼文短文感謝照顧受難者的志工。轉分享附件待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02pJFaHGHLdS6nN6YmqfMSsX4GDnbPmpskoPqjzJ5E6hih19qkc5hWvweB8CFRuGrKl"
+        }
+      ],
+      "title": "向投入關懷的志工致敬",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-900",
+      "year": 2018,
+      "published": "2018-02-10",
+      "time": "15:56",
+      "activity": "",
+      "notes": [
+        "校方原規劃在自強國中陪讀陪玩，因收容安排改變，自 2 月 11 日起暫停輪值。部分師生當天下午轉往小巨蛋陪伴兒童。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02pbcjaivc5TXBtssahvkSSZ3MAjJ7nhsZj7B78X2NYWNx2mL7bZ5g5wGuAqraJ3Ufl"
+        }
+      ],
+      "title": "調整地震收容中心志工支援",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-901",
+      "year": 2020,
+      "published": "2020-08-29",
+      "time": "17:10",
+      "activity": "",
+      "notes": [
+        "附小迎接小一及轉入生，師長用兒童劇介紹愛護動物與健康飲食。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0EERY3pWwztkZuTkFxgcuqRaMbAsSfxsrJG7Kmtgk2U6vuQKgTqT43hQp64JV2uyHl"
+        }
+      ],
+      "title": "附小迎新與新生始業輔導",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-902",
+      "year": 2020,
+      "published": "2020-08-14",
+      "time": "20:07",
+      "activity": "",
+      "notes": [
+        "親子一起製作磁力線觀察器、燃料電池與史特林引擎，認識綠色能源。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid021e2SP9x5dbnzYxUyVXheLWYEsztYihH8cLeVZETxqkk9dvp4ZV1jto2afZWoFLzNl"
+        }
+      ],
+      "title": "附小暑假親子能源科學工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-903",
+      "year": 2021,
+      "published": "2021-03-27",
+      "time": "17:43",
+      "activity": "2021-03-27",
+      "notes": [
+        "兒童節活動結合國際教育課程，義賣所得捐助國際賑災。正文已核對；相片及附列新聞連結待核。"
+      ],
+      "media": "相片及外部新聞",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02tEcMj3S5rKFubfn4HCb8kp3Rb7a5ZEEnK88VWKXGFSGV8n94Amcdug6vLEV6WU4yl"
+        }
+      ],
+      "title": "附小與附幼國際教育嘉年華",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-904",
+      "year": 2021,
+      "published": "2021-03-26",
+      "time": "21:26",
+      "activity": "2021-03-27",
+      "notes": [
+        "一、三、五年級設計課程闖關，另有世界公民關卡與社團成果發表。相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ZAe5VrsY6BBRkJScY857fK1sjgwFtQEymYch7RNgGhgjtTh5WLxeaF5xueWaJ113l"
+        }
+      ],
+      "title": "國際教育嘉年華邀請",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "列表顯示 3 月 26 日 21:26，正文寫「3 月 27 日，就是今天」，發文日期差異待核。"
+    },
+    {
+      "id": "fb-905",
+      "year": 2021,
+      "published": "2021-03-20",
+      "time": "17:21",
+      "activity": "",
+      "notes": [
+        "親師座談安排入校防疫及升學資訊，也有管樂、揚琴與國術社團展演。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02W8vM8Xs4WJ1yUzhM9Jmfunq7huAE6kqZEo28M99TYxA6W7CrkiEBbFMMPsgcFx9Dl"
+        }
+      ],
+      "title": "中學部親師座談與社團展演",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-906",
+      "year": 2021,
+      "published": "2021-03-06",
+      "time": "17:25",
+      "activity": "",
+      "notes": [
+        "已核對作者、發文時刻及正式網址。正文涉及個人隱私，僅列清冊；相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0bcwXtguqWUmsKzyLcWemkeHQoTZHM5jAZMGHP2eRpVZE2udk5wa6XVd51McLVQTYl"
+        }
+      ],
+      "title": "3 月 6 日官帖，僅保留編目",
       "topic": "主題待核",
       "kind": "fb"
     }
