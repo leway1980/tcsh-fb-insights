@@ -416,7 +416,10 @@ function renderCoverage() {
   const coverageSummary = pending
     ? `範圍 ${inScope} 個月，${pending} 個月待查。`
     : `${inScope} 個月都有初次查核紀錄。各月實際發文總數仍待對帳。`;
-  get('coverage-note').textContent = `${coverageSummary}收錄的貼文中 ${partialCount} 則有正文、影音或內容疑點待核，${unverifiedTimeCount} 則的發文時刻待核。`;
+  const timeSummary = unverifiedTimeCount
+    ? `${unverifiedTimeCount} 則發文時刻待核。`
+    : '已收錄的貼文皆有發文時刻，有介面讀值差異者逐篇附註。';
+  get('coverage-note').textContent = `${coverageSummary}收錄的貼文中 ${partialCount} 則有正文、影音或內容疑點待核。${timeSummary}`;
 }
 
 get('hero-posts').textContent = String(postCount);

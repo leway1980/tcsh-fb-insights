@@ -3512,7 +3512,7 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-13",
       "time": "11:46",
-      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
+      "timeNote": "Facebook 單篇初載顯示 12 月 12 日，穩定畫面顯示 12 月 13 日 11:46，粉專列表未另核",
       "activity": "",
       "notes": [
         "由書信興趣延伸參訪郵局，認識投遞並體驗蓋郵戳"
@@ -3534,7 +3534,7 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-12",
       "time": "09:50",
-      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
+      "timeNote": "Facebook 單篇兩次讀值為 12 月 12 日 09:50 及初載 12 月 11 日 17:50，日期和時刻差異待核",
       "activity": "",
       "notes": [
         "師長、家長會與高二學生以勤學、必勝、智慧三道門祝福高三"
@@ -3643,8 +3643,8 @@ window.reportData = {
       "id": "fb-91",
       "year": 2017,
       "published": "2017-12-11",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "14:54",
+      "timeNote": "兩個 Facebook 網址經公開日期、相同相片群組及五張相片識別碼核對為同一則，採單篇頁面時刻",
       "activity": "",
       "notes": [
         "以快問快答與小組討論整理教師能力，分享教學處境"
@@ -4014,8 +4014,8 @@ window.reportData = {
       "id": "fb-108",
       "year": 2017,
       "published": "2017-12-04",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "06:05",
+      "timeNote": "兩個 Facebook 網址經公開日期、相同相片群組及五張相片識別碼核對為同一則，採單篇頁面時刻",
       "activity": "",
       "notes": [
         "日本教育旅行交流紀錄，正文待展開"
@@ -4036,8 +4036,8 @@ window.reportData = {
       "id": "fb-109",
       "year": 2017,
       "published": "2017-12-02",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "12:06",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "說課後分組討論並給予回饋"
@@ -4058,8 +4058,8 @@ window.reportData = {
       "id": "fb-110",
       "year": 2017,
       "published": "2017-12-02",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "12:01",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "說課現場照片"
@@ -4080,8 +4080,8 @@ window.reportData = {
       "id": "fb-111",
       "year": 2017,
       "published": "2017-12-02",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "11:05",
+      "timeNote": "Facebook 單篇初載與載入後日期不同，採載入完成後的日期和時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "國小自然教學照片"
@@ -4102,8 +4102,8 @@ window.reportData = {
       "id": "fb-112",
       "year": 2017,
       "published": "2017-12-02",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "10:23",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "國中數學教學演示照片"
@@ -4124,8 +4124,8 @@ window.reportData = {
       "id": "fb-113",
       "year": 2017,
       "published": "2017-12-02",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "10:04",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "高年級數學教學照片"
@@ -4146,8 +4146,8 @@ window.reportData = {
       "id": "fb-114",
       "year": 2017,
       "published": "2017-12-02",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "09:52",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "中年級國語教學演示照片"
@@ -4168,8 +4168,8 @@ window.reportData = {
       "id": "fb-115",
       "year": 2017,
       "published": "2017-12-01",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "02:12",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "講座介紹德國學校、文化與語言，正文待展開"
@@ -4190,8 +4190,8 @@ window.reportData = {
       "id": "fb-116",
       "year": 2017,
       "published": "2017-12-01",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "02:05",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "2017-11-24",
       "notes": [
         "附小四年級 11 月 24 日校外教學回顧，正文待展開"
@@ -4212,8 +4212,8 @@ window.reportData = {
       "id": "fb-117",
       "year": 2017,
       "published": "2017-12-01",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "01:55",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "2017-11-24",
       "notes": [
         "附小二年級 11 月 24 日校外教學回顧，正文待展開"
@@ -4234,8 +4234,8 @@ window.reportData = {
       "id": "fb-118",
       "year": 2017,
       "published": "2017-12-01",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "14:32",
+      "timeNote": "Facebook 單篇初載與載入後日期不同，採載入完成後的日期和時刻，粉專列表未另核",
       "activity": "2017-11-24",
       "notes": [
         "附小一年級 11 月 24 日校外教學回顧，正文待展開"
@@ -20511,9 +20511,9 @@ window.reportData = {
       "time": "08:00",
       "activity": "",
       "notes": [
-        "已保存通知開頭，提到英語戲劇、童軍露營、日本修學等學期活動。完整通知待回補。"
+        "暑假前通知回顧一學期活動，並交代離校、暑期輔導、新生入學與開學安排。已回補可見正文，照片待核。"
       ],
-      "media": "",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -20523,7 +20523,8 @@ window.reportData = {
       ],
       "title": "中學部暑假前給家長的通知",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "單篇初載顯示 6 月 28 日，先前穩定畫面顯示 6 月 29 日 08:00，日期差異待核"
     },
     {
       "id": "fb-883",
@@ -20572,9 +20573,9 @@ window.reportData = {
       "year": 2020,
       "published": "2020-09-19",
       "time": "17:33",
-      "activity": "",
+      "activity": "2020-09-19",
       "notes": [
-        "已核對作者、發文時刻與正式網址。正文尚待整理，附圖待核。"
+        "親師座談由慈中國樂隊開場，貼文記錄家長參與及升學輔導交流。已回補可見正文，圖片待核。"
       ],
       "media": "相片",
       "partial": true,
@@ -20584,9 +20585,10 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033aqbMHh7CrcwkZYSu9ckTKbuoqtxwfGf8szxoXRxPpFG6B38Vs6tHVfuZptjMux6l"
         }
       ],
-      "title": "9 月 19 日官帖，正文待核",
-      "topic": "主題待核",
-      "kind": "fb"
+      "title": "中學部親師座談與國樂展演",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "列表顯示 17:33，單篇初載顯示 02:33，時刻差異待核"
     },
     {
       "id": "fb-886",
@@ -20595,7 +20597,7 @@ window.reportData = {
       "time": "16:43",
       "activity": "",
       "notes": [
-        "已核對作者、發文時刻與正式網址。「查看更多」是否成功展開待重驗，附圖待核。"
+        "貼文介紹閱讀素養與跨領域題型，討論閱讀理解、專注以及系統性和批判性思考。已回補可見正文，圖片待核。"
       ],
       "media": "相片",
       "partial": true,
@@ -20605,9 +20607,10 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0NhsQ74TsW3G6zyd2pDiTjFexRea1z6M3UpWPCop6fkTDYY1vn2Pph9yeGakzTKy8l"
         }
       ],
-      "title": "9 月 10 日官帖，正文待核",
-      "topic": "主題待核",
-      "kind": "fb"
+      "title": "閱讀理解與素養題型講座",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "列表顯示 16:43，單篇初載顯示 01:43，時刻差異待核"
     },
     {
       "id": "fb-887",
