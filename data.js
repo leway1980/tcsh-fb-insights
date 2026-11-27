@@ -9,6 +9,11 @@ window.reportData = {
         0
       ],
       [
+        "2017-11",
+        "partial",
+        68
+      ],
+      [
         "2017-12",
         "partial",
         62
@@ -39,6 +44,91 @@ window.reportData = {
         0
       ],
       [
+        "2024-06",
+        "partial",
+        6
+      ],
+      [
+        "2024-07",
+        "partial",
+        23
+      ],
+      [
+        "2024-08",
+        "partial",
+        28
+      ],
+      [
+        "2024-09",
+        "partial",
+        5
+      ],
+      [
+        "2024-10",
+        "partial",
+        12
+      ],
+      [
+        "2024-11",
+        "partial",
+        20
+      ],
+      [
+        "2024-12",
+        "partial",
+        45
+      ],
+      [
+        "2025-01",
+        "partial",
+        12
+      ],
+      [
+        "2025-02",
+        "partial",
+        10
+      ],
+      [
+        "2025-03",
+        "partial",
+        19
+      ],
+      [
+        "2025-04",
+        "partial",
+        17
+      ],
+      [
+        "2025-05",
+        "partial",
+        8
+      ],
+      [
+        "2025-06",
+        "partial",
+        11
+      ],
+      [
+        "2025-07",
+        "partial",
+        47
+      ],
+      [
+        "2025-08",
+        "partial",
+        37
+      ],
+      [
+        "2025-09",
+        "partial",
+        38
+      ],
+      [
+        "2025-10",
+        "partial",
+        22
+      ],
+      [
         "2025-11",
         "scanned",
         29
@@ -47,91 +137,6 @@ window.reportData = {
         "2025-12",
         "scanned",
         28
-      ],
-      [
-        "2017-11",
-        "partial",
-        68
-      ],
-      [
-        "2025-10",
-        "partial",
-        22
-      ],
-      [
-        "2025-09",
-        "partial",
-        38
-      ],
-      [
-        "2025-08",
-        "partial",
-        37
-      ],
-      [
-        "2025-07",
-        "partial",
-        47
-      ],
-      [
-        "2025-06",
-        "partial",
-        11
-      ],
-      [
-        "2025-05",
-        "partial",
-        8
-      ],
-      [
-        "2025-04",
-        "partial",
-        17
-      ],
-      [
-        "2025-03",
-        "partial",
-        19
-      ],
-      [
-        "2025-02",
-        "partial",
-        10
-      ],
-      [
-        "2025-01",
-        "partial",
-        12
-      ],
-      [
-        "2024-12",
-        "partial",
-        45
-      ],
-      [
-        "2024-11",
-        "partial",
-        20
-      ],
-      [
-        "2024-10",
-        "partial",
-        12
-      ],
-      [
-        "2024-09",
-        "partial",
-        5
-      ],
-      [
-        "2024-08",
-        "partial",
-        28
-      ],
-      [
-        "2024-07",
-        "partial",
-        23
       ]
     ],
     "asOf": "2026-11-27"
@@ -12794,6 +12799,138 @@ window.reportData = {
       ],
       "title": "加州遊學營的課程與文化交流",
       "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-542",
+      "year": 2024,
+      "published": "2024-06-28",
+      "time": "12:48",
+      "activity": "2024-06-28",
+      "notes": [
+        "第三屆 MCI 雙聯學位學生自學校出發，赴美參加暑期實體 STEAM 課程。",
+        "貼文將這次出發列為暑期五國六團的首團。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02vgoU8v6eaya5tVY1FkLnghzhwoR5AAxz83EW6b85GxPSnG9gwwXSXNWttew932Fhl"
+        }
+      ],
+      "title": "美國 MCI 雙聯團啟程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-543",
+      "year": 2024,
+      "published": "2024-06-26",
+      "time": "16:08",
+      "activity": "",
+      "notes": [
+        "附小五年級師生前往花蓮縣運動休閒園區參觀「數學有感－動手玩的數學互動展」。",
+        "展覽將生活中的數學與花蓮在地人文及景觀結合，讓學生操作體驗。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0J3MbTpM26CMhNvpcpT7ZSfgCFGPa5a4JZK7aaxFsnnE75PYMX48acc4rY93Fj3zEl"
+        }
+      ],
+      "title": "附小五年級參觀數學互動展",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-544",
+      "year": 2024,
+      "published": "2024-06-20",
+      "time": "08:53",
+      "activity": "",
+      "notes": [
+        "校方介紹英國、美國、泰國、新加坡、馬來西亞的暑期交流規劃。",
+        "各團依目的地特色和文化安排學習主軸與課程活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0URKdUvSmGEzwyS5Mwv9uLbJEjjGNRVVsGLzhuxSmcStFCmrM5BNB5v4YNq6vgBF3l"
+        }
+      ],
+      "title": "暑期五國六團海外交流規劃",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-545",
+      "year": 2024,
+      "published": "2024-06-15",
+      "time": "22:32",
+      "activity": "2024-06-14",
+      "notes": [
+        "團露營安排整備、搭帳、炊事與攀樹挑戰。",
+        "童軍合作完成任務，並透過拍照紀錄練習攝影專科章所需能力。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037mwU3C6Kv3SNCv7UCmXyBhzVskxBepo33pbxCuspaGrLXWwHio2LiBJZy1PGfhQHl"
+        }
+      ],
+      "title": "慈中童軍戶外探索挑戰露營",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-546",
+      "year": 2024,
+      "published": "2024-06-11",
+      "time": "17:18",
+      "activity": "",
+      "notes": [
+        "粉專說明國際教育團參訪早稻田大學及姊妹校青森縣南高校，並以奉茶禮儀交流。",
+        "轉分享內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022e1temiQbP5RUebYRTPLgndmPkwa9z5uX11GzNqCaLfVhaHa7YNxH5ZPTkhM3nEel"
+        }
+      ],
+      "title": "日本參訪早稻田大學及青森縣南高校",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-547",
+      "year": 2024,
+      "published": "2024-06-17",
+      "time": "14:46",
+      "activity": "",
+      "notes": [
+        "校方報導應屆畢業生的大學錄取結果，包含五位錄取臺灣大學、四位錄取醫學科系。",
+        "貼文另描述學生選填醫學相關與人工智慧相關科系的情形。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02H1j4ywMumRSw6YrBCytLnkcXjRPmH1qzbpFdRQ7AYeBsKw2Ri7rczUTjp1FcXx1Dl"
+        }
+      ],
+      "title": "113 學年度多元入學放榜",
+      "topic": "競賽與成果",
       "kind": "fb"
     }
   ]
