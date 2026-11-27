@@ -231,7 +231,7 @@ window.reportData = {
       [
         "2021-05",
         "partial",
-        11
+        15
       ],
       [
         "2021-06",
@@ -341,7 +341,7 @@ window.reportData = {
       [
         "2023-03",
         "partial",
-        20
+        24
       ],
       [
         "2023-04",
@@ -1814,7 +1814,15 @@ window.reportData = {
         "fb-1423",
         "fb-1424",
         "fb-1425",
-        "fb-1426"
+        "fb-1426",
+        "fb-1427",
+        "fb-1428",
+        "fb-1429",
+        "fb-1430",
+        "fb-1431",
+        "fb-1432",
+        "fb-1433",
+        "fb-1434"
       ],
       "noVisibleText": [
         "fb-27",
@@ -33645,6 +33653,174 @@ window.reportData = {
         }
       ],
       "title": "疫情期間的國中會考考生支持",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1427",
+      "year": 2021,
+      "published": "2021-05-08",
+      "time": "10:46",
+      "activity": "",
+      "notes": [
+        "官帖以四個標籤介紹附小二年級的母親節感恩獻愛活動。保存官粉標籤短文。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0aR3hmTAH2msm73xDhT78xjCxCfjqfosr7Bq8U4q8H9jxD3wgiAkpUmQsVbEsrQYTl"
+        }
+      ],
+      "title": "附小二年級寶貝感恩禮（官粉標籤）",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1428",
+      "year": 2021,
+      "published": "2021-05-07",
+      "time": "20:18",
+      "activity": "",
+      "notes": [
+        "慈大附中與慈濟大學傳播相關院所合作，引導高三學生用設計思考理解需求、討論痛點並發想方案。封存課程節錄。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02S8XDxVRkmqHA8yNbw4VKD7FkHX2eyrB6DpSF7Rztgk4ybR2s32RJiPNVnEFd2jrtl"
+        }
+      ],
+      "title": "跨校合作的高三創新思維工作坊（節錄）",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1429",
+      "year": 2023,
+      "published": "2023-03-24",
+      "time": "11:37",
+      "activity": "",
+      "notes": [
+        "官帖以三個標籤記錄海外姊妹校的序次及寄宿家庭校際交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xYhfnPR5f1ZUAeD5XPDwZ9hbaiEv29dXutKHxr7vtJ8aiMAuNuCs7HWP2ipwvbNDl"
+        }
+      ],
+      "title": "官粉簡介第 27 所海外姊妹校與寄宿交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1430",
+      "year": 2023,
+      "published": "2023-03-23",
+      "time": "21:30",
+      "activity": "",
+      "notes": [
+        "圖書館官帖提供 2023 年 3 月電子報載點，原文封存沿用畫面顯示的網址縮寫。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Lb7gvobvk1zXV7GYXi6fR3jVkyHv5An6rL7bitfdBcZVwFPKFaDuTaUEAcUUR1q1l"
+        }
+      ],
+      "title": "慈中圖書館分享 2023 年 3 月電子報",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1431",
+      "year": 2023,
+      "published": "2023-03-22",
+      "time": "11:01",
+      "activity": "",
+      "notes": [
+        "官帖記錄與美國建基學校締約，來訪師生入班共學，課程涵蓋茶道、花道、書道與在地文化參訪。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02zBH3rfNonQ7LShdVWAKprqxRmej2PbXkpJDi8BjMLMW4BRWXdK7WG9Ax8vkQ7Qa1l"
+        }
+      ],
+      "title": "慈大附中與美國建基學校締結姊妹校",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1432",
+      "year": 2021,
+      "published": "2021-05-06",
+      "time": "17:12",
+      "activity": "",
+      "notes": [
+        "官帖記錄校內為印度疫情祈福，並推動竹筒歲月，把祝福化為日常行動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02RzsqAJbXnhgkoyD5TVsFXHC6wNCTv4VDiBpaqA9yAXHuVEmXT16iVzhqVUJbGKXfl"
+        }
+      ],
+      "title": "慈中師生關懷印度疫情",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1433",
+      "year": 2021,
+      "published": "2021-05-05",
+      "time": "11:43",
+      "activity": "",
+      "notes": [
+        "附小親職教育講座從依附關係談教養，分享理解孩子感受與修復親子連結的方法。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02f947kitesq7hPwdHg8zFah91zQpPWv7XkTD7FBQoCeMS3NSrARdJPb2EMUYgDiv6l"
+        }
+      ],
+      "title": "附小親職講座談親子依附",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1434",
+      "year": 2023,
+      "published": "2023-03-26",
+      "time": "15:27",
+      "activity": "",
+      "notes": [
+        "官帖記錄北、中、南、東四區同步舉行招生說明會，向家長及學生介紹各學段銜接、人文、科學與雙語教育。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0h5S48VQuc1yownX6n8dLxKWwEGpwyTnbrBFMggtK3Jhhe8QRae9FFA7xGgSGTkzNl"
+        }
+      ],
+      "title": "慈大附中四區同步辦理第二次招生說明會",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
