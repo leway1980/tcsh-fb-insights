@@ -44,14 +44,24 @@ window.reportData = {
         0
       ],
       [
+        "2023-12",
+        "partial",
+        6
+      ],
+      [
+        "2024-03",
+        "partial",
+        3
+      ],
+      [
         "2024-04",
         "partial",
-        8
+        14
       ],
       [
         "2024-05",
         "partial",
-        5
+        10
       ],
       [
         "2024-06",
@@ -13265,6 +13275,443 @@ window.reportData = {
       "topic": "招生與校園生活",
       "kind": "fb",
       "timeNote": "粉專列表顯示 15:07，同一網址的單篇頁顯示 00:07，時刻待核"
+    },
+    {
+      "id": "fb-563",
+      "year": 2024,
+      "published": "2024-04-19",
+      "time": "20:26",
+      "activity": "2024-04-19",
+      "notes": [
+        "來自泰國、在慈濟大學學華語的 15 位學伴到慈中體驗一日校園生活。",
+        "貼文記錄異國飲食體驗及學生運用華語、英語與比手畫腳交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02tWmpP38jFG24dKPKFzAFjdt4UzLhXaiKXceMhnn3YhqUhryLhdrYdQZEATuEBTqFl"
+        }
+      ],
+      "title": "清邁慈濟學校學伴的一日交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-564",
+      "year": 2024,
+      "published": "2024-04-15",
+      "time": "19:46",
+      "activity": "2024-04-15",
+      "notes": [
+        "圖書館辦理高三升學面試講座，練習如何說清楚自己的學習投入及成果。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02aWPzcvbyFUuZkJW4e5jLgcv9DqnZgSeDEcCnqDoRN2mYE9BM6tyUUbFu3h9bQKHLl"
+        }
+      ],
+      "title": "高三升學面試表達講座",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-565",
+      "year": 2024,
+      "published": "2024-04-11",
+      "time": "13:48",
+      "activity": "",
+      "notes": [
+        "校方說明復課後優先進行情緒輔導，依年級安排不同層次的生命教育。",
+        "貼文介紹接住情緒的五步驟，並記錄國一、國二及小一、小二先參與。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0316Tmr8Hx4QpgL6YtG9bbASuSRBir4mhiwkpwJMhLzQjmiU2YRLXY6ghR15Gd8bnZl"
+        }
+      ],
+      "title": "震後復課的情緒輔導",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 4 月 11 日 13:48，單篇初載顯示 4 月 10 日 22:48，時刻待核"
+    },
+    {
+      "id": "fb-566",
+      "year": 2024,
+      "published": "2024-04-04",
+      "time": "13:31",
+      "activity": "2024-04-04",
+      "notes": [
+        "粉專原說明只有「0404孝親日返家」標籤。",
+        "影片內容待核。"
+      ],
+      "media": "Reel",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/956839308894836/"
+        }
+      ],
+      "title": "孝親日返家短片",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "發文日期及時刻取自粉專貼文列表，單篇播放器未顯示"
+    },
+    {
+      "id": "fb-567",
+      "year": 2024,
+      "published": "2024-04-04",
+      "time": "11:41",
+      "activity": "",
+      "notes": [
+        "因地震調整孝親假，校方協助住宿生搭北迴與南迴列車返家，並安排師長隨車。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02C62qZkyV9udwo3Tq8AN1hJEZskL7L89pEYwbkpRbyB7pKBZt4pStfjEdFSRYDbYzl"
+        }
+      ],
+      "title": "地震後調整孝親假返家安排",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-568",
+      "year": 2024,
+      "published": "2024-04-03",
+      "time": "15:32",
+      "activity": "",
+      "notes": [
+        "粉專列表可核發文時刻與 Reel 連結，單篇播放器未顯示粉專正文或日期時間。",
+        "影片內容及主題待核。"
+      ],
+      "media": "Reel",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1178934396806655/"
+        }
+      ],
+      "title": "慈大附中 4 月 3 日短片",
+      "topic": "主題待核",
+      "kind": "fb",
+      "timeNote": "發文日期及時刻取自粉專貼文列表，單篇播放器未顯示"
+    },
+    {
+      "id": "fb-569",
+      "year": 2024,
+      "published": "2024-05-07",
+      "time": "22:10",
+      "activity": "",
+      "notes": [
+        "高二學生到清水認識慈濟起源及地方特色。",
+        "分站安排手作蔬食春捲及傳統藺草編織。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0r8jSYrQfP3EC5JX9DvWFmLjUhMjnHhsAmEJm2UjpKvoQq5W5L7JbgX8yaLjGM7Aql"
+        }
+      ],
+      "title": "高二校外教學赴清水尋根",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-570",
+      "year": 2024,
+      "published": "2024-05-06",
+      "time": "19:10",
+      "activity": "",
+      "notes": [
+        "附小與松浦國小交流，透過阿美族迎賓舞、排笛及帶動唱認識彼此。",
+        "校外學習另包含認識二手物流中心。貼文附大愛新聞，外部報導待核。"
+      ],
+      "media": "外部新聞連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02qZrpHrySMMWfS9kszLHj2qrz6XMDZuihFLdqmQ8BzNksucbVcXy2TXaamFdhSG4Dl"
+        }
+      ],
+      "title": "附小與玉里松浦國小交流",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-571",
+      "year": 2024,
+      "published": "2024-05-02",
+      "time": "17:04",
+      "activity": "",
+      "notes": [
+        "學生在臺南慈濟中小學引導下走讀安平、進行實境解謎，5 月 1 日在安平開台天后宮體驗媽祖生慶典。",
+        "貼文另記錄英語步行導覽及臺南一中交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid029mvTUtAF7cpuKBxMPWsJHPpvz98apbBvFWBCLaTAQRfgQfaToUqPM5s6bdxJqrNJl"
+        }
+      ],
+      "title": "高一雙語班臺南校外教學",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-572",
+      "year": 2024,
+      "published": "2024-05-24",
+      "time": "23:14",
+      "activity": "2024-05-24",
+      "notes": [
+        "交流團自臺北松山機場出發，規劃六天五夜到青森與東京學習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02KqYMBwTrKe53BVZxLhwfqwrr4WdZoVxieGBPy71qF4P3G2SuEtGwmUAU3SKJejtfl"
+        }
+      ],
+      "title": "日本國際教育交流團出發",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-573",
+      "year": 2024,
+      "published": "2024-05-27",
+      "time": "23:43",
+      "activity": "",
+      "notes": [
+        "日本教育旅行在十和田湖觀察火山地形，到奧入瀨溪健行體驗原始森林環境。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033mygPxg7u3tQgxQXwE7vN6iS37b4XrGx6TAuHvbbFGsSqWANfRj6puhPYokuvWKwl"
+        }
+      ],
+      "title": "日本十和田湖與奧入瀨溪地理課",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-574",
+      "year": 2023,
+      "published": "2023-12-28",
+      "time": "11:44",
+      "activity": "",
+      "notes": [
+        "粉專報導大學特殊選才陸續放榜及校內錄取成果。",
+        "貼文附外部新聞連結，原報導待核。"
+      ],
+      "media": "外部新聞連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0MEuMQv11YnPmcpo7isYegdWEEjinrnKorSXaF5QMMd2JsHYNzj4xtvZEAhUgeSRLl"
+        }
+      ],
+      "title": "113 學年度大學特殊選才陸續放榜",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-575",
+      "year": 2023,
+      "published": "2023-12-25",
+      "time": "18:09",
+      "activity": "",
+      "notes": [
+        "慈中師生與慈濟大學外籍生參與食農體驗，認識在地土地及農場職業環境。",
+        "貼文記錄種植體驗與學生之間的交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0264T5mnRobqYzgkHZohnoMrzVEpCpMLacGnpkLyGj7cgBaqteXVtLR4ugDuv4fzCCl"
+        }
+      ],
+      "title": "從產地到餐桌的食農教育",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-576",
+      "year": 2023,
+      "published": "2023-12-20",
+      "time": "19:41",
+      "activity": "",
+      "notes": [
+        "粉專以飢餓行動為題，分享跨國、跨校及跨領域響應。",
+        "外連影音待核。"
+      ],
+      "media": "外連影音",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02kQWp2MFBgsvStPbW24McGnyQ48eFc5nH3DGrgDbBCy3TqFU9bHYPbQpGqCHSswnBl"
+        }
+      ],
+      "title": "跨國跨校的飢餓行動分享",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-577",
+      "year": 2023,
+      "published": "2023-12-20",
+      "time": "18:33",
+      "activity": "",
+      "notes": [
+        "可見的粉專正文是「全力以赴」及「慈中孩子靜定慧」兩個標籤。",
+        "轉分享內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0iAmrioX6Dcb6GZHaALbVLgXpd61QDXNNtx93T7Wg9HZaQTTAQoEWEp3uKXGB9SsWl"
+        }
+      ],
+      "title": "「全力以赴」短分享",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-578",
+      "year": 2023,
+      "published": "2023-12-20",
+      "time": "00:07",
+      "activity": "",
+      "notes": [
+        "圖書館週安排名家講座，以寫作與生命故事和學生談珍惜生命、為自己保留機會。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02KjkduCTo7s6Smyp97nK7J2nRrLoxgT741E6W1PyvGJGux93c4ag1jeRM3hu95NeMl"
+        }
+      ],
+      "title": "圖書館週名家講座與生命故事",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-579",
+      "year": 2023,
+      "published": "2023-12-18",
+      "time": "22:59",
+      "activity": "",
+      "notes": [
+        "臺美學校透過線上合作教學比較總統選舉，貼文記錄跨時區及跨領域共備。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023emgbomA4DFjVYowfQ175oAv56AoVFStmibBSbmxXbMKCh4TUaZ7uNYhYFPSULwsl"
+        }
+      ],
+      "title": "臺美校際線上教學探討總統選舉",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-580",
+      "year": 2024,
+      "published": "2024-03-30",
+      "time": "17:53",
+      "activity": "2024-03-30",
+      "notes": [
+        "成果發表由中學部管樂團開場，國小、國中與高中三部呈現舞蹈。",
+        "跨學段的國術隊帶來國術演出。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid031xUrcBbq6GXtWgXfJAbA1FEiMb57c8ovB63GHeRwxQzZ7qGhSBXBNGZYo96XYMg8l"
+        }
+      ],
+      "title": "「藝起發响」才藝成果發表",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-581",
+      "year": 2024,
+      "published": "2024-03-29",
+      "time": "14:11",
+      "activity": "2024-03-30",
+      "notes": [
+        "校方預告 3 月 30 日才藝成果發表會，節目包含國術、舞蹈及音樂演出。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0qUcqPMeRDnnFnBeE512sb9GteQpTEYzn3aZKLzxkTPN2QXLx6bWB1M2qGydjqAPVl"
+        }
+      ],
+      "title": "「藝起發响」才藝成果發表預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-582",
+      "year": 2024,
+      "published": "2024-03-09",
+      "time": "21:48",
+      "activity": "",
+      "notes": [
+        "工作坊安排小組發想日用品的新用途，運用 OREO 和 ARE 架構推銷創意商品。",
+        "學生從輪流推銷與交流中體驗交叉質詢。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02sJzGmXrk2B4FvZUSYmUfkjfahracgdHQLH6ay9hkECWM9BUYrKesA5Uq1YDYx4hil"
+        }
+      ],
+      "title": "英文辯論工作坊",
+      "topic": "國際與雙語",
+      "kind": "fb"
     }
   ]
 };
