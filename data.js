@@ -231,7 +231,7 @@ window.reportData = {
       [
         "2021-05",
         "partial",
-        7
+        8
       ],
       [
         "2021-06",
@@ -341,7 +341,7 @@ window.reportData = {
       [
         "2023-03",
         "partial",
-        6
+        15
       ],
       [
         "2023-04",
@@ -1797,7 +1797,16 @@ window.reportData = {
         "fb-1405",
         "fb-1406",
         "fb-1407",
-        "fb-1408"
+        "fb-1408",
+        "fb-1409",
+        "fb-1410",
+        "fb-1411",
+        "fb-1412",
+        "fb-1413",
+        "fb-1414",
+        "fb-1416",
+        "fb-1417",
+        "fb-1418"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1819,7 +1828,8 @@ window.reportData = {
         "fb-1149",
         "fb-1233",
         "fb-1263",
-        "fb-1323"
+        "fb-1323",
+        "fb-1415"
       ],
       "indexOnly": [
         "fb-81",
@@ -22352,7 +22362,8 @@ window.reportData = {
       ],
       "title": "公告中學部四、五月招生說明會報名",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 21:46，原址與另一入口的單篇都顯示 06:46。兩入口的日期錨點與正文相同。"
     },
     {
       "id": "fb-897",
@@ -33241,6 +33252,221 @@ window.reportData = {
       "title": "清明孝親假師生平安訊息",
       "topic": "招生與校園生活",
       "kind": "fb"
+    },
+    {
+      "id": "fb-1409",
+      "year": 2023,
+      "published": "2023-03-17",
+      "time": "18:28",
+      "activity": "",
+      "notes": [
+        "官帖記錄師生在花蓮市、吉安鄉與新城鄉淨灘掃街，透過行動連結生活環境與社區。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0yjwaWsBFqKNpmrVT9gfu6cBUsohBJBgQHxmBiKXs3Ky4yv331dcG6dvWLvh7YfEbl"
+        }
+      ],
+      "title": "慈中二十三週年以淨灘掃街回饋家鄉",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1410",
+      "year": 2023,
+      "published": "2023-03-15",
+      "time": "11:00",
+      "activity": "",
+      "notes": [
+        "官帖公告國高中招生說明會，介紹選課、競賽、社團、國際教育與住宿。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XHsGFzR52R2EWM7hwMqCgQ7A3Xmw9ePTRJwuD7Ue7iqsshXXt4Faoqd2j62jktpNl"
+        }
+      ],
+      "title": "慈中第二次招生說明會預告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1411",
+      "year": 2023,
+      "published": "2023-03-11",
+      "time": "12:28",
+      "activity": "",
+      "notes": [
+        "兩校用英語介紹地理人文並討論 SDGs 課程。封存團體活動節錄，後段具名學生文字省略。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid021n7Ai9oQL2qa1ssuZkcacJiGL4a3sXFB5HdvHi2g1dHjYDrLw93sEEBaHHfK7zGQl"
+        }
+      ],
+      "title": "慈中與日本青森南高校英語視訊（可見摘錄）",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1412",
+      "year": 2023,
+      "published": "2023-03-17",
+      "time": "09:57",
+      "activity": "",
+      "notes": [
+        "官帖預告校慶運動會、國際文化嘉年華及慈善募款，並附直播資訊。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02zRFrHqd4TP4zVWicevG1yeBzQ6DeTRASb7TYDdU7nDTQRF8KAdPCnbjdoAUJfzv3l"
+        }
+      ],
+      "title": "校慶運動會彩排與對外開放預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1413",
+      "year": 2023,
+      "published": "2023-03-15",
+      "time": "15:15",
+      "activity": "",
+      "notes": [
+        "官帖公告校慶蔬食園遊會，邀請讀者自備餐具、惜食與分類。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02hQS9GXqXi5zDY5QByRNfyYoz3bLz57xqBkYDesgLKmeHoueCoAgaegnzSbJ1WZTZl"
+        }
+      ],
+      "title": "校慶蔬食園遊會與環保餐具預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "列表顯示 15:15，單篇顯示 00:15，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1414",
+      "year": 2023,
+      "published": "2023-03-14",
+      "time": "17:35",
+      "activity": "",
+      "notes": [
+        "附小假日英語營結合能源、英語拼讀和活動，另安排線上外師口語練習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02bxbemBWD2NuYvwjwmJ1BtfA7DAtMqEuUrZ9ge42nTNHxCsvU3tTNhmHXYxd3rjQXl"
+        }
+      ],
+      "title": "附小假日英語營與跨域學習",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "列表顯示 17:35，單篇顯示 02:35，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1415",
+      "year": 2023,
+      "published": "2023-03-17",
+      "time": "10:11",
+      "activity": "",
+      "notes": [
+        "列表及單篇均確認官粉發文與日期錨點，單篇未見獨立正文。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid036Gu9NuD3quqRcgdQ3iWLvCkdnRRHefGbForGpoz6riLkvHzJeD1LUXVBTKaBH8Xtl"
+        }
+      ],
+      "title": "官粉動態（未見獨立正文）",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1416",
+      "year": 2023,
+      "published": "2023-03-14",
+      "time": "17:42",
+      "activity": "",
+      "notes": [
+        "官帖記錄校慶前，師長與家長在小學部圖書館共同祈福。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04AFzrz5ZzP1HKhHH8ZwK9nyQgYypuwGd6X8NJYtYrfeVwnRSfgSW68BYqYuPHY7tl"
+        }
+      ],
+      "title": "校慶前禮拜三十七助道品",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 17:42，單篇顯示 02:42，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1417",
+      "year": 2023,
+      "published": "2023-03-12",
+      "time": "17:54",
+      "activity": "",
+      "notes": [
+        "師生到靜思精舍藥草園除草，體驗農事服務。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JgADU7h4xC6dAWeBxtHpbi7wjpHpnhuW5qYd7dJjHN8hhMY1JpuF6YCEuGvnfLRzl"
+        }
+      ],
+      "title": "校慶菩提種子回故鄉服務",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 17:54，單篇顯示 01:54，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1418",
+      "year": 2021,
+      "published": "2021-05-18",
+      "time": "21:49",
+      "activity": "",
+      "notes": [
+        "官帖說明幼兒園、國小及中學的停課因應，並記錄由各班導師通知家長。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wPkrA92JA5HEbeJ7wNTUt9CkUDYrKRvY6pGZ8a3SnfKwo2NFBGRWNWfGMSqEuCzjl"
+        }
+      ],
+      "title": "校方防疫與停課不停學公告",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "列表顯示 21:49，單篇顯示 06:49，日期錨點與原址一致。"
     }
   ]
 };
