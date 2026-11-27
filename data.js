@@ -64,6 +64,16 @@ window.reportData = {
         3
       ],
       [
+        "2021-09",
+        "partial",
+        6
+      ],
+      [
+        "2021-10",
+        "partial",
+        6
+      ],
+      [
         "2021-11",
         "partial",
         2
@@ -72,6 +82,16 @@ window.reportData = {
         "2021-12",
         "partial",
         4
+      ],
+      [
+        "2022-04",
+        "partial",
+        6
+      ],
+      [
+        "2022-05",
+        "partial",
+        7
       ],
       [
         "2022-06",
@@ -107,6 +127,16 @@ window.reportData = {
         "2022-12",
         "partial",
         10
+      ],
+      [
+        "2023-01",
+        "partial",
+        6
+      ],
+      [
+        "2023-02",
+        "partial",
+        7
       ],
       [
         "2023-03",
@@ -17906,6 +17936,822 @@ window.reportData = {
       "topic": "競賽與成果",
       "kind": "fb",
       "timeNote": "粉專列表 17:13，單篇初載 01:13，時刻待核"
+    },
+    {
+      "id": "fb-772",
+      "year": 2021,
+      "published": "2021-10-30",
+      "time": "18:11",
+      "activity": "",
+      "notes": [
+        "粉專公告國三學生在第 17 屆國家地理知識大競賽獲銀牌與銅牌。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ikxNdnDHXPDmJHKhqW65akEpAnFLWizvr6R7pGpU9NbMfAr3WXsroZyup6coXQWdl"
+        }
+      ],
+      "title": "國家地理知識大競賽銀牌及銅牌",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-773",
+      "year": 2021,
+      "published": "2021-10-29",
+      "time": "19:55",
+      "activity": "2021-11-06",
+      "notes": [
+        "粉專預告雙語班成果發表《追夢女孩》將於 11 月 6 日演出。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Socu32t8ijcmRGJ6vDbr382pbnG22aVzjuw9gvSFxDBDyV7rQQHRvZEPFsiM4KUDl"
+        }
+      ],
+      "title": "雙語班成果發表《追夢女孩》預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-774",
+      "year": 2021,
+      "published": "2021-10-19",
+      "time": "16:05",
+      "activity": "",
+      "notes": [
+        "粉專公告 110 學年度花蓮縣語文競賽成果，兩位學生取得全國賽資格。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ShHTN4D3SkThyj1YpBWd8NHC4cvYhUtbxWMJmvhNeAejfTvt1ESqtbTXxduPQVVBl"
+        }
+      ],
+      "title": "花蓮縣語文競賽成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-775",
+      "year": 2021,
+      "published": "2021-10-14",
+      "time": "21:14",
+      "activity": "",
+      "notes": [
+        "粉專記錄附小及幼兒園學生帶竹筒到校，想幫助受到疫情影響的人。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0vPYj87kRLYqeLDDoy7ydUouq6qngJfHhYoEsh4SsucPp7kPeVouthHKM39zLPvMCl"
+        }
+      ],
+      "title": "附小與幼兒園的竹筒助人行動",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-776",
+      "year": 2021,
+      "published": "2021-10-13",
+      "time": "12:04",
+      "activity": "2021-10-13",
+      "notes": [
+        "花蓮市宣布下午停班停課後，校方發布通勤生離校、住宿生安全及供餐安排。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xpD6hvwyeMWgCSBQ7TD6AVaYX7Tg6FZFtUZWDpYkJ398YHFVGXWPnuXvcjACAYVvl"
+        }
+      ],
+      "title": "10 月 13 日停課與住宿安排",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-777",
+      "year": 2021,
+      "published": "2021-10-09",
+      "time": "08:20",
+      "activity": "",
+      "notes": [
+        "貼文記錄附小基地學校教師的共備、觀課、議課與課堂細節討論。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xjQNRn6nxU7eSDTedsDS2umjhEZsKg3c2DCX1M21kiBdhtDNT2Rh2fT82QFhmgX1l"
+        }
+      ],
+      "title": "附小基地學校共同備課與觀議課",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-778",
+      "year": 2022,
+      "published": "2022-05-31",
+      "time": "11:16",
+      "activity": "",
+      "notes": [
+        "保留本則官粉公告發文時間及來源。原文涉及個人隱私，公開清冊只留編目。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0s8HaitnzUNGGgA91Z6x3yQ1zQcyLVeuXVaHQVjsWshUMGWDUbmgMc4qZWnu678zVl"
+        }
+      ],
+      "title": "慈大附中 5 月 31 日公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-779",
+      "year": 2022,
+      "published": "2022-05-29",
+      "time": "21:49",
+      "activity": "",
+      "notes": [
+        "粉專以標籤提及雙聯學位與留學。",
+        "轉分享內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0zsFRS4WUzw9mQu12WE7AG9TtQBPqpU5jSNLE7AodoDMz3ujQvBzZ7TdG8w3Afyvyl"
+        }
+      ],
+      "title": "雙聯學位和留學短分享",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-780",
+      "year": 2022,
+      "published": "2022-05-28",
+      "time": "23:39",
+      "activity": "",
+      "notes": [
+        "粉專以短文分享停課期間外籍教師的線上英語課。",
+        "轉分享內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02TiUZQfdnnNyvt5g5TW7NS4SFRFNWcVw2RQncQFvrd8YmMHQasDogPFgCqNQePTn9l"
+        }
+      ],
+      "title": "外籍教師的線上英語課分享",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-781",
+      "year": 2022,
+      "published": "2022-05-20",
+      "time": "14:27",
+      "activity": "",
+      "notes": [
+        "粉專以五色生菜香鬆為題邀親子在家實作。",
+        "影片待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid032yEd7z1UiZdWrbwCPUzneDP7esx1eJYKETFeEfZ6kLMXpFXdzUxEXLuwG4nLtnBsl"
+        }
+      ],
+      "title": "附幼蔬食料理活動：五色生菜香鬆",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-782",
+      "year": 2022,
+      "published": "2022-05-17",
+      "time": "09:49",
+      "activity": "",
+      "notes": [
+        "本則官粉貼文有發文時間及原連結。",
+        "畫面只見新聞分享，未見粉專自寫正文。"
+      ],
+      "media": "新聞分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0fG9sftD4pBVAz52Uu9EpE3WLjnLBVzSA1dkgWo5WmeKSkW6ffsP9r9pwpx7erqWKl"
+        }
+      ],
+      "title": "慈大附中 5 月 17 日新聞分享",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-783",
+      "year": 2022,
+      "published": "2022-05-17",
+      "time": "08:36",
+      "activity": "",
+      "notes": [
+        "粉專介紹國三志學營並向會考考生送上祝福。",
+        "外連音訊待核。"
+      ],
+      "media": "外連音訊",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023et1z1WvzCADCj8hdmfjFMWjoaWqYAmJrnGjyCPqjEveR9ep5296HFQjSsATR6ztl"
+        }
+      ],
+      "title": "國三志學營與會考祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-784",
+      "year": 2022,
+      "published": "2022-05-10",
+      "time": "11:26",
+      "activity": "",
+      "notes": [
+        "粉專標籤表達對烏克蘭及戰事的關懷。",
+        "轉分享內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wmpMV5Umgv3ci6Lb2kQpoi9WJPwjJgxb2M4MjYqt9EaBQrXEvEemJJjDhcf7GamHl"
+        }
+      ],
+      "title": "關懷烏克蘭的短分享",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-785",
+      "year": 2023,
+      "published": "2023-02-25",
+      "time": "13:01",
+      "activity": "2023-02-25",
+      "notes": [
+        "貼文記錄親師生在花蓮上街募集愛心，響應土耳其及敘利亞地震賑災。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0zPBY3yYQQfUPV7MBZHPJQcvjK2y4hcYJxdgR5swWhAJEWfNmFYd1rpSq94opBuJwl"
+        }
+      ],
+      "title": "上街為土耳其與敘利亞地震募愛",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-786",
+      "year": 2023,
+      "published": "2023-02-24",
+      "time": "20:00",
+      "activity": "",
+      "notes": [
+        "粉專預告連假後恢復實體親師座談，安排校隊表演並分國中、高中規劃講座。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0bPwnmojksTXbEUk3oEKGzwJv1YPD9J1C2zohasvRT28HFrCnzkT5u55NvNbWviLbl"
+        }
+      ],
+      "title": "實體親師座談會預告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-787",
+      "year": 2023,
+      "published": "2023-02-22",
+      "time": "11:30",
+      "activity": "",
+      "notes": [
+        "粉專分享附小以紅蘿蔔義賣響應土耳其地震賑災，並回顧過去的農場義賣。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02sT4yfJ4xsz11QLSJydkaaeNvkUAjHJqESsrNrNVp2GGhD1V4ZvXjQJLYtntvqgFql"
+        }
+      ],
+      "title": "附小紅蘿蔔義賣響應土耳其震災",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-788",
+      "year": 2023,
+      "published": "2023-02-20",
+      "time": "20:59",
+      "activity": "2023-02-18",
+      "notes": [
+        "輔導室為高三安排大學博覽會及職業分享，邀校友提供校系與職業經驗。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02md4hKGobR3SzaAW8JkBkEjnMDmqfFyCcPyQET6xCM2KCnkRQ7U6DYx8m3SCmscBil"
+        }
+      ],
+      "title": "高三大學博覽會與職業達人分享",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-789",
+      "year": 2023,
+      "published": "2023-02-20",
+      "time": "17:21",
+      "activity": "",
+      "notes": [
+        "粉專介紹高中自主學習，列舉太空、永續議題貼圖與日語自學等主題。",
+        "外部廣播節目與縮寫連結待核。"
+      ],
+      "media": "外部廣播",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0H7qqtWXTBz1xEFLAwoe7G4kLRbgJ6Ztnz2aPt82rnaWAtCg9HDPY9tCj2oix3NCtl"
+        }
+      ],
+      "title": "高中生自主學習的多種主題",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-790",
+      "year": 2023,
+      "published": "2023-02-07",
+      "time": "19:43",
+      "activity": "",
+      "notes": [
+        "貼文邀師生關懷土耳其及敘利亞地震的受災者，並以竹筒善款行動響應。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Bu14U479YnNqNxG7D7mudGFHPCA4pPrBurS2fYvVZfrmQTt3h1JPDQNbcJ4rBYvAl"
+        }
+      ],
+      "title": "慈中師生關懷土耳其及敘利亞震災",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-791",
+      "year": 2023,
+      "published": "2023-02-01",
+      "time": "16:17",
+      "activity": "2023-02-12",
+      "notes": [
+        "粉專預告 112 學年度國中部首場招生說明會於 2 月 12 日舉行。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0k6AjBXMD9pmEV5Fi8yS7EJiBAbxqjKi7ykGG4vSm2bZA2RkYsfJZaVH9i2GuqkJ9l"
+        }
+      ],
+      "title": "國中部首場招生說明會預告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-792",
+      "year": 2021,
+      "published": "2021-09-29",
+      "time": "17:35",
+      "activity": "",
+      "notes": [
+        "疫情期間，慈中國中三個雙語班與印尼慈濟雅加達國際學校三個國中年段改以視訊交流。",
+        "雙方分享飲食文化、風俗與校園生活。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GYXv8hLC325L4khgKFBr4VXPFigwETCGYo2Wa21L5kq47DKWsjZa4mPcAW7nmep6l"
+        }
+      ],
+      "title": "國中雙語班與印尼姊妹校線上交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-793",
+      "year": 2021,
+      "published": "2021-09-29",
+      "time": "10:13",
+      "activity": "",
+      "notes": [
+        "粉專宣布與美國緬因中央中學合作的雙聯學位課程開學，已有 17 位慈中學生註冊。",
+        "外部新聞內容待核。"
+      ],
+      "media": "外部新聞連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0m2fVCexkQnvgPnswYUGUw1XiUmNQnBaB1JMByGJnrbN4bCem1eqLRtj2fBcDgzfwl"
+        }
+      ],
+      "title": "與美國緬因中央中學的雙聯學位開課",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-794",
+      "year": 2022,
+      "published": "2022-04-29",
+      "time": "15:53",
+      "activity": "",
+      "notes": [
+        "粉專邀親子在家製作葡式蛋塔。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0756dF5G3QjXNy5WJxuKunDWMyZ8Xkp4D7ithhJ62u9mD5v5D9XbdBA7Q5aDCdpisl"
+        }
+      ],
+      "title": "附幼親子料理活動：葡式蛋塔",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-795",
+      "year": 2022,
+      "published": "2022-04-25",
+      "time": "17:06",
+      "activity": "",
+      "notes": [
+        "粉專彙整跨校網讀心得與數感盃數學寫作競賽成果，並公告閱讀心得共有 26 篇獲獎。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0y4JGZJD4qTWBQnqZWLZqWfoLXZfdaRRFBCWro7WBmzmp21ETKenopkp94dgwArYHl"
+        }
+      ],
+      "title": "閱讀心得與數學寫作競賽成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-796",
+      "year": 2022,
+      "published": "2022-04-19",
+      "time": "14:06",
+      "activity": "",
+      "notes": [
+        "貼文回顧地理、地科、歷史與公民教師共備的兩天一夜戶外教學。",
+        "高一學生到現場學習，高二隊輔設計關卡與沿途解說。",
+        "外連音訊內容待核。"
+      ],
+      "media": "外連音訊",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02T2WGjj3NqZEAMV9eQYMrcQbV9CQ2P8ULtcy8GmMdc9RrYoP7niyRays9nUXuNZwKl"
+        }
+      ],
+      "title": "「見學東台灣」的跨科戶外教學",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-797",
+      "year": 2022,
+      "published": "2022-04-19",
+      "time": "10:48",
+      "activity": "",
+      "notes": [
+        "粉專分享跑步活動及賽前、賽中、賽後的健康管理。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02TgBZoeRd8GUMzdptZSqC2huC79HvyGyZMw1q5EJYK8oim6UxpcSc8GtwwNL6cccol"
+        }
+      ],
+      "title": "跑步「風起來追火車」分享",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-798",
+      "year": 2021,
+      "published": "2021-09-18",
+      "time": "21:21",
+      "activity": "",
+      "notes": [
+        "保留官粉公告發文日期、時間及來源。原文涉及個人隱私，公開清冊只留編目。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02UHnWbiU9muCw5yokTAYDFrFH6wsAQHHRFhiMTKrdLsa2xeUMD1WT49Ebx9Avy5TSl"
+        }
+      ],
+      "title": "慈大附中 9 月 18 日公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-799",
+      "year": 2021,
+      "published": "2021-09-10",
+      "time": "13:37",
+      "activity": "",
+      "notes": [
+        "粉專說明颱風前的防颱準備及停班停課時的學校日、通勤和住宿安排。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02JUUQ3D32BdPBrMrDw9PZbJNSrEwKnWn9TmtyPTXuzC2no3qVB1LUDGV9a151tyDRl"
+        }
+      ],
+      "title": "燦樹颱風前的校園因應通知",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-800",
+      "year": 2021,
+      "published": "2021-09-16",
+      "time": "20:06",
+      "activity": "",
+      "notes": [
+        "粉專記錄疫情期間改用線上親師座談，教師分享班級經營和課程規劃。",
+        "影片待核。"
+      ],
+      "media": "相片與影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid07BkzACfCCVDJ8YEaVMmcigRBGdV1F3vpPQRvuLitgcHksHom1mSAMZ6rw5Bi3XsCl"
+        }
+      ],
+      "title": "附小線上學校日親師座談",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "粉專列表 20:06，單篇初次載入顯示 05:06，時刻待核"
+    },
+    {
+      "id": "fb-801",
+      "year": 2021,
+      "published": "2021-09-25",
+      "time": "12:12",
+      "activity": "",
+      "notes": [
+        "校方說明因疫情首次改用線上親師日，透過影片等方式讓家長了解校園。",
+        "影片內容待核。"
+      ],
+      "media": "相片與影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02cvqkuZC98bbVUYUjMGLGS6AUiE7t32nVpkMmu1A8JrR8RyqgYkUWwMCX3JgDQmgXl"
+        }
+      ],
+      "title": "110 學年度線上親師座談日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-802",
+      "year": 2022,
+      "published": "2022-04-09",
+      "time": "14:05",
+      "activity": "",
+      "notes": [
+        "保留官粉發文日期、時間及來源。原文涉及個人隱私，公開清冊只留編目。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02AafVKdBnTVM6AqFFrSCZvmwMVz745fvGVVLnfm5czpSh2v8dyoSSY3Amnr6RA8Jtl"
+        }
+      ],
+      "title": "慈大附中 4 月 9 日貼文",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-803",
+      "year": 2022,
+      "published": "2022-04-08",
+      "time": "11:00",
+      "activity": "",
+      "notes": [
+        "粉專邀親子在家製作炸蔬菜丸子。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0j2nv3dBsQjFsG9mavT9dXc5iapuGGsVJRDn2tnqKCFkn4Y7Qz1JAzRHXEJAsqyFql"
+        }
+      ],
+      "title": "附幼親子料理活動：炸蔬菜丸子",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-804",
+      "year": 2023,
+      "published": "2023-01-31",
+      "time": "22:05",
+      "activity": "",
+      "notes": [
+        "國一學生在寒假挑戰 16 項日常行動，涵蓋飲食、家人及環境友善。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xm9mRVTPVTj9Dg7ad8My38RmLDQBTNDkV8mcTQnKAkWowp3K6L55qq8xYZPL8sJBl"
+        }
+      ],
+      "title": "國一寒假的全球慈悲大挑戰",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-805",
+      "year": 2023,
+      "published": "2023-01-31",
+      "time": "18:07",
+      "activity": "",
+      "notes": [
+        "粉專以全球慈悲大挑戰為題，記錄附小自然領域課程連結永續發展目標 14。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0uJRZryWgjhJR3DZYde2DQDnt8LsJDN1jJtCB9dTv3GGif3LBktzAFFoA5jayMqKEl"
+        }
+      ],
+      "title": "附小自然課連結 SDG 14",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-806",
+      "year": 2023,
+      "published": "2023-01-31",
+      "time": "17:59",
+      "activity": "",
+      "notes": [
+        "附小學生親手製作祝福卡片與小書，請志工帶給土耳其滿納海學校的孩子。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0F7yGjUkaBu1u5oLJnt6ZDMLsU3rPEs1YX6QbDWFHbX77b33r3iF8b4kDcok4SqAFl"
+        }
+      ],
+      "title": "附小寫祝福給滿納海學校",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-807",
+      "year": 2023,
+      "published": "2023-01-18",
+      "time": "14:30",
+      "activity": "",
+      "notes": [
+        "保留官粉發文日期、時間及來源。原文涉及個人隱私，公開清冊只留編目。",
+        "影音內容待核。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/712740740455570/"
+        }
+      ],
+      "title": "慈大附中 1 月 18 日貼文",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-808",
+      "year": 2023,
+      "published": "2023-01-10",
+      "time": "20:46",
+      "activity": "",
+      "notes": [
+        "保留官粉發文日期、時間及來源。原文涉及個人隱私，公開清冊只留編目。",
+        "外部來源待核。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02h92zrinCy3SHqtuDsP41LEv3kaB81FM3Khm5RLSCcxYX9xFYRe7dfEgwHSuNR1S5l"
+        }
+      ],
+      "title": "慈大附中 1 月 10 日貼文",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-809",
+      "year": 2023,
+      "published": "2023-01-01",
+      "time": "00:01",
+      "activity": "",
+      "notes": [
+        "粉專於元旦送上新年祝福。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02wHrk1yNJbQnZ5FXsK3oJELKVBkQHszA9sRQjx39xodXUt8v6jiuqbtbGTPDikSLml"
+        }
+      ],
+      "title": "2023 年元旦祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
     }
   ]
 };
