@@ -122,6 +122,11 @@ window.reportData = {
         "2024-09",
         "partial",
         5
+      ],
+      [
+        "2024-08",
+        "partial",
+        13
       ]
     ],
     "asOf": "2026-11-27"
@@ -11679,6 +11684,289 @@ window.reportData = {
       ],
       "title": "粉專轉分享開學日校園動態",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-491",
+      "year": 2024,
+      "published": "2024-08-30",
+      "time": "23:09",
+      "activity": "",
+      "notes": [
+        "校方提醒高一學生雙聯學位報名於 9 月 2 日截止，並提供國際教育處的諮詢資訊。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02FtCZJLX8kMs6Bjpr2XBo3n8sjCbS8VZU4y3vvXXSJkApaBYEvw8gLvEaFEmvF7rUl"
+        }
+      ],
+      "title": "雙聯學位報名截止提醒",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-492",
+      "year": 2024,
+      "published": "2024-08-27",
+      "time": "17:22",
+      "activity": "",
+      "notes": [
+        "影片說明文字談到海外交流培養國際移動能力，並在各團隊安排行動志工服務。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/888094876517532/"
+        }
+      ],
+      "title": "海外交流與全球公民教育",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-493",
+      "year": 2024,
+      "published": "2024-08-27",
+      "time": "17:09",
+      "activity": "",
+      "notes": [
+        "影片說明文字提到實際協助 0403 地震後受災鄉親，並帶入對學生教育的反思。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/828569006061178/"
+        }
+      ],
+      "title": "共識營分享花蓮地震後的協助經驗",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-494",
+      "year": 2024,
+      "published": "2024-08-27",
+      "time": "15:47",
+      "activity": "",
+      "notes": [
+        "影片說明文字以人文與專業、品德與素養並重為主題，提出與 AI 的關聯。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/3773879362871202/"
+        }
+      ],
+      "title": "共識營談人文、專業與 AI",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-495",
+      "year": 2024,
+      "published": "2024-08-27",
+      "time": "11:03",
+      "activity": "",
+      "notes": [
+        "短片說明文字記錄教師合心共識營，另提示到學校的 YouTube 查看課程內容。",
+        "影音內容待核。"
+      ],
+      "media": "短片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1424164474919104/"
+        }
+      ],
+      "title": "教師合心共識營短片",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-496",
+      "year": 2024,
+      "published": "2024-08-27",
+      "time": "09:26",
+      "activity": "",
+      "notes": [
+        "影片說明文字以人文素養與全球公民為主題，師長齊聚國際會議廳學習。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/894711589187240/"
+        }
+      ],
+      "title": "共識營談人文素養與全球公民",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-497",
+      "year": 2024,
+      "published": "2024-08-28",
+      "time": "17:16",
+      "activity": "",
+      "notes": [
+        "共識營以靜思家風等人文內容開啟交流，並討論教學中的 AI 和國際學習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034PUGNbKmnAkrepkkn2zTMmNeoZySowyQ5Ahk9c1cAg2u4YgiQvMHXhpLFakpzDU6l"
+        }
+      ],
+      "title": "合心共識營回顧教師學習",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-498",
+      "year": 2024,
+      "published": "2024-08-16",
+      "time": "08:27",
+      "activity": "",
+      "notes": [
+        "有感地震後，校方回報中學部、小學部及幼兒園師生均安。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid021K8birjyBUykz2JgAE7oTVWtuXmN3141aSfaRXMLateaTq1Z3BxoV4Zg4f1M33Uul"
+        }
+      ],
+      "title": "花蓮地震後的校園安全說明",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-499",
+      "year": 2024,
+      "published": "2024-08-14",
+      "time": "20:46",
+      "activity": "",
+      "notes": [
+        "影片說明文字記錄帶領學生回顧交流期間的成長與所獲支持。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1151808689453058/"
+        }
+      ],
+      "title": "馬來西亞志工人文交流學習回顧",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-500",
+      "year": 2024,
+      "published": "2024-08-14",
+      "time": "14:15",
+      "activity": "",
+      "notes": [
+        "影片說明文字向家長報告預計 14:50 登機，並回顧交流收穫。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1421285715200830/"
+        }
+      ],
+      "title": "馬來西亞志工人文交流團返程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-501",
+      "year": 2024,
+      "published": "2024-08-13",
+      "time": "14:14",
+      "activity": "",
+      "notes": [
+        "影片說明文字記錄團隊搭車抵達檳城靜思堂，準備展開下午課程。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/388710473895584/"
+        }
+      ],
+      "title": "馬來西亞交流團抵達檳城靜思堂",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-502",
+      "year": 2024,
+      "published": "2024-08-13",
+      "time": "10:36",
+      "activity": "",
+      "notes": [
+        "影片說明文字記錄團隊即將展開最後一天課程，並向家長表達感謝。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/408826292239267/"
+        }
+      ],
+      "title": "國際志工交流最後一天課程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-503",
+      "year": 2024,
+      "published": "2024-08-13",
+      "time": "01:03",
+      "activity": "",
+      "notes": [
+        "影片說明文字將內容標為馬來西亞教育旅行四校的交流回顧。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1214390812939358/"
+        }
+      ],
+      "title": "馬來西亞教育旅行四校交流回顧",
+      "topic": "國際與雙語",
       "kind": "fb"
     }
   ]
