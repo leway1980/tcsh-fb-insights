@@ -141,7 +141,7 @@ window.reportData = {
       [
         "2019-11",
         "partial",
-        23
+        33
       ],
       [
         "2019-12",
@@ -171,7 +171,7 @@ window.reportData = {
       [
         "2020-05",
         "partial",
-        15
+        19
       ],
       [
         "2020-06",
@@ -201,12 +201,12 @@ window.reportData = {
       [
         "2020-11",
         "partial",
-        4
+        8
       ],
       [
         "2020-12",
         "partial",
-        4
+        6
       ],
       [
         "2021-01",
@@ -1585,7 +1585,24 @@ window.reportData = {
         "fb-1167",
         "fb-1168",
         "fb-1169",
-        "fb-1170"
+        "fb-1170",
+        "fb-1172",
+        "fb-1173",
+        "fb-1174",
+        "fb-1175",
+        "fb-1176",
+        "fb-1177",
+        "fb-1179",
+        "fb-1180",
+        "fb-1181",
+        "fb-1182",
+        "fb-1183",
+        "fb-1184",
+        "fb-1185",
+        "fb-1186",
+        "fb-1187",
+        "fb-1190",
+        "fb-1191"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1684,7 +1701,10 @@ window.reportData = {
         "fb-1142",
         "fb-1147",
         "fb-1164",
-        "fb-1171"
+        "fb-1171",
+        "fb-1178",
+        "fb-1188",
+        "fb-1189"
       ]
     }
   },
@@ -27939,6 +27959,430 @@ window.reportData = {
       ],
       "title": "成人禮活動",
       "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1172",
+      "year": 2019,
+      "published": "2019-11-07",
+      "time": "20:03",
+      "activity": "",
+      "notes": [
+        "一年級把注音與英語評量設計為故事任務，由學生分組合作闖關。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Gzk9Sa7Cgkk93nVqx7YgodmtGfgpN2784hnMmj3jMnmXwhEBYvFNPcx7L6fEgkMJl"
+        }
+      ],
+      "title": "附小一年級注音與英語闖關",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "列表顯示 20:03，單篇另顯示 04:03。"
+    },
+    {
+      "id": "fb-1173",
+      "year": 2019,
+      "published": "2019-11-16",
+      "time": "17:10",
+      "activity": "",
+      "notes": [
+        "運動會除跑步項目，也安排親子合作及班級趣味競賽。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02skeojADnBuLLhNpbYpXGGUAXJFg3o6S5ryNw7tTrGE1jezt8jnUi6JgHJWbBJAopl"
+        }
+      ],
+      "title": "校慶運動會的班級與親子競賽",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "列表顯示 17:10，單篇另顯示 01:10。"
+    },
+    {
+      "id": "fb-1174",
+      "year": 2019,
+      "published": "2019-11-16",
+      "time": "14:17",
+      "activity": "",
+      "notes": [
+        "官帖記錄校慶園遊會義賣，連結伊代氣旋後東非援助。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02B4x4uMJWkApgJ2HZ5tqFHqUTB98quwExAhKkBKeG2aqm3KspAR1Nn2tJu1WPZn6hl"
+        }
+      ],
+      "title": "校慶園遊會義賣援助東非",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1175",
+      "year": 2019,
+      "published": "2019-11-15",
+      "time": "22:13",
+      "activity": "",
+      "notes": [
+        "師生與慈懿會到七星潭撿拾垃圾，以實作參與環境服務。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02gFvbhsZgVW9dVZrh9Tg5U1G4MfqHcrN9UQoaCxqtbHpLYEjwwam8uEs5DhS4boAol"
+        }
+      ],
+      "title": "校慶「手護洄瀾」七星潭淨灘",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 22:13，單篇另顯示 06:13。"
+    },
+    {
+      "id": "fb-1176",
+      "year": 2019,
+      "published": "2019-11-14",
+      "time": "15:20",
+      "activity": "",
+      "notes": [
+        "官帖公告園遊會共二十三攤，所得將捐助非洲三國建校。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02nLM3T7jWBPo9QV5Nk8hVPrdtCBknNGv7EsJrXbQtfqdYVVTvRjhCwLTnusn81Dovl"
+        }
+      ],
+      "title": "二十週年校慶公益園遊會預告",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1177",
+      "year": 2019,
+      "published": "2019-11-14",
+      "time": "15:09",
+      "activity": "",
+      "notes": [
+        "官粉在校慶前兩天發布校友返校邀請。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0BmMkaKpBqP8kdDn4e9GqgHaJqj9qLHxm74gsi9EcYW5SNhkwoMe2FdKWh3xmfW4Cl"
+        }
+      ],
+      "title": "二十週年校友返校日邀請",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1178",
+      "year": 2019,
+      "published": "2019-11-14",
+      "time": "11:46",
+      "activity": "",
+      "notes": [
+        "官帖提及數理及資訊學科能力競賽複賽。正文涉及學生個別成績，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wBCSa4sKEcj92rHQo8pwYHRaRefMtDM3rfx2FaibUJ4CdPsyV1bJS8cjcv6tVDRwl"
+        }
+      ],
+      "title": "數理與資訊學科能力競賽複賽成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1179",
+      "year": 2019,
+      "published": "2019-11-14",
+      "time": "11:43",
+      "activity": "",
+      "notes": [
+        "官粉預告社區服務及國際文化運動會、園遊會，也回顧先前的精舍活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0qmey6yPG3db5gpMKenGMxPuEuuRAUrcFo1kwZjLFg2QaohzUrwWzxzSZBDeBAyJrl"
+        }
+      ],
+      "title": "校慶系列預告：社區服務與國際文化運動會",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1180",
+      "year": 2019,
+      "published": "2019-11-13",
+      "time": "19:36",
+      "activity": "",
+      "notes": [
+        "官粉轉分享童軍團手作，並預告社區服務、運動會與園遊會。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wuTkHGJzfxUfzdv4QD8yhgfvJdax8TkSsM96JQ2C5j1voSq7sq5XutJF6EtBBrgMl"
+        }
+      ],
+      "title": "校慶前分享童軍團手作",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "列表顯示 19:36，單篇另顯示 03:36。"
+    },
+    {
+      "id": "fb-1181",
+      "year": 2019,
+      "published": "2019-11-12",
+      "time": "08:12",
+      "activity": "",
+      "notes": [
+        "高中女排參與社會女子組賽事，在八隊中獲第四。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02TJfjPik2EfHJDaiEMMoohSz5qx4E4AB6yTdueSmWEnbMp4L2qNrFn5pxKoejzpWkl"
+        }
+      ],
+      "title": "高中女排台東主委盃第四名",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1182",
+      "year": 2020,
+      "published": "2020-05-06",
+      "time": "21:49",
+      "activity": "",
+      "notes": [
+        "官帖公布天文營招生資訊，並以偵探任務作為營隊主題。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid024xLwW43CVQJveHsiZj4fodTviJPnpDwu77Twwum3UjZVRYCZSx7KUkuSzqbZiCkhl"
+        }
+      ],
+      "title": "附中天文營「偵探召集令」",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1183",
+      "year": 2020,
+      "published": "2020-05-07",
+      "time": "08:31",
+      "activity": "",
+      "notes": [
+        "官帖記錄幼兒園在校園練習騎腳踏車。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/2587304278156567/"
+        }
+      ],
+      "title": "附幼幼兒練習腳踏車",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1184",
+      "year": 2020,
+      "published": "2020-05-05",
+      "time": "21:11",
+      "activity": "",
+      "notes": [
+        "幼兒從討論商店聚焦到美髮院，透過綁髮、洗髮與設計設備，練習在嘗試後修正。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/296960727957606/"
+        }
+      ],
+      "title": "附幼「小美町美髮院」主題教學",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1185",
+      "year": 2020,
+      "published": "2020-05-05",
+      "time": "07:40",
+      "activity": "",
+      "notes": [
+        "官帖提醒外縣市學生升讀高中部的流程及登記期間。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02HMpZREESb2J8AsyM4bgqvzbvyH5uaWHzf2C5CZwoZ4AvdMDj2mDQShiCr9fsSLbol"
+        }
+      ],
+      "title": "外縣市升讀高中部的流程公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1186",
+      "year": 2020,
+      "published": "2020-11-14",
+      "time": "12:06",
+      "activity": "",
+      "notes": [
+        "官帖記錄雨中的園遊會，妙膳廳、慈懿會與家長會提供餐食。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/417137446310121/"
+        }
+      ],
+      "title": "校慶園遊會的親師參與",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1187",
+      "year": 2020,
+      "published": "2020-11-18",
+      "time": "18:03",
+      "activity": "",
+      "notes": [
+        "官帖記錄作文比賽佳績、感謝國文科團隊並公告頒獎安排。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xpko4BMx8M3YQNG2NLrpjXx16S7eUvs7SHCsV6tC22KNRFcHb2rgykq3MPWoN3Jdl"
+        }
+      ],
+      "title": "第十四屆聯合盃作文比賽成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1188",
+      "year": 2020,
+      "published": "2020-11-11",
+      "time": "13:47",
+      "activity": "",
+      "notes": [
+        "官帖記錄高中英語演講比賽。正文涉及學生個別成績，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0359bJThspgQTTAXA2VAz75jWXe7BSfa6wA786P6Suzn6hRiWtuNmAZ13fgR9z65Rvl"
+        }
+      ],
+      "title": "高中英語演講比賽成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1189",
+      "year": 2020,
+      "published": "2020-11-11",
+      "time": "13:34",
+      "activity": "",
+      "notes": [
+        "官帖記錄高中學科能力競試。正文涉及學生個別成績，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02PeFjqXnNZMTrJMzES7r4SaXCwCYMCGxM5Spva3QDEtRBwVXqGu7mU7ptoAetrNGCl"
+        }
+      ],
+      "title": "高中學科能力競試成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1190",
+      "year": 2020,
+      "published": "2020-12-17",
+      "time": "17:07",
+      "activity": "",
+      "notes": [
+        "官帖記錄國小部、國中部與高中部獲教育部品德教育特色學校肯定，說明生活、人文及全人教育的做法。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0eAvQTmrf8QPGqkQapgtxipNuJ9gGUpaFj7vPY6W3iivoYx8uxzQZ8Lkc2x5u3A88l"
+        }
+      ],
+      "title": "三學段獲品德教育特色學校肯定",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1191",
+      "year": 2020,
+      "published": "2020-12-14",
+      "time": "13:27",
+      "activity": "",
+      "notes": [
+        "教師在小二、小六及國二班級進行教學實作，討論 108 課綱下的課程設計與課堂學習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02jjrWWc4y3hXqRz47g7Q4cAqxLNvgEXFqzK6HVadALN2Rj9VLiLK5wtTH5Nczx3gRl"
+        }
+      ],
+      "title": "教育部活化教學發表會在慈小",
+      "topic": "課程與專題",
       "kind": "fb"
     }
   ]
