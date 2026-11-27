@@ -127,6 +127,11 @@ window.reportData = {
         "2024-08",
         "partial",
         28
+      ],
+      [
+        "2024-07",
+        "partial",
+        13
       ]
     ],
     "asOf": "2026-11-27"
@@ -12291,6 +12296,290 @@ window.reportData = {
         }
       ],
       "title": "新生美語營 Day 1",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-519",
+      "year": 2024,
+      "published": "2024-07-31",
+      "time": "21:09",
+      "activity": "",
+      "notes": [
+        "貼文記錄學生接觸泰國敬師禮，鼓勵與家長分享感受，並提供 YouTube 影片觀看指引。",
+        "影音內容待核。"
+      ],
+      "media": "連結影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02oUdsNuDbrrPg4jFj8uACK5KGSs6vbzbQDfArMkJUhnBZSZ7uEkKL3BEdDhfFvDrdl"
+        }
+      ],
+      "title": "泰北交流學習泰國敬師禮",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-520",
+      "year": 2024,
+      "published": "2024-07-29",
+      "time": "20:41",
+      "activity": "",
+      "notes": [
+        "泰北志工人文交流系列以滿嘎拉營隊第三則記錄三校共善，請讀者到 YouTube 觀看。",
+        "影音內容待核。"
+      ],
+      "media": "連結影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02XXqyni84RhcbXce1Jt34zqKpFdABcrSmFBfmBVYsXE9tBo2NQ95VGHyb2xm3aEjal"
+        }
+      ],
+      "title": "泰北滿嘎拉營隊第三則紀錄",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-521",
+      "year": 2024,
+      "published": "2024-07-28",
+      "time": "22:50",
+      "activity": "",
+      "notes": [
+        "貼文回顧美國 MCI 暑期課程，內容涵蓋科學、音樂等活動，以及營隊結業。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02VjfAbN74m4UJGiFVYoqSAsfzUD9Gy2DfGmFvzuW7ggemWuV8EVHN5rpQAE3pEEfFl"
+        }
+      ],
+      "title": "美國 MCI 暑期營與雙聯學位交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-522",
+      "year": 2024,
+      "published": "2024-07-26",
+      "time": "21:13",
+      "activity": "",
+      "notes": [
+        "七月營隊回顧影片的說明另預告科學、資訊、英語及藝術全日營。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/464477373109917/"
+        }
+      ],
+      "title": "慈小暑期哈佛小子營回顧",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-523",
+      "year": 2024,
+      "published": "2024-07-26",
+      "time": "16:33",
+      "activity": "",
+      "notes": [
+        "影片說明文字報告交流團已到臺灣，感謝家長的支持。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/989555999312960/"
+        }
+      ],
+      "title": "泰北人文交流團回到臺灣",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-524",
+      "year": 2024,
+      "published": "2024-07-27",
+      "time": "21:40",
+      "activity": "",
+      "notes": [
+        "泰北志工人文交流系列以滿嘎拉營隊第二則記錄三校共善，請讀者到 YouTube 觀看。",
+        "影音內容待核。"
+      ],
+      "media": "連結影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02P9RWn2XsUBvmvfY6X2Lbhr4Rvkmun4yDqXfJgQkLWEYPNWa6KKy5cLRZBQrnu4Q3l"
+        }
+      ],
+      "title": "泰北滿嘎拉營隊第二則紀錄",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-525",
+      "year": 2024,
+      "published": "2024-07-26",
+      "time": "16:31",
+      "activity": "",
+      "notes": [
+        "影片說明文字報告交流團即將抵達臺灣。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1564087024989974/"
+        }
+      ],
+      "title": "泰北人文交流團返程快訊",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-526",
+      "year": 2024,
+      "published": "2024-07-26",
+      "time": "16:44",
+      "activity": "",
+      "notes": [
+        "校方貼文說明凱米颱風後的校園狀況和對外交通，並提及附小營隊。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02YycJQA1CVDDjBMB6eyAFDsqisa82JNpjr7fUrcyfQoUFVyQKHbbTHHFL6vJgjMazl"
+        }
+      ],
+      "title": "凱米颱風後校園與交通資訊",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-527",
+      "year": 2024,
+      "published": "2024-07-20",
+      "time": "23:56",
+      "activity": "",
+      "notes": [
+        "短片說明文字記錄泰北國際志工人文交流的滿嘎拉營隊開始。",
+        "影音內容待核。"
+      ],
+      "media": "短片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/861043342184543/"
+        }
+      ],
+      "title": "泰北國際志工滿嘎拉營隊開跑短片",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-528",
+      "year": 2024,
+      "published": "2024-07-20",
+      "time": "22:59",
+      "activity": "",
+      "notes": [
+        "貼文記錄到泰國交流第一天與馬來西亞吉華中學相會，並提供影片觀看指引。",
+        "影音內容待核。"
+      ],
+      "media": "連結影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0huA4ypbKTnv4eeN33W4o2wP4XpNdMU1mbghuJF5U2BiekvTjgZRD8iT28FnJNMKol"
+        }
+      ],
+      "title": "泰國交流首日與吉華中學相見",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-529",
+      "year": 2024,
+      "published": "2024-07-19",
+      "time": "23:35",
+      "activity": "",
+      "notes": [
+        "貼文稱孩子展現集訓成果，並提供 YouTube 影片觀看指引。",
+        "影音內容待核。"
+      ],
+      "media": "連結影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid032FJKZPq84Wf3LFRnDeky9RGWAMG3jAfPJcugX5Ri6rqiuhaSyuzeA9rqhEvWhs7Xl"
+        }
+      ],
+      "title": "泰北人文交流團分享集訓成果",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-530",
+      "year": 2024,
+      "published": "2024-07-19",
+      "time": "19:49",
+      "activity": "",
+      "notes": [
+        "短片說明文字介紹守夏節的入夏安居、誦經禮佛等傳統。",
+        "影音內容待核。"
+      ],
+      "media": "短片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1479773269310858/"
+        }
+      ],
+      "title": "泰北交流介紹泰國守夏節",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-531",
+      "year": 2024,
+      "published": "2024-07-19",
+      "time": "15:01",
+      "activity": "",
+      "notes": [
+        "官方貼文標示大愛新聞，文字提到師生在倫敦交流、參與志工服務及劍橋大學暑期課程。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/475532385215053/"
+        }
+      ],
+      "title": "粉專分享英倫人文交流報導",
       "topic": "國際與雙語",
       "kind": "fb"
     }
