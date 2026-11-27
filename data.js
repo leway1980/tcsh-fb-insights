@@ -166,7 +166,7 @@ window.reportData = {
       [
         "2020-04",
         "partial",
-        5
+        11
       ],
       [
         "2020-05",
@@ -311,7 +311,7 @@ window.reportData = {
       [
         "2022-09",
         "partial",
-        10
+        15
       ],
       [
         "2022-10",
@@ -1742,7 +1742,17 @@ window.reportData = {
         "fb-1342",
         "fb-1343",
         "fb-1344",
-        "fb-1346"
+        "fb-1346",
+        "fb-1349",
+        "fb-1350",
+        "fb-1351",
+        "fb-1353",
+        "fb-1354",
+        "fb-1355",
+        "fb-1356",
+        "fb-1357",
+        "fb-1358",
+        "fb-1359"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1861,7 +1871,8 @@ window.reportData = {
         "fb-1339",
         "fb-1345",
         "fb-1347",
-        "fb-1348"
+        "fb-1348",
+        "fb-1352"
       ]
     }
   },
@@ -31894,6 +31905,239 @@ window.reportData = {
       ],
       "title": "官粉轉載防疫課程報導",
       "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1349",
+      "year": 2020,
+      "published": "2020-04-13",
+      "time": "21:30",
+      "activity": "",
+      "notes": [
+        "官粉分享其他粉專內容，外層以三句短文提到學生用臺語介紹蔬食。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02LWrezuAiY3yazKyAMQFRZzsP8fgC6dTYHZ8QeJ9JgKPmzEAVC3EqMqsL1vdjWMqYl"
+        }
+      ],
+      "title": "臺語蔬食推廣（官帖外層文字）",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1350",
+      "year": 2020,
+      "published": "2020-04-13",
+      "time": "14:59",
+      "activity": "",
+      "notes": [
+        "營隊以沉浸式英語結合尊重、專注、誠信、負責與感恩，透過情境討論練習處理衝突。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02fq8josEqkTEoj51zZsGC3jaFLEu8Y1f5hdjYCwyLJ9jtn5ckXWqTVzsScfxw7LeWl"
+        }
+      ],
+      "title": "附小四年級英語品格營",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1351",
+      "year": 2020,
+      "published": "2020-04-28",
+      "time": "21:25",
+      "activity": "",
+      "notes": [
+        "封存官粉邀請讀者了解校友製作的營養資訊。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid025S5pjXjxJ3T2KYyT1Ny1F1h7JpuLHdVGqXEAMFN5FbhH2RFWTe1xSsTyGAStGajGl"
+        }
+      ],
+      "title": "官粉分享校友營養資訊（外層短文）",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1352",
+      "year": 2020,
+      "published": "2020-04-28",
+      "time": "13:22",
+      "activity": "",
+      "notes": [
+        "官帖分享全國語文競賽作文成果，正文涉及具名學生作品與個別成績，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0qpbCGMuKwjaKf3yqb8scvDvxADZRqgLfAGeGsKo5tQm7dE2J6XVi7wSJUxC5kwPl"
+        }
+      ],
+      "title": "官粉分享全國語文競賽作文成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1353",
+      "year": 2022,
+      "published": "2022-09-18",
+      "time": "16:26",
+      "activity": "",
+      "notes": [
+        "官粉回報校內三部師生平安，師長巡視教學區和宿舍並聯繫家長。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02sh3oXhxKPe755YiV28ewDhxGsSD4cRwKEt98pggRMLJAGhvf5Wiz4e7HpVJ8VxMJl"
+        }
+      ],
+      "title": "地震後住宿師生平安公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1354",
+      "year": 2022,
+      "published": "2022-09-16",
+      "time": "22:06",
+      "activity": "",
+      "notes": [
+        "雙語班分組在景美人權園區完成實境解謎，下午走讀溫羅汀，應用前一天學到的英語導覽技巧。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0oRUEkFEJNPwnzM8puBjdpXZPtzSyskj2NXmaXF3x7Np6RzrsCxYpQ8HyN8C5MtrEl"
+        }
+      ],
+      "title": "雙語班走讀人權博物館與溫羅汀",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1355",
+      "year": 2022,
+      "published": "2022-09-15",
+      "time": "23:11",
+      "activity": "",
+      "notes": [
+        "學生透過全英語步行導覽認識臺北文史，並練習用英文介紹街區與景點。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02agt6ochSDKQtrgP1xo4wCkfdynY7g1Qcr63VyymYDCKAvxFUCHHEVd4AVXqHP6gHl"
+        }
+      ],
+      "title": "高二雙語班青年外交官城市走讀",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1356",
+      "year": 2022,
+      "published": "2022-09-13",
+      "time": "09:50",
+      "activity": "",
+      "notes": [
+        "官帖記錄赴緬因中學四週 STEM 課程，含航空、3D 列印、再生能源與健康科學。封存無具名學生的首段摘錄。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02g4TXwpxSrHSrZsBB5pW1pSbyUSoueeWpYNYxSGH9wTWGK7V4fJKMEimn2ajkKiVWl"
+        }
+      ],
+      "title": "赴美雙聯暑期 STEM 課程（可見摘錄）",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "單篇初載曾顯示 9 月 12 日，穩定後日期錨點與列表同為 9 月 13 日 09:50。"
+    },
+    {
+      "id": "fb-1357",
+      "year": 2022,
+      "published": "2022-09-24",
+      "time": "19:33",
+      "activity": "",
+      "notes": [
+        "國一與高三實體辦理，其他四個年段採視訊方式。高三場另有考招輔導講座。",
+        "封存前四段，後續家庭敘事及後段文字省略。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Tx8MhEcifeaXxqf98UYLDCQo27mp48a1emKrse78MRbG33YRwiy7pjeEkTE4NA21l"
+        }
+      ],
+      "title": "中學親師座談實體與線上分流（可見摘錄）",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1358",
+      "year": 2020,
+      "published": "2020-04-24",
+      "time": "18:59",
+      "activity": "",
+      "notes": [
+        "官帖記錄慈少社同學書寫祝福，感謝護理、總務和校園夥伴。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/243315243719010/"
+        }
+      ],
+      "title": "慈少社向第一線防疫人員致謝",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1359",
+      "year": 2020,
+      "published": "2020-04-19",
+      "time": "20:00",
+      "activity": "",
+      "notes": [
+        "官帖記錄防疫下的新生分流報到與入校準備。已封存通用前段，個別家庭和兒童敘事省略。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0psLvB8WKCPsRvMcJdZfgFcEvAkEVVTcm6Fwv2kKBMCFSAyEBsXBZ2GcnPSeQ4zDxl"
+        }
+      ],
+      "title": "附小與附幼分流辦理新生報到（可見摘錄）",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
