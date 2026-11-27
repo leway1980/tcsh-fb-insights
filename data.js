@@ -181,42 +181,42 @@ window.reportData = {
       [
         "2020-07",
         "partial",
-        4
+        5
       ],
       [
         "2020-08",
         "partial",
-        6
+        7
       ],
       [
         "2020-09",
         "partial",
-        4
+        5
       ],
       [
         "2020-10",
         "partial",
-        6
+        7
       ],
       [
         "2020-11",
         "partial",
-        3
+        4
       ],
       [
         "2020-12",
         "partial",
-        3
+        4
       ],
       [
         "2021-01",
         "partial",
-        5
+        6
       ],
       [
         "2021-02",
         "partial",
-        4
+        5
       ],
       [
         "2021-03",
@@ -748,8 +748,20 @@ window.reportData = {
         "fb-365",
         "fb-366",
         "fb-367",
+        "fb-368",
+        "fb-369",
+        "fb-370",
         "fb-371",
         "fb-372",
+        "fb-373",
+        "fb-374",
+        "fb-376",
+        "fb-380",
+        "fb-381",
+        "fb-382",
+        "fb-383",
+        "fb-384",
+        "fb-386",
         "fb-389",
         "fb-395",
         "fb-409",
@@ -1350,7 +1362,14 @@ window.reportData = {
         "fb-1045",
         "fb-1046",
         "fb-1047",
-        "fb-1048"
+        "fb-1048",
+        "fb-1050",
+        "fb-1052",
+        "fb-1053",
+        "fb-1054",
+        "fb-1055",
+        "fb-1056",
+        "fb-1057"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1370,6 +1389,11 @@ window.reportData = {
         "fb-340",
         "fb-341",
         "fb-351",
+        "fb-375",
+        "fb-377",
+        "fb-378",
+        "fb-379",
+        "fb-385",
         "fb-893",
         "fb-906",
         "fb-1011",
@@ -1381,7 +1405,8 @@ window.reportData = {
         "fb-1030",
         "fb-1032",
         "fb-1042",
-        "fb-1049"
+        "fb-1049",
+        "fb-1051"
       ]
     }
   },
@@ -10413,7 +10438,7 @@ window.reportData = {
       "time": "14:33",
       "activity": "",
       "notes": [
-        "緬甸強震後，中小學師生祈願災難平息、傷者平安與家園復原。正文已展開。"
+        "緬甸強震後，校方記錄中小學師生為受災者祈福。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10423,7 +10448,7 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ELyZakAKrxqNgNo6qm2AC7pQpUqm2WRdSB72Hvd7YspqpDNPg3qTxo8mMfut3cPel"
         }
       ],
-      "title": "緬甸強震後",
+      "title": "師生為緬甸地震災區祈福",
       "topic": "生命教育與服務",
       "kind": "fb"
     },
@@ -10434,7 +10459,7 @@ window.reportData = {
       "time": "17:17",
       "activity": "",
       "notes": [
-        "國際伴學計畫與澳洲大學生線上英語交流，八位伴學者與 36 位國高中學生分享生活文化。正文已展開。"
+        "國際伴學計畫由澳洲大學生與慈中國高中部學生每月線上用英語交流。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10446,7 +10471,8 @@ window.reportData = {
       ],
       "title": "國際伴學計畫與澳洲大學生線上英語交流",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 17:17，單篇畫面顯示 02:17，兩讀值待核。"
     },
     {
       "id": "fb-370",
@@ -10455,7 +10481,7 @@ window.reportData = {
       "time": "00:59",
       "activity": "",
       "notes": [
-        "圖書館邀海洋文學作家分享鯨豚觀察與海洋守護。正文已展開。"
+        "圖書館邀作家廖鴻基與學生分享鯨豚觀察、黑潮與海洋守護。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10465,7 +10491,7 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0247CXocmWtGmngeMsWtR7RUD4fEtmvZeQFb1V4wNNMgMFRUEN3oEmmPFx72vicYKQl"
         }
       ],
-      "title": "圖書館邀海洋文學作家分享鯨豚觀察與海洋守護。正文已展開",
+      "title": "圖書館鯨豚文學與海洋守護講座",
       "topic": "招生與校園生活",
       "kind": "fb"
     },
@@ -10489,7 +10515,7 @@ window.reportData = {
       "title": "03/21 日本盛岡北高校師生來訪",
       "topic": "國際與雙語",
       "kind": "fb",
-      "timeNote": "已記錄 17:21，單篇另顯示 02:21，介面讀值差異待核"
+      "timeNote": "清冊原讀值 17:21，單篇畫面顯示 02:21，兩讀值待核。"
     },
     {
       "id": "fb-372",
@@ -10511,7 +10537,7 @@ window.reportData = {
       "title": "與花蓮高工的單晶片智慧居家跨校遠距選修進行實體參訪",
       "topic": "課程與專題",
       "kind": "fb",
-      "timeNote": "已記錄 17:07，單篇另顯示 02:07，介面讀值差異待核"
+      "timeNote": "清冊原讀值 17:07，單篇畫面顯示 02:07，兩讀值待核。"
     },
     {
       "id": "fb-373",
@@ -10520,7 +10546,7 @@ window.reportData = {
       "time": "12:00",
       "activity": "",
       "notes": [
-        "中山大學團隊入校舉辦生物科學營，學生操作實驗儀器並學習研究精神。正文已展開。"
+        "中山大學團隊攜帶實驗儀器入校，辦理全天生物科學營。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10541,7 +10567,7 @@ window.reportData = {
       "time": "10:02",
       "activity": "",
       "notes": [
-        "致校友、家長、師長與慈懿夥伴，分享學校共同回憶與歸屬。正文已展開。"
+        "粉專向校友、家長、教師與慈懿夥伴分享對學校的回憶與歸屬感。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10562,7 +10588,8 @@ window.reportData = {
       "time": "15:53",
       "activity": "",
       "notes": [
-        "粉專發布大愛採訪影片，介紹繁星成果及學習歷程。粉專正文已展開。"
+        "官粉感謝大愛電視採訪，分享學生升學與學習經驗。",
+        "正文涉及學生個人資訊，僅留安全索引。"
       ],
       "media": "影片",
       "partial": true,
@@ -10574,7 +10601,8 @@ window.reportData = {
       ],
       "title": "粉專發布大愛採訪影片",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 15:53，單篇畫面顯示 15:52，兩讀值待核。"
     },
     {
       "id": "fb-376",
@@ -10583,19 +10611,20 @@ window.reportData = {
       "time": "10:26",
       "activity": "",
       "notes": [
-        "校方稱全國學生音樂比賽國樂、弦樂合奏及銅管五重奏獲三項優等。正文展開後仍截斷待核。"
+        "官粉記錄全國學生音樂比賽，國樂合奏、弦樂合奏、銅管五重奏三項獲優等。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0dQFhTeXjayYGN42CS1rjgP8nMBmxFYSwrghSZJC45TMPPWeWbYx3PMyQKAUp2UXkl"
         }
       ],
-      "title": "校方稱全國學生音樂比賽國樂、弦樂合奏及銅管五重奏獲三項優等。正文展開後仍截斷待核",
+      "title": "全國學生音樂比賽三項優等",
       "topic": "競賽與成果",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "單篇初載顯示 3 月 19 日 19:26，載入後顯示 3 月 20 日 10:26。"
     },
     {
       "id": "fb-377",
@@ -10604,10 +10633,11 @@ window.reportData = {
       "time": "17:31",
       "activity": "",
       "notes": [
-        "後山好靚隊獲教育部青志獎志能運用獎，分享惜物募集、需求訪查及義賣。正文已展開。"
+        "後山好靚隊獲青志獎志能運用獎，官粉記錄惜物與服務行動。",
+        "正文涉及學生個人資訊，僅留安全索引。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -10616,7 +10646,8 @@ window.reportData = {
       ],
       "title": "後山好靚隊獲教育部青志獎志能運用獎",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 17:31，單篇畫面顯示 02:31，兩讀值待核。"
     },
     {
       "id": "fb-378",
@@ -10625,10 +10656,11 @@ window.reportData = {
       "time": "17:57",
       "activity": "",
       "notes": [
-        "校方公布繁星推薦及特殊選才成果，並介紹多元課程和學生探索。正文已展開，數字為校方說法。"
+        "校方公布繁星推薦、特殊選才成果與學習課程。",
+        "正文涉及學生個人資訊，僅留安全索引。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -10637,7 +10669,8 @@ window.reportData = {
       ],
       "title": "校方公布繁星推薦及特殊選才成果",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 17:57，單篇畫面顯示 02:57，兩讀值待核。"
     },
     {
       "id": "fb-379",
@@ -10646,10 +10679,12 @@ window.reportData = {
       "time": "12:07",
       "activity": "",
       "notes": [
-        "校方公布青少年志工及學校服務教育獎項，介紹環保與服務行動。正文已展開。"
+        "校方公布青少年志工及學校服務教育獎項。",
+        "正文涉及學生個人資訊，僅留安全索引。",
+        "兩個網址顯示同一日期錨點及正文開頭，逐字比對待核。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -10667,7 +10702,7 @@ window.reportData = {
       "time": "15:54",
       "activity": "",
       "notes": [
-        "第二場國高中招生說明會在北中南東舉行，介紹學習環境與國際修學。正文已展開。"
+        "第二場國高中招生說明會於北、中、南、東同步辦理，粉專介紹人文與國際修學特色。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10679,7 +10714,8 @@ window.reportData = {
       ],
       "title": "第二場國高中招生說明會在北中南東舉行",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 15:54，單篇畫面顯示 00:54，兩讀值待核。"
     },
     {
       "id": "fb-381",
@@ -10688,7 +10724,7 @@ window.reportData = {
       "time": "15:56",
       "activity": "",
       "notes": [
-        "第二屆 Life Maker 青年營慈中場在高雄開營，為高三生提供探索與培力。正文已展開。"
+        "第二屆 Life Maker 人生創客青年營慈中場在高雄開營，高三學生參與培力課程。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10700,7 +10736,8 @@ window.reportData = {
       ],
       "title": "第二屆 Life Maker 青年營慈中場在高雄開營",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 15:56，單篇畫面顯示 00:56，兩讀值待核。"
     },
     {
       "id": "fb-382",
@@ -10709,7 +10746,7 @@ window.reportData = {
       "time": "14:17",
       "activity": "",
       "notes": [
-        "預告大愛劇場《宇宙的源頭就是愛》03/24 上檔。正文已展開。"
+        "粉專預告大愛劇場《宇宙的源頭就是愛》播出，介紹劇中慈中的校園故事。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10719,7 +10756,7 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0PJveYt6RfhZifDznU8r1yFpS6N39iCfTTt1TCzXHp9YS5hagxoWBQFXKWJYaF7DZl"
         }
       ],
-      "title": "預告大愛劇場《宇宙的源頭就是愛》03/24 上檔。正文已展開",
+      "title": "《宇宙的源頭就是愛》播出預告",
       "topic": "校慶、藝文與體育",
       "kind": "fb"
     },
@@ -10730,7 +10767,7 @@ window.reportData = {
       "time": "09:09",
       "activity": "2025-03-12",
       "notes": [
-        "公告當晚線上親職講座，主題為親子界線。正文已展開。"
+        "粉專公告線上親職講座，主題為親子之間的界線。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10751,7 +10788,7 @@ window.reportData = {
       "time": "17:50",
       "activity": "2025-03-15",
       "notes": [
-        "公告 03/15 第二次國中招生說明會，北中南東四地舉行。正文已展開。"
+        "粉專公告第二場國中招生說明會，提供招生人數、特色班級與四個區域的場次。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10763,7 +10800,8 @@ window.reportData = {
       ],
       "title": "公告 03/15 第二次國中招生說明會",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 17:50，單篇畫面顯示 02:50，兩讀值待核。"
     },
     {
       "id": "fb-385",
@@ -10772,10 +10810,12 @@ window.reportData = {
       "time": "09:45",
       "activity": "",
       "notes": [
-        "全國學生舞蹈比賽決賽，小中高四支舞作獲優等。正文已展開。"
+        "校方公布全國學生舞蹈比賽決賽，四支舞作獲優等。",
+        "正文涉及學生個人資訊，僅留安全索引。",
+        "兩個網址顯示同一日期錨點及正文開頭，逐字比對待核。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -10793,10 +10833,10 @@ window.reportData = {
       "time": "09:41",
       "activity": "",
       "notes": [
-        "花蓮縣適性揚才博覽會慈中攤位，正文可見，Reel 未核。"
+        "官粉記錄花蓮縣適性揚才博覽會的慈中攤位。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -10805,7 +10845,8 @@ window.reportData = {
       ],
       "title": "花蓮縣適性揚才博覽會慈中攤位",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期及時間沿用清冊 2025-03-06 09:41，本次單篇頁未顯示日期時間，仍待核對。"
     },
     {
       "id": "fb-387",
@@ -21440,7 +21481,7 @@ window.reportData = {
       "title": "中學部親師座談與國樂展演",
       "topic": "招生與校園生活",
       "kind": "fb",
-      "timeNote": "列表顯示 17:33，單篇初載顯示 02:33，時刻差異待核"
+      "timeNote": "粉專列表顯示 17:33，單篇顯示 02:33，兩讀值待核。"
     },
     {
       "id": "fb-886",
@@ -22221,7 +22262,7 @@ window.reportData = {
       "title": "附小招生說明會與校園導覽",
       "topic": "招生與校園生活",
       "kind": "fb",
-      "timeNote": "列表顯示 17:49，單篇頁初次載入顯示 01:49，發文時刻待複核。"
+      "timeNote": "粉專列表顯示 17:49，單篇顯示 01:49，兩讀值待核。"
     },
     {
       "id": "fb-923",
@@ -24897,6 +24938,175 @@ window.reportData = {
       ],
       "title": "國小警察節感恩活動",
       "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1050",
+      "year": 2020,
+      "published": "2020-07-15",
+      "time": "08:53",
+      "activity": "",
+      "notes": [
+        "粉專回顧從 2008 年開始辦理的暑期醫療志工營，並公告 2020 年如期舉行。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02dUWeV6RgXCMYStQpBDjv51KMaEqeJ2APocKzx6dssjNbV9Yu2x4bS2u3dpYhjQhFl"
+        }
+      ],
+      "title": "暑期醫療志工營",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1051",
+      "year": 2020,
+      "published": "2020-08-12",
+      "time": "10:32",
+      "activity": "",
+      "notes": [
+        "粉專記錄靜浦部落文化與河口生態體驗。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0gReQF8dnYdTDixg9nJVP9otgNeVgQsbkfkdY6oj9hbXSv1tw1gfrDj65S3RJ3UN8l"
+        }
+      ],
+      "title": "高一靜浦戶外踏查",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1052",
+      "year": 2020,
+      "published": "2020-09-19",
+      "time": "12:02",
+      "activity": "",
+      "notes": [
+        "官粉轉分享餐食並以標籤感謝供餐。已與同日座談會與國樂展演貼文核對，兩則各有不同日期錨點及自有文字。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Bz8rN37pTJ7yCBEecvQ9WcYipaSeadmUqikaq9d5fynRBK2ZbbJbMwyC1fBWDXd8l"
+        }
+      ],
+      "title": "親師座談會餐食分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1053",
+      "year": 2020,
+      "published": "2020-10-15",
+      "time": "17:31",
+      "activity": "",
+      "notes": [
+        "粉專通知 109 年 10 月圖書館電子報出刊。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0pJMy8gwGzNewqBfk316ReNMqBCFtGqt8WKoGBBUAi1hUsqe88b4HiB8UdwQzQ8dYl"
+        }
+      ],
+      "title": "圖書館十月電子報出刊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1054",
+      "year": 2020,
+      "published": "2020-11-20",
+      "time": "09:07",
+      "activity": "",
+      "notes": [
+        "小一教師與英語教師設計四個遊戲關卡，評量注音符號和英文字母的應用。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02p7SVPCZeiejjXhocKNW32vjGjZLEYApU4Wts2Qb2MUo8Z7at132WS7LQKGKmU4w9l"
+        }
+      ],
+      "title": "小一注音與英語闖關評量",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1055",
+      "year": 2020,
+      "published": "2020-12-19",
+      "time": "17:36",
+      "activity": "",
+      "notes": [
+        "粉專以標籤記錄學測前師長與家長為高三學生祝福。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0orv6wU5ngSjCPbDHmB5DA6zGU4J26LYer9RrRbfwUcBYZwYVRq3FgAmB3KxKXgFdl"
+        }
+      ],
+      "title": "高三閉關衝刺祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1056",
+      "year": 2021,
+      "published": "2021-01-23",
+      "time": "17:39",
+      "activity": "",
+      "notes": [
+        "粉專記錄學生在學測第二天協力整理休息區。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02EgrMDeGFER4yVHU1P1g4o4sFJqmAVhUcajfAk7Bbt6vfJvgCz47HM2aPm3iExhcKl"
+        }
+      ],
+      "title": "學測第二日整理休息區",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 17:39，單篇顯示 01:39，兩讀值待核。"
+    },
+    {
+      "id": "fb-1057",
+      "year": 2021,
+      "published": "2021-02-23",
+      "time": "17:14",
+      "activity": "",
+      "notes": [
+        "校方記錄開學防疫安排，並預告附小的雙語課程成果發表與國際教育嘉年華。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid05yD8JWjtK4x5EHWaT6y725p4NBAbemZNk3vPiktmQJPNAFxzeiJwaPnRTVGsZ4KFl"
+        }
+      ],
+      "title": "開學防疫與雙語教育活動預告",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
