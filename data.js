@@ -76,17 +76,17 @@ window.reportData = {
       [
         "2018-10",
         "partial",
-        7
+        9
       ],
       [
         "2018-11",
         "partial",
-        7
+        9
       ],
       [
         "2018-12",
         "partial",
-        5
+        7
       ],
       [
         "2019-01",
@@ -621,9 +621,13 @@ window.reportData = {
         "fb-140",
         "fb-141",
         "fb-142",
+        "fb-143",
         "fb-144",
+        "fb-145",
         "fb-146",
         "fb-155",
+        "fb-157",
+        "fb-158",
         "fb-164",
         "fb-167",
         "fb-168",
@@ -652,6 +656,7 @@ window.reportData = {
         "fb-244",
         "fb-245",
         "fb-246",
+        "fb-249",
         "fb-250",
         "fb-251",
         "fb-252",
@@ -679,7 +684,9 @@ window.reportData = {
         "fb-278",
         "fb-280",
         "fb-281",
+        "fb-282",
         "fb-283",
+        "fb-284",
         "fb-285",
         "fb-286",
         "fb-291",
@@ -705,8 +712,12 @@ window.reportData = {
         "fb-329",
         "fb-330",
         "fb-331",
+        "fb-332",
+        "fb-333",
         "fb-335",
+        "fb-336",
         "fb-337",
+        "fb-338",
         "fb-339",
         "fb-342",
         "fb-371",
@@ -1295,20 +1306,26 @@ window.reportData = {
         "fb-1021",
         "fb-1022",
         "fb-1024",
-        "fb-1027"
+        "fb-1027",
+        "fb-1031",
+        "fb-1033"
       ],
       "noVisibleText": [
         "fb-27",
         "fb-28",
         "fb-97",
         "fb-177",
-        "fb-187"
+        "fb-187",
+        "fb-1028",
+        "fb-1029"
       ],
       "indexOnly": [
         "fb-131",
         "fb-199",
         "fb-248",
         "fb-293",
+        "fb-340",
+        "fb-341",
         "fb-893",
         "fb-906",
         "fb-1011",
@@ -1316,7 +1333,9 @@ window.reportData = {
         "fb-1018",
         "fb-1023",
         "fb-1025",
-        "fb-1026"
+        "fb-1026",
+        "fb-1030",
+        "fb-1032"
       ]
     }
   },
@@ -5576,7 +5595,7 @@ window.reportData = {
       "time": "06:08",
       "activity": "",
       "notes": [
-        "邀請參加十八歲校慶。正文待查。"
+        "官粉在校慶當日邀請參加國際文化運動會、募書與校友回娘家。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -5618,7 +5637,7 @@ window.reportData = {
       "time": "21:31",
       "activity": "",
       "notes": [
-        "慈大附中十八歲生日。依可見文字摘錄。"
+        "粉專自己的文字為十八週年校慶祝賀標籤。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -5630,7 +5649,8 @@ window.reportData = {
       ],
       "title": "慈大附中十八歲生日",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 21:31，同網址單篇顯示 05:31，兩種讀值待核"
     },
     {
       "id": "fb-146",
@@ -5870,7 +5890,7 @@ window.reportData = {
       "time": "07:36",
       "activity": "",
       "notes": [
-        "小學部練習大會操。依可見文字摘錄。"
+        "官粉記錄附小學生練習大會操。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -5891,7 +5911,7 @@ window.reportData = {
       "time": "06:45",
       "activity": "",
       "notes": [
-        "預告到花蓮各地手護花蓮。正文待查。"
+        "官粉預告到花蓮各地參與手護花蓮活動。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -7813,7 +7833,7 @@ window.reportData = {
       "time": "14:20",
       "activity": "",
       "notes": [
-        "共識營師長與精舍師父座談，交流修行、工作與生活體會。正文展開。"
+        "教師共識營安排師長與精舍師父座談，分享修行、工作與生活體會。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -8506,7 +8526,7 @@ window.reportData = {
       "time": "22:18",
       "activity": "",
       "notes": [
-        "第八任校長交接典禮。正文截斷。"
+        "官粉記錄第八任校長交接典禮，李玲惠校長卸任，廖逸貞校長接任。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -8548,7 +8568,7 @@ window.reportData = {
       "time": "16:07",
       "activity": "",
       "notes": [
-        "感恩兩任校長。正文截斷。"
+        "官粉感謝卸任校長，公告新任校長正式上任並連到學校介紹。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9574,7 +9594,7 @@ window.reportData = {
       "time": "23:49",
       "activity": "",
       "notes": [
-        "慈濟未來菁英國際探索營出發，正文截斷待核；07/10 截止見。"
+        "官粉記錄慈大附中與台南慈中共同參與美國國際探索營，行程結合科技、教育、人文、環保與志工服務。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9586,7 +9606,8 @@ window.reportData = {
       ],
       "title": "慈濟未來菁英國際探索營出發",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 23:49，同網址單篇顯示 08:49，兩種讀值待核"
     },
     {
       "id": "fb-333",
@@ -9595,7 +9616,7 @@ window.reportData = {
       "time": "18:12",
       "activity": "",
       "notes": [
-        "橫跨玉山山脈，國際教育啟航，正文截斷待核。"
+        "慈大附中與高雄義大國際高級中學簽署國際教育合作備忘錄。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9607,7 +9628,8 @@ window.reportData = {
       ],
       "title": "橫跨玉山山脈",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 18:12，同網址單篇顯示 03:12，兩種讀值待核"
     },
     {
       "id": "fb-334",
@@ -9658,7 +9680,7 @@ window.reportData = {
       "time": "13:09",
       "activity": "",
       "notes": [
-        "校方報告截至六月中旬透過多元入學管道，六成學生錄取國立大學或醫學相關科系，並述及選系、選校與生涯探索。正文已展開，數字為校方說法。"
+        "官粉公布 114 學年度大學多元入學的階段性整體成果。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -9670,7 +9692,8 @@ window.reportData = {
       ],
       "title": "校方報告截至六月中旬透過多元入學管道",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 13:09，同網址單篇顯示 22:09，兩種讀值待核"
     },
     {
       "id": "fb-337",
@@ -9700,7 +9723,7 @@ window.reportData = {
       "time": "22:18",
       "activity": "",
       "notes": [
-        "國小、國中、高中三組代表花蓮縣參加全國科展，授旗並分享探索與嘗試。正文已展開。"
+        "官粉記錄國小、國中及高中共三組取得代表花蓮縣參加全國科展的資格。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -9712,7 +9735,8 @@ window.reportData = {
       ],
       "title": "國小、國中、高中三組代表花蓮縣參加全國科展",
       "topic": "競賽與成果",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 22:18，同網址單篇顯示 07:18，兩種讀值待核"
     },
     {
       "id": "fb-339",
@@ -9742,7 +9766,7 @@ window.reportData = {
       "time": "18:20",
       "activity": "",
       "notes": [
-        "113學年度畢業典禮，幼兒園至高中 532 位畢業生、19 位取得慈中與美國 MCI 雙聯證書。正文已展開，數字為校方說法。"
+        "官粉發文與永久連結已核對。正文涉及個人資訊，僅留安全索引。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -9754,7 +9778,8 @@ window.reportData = {
       ],
       "title": "113學年度畢業典禮",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 18:20，同網址單篇顯示 03:20，兩種讀值待核"
     },
     {
       "id": "fb-341",
@@ -9763,7 +9788,7 @@ window.reportData = {
       "time": "16:56",
       "activity": "",
       "notes": [
-        "校方報告會考成果，包含兩位 5A 且作文滿級分、十位全科精熟，並分享學習歷程。正文已展開，數字為校方說法。"
+        "官粉發文與永久連結已核對。正文涉及個人資訊，僅留安全索引。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -24347,6 +24372,132 @@ window.reportData = {
         }
       ],
       "title": "107 學年度全國學生美術比賽花蓮縣初賽佳績",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1028",
+      "year": 2018,
+      "published": "2018-10-28",
+      "time": "07:30",
+      "activity": "",
+      "notes": [
+        "分享連結標題為北醫附小的文化交流活動。官粉外層無獨立正文。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid031Gqa5rGjwGTHePuv6vP2UtMmoejEakd3nbiDmnfRpNpJ4VzFsdEwn5NLAz3dcPiml"
+        }
+      ],
+      "title": "官粉分享北醫附小文化交流報導",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1029",
+      "year": 2018,
+      "published": "2018-10-28",
+      "time": "07:31",
+      "activity": "",
+      "notes": [
+        "分享連結標題為北醫附中與慈大附中校際交流。官粉外層無獨立正文。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid024kzD8DBjnBakcEZyf6jF6RyNyRn4xssfFSkpUKy5bN84KwUNEBS5bfAPLP7EqcRCl"
+        }
+      ],
+      "title": "官粉分享北醫附中與慈大附中交流報導",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1030",
+      "year": 2018,
+      "published": "2018-11-14",
+      "time": "07:55",
+      "activity": "",
+      "notes": [
+        "官粉記錄日本高中學生參與校內多元選修、文化與武術交流。僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Tbhx1o28LLBT6gdHZZ42Ck813MCY7qzMqaJRCyCPUjiSobVmgHiBqVtFkfs323RLl"
+        }
+      ],
+      "title": "日本盛岡第一高校入校交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1031",
+      "year": 2018,
+      "published": "2018-11-23",
+      "time": "08:57",
+      "activity": "",
+      "notes": [
+        "粉專記錄小一導師以四個遊戲關卡檢視認讀、朗讀與聽寫。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XJCGQbgPp3Y3w5Y4HbLWb68dda5MxctH92nHXVETMz1D7hjndUDtnf25SqzsVP8Jl"
+        }
+      ],
+      "title": "小一注音符號闖關學習",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1032",
+      "year": 2018,
+      "published": "2018-12-08",
+      "time": "18:20",
+      "activity": "",
+      "notes": [
+        "官粉公告西樂個人組得獎與全國賽資格。僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0KU8udSSBnxd3oY1U7fuJaU69i6svuTpaMpsUZucHBKfzNuy5pNfiUfAcDG3UMmfXl"
+        }
+      ],
+      "title": "花蓮縣學生音樂比賽西樂個人組",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1033",
+      "year": 2018,
+      "published": "2018-12-12",
+      "time": "00:58",
+      "activity": "",
+      "notes": [
+        "官粉公告國樂隊在花蓮縣賽取得高中職國樂合奏 B 組全國決賽資格。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ztfhwURPdnLiYwgRzxhedTgW1uUSV4cSQgXRQAeLwgsArH2NAQNE7Nteug64mQPpl"
+        }
+      ],
+      "title": "國樂隊晉級全國學生音樂比賽決賽",
       "topic": "競賽與成果",
       "kind": "fb"
     }
