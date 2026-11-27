@@ -331,7 +331,7 @@ window.reportData = {
       [
         "2023-01",
         "partial",
-        6
+        8
       ],
       [
         "2023-02",
@@ -356,17 +356,17 @@ window.reportData = {
       [
         "2023-06",
         "partial",
-        8
+        9
       ],
       [
         "2023-07",
         "partial",
-        8
+        9
       ],
       [
         "2023-08",
         "partial",
-        16
+        19
       ],
       [
         "2023-09",
@@ -653,8 +653,15 @@ window.reportData = {
         "fb-212",
         "fb-213",
         "fb-214",
+        "fb-215",
+        "fb-216",
+        "fb-217",
         "fb-218",
         "fb-219",
+        "fb-225",
+        "fb-238",
+        "fb-239",
+        "fb-240",
         "fb-241",
         "fb-242",
         "fb-243",
@@ -702,6 +709,7 @@ window.reportData = {
         "fb-288",
         "fb-289",
         "fb-291",
+        "fb-292",
         "fb-295",
         "fb-296",
         "fb-297",
@@ -772,8 +780,15 @@ window.reportData = {
         "fb-383",
         "fb-384",
         "fb-386",
+        "fb-387",
+        "fb-388",
         "fb-389",
+        "fb-390",
+        "fb-391",
+        "fb-392",
+        "fb-393",
         "fb-395",
+        "fb-396",
         "fb-397",
         "fb-398",
         "fb-399",
@@ -1397,7 +1412,14 @@ window.reportData = {
         "fb-1061",
         "fb-1062",
         "fb-1064",
-        "fb-1065"
+        "fb-1065",
+        "fb-1069",
+        "fb-1070",
+        "fb-1071",
+        "fb-1072",
+        "fb-1073",
+        "fb-1074",
+        "fb-1075"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1412,12 +1434,14 @@ window.reportData = {
       "indexOnly": [
         "fb-131",
         "fb-199",
+        "fb-247",
         "fb-248",
         "fb-287",
         "fb-290",
         "fb-293",
         "fb-294",
         "fb-301",
+        "fb-306",
         "fb-308",
         "fb-317",
         "fb-323",
@@ -1430,6 +1454,7 @@ window.reportData = {
         "fb-378",
         "fb-379",
         "fb-385",
+        "fb-394",
         "fb-893",
         "fb-906",
         "fb-1011",
@@ -7227,10 +7252,10 @@ window.reportData = {
       "time": "21:20",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。"
+        "官粉短說明記錄慈中學生參與光復救援。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7239,7 +7264,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期和時刻沿用清冊 2025-09-29 21:20。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-216",
@@ -7248,10 +7274,10 @@ window.reportData = {
       "time": "21:19",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。"
+        "官粉短說明記錄慈中學生參與光復救援。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7260,7 +7286,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期和時刻沿用清冊 2025-09-29 21:19。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-217",
@@ -7269,10 +7296,10 @@ window.reportData = {
       "time": "21:18",
       "activity": "",
       "notes": [
-        "光復救援點滴菩薩行(2)，慈中孩子護家園。"
+        "官粉短說明記錄慈中學生參與光復救援。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7281,7 +7308,8 @@ window.reportData = {
       ],
       "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期和時刻沿用清冊 2025-09-29 21:18。單篇頁未顯示日期時間，本次待重核。"
     },
     {
       "id": "fb-218",
@@ -7437,10 +7465,10 @@ window.reportData = {
       "time": "09:19",
       "activity": "",
       "notes": [
-        "粉專分享救災歌曲《用愛光復》。正文截斷待展開。"
+        "粉專以詩歌形式分享《用愛光復》，封存官粉標籤及分享網址。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7710,7 +7738,7 @@ window.reportData = {
       "time": "16:43",
       "activity": "2025-09-27",
       "notes": [
-        "百餘名親師生於教師節連假前往光復，投入堰塞湖溢流後災後服務，並以行動實踐生命教育。貼文正文已展開；活動 09/27。"
+        "粉專記錄百餘名親師生到光復參與災後服務，並以這段經歷說明生命教育。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -7722,7 +7750,8 @@ window.reportData = {
       ],
       "title": "百餘名親師生於教師節連假前往光復，投入堰塞湖溢流後災後服務，並以行動實踐生命教育",
       "topic": "生命教育與服務",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 16:43，單篇畫面顯示 01:43，兩讀值待核。"
     },
     {
       "id": "fb-239",
@@ -7731,10 +7760,10 @@ window.reportData = {
       "time": "07:15",
       "activity": "2025-09-27",
       "notes": [
-        "百位親師生投入風災後復原，協助光復鄉親清理。貼文正文已展開，附外部影片未核。"
+        "粉專記錄教師節連假首日，親師生與光復鄉親共同清理風災後的環境。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7752,7 +7781,7 @@ window.reportData = {
       "time": "22:19",
       "activity": "",
       "notes": [
-        "樺加沙颱風逼近，提醒防颱；學校說明已完成防颱工作並持續監測。貼文正文已展開。"
+        "校方記錄樺加沙颱風前的防颱準備，提醒家長及學生留意安全。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -7764,7 +7793,8 @@ window.reportData = {
       ],
       "title": "樺加沙颱風逼近，提醒防颱；學校說明已完成防颱工作並持續監測",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 22:19，單篇畫面顯示 07:19，兩讀值待核。"
     },
     {
       "id": "fb-241",
@@ -7903,7 +7933,9 @@ window.reportData = {
       "time": "12:43",
       "activity": "",
       "notes": [
-        "慈大附中語文表現。正文截斷，具體獎項待核。"
+        "官粉記錄花蓮縣語文競賽團體參與及獲獎。",
+        "正文涉及學生或家庭個人資訊，僅留安全索引。",
+        "日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -8862,10 +8894,10 @@ window.reportData = {
       "time": "09:08",
       "activity": "",
       "notes": [
-        "醫療志工營第五天記錄醫院服務與榮家關懷。本次只讀到正文前段，待查。"
+        "醫療志工營第五天進行醫院服務交接、榮家關懷活動與小組反思。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -9165,8 +9197,9 @@ window.reportData = {
       "time": "09:51",
       "activity": "",
       "notes": [
-        "新馬修學團在馬六甲長者學堂參與跨世代交流。本次只讀到正文前段，待查。",
-        "畫面另有日期錨點網址，關係待核。"
+        "新馬修學團走訪馬六甲長者學堂，參與跨世代交流。",
+        "正文涉及學生或家庭個人資訊，僅留安全索引。",
+        "日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -10919,7 +10952,7 @@ window.reportData = {
       "time": "10:24",
       "activity": "",
       "notes": [
-        "公告暑期泰國、新馬、印尼海外交流，含校際交流、志工、文化和城市探索。正文已展開。"
+        "官粉公告暑期泰國、新馬、印尼交流，包含校際學習、國際志工、文化體驗及城市探索。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10940,7 +10973,7 @@ window.reportData = {
       "time": "21:30",
       "activity": "",
       "notes": [
-        "高三線上親師座談介紹升學輔導與選填時程，導師與家長晤談。正文已展開。"
+        "高三線上親師座談說明選填時程、校內升學資源及一對一輔導。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10952,7 +10985,8 @@ window.reportData = {
       ],
       "title": "高三線上親師座談介紹升學輔導與選填時程",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 21:30，單篇畫面顯示 05:30，兩讀值待核。"
     },
     {
       "id": "fb-389",
@@ -10983,7 +11017,7 @@ window.reportData = {
       "time": "15:46",
       "activity": "",
       "notes": [
-        "國高中招生說明會在北桃中南東舉辦，學校介紹環境、課程與國際學習。正文已展開。"
+        "國高中招生說明會在北、桃、中、南、東五區同步舉辦。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11004,7 +11038,7 @@ window.reportData = {
       "time": "22:29",
       "activity": "2025-06-29",
       "notes": [
-        "公告 06/29–07/12 美國國際探索營，結合學術參訪、環保與服務。正文已展開。"
+        "美國國際探索營配合北加州至南加州行程，規劃學術參訪、環境保育與社會服務。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11016,7 +11050,8 @@ window.reportData = {
       ],
       "title": "公告 06/29–07/12 美國國際探索營",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 22:29，單篇畫面顯示 06:29，兩讀值待核。"
     },
     {
       "id": "fb-392",
@@ -11025,7 +11060,7 @@ window.reportData = {
       "time": "15:55",
       "activity": "2025-02-11",
       "notes": [
-        "02/11 分部與年級舉行開學典禮，以敬師禮及新學期祝福迎接學生。正文已展開。"
+        "學校按學部和年級辦開學典禮，透過敬師禮與新學期叮嚀迎接學生。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11046,7 +11081,7 @@ window.reportData = {
       "time": "19:27",
       "activity": "",
       "notes": [
-        "開學前流感高峰，學校公告校園清消及防疫準備。正文已展開。"
+        "粉專記錄流感高峰期間的開學前校園防疫準備。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11058,7 +11093,8 @@ window.reportData = {
       ],
       "title": "開學前流感高峰",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 19:27，單篇畫面顯示 03:27，兩讀值待核。"
     },
     {
       "id": "fb-394",
@@ -11067,10 +11103,11 @@ window.reportData = {
       "time": "16:10",
       "activity": "",
       "notes": [
-        "寒假科學鑑識營以指紋採集等實作，結合化學、生物、觀察與推理。正文已展開。"
+        "寒假科學鑑識營由教師指導學生進行指紋採集等實作。",
+        "正文涉及學生或家庭個人資訊，僅留安全索引。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -11079,7 +11116,8 @@ window.reportData = {
       ],
       "title": "寒假科學鑑識營以指紋採集等實作",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 16:10，單篇畫面顯示 00:10，兩讀值待核。"
     },
     {
       "id": "fb-395",
@@ -11109,7 +11147,7 @@ window.reportData = {
       "time": "22:44",
       "activity": "2025-02-15",
       "notes": [
-        "預告 02/15 招生說明會，介紹國一班型與住宿。正文已展開。"
+        "粉專預告第一場招生說明會，介紹國一班型與國際修學、住宿生活。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11121,7 +11159,8 @@ window.reportData = {
       ],
       "title": "預告 02/15 招生說明會",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 22:44，單篇畫面顯示 06:44，兩讀值待核。"
     },
     {
       "id": "fb-397",
@@ -18298,7 +18337,8 @@ window.reportData = {
       "time": "17:42",
       "activity": "",
       "notes": [
-        "貼文記錄國中會考前為考生送上祝福。"
+        "貼文記錄國中會考前為考生送上祝福。",
+        "另一入口核為同一則。"
       ],
       "media": "",
       "partial": false,
@@ -18310,7 +18350,8 @@ window.reportData = {
       ],
       "title": "國中會考前的祝福",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 17:42，兩個網址的單篇畫面均顯示 02:42，兩讀值待核。"
     },
     {
       "id": "fb-734",
@@ -25415,6 +25456,157 @@ window.reportData = {
       "title": "風起長跑隊競賽與團隊分享",
       "topic": "校慶、藝文與體育",
       "kind": "fb"
+    },
+    {
+      "id": "fb-1069",
+      "year": 2023,
+      "published": "2023-01-17",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "附小三年級生與慈大國際學生組隊，以英語解題、購物及結帳，將物資送到食物銀行。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xnF5pHN2w51GWjHk9UR3QKFuq3eCY2RSZeXVcojQH4J3xGiMvV9mDheinJoz8qkel"
+        }
+      ],
+      "title": "全英語闖關與食物銀行",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1070",
+      "year": 2023,
+      "published": "2023-01-17",
+      "time": "13:36",
+      "activity": "",
+      "notes": [
+        "官粉記錄高一九門多元選修，學生以展演、英語調查報告、標本和短片呈現學習成果。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Dwc1dPPVbfkcEmHavt1CtQeZHEn2HkGY8RavNYRkStx8wdBkoqbKXqmpUsC5dJuKl"
+        }
+      ],
+      "title": "高一多元選修期末成果發表",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1071",
+      "year": 2023,
+      "published": "2023-06-14",
+      "time": "15:54",
+      "activity": "",
+      "notes": [
+        "粉專記錄高一靜態展及高二動態、靜態成果發表。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02c1z1dTuDoZw185HWN1wspYkpKzFJw81szLH6kuFPMCPHP1XxGemimvfDpKjjFQaol"
+        }
+      ],
+      "title": "高一、高二自主學習期末成果發表",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 15:54，單篇顯示 00:54，兩讀值待核。"
+    },
+    {
+      "id": "fb-1072",
+      "year": 2023,
+      "published": "2023-07-17",
+      "time": "11:03",
+      "activity": "",
+      "notes": [
+        "粉專記錄雙聯學位暑期課程包含 3D 列印、機器人、賽局理論、體育、舞蹈及英語創意寫作。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0x2EVT4k858uUZdxFTEnBemJtqVqjYAJCTehbAbNj23HNf3Zw7UxAGMQCaRCAaA1sl"
+        }
+      ],
+      "title": "緬因中央中學暑期 STEAM 課程第二週",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1073",
+      "year": 2023,
+      "published": "2023-08-16",
+      "time": "02:19",
+      "activity": "",
+      "notes": [
+        "粉專記錄馬來西亞國際修學暨志工人文交流團參訪小印度，介紹印度廟外觀。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/822398915955528/"
+        }
+      ],
+      "title": "馬來西亞修學參訪檳城小印度",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 02:21，單篇顯示 02:19，兩讀值待核。"
+    },
+    {
+      "id": "fb-1074",
+      "year": 2023,
+      "published": "2023-08-17",
+      "time": "14:21",
+      "activity": "",
+      "notes": [
+        "粉專記錄慈中師生與檳城慈濟家人在《拉沙沙亞》的音樂中同樂，學生以椅子打節奏。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/310015274735298/"
+        }
+      ],
+      "title": "檳城靜思堂晚宴的音樂交流",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 14:24，單篇顯示 14:21，兩讀值待核。"
+    },
+    {
+      "id": "fb-1075",
+      "year": 2023,
+      "published": "2023-08-17",
+      "time": "14:46",
+      "activity": "",
+      "notes": [
+        "粉專記錄慈中師生與檳城慈濟家人共進晚宴，並以《一家人》的吹奏作結。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1112247493077111/"
+        }
+      ],
+      "title": "檳城靜思堂晚宴以《一家人》作結",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 14:47，單篇顯示 14:46，兩讀值待核。"
     }
   ]
 };
