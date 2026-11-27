@@ -20,8 +20,8 @@ window.reportData = {
       ],
       [
         "2018-12",
-        "located",
-        0
+        "partial",
+        5
       ],
       [
         "2019-12",
@@ -39,9 +39,19 @@ window.reportData = {
         0
       ],
       [
+        "2022-11",
+        "partial",
+        2
+      ],
+      [
         "2022-12",
         "partial",
-        6
+        10
+      ],
+      [
+        "2023-09",
+        "partial",
+        9
       ],
       [
         "2023-10",
@@ -14639,6 +14649,434 @@ window.reportData = {
       ],
       "title": "生命教育月的第六年「感飢 12」",
       "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-625",
+      "year": 2018,
+      "published": "2018-12-26",
+      "time": "07:57",
+      "activity": "",
+      "notes": [
+        "粉專預告孩子們即將開始活動，請讀者等直播公布。",
+        "可見正文沒有交代活動主題。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid024mRXDnZjeunhQUj5Mx8o6CgnvEQN6BQhVz73vDGNHsFDdEdWfdwH1iZW3DrnbLnCl"
+        }
+      ],
+      "title": "直播前的活動預告",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-626",
+      "year": 2018,
+      "published": "2018-12-26",
+      "time": "06:05",
+      "activity": "",
+      "notes": [
+        "粉專分享弦樂隊聖誕快閃報佳音。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02WKqmQoLXLikSHhjeHSfkaU3CSuZqhvupEfFegnA2Yhkp5fPMk9M72nD7prCojC7Tl"
+        }
+      ],
+      "title": "慈中弦樂隊聖誕報佳音快閃",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-627",
+      "year": 2018,
+      "published": "2018-12-25",
+      "time": "11:10",
+      "activity": "",
+      "notes": [
+        "校內聖誕活動包含寫祝福、致贈餅乾與管樂隊快閃演出。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0AsA1bT3v5FzGZ3LTJnFwvp3vemVzTSLDc6tCoZWuCgoc7wBKYcSKXEPmDrCnu7qwl"
+        }
+      ],
+      "title": "班聯會與管樂隊的聖誕活動",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-628",
+      "year": 2018,
+      "published": "2018-12-20",
+      "time": "15:56",
+      "activity": "",
+      "notes": [
+        "粉專分享兩位高中部第 11 屆校友通過律師高考。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0252PJfYxrqeCb9TCpFGwBL99t7WHFXJt4Eadtz6xJLbHPyYU5KPogumbP9hLXvKUCl"
+        }
+      ],
+      "title": "高中部校友通過律師高考",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-629",
+      "year": 2018,
+      "published": "2018-12-20",
+      "time": "13:18",
+      "activity": "",
+      "notes": [
+        "圖書館以貼文分享當月電子書資訊。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02AUYmtGvQU6hnxbZVDe8Py9dgqhFtCZNoTDRANka2ZCxDdZ8nmUcaore4aayTxdQql"
+        }
+      ],
+      "title": "圖書館十二月電子書分享",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-630",
+      "year": 2022,
+      "published": "2022-12-20",
+      "time": "19:10",
+      "activity": "",
+      "notes": [
+        "粉專分享田徑場跑道啟用及校園師生運動空間。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02WjKciNc4wY2DWaN4QRF8SP589bgdgxCMijU9h2Yup1UjvkWgdCuCJCKyQNKNYWfzl"
+        }
+      ],
+      "title": "田徑場跑道啟用典禮",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-631",
+      "year": 2022,
+      "published": "2022-12-20",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "附小五年級團隊參加 111 學年度太平洋盃小論文專題競賽，獲小學組金獎。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02XPYahJmBsWehAzenv5gDRH5o9vWBUmyc8wr9NETJKRCiMTPHFLEnbNuQPVrPmcXdl"
+        }
+      ],
+      "title": "附小太平洋盃小論文專題競賽金獎",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-632",
+      "year": 2022,
+      "published": "2022-12-20",
+      "time": "09:34",
+      "activity": "2022-12-20",
+      "notes": [
+        "高三於學測前進行閉關衝刺祝福活動，流程包含勤學、智慧與必勝等環節。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0A6GdpvDSg83kbEWGqGNCSeEwkRTEPJMoNVpMQACRpjwYiezz1FD4ES4rZWtVM7zXl"
+        }
+      ],
+      "title": "高三學測前閉關衝刺祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-633",
+      "year": 2022,
+      "published": "2022-12-12",
+      "time": "18:26",
+      "activity": "",
+      "notes": [
+        "粉專以短文祝賀學生在花蓮縣英語文閱讀能力競賽的表現。",
+        "附件內容待核。"
+      ],
+      "media": "附件",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0324pEowNkwRYoXZCsZxxfcxAfVHPwEC1S6jV79CfxQ9euSQVU1ZVNmFymPDEGnx2ml"
+        }
+      ],
+      "title": "花蓮縣學生英語文閱讀能力競賽成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-634",
+      "year": 2022,
+      "published": "2022-11-30",
+      "time": "16:02",
+      "activity": "",
+      "notes": [
+        "貼文記錄教師議課與精進教學，分享不同年級數學課堂的做法。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0326tZeZ5NjoQFrAKBhQYMLArtt6Vu5USFT3eEKjP8FwkejJaPWbEC73DYVH4fKbbHl"
+        }
+      ],
+      "title": "附小數學精進與共同議課",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-635",
+      "year": 2022,
+      "published": "2022-11-19",
+      "time": "16:38",
+      "activity": "",
+      "notes": [
+        "可見文字為提到慈中與牛津的短標籤。",
+        "原帖轉分享內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02sT4yfJ4xsxe9LX3rVed2VNFynpd8WVmLf118gbfyz1p19sQiMwo1VFTSkrZcMnkxl"
+        }
+      ],
+      "title": "牛津交流的粉專短分享",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-636",
+      "year": 2023,
+      "published": "2023-09-30",
+      "time": "23:13",
+      "activity": "",
+      "notes": [
+        "粉專分享附小的敬師謝師活動。",
+        "附外部新聞連結，報導內容待核。"
+      ],
+      "media": "外部新聞連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JkJtaajQPbAEGYMJ1cDEMz73EmYMFpfrQki7pBPSE5V3MpPb246VepWYBpzzzZ7Kl"
+        }
+      ],
+      "title": "附小敬師謝師感恩活動",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-637",
+      "year": 2023,
+      "published": "2023-09-26",
+      "time": "21:39",
+      "activity": "",
+      "notes": [
+        "粉專可見文字是關於慈中榮譽顧問的短標籤。",
+        "Yahoo 新聞內容待核。"
+      ],
+      "media": "轉分享新聞",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0LKAxWSJzdY5xYHAZ5ysgcNsT9pYiFBRqsBQeF9RfZ3arfYjDMfFW3QvRUCPn826Ql"
+        }
+      ],
+      "title": "慈中榮譽顧問短分享",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-638",
+      "year": 2023,
+      "published": "2023-09-22",
+      "time": "21:50",
+      "activity": "2023-09-22",
+      "notes": [
+        "校方辦理八年級全天群科參訪，讓學生了解不同類科並思考高中、高職與五專等生涯選擇。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GoAfzcptbeBS9crxquZErrFET2FrzYqBFPzq8nPhjBJHaMNQsVFaUFHtexx22CzHl"
+        }
+      ],
+      "title": "八年級群科參訪與生涯探索",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-639",
+      "year": 2023,
+      "published": "2023-09-16",
+      "time": "17:56",
+      "activity": "",
+      "notes": [
+        "校方分享班親座談，學生參與主持與才藝表演，導師和家長討論孩子的成長。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JDBeUpddod5azdVXfDVovrCWDSz6EDFDdoNzPPpCmAiacwSDVQc1RTT73kQaadf1l"
+        }
+      ],
+      "title": "親師座談與學生展演紀錄",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-640",
+      "year": 2023,
+      "published": "2023-09-16",
+      "time": "10:16",
+      "activity": "",
+      "notes": [
+        "粉專刊出 112 年校園流感疫苗電子意願書通知。",
+        "畫面中的簽署連結縮寫顯示，目標未核。"
+      ],
+      "media": "連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid035w2JGnCy3VDNLSJSkWxeh7tYHNWhPw1ACAPwN8g3G1UxEmgDtvkN9gfGma11kS6Xl"
+        }
+      ],
+      "title": "校園流感疫苗電子意願書通知",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-641",
+      "year": 2023,
+      "published": "2023-09-15",
+      "time": "22:05",
+      "activity": "",
+      "notes": [
+        "粉專分享 112 學年度附小暨幼兒園學校日，邀家長成為教育夥伴。",
+        "貼文附外部新聞連結，報導待核。"
+      ],
+      "media": "外部新聞連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0iQkcHWV9D8YLtHchkDQwKHCo9b3jAUfSxNjkZpX9vKVafJ9FTThSowh8EiENYxMdl"
+        }
+      ],
+      "title": "附小與幼兒園溫馨學校日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-642",
+      "year": 2023,
+      "published": "2023-09-15",
+      "time": "16:56",
+      "activity": "2023-09-16",
+      "notes": [
+        "粉專預告隔天親師座談，並為國中及高中不同學習階段安排專題座談。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0CKU17uhvmzEMFoX4dSF8WGMy3CXBjage42kEPPfHSSwqeu2dwPeJwXrjQHHCynWXl"
+        }
+      ],
+      "title": "國高中分學段親師座談預告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-643",
+      "year": 2023,
+      "published": "2023-09-05",
+      "time": "12:02",
+      "activity": "",
+      "notes": [
+        "粉專提醒高一學生，第三屆 MCI 雙聯學位新生報名將於發文翌日截止。",
+        "內嵌轉分享內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0FcuqBBkrCyskV5p6hUMRaRAFaEdibJFahB5bygYA4Fj2yYb98fWWTvGD4m1STHgVl"
+        }
+      ],
+      "title": "第三屆 MCI 雙聯學位報名提醒",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-644",
+      "year": 2023,
+      "published": "2023-09-04",
+      "time": "13:21",
+      "activity": "",
+      "notes": [
+        "粉專記錄颱風假期間的環境整理及清除殘枝落葉。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02jCqbo3iyPYRMaP25oHLaVrDkzvVZqEwwkEZvzaZMVwSejuyPimGxBTYgeppduH7ul"
+        }
+      ],
+      "title": "颱風假期間的校園整理",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
