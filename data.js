@@ -87,6 +87,11 @@ window.reportData = {
         "2025-04",
         "partial",
         17
+      ],
+      [
+        "2025-03",
+        "partial",
+        19
       ]
     ],
     "asOf": "2026-11-27"
@@ -9058,6 +9063,405 @@ window.reportData = {
         }
       ],
       "title": "介紹課程、社團、國際交流與住宿並宣傳招生說明會。正文已展開",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-368",
+      "year": 2025,
+      "published": "2025-03-31",
+      "time": "14:33",
+      "activity": "",
+      "notes": [
+        "緬甸強震後，中小學師生祈願災難平息、傷者平安與家園復原。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ELyZakAKrxqNgNo6qm2AC7pQpUqm2WRdSB72Hvd7YspqpDNPg3qTxo8mMfut3cPel"
+        }
+      ],
+      "title": "緬甸強震後",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-369",
+      "year": 2025,
+      "published": "2025-03-30",
+      "time": "17:17",
+      "activity": "",
+      "notes": [
+        "國際伴學計畫與澳洲大學生線上英語交流，八位伴學者與 36 位國高中學生分享生活文化。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02BntM2hqmZMrMJnJs758brQG9tCwLNoWQUhXzkcA4UaBDCtQDQyTFNWee9emtEQX4l"
+        }
+      ],
+      "title": "國際伴學計畫與澳洲大學生線上英語交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-370",
+      "year": 2025,
+      "published": "2025-03-28",
+      "time": "00:59",
+      "activity": "",
+      "notes": [
+        "圖書館邀海洋文學作家分享鯨豚觀察與海洋守護。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0247CXocmWtGmngeMsWtR7RUD4fEtmvZeQFb1V4wNNMgMFRUEN3oEmmPFx72vicYKQl"
+        }
+      ],
+      "title": "圖書館邀海洋文學作家分享鯨豚觀察與海洋守護。正文已展開",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-371",
+      "year": 2025,
+      "published": "2025-03-26",
+      "time": "17:21",
+      "activity": "2025-03-21",
+      "notes": [
+        "03/21 日本盛岡北高校師生來訪，參與入班、環保、七星潭生態、天文與文化交流。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02S3pq4YLM1qJvYskPCwk5vXzz5ZaEzHbLR36joQvNxpEMfRfuRFmTouxNTgkiz5J6l"
+        }
+      ],
+      "title": "03/21 日本盛岡北高校師生來訪",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-372",
+      "year": 2025,
+      "published": "2025-03-26",
+      "time": "17:07",
+      "activity": "",
+      "notes": [
+        "與花蓮高工的單晶片智慧居家跨校遠距選修進行實體參訪，以繪圖和雷切製作存錢筒。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid03dnjdCsM8hYKc2weeFVpFCykUqgzUJcZwe2zn2Wg1JhKMhartCRA6TeoXcRUgz7kl"
+        }
+      ],
+      "title": "與花蓮高工的單晶片智慧居家跨校遠距選修進行實體參訪",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-373",
+      "year": 2025,
+      "published": "2025-03-23",
+      "time": "12:00",
+      "activity": "",
+      "notes": [
+        "中山大學團隊入校舉辦生物科學營，學生操作實驗儀器並學習研究精神。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02oWiCDWvDfHdtQQGmDXPXUdXWXXut6QBPoJR5uTdKeJeif2xnjdd6Jw681czUv4Jzl"
+        }
+      ],
+      "title": "中山大學團隊入校舉辦生物科學營",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-374",
+      "year": 2025,
+      "published": "2025-03-21",
+      "time": "10:02",
+      "activity": "",
+      "notes": [
+        "致校友、家長、師長與慈懿夥伴，分享學校共同回憶與歸屬。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0QWiCAPNQtxD3dtjLkEsqNvEAmEGe5cCuXqGXPjfk5p4AnKDn5wok7KZG7PbnBY8kl"
+        }
+      ],
+      "title": "致校友、家長、師長與慈懿夥伴",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-375",
+      "year": 2025,
+      "published": "2025-03-20",
+      "time": "15:53",
+      "activity": "",
+      "notes": [
+        "粉專發布大愛採訪影片，介紹繁星成果及學習歷程。粉專正文已展開，影片未核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/617961684450613/"
+        }
+      ],
+      "title": "粉專發布大愛採訪影片",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-376",
+      "year": 2025,
+      "published": "2025-03-20",
+      "time": "10:26",
+      "activity": "",
+      "notes": [
+        "校方稱全國學生音樂比賽國樂、弦樂合奏及銅管五重奏獲三項優等。正文展開後仍截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0dQFhTeXjayYGN42CS1rjgP8nMBmxFYSwrghSZJC45TMPPWeWbYx3PMyQKAUp2UXkl"
+        }
+      ],
+      "title": "校方稱全國學生音樂比賽國樂、弦樂合奏及銅管五重奏獲三項優等。正文展開後仍截斷待核",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-377",
+      "year": 2025,
+      "published": "2025-03-19",
+      "time": "17:31",
+      "activity": "",
+      "notes": [
+        "後山好靚隊獲教育部青志獎志能運用獎，分享惜物募集、需求訪查及義賣。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02KGERS8GbAr9XXyRaC92FjA8D7xagCepT36BHzoCw96SwotwRoN4FxzHUbrCJBNcBl"
+        }
+      ],
+      "title": "後山好靚隊獲教育部青志獎志能運用獎",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-378",
+      "year": 2025,
+      "published": "2025-03-18",
+      "time": "17:57",
+      "activity": "",
+      "notes": [
+        "校方公布繁星推薦及特殊選才成果，並介紹多元課程和學生探索。正文已展開，數字為校方說法"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid032UjReKfQFTJ5L9efAZhuEeQWLjHdYZekV5qtKjnkcZ1LyyGMyGgge6CWEW1D7kkWl"
+        }
+      ],
+      "title": "校方公布繁星推薦及特殊選才成果",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-379",
+      "year": 2025,
+      "published": "2025-03-16",
+      "time": "12:07",
+      "activity": "",
+      "notes": [
+        "校方公布青少年志工及學校服務教育獎項，介紹環保與服務行動。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0jnuuGGTidbcLEHrFRHDd5rMVjfVqsEbzo5y2FYDZxm3D98xhzDU8SZBkvkcTYvayl"
+        }
+      ],
+      "title": "校方公布青少年志工及學校服務教育獎項",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-380",
+      "year": 2025,
+      "published": "2025-03-15",
+      "time": "15:54",
+      "activity": "",
+      "notes": [
+        "第二場國高中招生說明會在北中南東舉行，介紹學習環境與國際修學。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid025ZqYuvKxDBNcScU2ZG41dmpYRH2UDSKPe8Ltkc3eWHmycLV3FaCPaugGbn1nYxg9l"
+        }
+      ],
+      "title": "第二場國高中招生說明會在北中南東舉行",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-381",
+      "year": 2025,
+      "published": "2025-03-14",
+      "time": "15:56",
+      "activity": "",
+      "notes": [
+        "第二屆 Life Maker 青年營慈中場在高雄開營，為高三生提供探索與培力。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02WBYLtALYwoTL2iP4RcwPvo3Fcb89FNvK6XjmZmitgb6sJUzNxZLGuQ9PJCKmQbwFl"
+        }
+      ],
+      "title": "第二屆 Life Maker 青年營慈中場在高雄開營",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-382",
+      "year": 2025,
+      "published": "2025-03-13",
+      "time": "14:17",
+      "activity": "",
+      "notes": [
+        "預告大愛劇場《宇宙的源頭就是愛》03/24 上檔。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0PJveYt6RfhZifDznU8r1yFpS6N39iCfTTt1TCzXHp9YS5hagxoWBQFXKWJYaF7DZl"
+        }
+      ],
+      "title": "預告大愛劇場《宇宙的源頭就是愛》03/24 上檔。正文已展開",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-383",
+      "year": 2025,
+      "published": "2025-03-12",
+      "time": "09:09",
+      "activity": "2025-03-12",
+      "notes": [
+        "公告當晚線上親職講座，主題為親子界線。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0VjmZSnm184a87sYwyWTgGxUQo8APM8R4jSAgk9qH57dTKwzQmUQNWEdr4ib7873Sl"
+        }
+      ],
+      "title": "公告當晚線上親職講座",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-384",
+      "year": 2025,
+      "published": "2025-03-10",
+      "time": "17:50",
+      "activity": "2025-03-15",
+      "notes": [
+        "公告 03/15 第二次國中招生說明會，北中南東四地舉行。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0mb6jtr7p8rwQERXCwoRuUFehzDRpXXiY9DezkGuyqC2r3tfqm2D21YEE3YQLBsk4l"
+        }
+      ],
+      "title": "公告 03/15 第二次國中招生說明會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-385",
+      "year": 2025,
+      "published": "2025-03-10",
+      "time": "09:45",
+      "activity": "",
+      "notes": [
+        "全國學生舞蹈比賽決賽，小中高四支舞作獲優等。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0hUurZbQFXGkhPbjxur3Crw77Ak5oqBWsHtkdxfL7hyjogxTATApnbNmpU7VABfTxl"
+        }
+      ],
+      "title": "全國學生舞蹈比賽決賽",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-386",
+      "year": 2025,
+      "published": "2025-03-06",
+      "time": "09:41",
+      "activity": "",
+      "notes": [
+        "花蓮縣適性揚才博覽會慈中攤位，正文可見，Reel 未核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1809711836480724/"
+        }
+      ],
+      "title": "花蓮縣適性揚才博覽會慈中攤位",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
