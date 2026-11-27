@@ -191,7 +191,7 @@ window.reportData = {
       [
         "2020-09",
         "partial",
-        9
+        14
       ],
       [
         "2020-10",
@@ -266,7 +266,7 @@ window.reportData = {
       [
         "2021-12",
         "partial",
-        11
+        16
       ],
       [
         "2022-01",
@@ -1643,7 +1643,17 @@ window.reportData = {
         "fb-1231",
         "fb-1232",
         "fb-1234",
-        "fb-1235"
+        "fb-1235",
+        "fb-1237",
+        "fb-1238",
+        "fb-1239",
+        "fb-1240",
+        "fb-1241",
+        "fb-1242",
+        "fb-1243",
+        "fb-1244",
+        "fb-1245",
+        "fb-1246"
       ],
       "noVisibleText": [
         "fb-27",
@@ -29380,6 +29390,220 @@ window.reportData = {
       ],
       "title": "官帖分享「防疫不妨藝」成果展報導",
       "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1237",
+      "year": 2020,
+      "published": "2020-09-18",
+      "time": "11:35",
+      "activity": "",
+      "notes": [
+        "官帖記錄校方邀醫療團隊為全園幼兒安排例行健康檢查。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02fEWoTczHTXfYwyjFjpXehbZLhb1cR1VRi3pgJUiEMz8Ue4EnrDuxdqKMu2MnMrdLl"
+        }
+      ],
+      "title": "附幼全園例行健康檢查",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1238",
+      "year": 2020,
+      "published": "2020-09-17",
+      "time": "20:50",
+      "activity": "",
+      "notes": [
+        "官帖公布團體報名資訊，並提到以 108 課綱素養導向入題。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ANDPgX9UdB7fegqaEWxgR9HzfKkHDt4av3ytzdXYuBMz4oCnWPCpux5NjffEujoCl"
+        }
+      ],
+      "title": "更生日報盃數學競賽報名",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1239",
+      "year": 2020,
+      "published": "2020-09-15",
+      "time": "18:48",
+      "activity": "",
+      "notes": [
+        "官帖以學測與會考長文題組為例，介紹國一、高一的閱讀理解教學及講座。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0sFpfa7WYNLN2XkmJMSGf3dc8MHnmqkMT3MG2H5M5td1waovBBRHQg4FWAuXcjk6al"
+        }
+      ],
+      "title": "閱讀理解講座與七、十年級課程規劃",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1240",
+      "year": 2020,
+      "published": "2020-09-12",
+      "time": "13:44",
+      "activity": "",
+      "notes": [
+        "校方說明教學方向與素養導向學習，並安排校隊展演。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xtaVTGn4cussyUTQBYGjEVWnADU7UpHH8UnWatiwearQd6s6xz6RDYp929yeMAjwl"
+        }
+      ],
+      "title": "附小與附幼學校日親師座談",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "單篇初載顯示前一日，穩定後與列表同為 9 月 12 日 13:44。"
+    },
+    {
+      "id": "fb-1241",
+      "year": 2020,
+      "published": "2020-09-11",
+      "time": "09:41",
+      "activity": "",
+      "notes": [
+        "官帖預告附幼、附小和中學部的親師活動，以及雙語成果展。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023yfVpsLAfbJv37EA5LrmzngtVpokX5pMotppKPryCbehiuA5oaPuZPTDdSJyHAygl"
+        }
+      ],
+      "title": "新學期親師座談和雙語展演預告",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "單篇初載顯示前一日，穩定後與列表同為 9 月 11 日 09:41。"
+    },
+    {
+      "id": "fb-1242",
+      "year": 2021,
+      "published": "2021-12-25",
+      "time": "00:21",
+      "activity": "",
+      "notes": [
+        "校友為學生分享紀錄片拍攝經驗，引導討論興趣、選擇與挑戰。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02zXGCukVZgEPMciXZ38s5trUMXvnFa6RMzexT5gTcFYV3d9LdLFeUAaYWws5UVBppl"
+        }
+      ],
+      "title": "校友到圖書館分享紀錄片創作",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1243",
+      "year": 2021,
+      "published": "2021-12-23",
+      "time": "21:30",
+      "activity": "",
+      "notes": [
+        "官帖預告聖誕料理特輯及親子參與方式。",
+        "原帖當次可見末尾停在未完句，末尾完整性待核。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02uJRWPkcXJenaFtTvYohjzy5LM6VLijJU74vkbKBn94Ln5z2VzLst4PU2rmAxehgql"
+        }
+      ],
+      "title": "附幼聖誕料理特輯（可見片段）",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "列表顯示 21:30，單篇另顯示 05:30。"
+    },
+    {
+      "id": "fb-1244",
+      "year": 2021,
+      "published": "2021-12-08",
+      "time": "11:55",
+      "activity": "",
+      "notes": [
+        "官帖預告國中藝術班的美術展與畢業成果展，邀請觀展。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0vFTzo7u6doDYtrpq5NCqU7Wgy9KsHZtbQbFvLSdtKCf33C7dWbDvLeWqoMF9HoKEl"
+        }
+      ],
+      "title": "第二十屆國中部藝術班畢業成果展預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1245",
+      "year": 2021,
+      "published": "2021-12-05",
+      "time": "13:33",
+      "activity": "",
+      "notes": [
+        "官帖記錄到環保站服務，並呼籲從減少一次性餐具及物品再利用著手。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02EfKfrohQEdY9bkwg4g2gnMTgwEn4KEcPWUHJda8Xzh5qoQBxckDhYGx8v6wpTYf4l"
+        }
+      ],
+      "title": "國際志工日的環保站服務",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1246",
+      "year": 2021,
+      "published": "2021-12-08",
+      "time": "10:06",
+      "activity": "",
+      "notes": [
+        "六年級到木瓜溪觀察水流、地形、岩石與礦物，把自然課帶到溪畔。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02omZh9YqmbV4BJmAHopRMUCXx2iExDBHoh567bExxz8QCx2YmbktyntS45CUeTe1Rl"
+        }
+      ],
+      "title": "附小六年級木瓜溪自然教學",
+      "topic": "在地與校外學習",
       "kind": "fb"
     }
   ]
