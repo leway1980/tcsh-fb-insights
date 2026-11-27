@@ -131,17 +131,17 @@ window.reportData = {
       [
         "2019-09",
         "partial",
-        4
+        6
       ],
       [
         "2019-10",
         "partial",
-        4
+        6
       ],
       [
         "2019-11",
         "partial",
-        2
+        4
       ],
       [
         "2019-12",
@@ -151,7 +151,7 @@ window.reportData = {
       [
         "2020-01",
         "partial",
-        5
+        6
       ],
       [
         "2020-02",
@@ -730,6 +730,14 @@ window.reportData = {
         "fb-338",
         "fb-339",
         "fb-342",
+        "fb-344",
+        "fb-345",
+        "fb-347",
+        "fb-352",
+        "fb-353",
+        "fb-358",
+        "fb-359",
+        "fb-360",
         "fb-371",
         "fb-372",
         "fb-389",
@@ -1322,7 +1330,13 @@ window.reportData = {
         "fb-1034",
         "fb-1035",
         "fb-1036",
-        "fb-1037"
+        "fb-1037",
+        "fb-1038",
+        "fb-1039",
+        "fb-1040",
+        "fb-1041",
+        "fb-1043",
+        "fb-1044"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1349,7 +1363,8 @@ window.reportData = {
         "fb-1025",
         "fb-1026",
         "fb-1030",
-        "fb-1032"
+        "fb-1032",
+        "fb-1042"
       ]
     }
   },
@@ -9869,7 +9884,7 @@ window.reportData = {
       "time": "17:08",
       "activity": "",
       "notes": [
-        "國二童軍在龍門露營區舉行兩天一夜隔宿露營，練習合作與生活技能。正文已展開。"
+        "國二在龍門露營區進行兩天一夜童軍隔宿露營，練習團隊合作、解決問題和生活技能。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -9890,7 +9905,7 @@ window.reportData = {
       "time": "15:04",
       "activity": "",
       "notes": [
-        "花蓮縣華紙公益盃 AI 自走車運算思維機器人大賽，慈中國中組足球對抗賽奪冠。正文已展開。"
+        "校隊獲華紙公益盃 AI 自走車足球對抗賽國中組冠軍，封存文字已遮蔽學生姓名。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -9902,7 +9917,8 @@ window.reportData = {
       ],
       "title": "花蓮縣華紙公益盃 AI 自走車運算思維機器人大賽",
       "topic": "競賽與成果",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 15:04，單篇畫面顯示 00:04，兩讀值待核。"
     },
     {
       "id": "fb-346",
@@ -9932,10 +9948,10 @@ window.reportData = {
       "time": "12:07",
       "activity": "",
       "notes": [
-        "介紹第23屆畢業生作品《序青春》，敘述離別與成長。正文已展開，音影片未核。"
+        "粉專介紹第 23 屆畢業生的作品《序青春》，描述離別、成長與追夢。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -10037,7 +10053,7 @@ window.reportData = {
       "time": "19:06",
       "activity": "",
       "notes": [
-        "愛閱週閱讀市集，24 班圍繞人權、旅遊、人文與 AI 主題設計遊戲，並有說書音樂演出。正文已展開。"
+        "愛閱週以人權公義、旅遊生活、人文美學、人工智慧為閱讀主題，辦理閱讀闖關與說書人表演。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10049,7 +10065,8 @@ window.reportData = {
       ],
       "title": "愛閱週閱讀市集",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 19:06，單篇畫面顯示 04:06，兩讀值待核。"
     },
     {
       "id": "fb-353",
@@ -10058,7 +10075,7 @@ window.reportData = {
       "time": "10:15",
       "activity": "",
       "notes": [
-        "全校教師與行政團隊參加社會情緒學習增能工作坊，討論五項核心能力與情境演練。正文已展開。"
+        "跨學部教職員參加社會情緒學習增能工作坊，以討論與演練練習自我覺察、管理、人際互動及決策等能力。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10163,7 +10180,7 @@ window.reportData = {
       "time": "17:16",
       "activity": "",
       "notes": [
-        "高國一招生說明會倒數三天，正文已展開。"
+        "官粉公告 114 學年度高、國一最後一場招生說明會，提供兩學部報名連結。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10175,7 +10192,8 @@ window.reportData = {
       ],
       "title": "高國一招生說明會倒數三天",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 17:16，單篇畫面顯示 02:16，兩讀值待核。"
     },
     {
       "id": "fb-359",
@@ -10184,7 +10202,7 @@ window.reportData = {
       "time": "22:10",
       "activity": "2025-04-13",
       "notes": [
-        "04/13 文學桌遊工作坊，37 位國中生結合故事與 AI 設計桌遊、互相闖關。正文已展開。"
+        "圖書館第八屆文學桌遊工作坊引導國中生結合故事、遊戲機制及 AI 設計桌遊，封存文字已遮蔽學生姓名與班別。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -10196,7 +10214,8 @@ window.reportData = {
       ],
       "title": "04/13 文學桌遊工作坊",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 22:10，單篇畫面顯示 07:10，兩讀值待核。"
     },
     {
       "id": "fb-360",
@@ -10205,7 +10224,7 @@ window.reportData = {
       "time": "11:10",
       "activity": "",
       "notes": [
-        "美國緬因中央中學師長來訪，為雙聯學位畢業生頒證，學生分享線上學習與赴美體驗。正文已展開。"
+        "美國緬因中央中學師長為雙聯學位學生頒證，粉專回顧線上學習與赴美體驗。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -24602,6 +24621,155 @@ window.reportData = {
       ],
       "title": "國一妙手生華手語比賽",
       "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1038",
+      "year": 2019,
+      "published": "2019-09-12",
+      "time": "09:12",
+      "activity": "",
+      "notes": [
+        "國小部宣導地震防災與避難，並於演藝廳辦理逃生演練。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02z8YhHbWSaEeV5tZhcSjCXbbdtNcoyJMtPhE5TkiXFhUqvUzHdtqjJXy8ADhDZ9zpl"
+        }
+      ],
+      "title": "國小防災宣導與逃生演練",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1039",
+      "year": 2019,
+      "published": "2019-09-12",
+      "time": "20:48",
+      "activity": "",
+      "notes": [
+        "高中設國際、科創、博思三個學院，高一可從語言、在地、食農、生醫與科技等八門課選修。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0YwD1SvJKVZVLoKQqsbpBHvXP5Vz4MEzpqYk4jysrDsiuNxEDTKDm1L73vXYC2XyEl"
+        }
+      ],
+      "title": "108 課綱下的學院制多元選修",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 20:48，單篇畫面顯示 05:48，兩讀值待核。"
+    },
+    {
+      "id": "fb-1040",
+      "year": 2019,
+      "published": "2019-10-15",
+      "time": "12:49",
+      "activity": "",
+      "notes": [
+        "圖書館透過粉專短文鼓勵閱讀。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid025j1d4wj2C5hEk5HSeiQtbKPo2Jw9dfZecJsoSWadp9pYERsipqX77XENUbGgTpptl"
+        }
+      ],
+      "title": "圖書館閱讀推廣",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1041",
+      "year": 2019,
+      "published": "2019-10-15",
+      "time": "18:03",
+      "activity": "",
+      "notes": [
+        "校方分享筆記、複習和應試方法，導師為高三學生送上祝福。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0rb41EvwSxYnv6zuF79c6P6SJMncq6bhhAym3QqUncNag2gVrFGVVXSJQsrGNmu1sl"
+        }
+      ],
+      "title": "學測準備與導師祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1042",
+      "year": 2019,
+      "published": "2019-11-18",
+      "time": "20:35",
+      "activity": "",
+      "notes": [
+        "校隊晉級北區初賽前十六強。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0KM9YZhmiDeN5Skuie28PttpL8ZXXFgvrPoZP1cYhfYk8TentX9o2tH4gmpupTYgEl"
+        }
+      ],
+      "title": "外交小尖兵英語競賽",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 20:35，單篇畫面顯示 04:35，兩讀值待核。"
+    },
+    {
+      "id": "fb-1043",
+      "year": 2019,
+      "published": "2019-11-18",
+      "time": "21:18",
+      "activity": "",
+      "notes": [
+        "粉專在校慶期間分享兩位返校或投入慈濟教育的教師故事。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02TVG9XNxAHk1ULSHJYZdmNwAU4Vew2tLTnYic6ZNje3zqp5cKk9vB2PcUTudZadHhl"
+        }
+      ],
+      "title": "校慶與慈濟教育三十年",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1044",
+      "year": 2020,
+      "published": "2020-01-15",
+      "time": "08:31",
+      "activity": "",
+      "notes": [
+        "期末表揚服務志工和生活教育競賽班級，安排師生交流服務心得。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02XJJZkpB79XkpLxS57FS5jpArDpo7bcfN4ThQkCfxT477w7yoSvBsqwZ4Z6xacbsQl"
+        }
+      ],
+      "title": "國小小志工與校長茶敘",
+      "topic": "生命教育與服務",
       "kind": "fb"
     }
   ]
