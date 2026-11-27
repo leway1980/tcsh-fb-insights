@@ -111,7 +111,7 @@ window.reportData = {
       [
         "2024-11",
         "partial",
-        10
+        20
       ]
     ],
     "asOf": "2026-11-27"
@@ -11102,6 +11102,216 @@ window.reportData = {
       ],
       "title": "分享慈中二十五週年校慶節目",
       "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-464",
+      "year": 2024,
+      "published": "2024-11-15",
+      "time": "18:17",
+      "activity": "",
+      "notes": [
+        "分享品德教育特色學校獲獎及新聞。已核粉專正文"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02qvNr5t1DfwikqatFDa7ZzGL5VSFThjn6ZTxiagf9kvVneTc9EmeU5y4jptpfPrAl"
+        }
+      ],
+      "title": "分享品德教育特色學校獲獎及新聞",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-465",
+      "year": 2024,
+      "published": "2024-11-13",
+      "time": "19:12",
+      "activity": "",
+      "notes": [
+        "公告校慶運動會延期。貼文相片內容尚未核讀"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02FzyH2uKAJk2CiBpQUrtPsxhAscoqK5zfcNpe57DAwkX9SkVoFxDyKU4NM4qUZf5Yl"
+        }
+      ],
+      "title": "公告校慶運動會延期",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-466",
+      "year": 2024,
+      "published": "2024-11-10",
+      "time": "18:21",
+      "activity": "2024-11-10",
+      "notes": [
+        "師生於11月10日協助靜思精舍風災清理。已核粉專正文"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02SGVbU3tChkWGU4cPcTsU3D6PevGqaHAhdJ7B1xUoguyDCx4YouTGY9LpceGUU5Byl"
+        }
+      ],
+      "title": "師生於11月10日協助靜思精舍風災清理",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-467",
+      "year": 2024,
+      "published": "2024-11-09",
+      "time": "23:37",
+      "activity": "2024-11-09",
+      "notes": [
+        "雙語班「愛無限」英語劇成果展演。已核粉專正文"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02pCMXcKXWVgbSqSPS23F7LQFDMDYFt6aXbrBvEMATsBmZrvDshZMYoTX7PLUqd2Sdl"
+        }
+      ],
+      "title": "雙語班「愛無限」英語劇成果展演",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-468",
+      "year": 2024,
+      "published": "2024-11-09",
+      "time": "12:52",
+      "activity": "2024-11-08",
+      "notes": [
+        "國二港市尋蹤戶外踏查。已核粉專正文"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02iejKpEC8cHzSrTqsyeQMYDwt1wqZ93TzKaePvJv1ydhhauynZ6jM5hZ88KkKBoUPl"
+        }
+      ],
+      "title": "國二港市尋蹤戶外踏查",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-469",
+      "year": 2024,
+      "published": "2024-11-07",
+      "time": "22:17",
+      "activity": "2024-11-09",
+      "notes": [
+        "預告11月9日雙語班英語劇展演。已核粉專正文"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid07VT9cGZnSA41n8eFBC1sFeKHw5mt6hJVHx1AMpdd7P9uS8gMyanX4ovToBzCX1P4l"
+        }
+      ],
+      "title": "預告11月9日雙語班英語劇展演",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-470",
+      "year": 2024,
+      "published": "2024-11-05",
+      "time": "19:09",
+      "activity": "",
+      "notes": [
+        "貼文提到校友響應慈中二十五週年校慶"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033zknBfykWxSQgSKM6GFBw3Jj9d4zWjYxHhL6qLp1WHHbLTgofFmdvEXpWzddYJpkl"
+        }
+      ],
+      "title": "校友響應二十五週年校慶",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-471",
+      "year": 2024,
+      "published": "2024-11-01",
+      "time": "16:21",
+      "activity": "",
+      "notes": [
+        "舞蹈隊參加花蓮縣學生舞蹈比賽獲優等。已核粉專正文"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0kf3KQXXNbJb8sRYLnCHA1zqVTzg2URWcALurdwxPzuYkHP7pE2vPaJU6KMvQoZoEl"
+        }
+      ],
+      "title": "舞蹈隊參加花蓮縣學生舞蹈比賽獲優等",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-472",
+      "year": 2024,
+      "published": "2024-11-01",
+      "time": "16:13",
+      "activity": "",
+      "notes": [
+        "文化國中直笛隊與慈中音樂交流。已核粉專正文"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0LewRMtH6ps1Kn8sthscXeyBbS7Z5A33STiyuLKb9yngEU1xhDFRWgCvYBc7g6fkYl"
+        }
+      ],
+      "title": "文化國中直笛隊與慈中音樂交流",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-473",
+      "year": 2024,
+      "published": "2024-11-01",
+      "time": "08:54",
+      "activity": "",
+      "notes": [
+        "親師生合作整理颱風後校園。已核粉專正文"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037UaMcCjG9Rh4Vo7k6z9GcfJfERyVdBP5XBqoTc7EXogfKtc24bMTG2fjLmoTQHgHl"
+        }
+      ],
+      "title": "親師生合作整理颱風後校園",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
