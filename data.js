@@ -211,7 +211,7 @@ window.reportData = {
       [
         "2021-01",
         "partial",
-        4
+        5
       ],
       [
         "2021-02",
@@ -221,7 +221,7 @@ window.reportData = {
       [
         "2021-03",
         "partial",
-        4
+        12
       ],
       [
         "2021-04",
@@ -22812,6 +22812,195 @@ window.reportData = {
       ],
       "title": "粉專分享教育講座邀請",
       "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-991",
+      "year": 2021,
+      "published": "2021-03-26",
+      "time": "14:12",
+      "activity": "",
+      "notes": [
+        "幼兒園布置異國美食區，提醒參與嘉年華的親師生攜帶環保餐具。影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/649774682468233/"
+        }
+      ],
+      "title": "附幼籌備國際教育嘉年華",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-992",
+      "year": 2021,
+      "published": "2021-03-20",
+      "time": "15:04",
+      "activity": "2021-03-20",
+      "notes": [
+        "國小部透過公開觀課、社團體驗及親職講座協助幼小銜接。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0dsLaPuhqph9pDGxbBexVQhmsxtE82DPcjwWzCzjSjs5PakLLgR6KnBMpQPPXyMd9l"
+        }
+      ],
+      "title": "附小幼小銜接與親職講座",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-993",
+      "year": 2021,
+      "published": "2021-03-18",
+      "time": "14:00",
+      "activity": "",
+      "notes": [
+        "七、九年級代表隊分別獲各組第四名。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0icYj4dduKADZJmLAnd1zBQcisEFNdvJt4MRGTXPwC1XQXJvGMavyhdtSQxRXwjygl"
+        }
+      ],
+      "title": "國中大隊接力縣市複賽成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-994",
+      "year": 2021,
+      "published": "2021-01-19",
+      "time": "15:58",
+      "activity": "",
+      "notes": [
+        "國中學生在臺灣區數學競賽獲個人及團體獎項。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02MoLa57u1gWmqJ6P4sGPhuMyboXqjYEq6mmvdHMUdMqgtpB2hqmmqA97Q8pHRZfuvl"
+        }
+      ],
+      "title": "國中數學競賽成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-995",
+      "year": 2021,
+      "published": "2021-03-24",
+      "time": "17:04",
+      "activity": "",
+      "notes": [
+        "官粉分享國小雙語劇成果展彩排與演出資訊。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02oZstKPogaiTyhDzRY9zN2DkDZcbBnctCT72H2oy6tWnKoQoE2q9s2NtCEeWspN11l"
+        }
+      ],
+      "title": "附小雙語劇成果展彩排",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-996",
+      "year": 2021,
+      "published": "2021-03-25",
+      "time": "15:34",
+      "activity": "2021-03-25",
+      "notes": [
+        "臺日師生以視訊延續校際交流，分享學校近況和地方農產品。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Gw2hXDubr7cp8W97v63GZR7gn1vgGjF5LE5YzMMamLWJ2ytCHQMZpihSn8F9aqLCl"
+        }
+      ],
+      "title": "附中與日本青森西高校視訊交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-997",
+      "year": 2021,
+      "published": "2021-03-23",
+      "time": "15:06",
+      "activity": "2021-03-25、2021-03-27",
+      "notes": [
+        "預告 3 月 25 日雙語教學成果演出、3 月 27 日附小與附幼國際教育嘉年華。影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/525880802104360/"
+        }
+      ],
+      "title": "附小雙語展演與國際教育嘉年華預告",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-998",
+      "year": 2021,
+      "published": "2021-03-14",
+      "time": "11:42",
+      "activity": "2021-03-14",
+      "notes": [
+        "介紹高中多元選修、校訂必修和國際交流資源。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Py9Z4bMPAVeShRnzcVxFmTp6h7oXAvNin95PzGrypqW43sH9hafwqvw4uPbuXXLZl"
+        }
+      ],
+      "title": "高中部招生說明會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-999",
+      "year": 2021,
+      "published": "2021-03-13",
+      "time": "18:04",
+      "activity": "",
+      "notes": [
+        "親師交流學生學習成果，貼文也預告雙語展演及國際教育嘉年華。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0233H5BwUQLTCtb5bXd6ceuojbTgPuocxwBmJFQcs6jvHp8HdZay7jMomJdfBs53rtl"
+        }
+      ],
+      "title": "附小學校日及親師交流",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
