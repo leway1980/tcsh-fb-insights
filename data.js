@@ -426,7 +426,7 @@ window.reportData = {
       [
         "2024-08",
         "partial",
-        28
+        30
       ],
       [
         "2024-09",
@@ -661,18 +661,31 @@ window.reportData = {
         "fb-157",
         "fb-158",
         "fb-159",
+        "fb-160",
         "fb-161",
+        "fb-162",
+        "fb-163",
         "fb-164",
         "fb-165",
         "fb-166",
         "fb-167",
         "fb-168",
+        "fb-169",
         "fb-170",
+        "fb-171",
+        "fb-172",
+        "fb-173",
         "fb-174",
+        "fb-175",
+        "fb-176",
         "fb-178",
         "fb-179",
         "fb-181",
+        "fb-182",
+        "fb-183",
+        "fb-184",
         "fb-185",
+        "fb-186",
         "fb-188",
         "fb-189",
         "fb-191",
@@ -804,6 +817,7 @@ window.reportData = {
         "fb-331",
         "fb-332",
         "fb-333",
+        "fb-334",
         "fb-335",
         "fb-336",
         "fb-337",
@@ -868,6 +882,8 @@ window.reportData = {
         "fb-408",
         "fb-409",
         "fb-410",
+        "fb-411",
+        "fb-412",
         "fb-413",
         "fb-414",
         "fb-415",
@@ -876,6 +892,7 @@ window.reportData = {
         "fb-418",
         "fb-419",
         "fb-420",
+        "fb-421",
         "fb-422",
         "fb-423",
         "fb-424",
@@ -883,6 +900,7 @@ window.reportData = {
         "fb-426",
         "fb-427",
         "fb-428",
+        "fb-429",
         "fb-430",
         "fb-431",
         "fb-432",
@@ -1353,6 +1371,7 @@ window.reportData = {
         "fb-914",
         "fb-915",
         "fb-916",
+        "fb-917",
         "fb-918",
         "fb-919",
         "fb-920",
@@ -1492,15 +1511,24 @@ window.reportData = {
         "fb-1081",
         "fb-1082",
         "fb-1084",
-        "fb-1086"
+        "fb-1086",
+        "fb-1087",
+        "fb-1088"
       ],
       "noVisibleText": [
         "fb-27",
         "fb-28",
+        "fb-57",
         "fb-97",
         "fb-177",
+        "fb-180",
         "fb-187",
         "fb-357",
+        "fb-568",
+        "fb-668",
+        "fb-782",
+        "fb-937",
+        "fb-950",
         "fb-1028",
         "fb-1029"
       ],
@@ -1536,8 +1564,25 @@ window.reportData = {
         "fb-379",
         "fb-385",
         "fb-394",
+        "fb-702",
+        "fb-760",
+        "fb-778",
+        "fb-798",
+        "fb-802",
+        "fb-807",
+        "fb-808",
+        "fb-830",
+        "fb-856",
+        "fb-857",
+        "fb-880",
         "fb-893",
         "fb-906",
+        "fb-921",
+        "fb-926",
+        "fb-955",
+        "fb-980",
+        "fb-987",
+        "fb-989",
         "fb-1011",
         "fb-1015",
         "fb-1018",
@@ -2867,7 +2912,7 @@ window.reportData = {
       "timeNote": "",
       "activity": "",
       "notes": [
-        "粉專及 Reel 原文已定位，可見頁面沒有說明文字，待核影音主題。"
+        "原連結可開啟。單篇畫面只見官粉名稱，未見獨立正文或發文日期。日期沿用粉專列表。"
       ],
       "media": "Reel，內容待核",
       "partial": true,
@@ -6181,7 +6226,7 @@ window.reportData = {
         "慈大附中十八歲生日。依可見文字摘錄。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6223,7 +6268,7 @@ window.reportData = {
         "慈大附中十八歲生日。分享內容待核。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6232,7 +6277,8 @@ window.reportData = {
       ],
       "title": "慈大附中十八歲生日",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2017-11-16 20:17，單篇另見 04:17。"
     },
     {
       "id": "fb-163",
@@ -6244,7 +6290,7 @@ window.reportData = {
         "慈大附中十八歲生日。分享內容待核。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6253,7 +6299,8 @@ window.reportData = {
       ],
       "title": "慈大附中十八歲生日",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2017-11-16 13:10，單篇另見 2017-11-15 21:10。"
     },
     {
       "id": "fb-164",
@@ -6367,10 +6414,10 @@ window.reportData = {
       "time": "17:22",
       "activity": "",
       "notes": [
-        "校慶運動會與慈誠懿德參與。完整正文待核。"
+        "同一原文連結開啟後可見完整正文。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6379,7 +6426,8 @@ window.reportData = {
       ],
       "title": "校慶運動會與慈誠懿德參與",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2017-11-15 17:22，單篇另見 01:22。"
     },
     {
       "id": "fb-170",
@@ -6409,10 +6457,10 @@ window.reportData = {
       "time": "07:55",
       "activity": "",
       "notes": [
-        "校友大聲說愛第四波。完整正文待核。"
+        "同一原文連結開啟後可見完整正文。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6430,10 +6478,10 @@ window.reportData = {
       "time": "22:31",
       "activity": "",
       "notes": [
-        "慶祝十八歲漫遊書香品味咖啡活動。完整正文待核。"
+        "同一原文連結開啟後可見完整正文。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6442,7 +6490,8 @@ window.reportData = {
       ],
       "title": "慶祝十八歲漫遊書香品味咖啡活動",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2017-11-14 22:31，單篇另見 06:31。"
     },
     {
       "id": "fb-173",
@@ -6451,10 +6500,10 @@ window.reportData = {
       "time": "17:30",
       "activity": "",
       "notes": [
-        "慈大附中十八歲生日。完整正文待核。"
+        "同一原文連結開啟後可見完整正文。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6463,7 +6512,8 @@ window.reportData = {
       ],
       "title": "慈大附中十八歲生日",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2017-11-14 17:30，單篇另見 01:30。"
     },
     {
       "id": "fb-174",
@@ -6496,7 +6546,7 @@ window.reportData = {
         "慈大附中十八歲生日祝福。轉分享內容待核。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6514,10 +6564,10 @@ window.reportData = {
       "time": "13:12",
       "activity": "2017-11-11",
       "notes": [
-        "11/11 校慶系列：師生到精舍做一日志工。正文截斷。"
+        "同一原文連結開啟後可見完整正文。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6526,7 +6576,8 @@ window.reportData = {
       ],
       "title": "11/11 校慶系列：師生到精舍做一日志工",
       "topic": "在地與校外學習",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2017-11-14 13:12，單篇另見 2017-11-13 21:12。"
     },
     {
       "id": "fb-177",
@@ -6600,7 +6651,7 @@ window.reportData = {
       "time": "17:30",
       "activity": "",
       "notes": [
-        "粉專更新近況，正文未見。內容待核。"
+        "原連結已查，未見獨立正文。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -6645,7 +6696,7 @@ window.reportData = {
         "校慶系列：菩提林立種子回故鄉。依可見文字。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6666,7 +6717,7 @@ window.reportData = {
         "校慶系列：青春18守護花蓮、邁向國際。圖像內容待核。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6687,7 +6738,7 @@ window.reportData = {
         "校慶系列：青春18守護花蓮、邁向國際。圖像內容待核。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6730,7 +6781,7 @@ window.reportData = {
         "祝賀田徑長跑隊佳績。圖像待核；兩 cutoff 重疊。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6739,7 +6790,8 @@ window.reportData = {
       ],
       "title": "祝賀田徑長跑隊佳績",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2017-11-07 09:53，單篇另見 2017-11-06 17:53。"
     },
     {
       "id": "fb-187",
@@ -9183,7 +9235,7 @@ window.reportData = {
       "time": "16:36",
       "activity": "",
       "notes": [
-        "既有貼文入口本次顯示錯誤，文字待查。"
+        "原連結先前兩次顯示錯誤，正文仍待查。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9930,7 +9982,7 @@ window.reportData = {
         "官方轉分享大愛電視節目，自己寫下適性揚才、全人教育及不同志向的學生努力。粉專正文已展開。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -11623,7 +11675,8 @@ window.reportData = {
       ],
       "title": "國一奇萊山海戶外教學於 12/24 走讀吉野村與客家藝文館",
       "topic": "在地與校外學習",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2024-12-26 20:05，單篇另見 04:05。"
     },
     {
       "id": "fb-413",
@@ -11807,7 +11860,7 @@ window.reportData = {
         "泰國清邁慈濟學校送來 25 週年校慶祝福。正文已展開。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -14928,8 +14981,7 @@ window.reportData = {
       "time": "15:32",
       "activity": "",
       "notes": [
-        "粉專列表可核發文時刻與 Reel 連結，單篇播放器未顯示粉專正文或日期時間。",
-        "影片內容及主題待核。"
+        "原連結可開啟。單篇畫面只見官粉名稱，未見獨立正文或發文日期。日期沿用粉專列表。"
       ],
       "media": "Reel",
       "partial": true,
@@ -17086,8 +17138,7 @@ window.reportData = {
       "time": "20:11",
       "activity": "",
       "notes": [
-        "官粉有發文時間及永久連結，畫面只見外部新聞分享。",
-        "本次未見粉專自寫正文，新聞內容待核。"
+        "單篇只顯示外站新聞預覽，未見獨立正文。"
       ],
       "media": "外部新聞分享",
       "partial": true,
@@ -17811,7 +17862,8 @@ window.reportData = {
       "time": "09:00",
       "activity": "",
       "notes": [
-        "保留本則官粉公告的發文時間及來源。原文涉及個人健康資訊，公開清冊只列索引。"
+        "官帖正文涉及學生個人資訊。",
+        "僅留安全索引。"
       ],
       "media": "",
       "partial": true,
@@ -17823,7 +17875,8 @@ window.reportData = {
       ],
       "title": "慈大附中 8 月 30 日公告",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2022-08-30 09:00，單篇另見 2022-08-29。"
     },
     {
       "id": "fb-703",
@@ -19056,7 +19109,8 @@ window.reportData = {
       "time": "18:21",
       "activity": "",
       "notes": [
-        "保留官粉發文時間及來源。原文含個別兒童的家庭生活，公開清冊僅列編目。"
+        "慈小與美國學校十日交流及惜別餐會。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "",
       "partial": true,
@@ -19440,7 +19494,7 @@ window.reportData = {
       "time": "11:16",
       "activity": "",
       "notes": [
-        "保留本則官粉公告發文時間及來源。原文涉及個人隱私，公開清冊只留編目。"
+        "已核對官粉、發文日期與原連結。正文涉及個人資訊，僅留安全索引。"
       ],
       "media": "",
       "partial": true,
@@ -19452,7 +19506,8 @@ window.reportData = {
       ],
       "title": "慈大附中 5 月 31 日公告",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2022-05-31 11:16，單篇另顯示 2022-05-30。"
     },
     {
       "id": "fb-779",
@@ -19527,8 +19582,7 @@ window.reportData = {
       "time": "09:49",
       "activity": "",
       "notes": [
-        "本則官粉貼文有發文時間及原連結。",
-        "畫面只見新聞分享，未見粉專自寫正文。"
+        "單篇只顯示外站新聞預覽，未見獨立正文。"
       ],
       "media": "新聞分享",
       "partial": true,
@@ -19540,7 +19594,8 @@ window.reportData = {
       ],
       "title": "慈大附中 5 月 17 日新聞分享",
       "topic": "主題待核",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2022-05-17 09:49，單篇另顯示 2022-05-16。"
     },
     {
       "id": "fb-783",
@@ -19871,7 +19926,7 @@ window.reportData = {
       "time": "21:21",
       "activity": "",
       "notes": [
-        "保留官粉公告發文日期、時間及來源。原文涉及個人隱私，公開清冊只留編目。"
+        "已核對官粉、發文日期與原連結。正文涉及個人資訊，僅留安全索引。"
       ],
       "media": "",
       "partial": true,
@@ -19956,7 +20011,7 @@ window.reportData = {
       "time": "14:05",
       "activity": "",
       "notes": [
-        "保留官粉發文日期、時間及來源。原文涉及個人隱私，公開清冊只留編目。"
+        "已核對官粉、發文日期與原連結。正文涉及個人資訊，僅留安全索引。"
       ],
       "media": "",
       "partial": true,
@@ -19968,7 +20023,8 @@ window.reportData = {
       ],
       "title": "慈大附中 4 月 9 日貼文",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 2022-04-09 14:05，單篇另顯示 2022-04-08。"
     },
     {
       "id": "fb-803",
@@ -20061,7 +20117,8 @@ window.reportData = {
       "time": "14:30",
       "activity": "",
       "notes": [
-        "保留官粉發文日期、時間及來源。原文涉及個人隱私，公開清冊只留編目。"
+        "國小部國際關懷分享與學生祝福活動。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "",
       "partial": true,
@@ -20082,8 +20139,8 @@ window.reportData = {
       "time": "20:46",
       "activity": "",
       "notes": [
-        "保留官粉發文日期、時間及來源。原文涉及個人隱私，公開清冊只留編目。",
-        "外部來源待核。"
+        "國小學生競賽成果與招生資訊。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "",
       "partial": true,
@@ -20552,7 +20609,7 @@ window.reportData = {
       "time": "12:13",
       "activity": "",
       "notes": [
-        "保留官粉發文日期、時間及來源。原文涉及個人隱私，公開清冊只留編目。"
+        "已核對官粉、發文日期與原連結。正文涉及個人資訊，僅留安全索引。"
       ],
       "media": "",
       "partial": true,
@@ -21105,8 +21162,8 @@ window.reportData = {
       "time": "16:18",
       "activity": "",
       "notes": [
-        "保留官粉日期、時刻與網址。原文涉及個人隱私，公開清冊只留編目。",
-        "新聞影片待核。"
+        "粉專刊登大愛新聞文字，介紹附幼兒童節至安養機構關懷活動。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "轉分享影片",
       "partial": true,
@@ -21127,8 +21184,8 @@ window.reportData = {
       "time": "10:17",
       "activity": "",
       "notes": [
-        "保留官粉日期、時刻與網址。原文涉及個人隱私，公開清冊只留編目。",
-        "新聞影片待核。"
+        "粉專刊登大愛新聞文字，介紹學生參加長者體驗培訓及東區老人之家關懷。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "轉分享影片",
       "partial": true,
@@ -21615,7 +21672,8 @@ window.reportData = {
       "time": "20:38",
       "activity": "",
       "notes": [
-        "粉專刊登新聞文字，介紹兒童節才藝園遊會和闖關學習。涉及個人隱私，僅保留編目；新聞影音待核。"
+        "粉專刊登大愛新聞文字，介紹小學部兒童節才藝園遊會及多元闖關學習。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "外部新聞影音",
       "partial": true,
@@ -22292,7 +22350,7 @@ window.reportData = {
       "time": "15:15",
       "activity": "",
       "notes": [
-        "已核對日期、發文時刻及正式網址，Facebook 顯示內文目前無法查看。"
+        "原連結顯示目前無法查看。另見異址日期連結，待核同篇。"
       ],
       "media": "",
       "partial": true,
@@ -22397,18 +22455,18 @@ window.reportData = {
       "time": "20:00",
       "activity": "",
       "notes": [
-        "同卡已核對日期、發文時刻及正式網址，尚未確認正文展開。附圖待核。"
+        "從破冰、認識導師到校園任務，協助新生熟悉校內處室與慈濟校園文化。"
       ],
       "media": "相片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02rcMxN96afa1SS3W77SN3x6XfLWHV9MdaWoPCnAe9AMQeJiEstV3CQGgYuvriatckl"
         }
       ],
-      "title": "7 月 31 日官帖，正文待核",
-      "topic": "主題待核",
+      "title": "新生成長營首日，認識班級與校園",
+      "topic": "招生與校園生活",
       "kind": "fb"
     },
     {
@@ -22481,7 +22539,8 @@ window.reportData = {
       "time": "22:16",
       "activity": "",
       "notes": [
-        "學校師長與志工前往山區，為執勤人員送上保暖物資。因涉及個人隱私，僅保留編目；相片及新聞連結待核。"
+        "學校師長與志工前往山區關懷執勤人員，送上保暖物資。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "相片及外部新聞",
       "partial": true,
@@ -22587,7 +22646,8 @@ window.reportData = {
       "time": "16:41",
       "activity": "",
       "notes": [
-        "工作坊分享畢業旅行、食農教育、多元選修、校訂課程與自主學習。涉及個人隱私，僅列清冊。"
+        "工作坊分享畢業旅行、食農教育、多元選修、校訂課程及自主學習。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "相片",
       "partial": true,
@@ -22819,7 +22879,7 @@ window.reportData = {
       "time": "17:30",
       "activity": "",
       "notes": [
-        "粉專公開轉分享新聞，卡片無可見校方正文；外部報導待核。"
+        "單篇只顯示外站新聞預覽，未見獨立正文。"
       ],
       "media": "轉分享新聞",
       "partial": true,
@@ -23094,7 +23154,7 @@ window.reportData = {
       "time": "21:32",
       "activity": "",
       "notes": [
-        "卡片未見粉專自寫正文。轉分享的影片內容待核。"
+        "官粉分享貼文未見獨立正文。"
       ],
       "media": "轉分享影片",
       "partial": true,
@@ -23199,7 +23259,8 @@ window.reportData = {
       "time": "20:38",
       "activity": "",
       "notes": [
-        "泰北國際修學團記錄志工服務、世界公民課程及泰國傳統舞蹈。涉及個人隱私，僅保留編目。"
+        "泰北國際修學團記錄志工服務、世界公民課程及泰國傳統舞蹈學習。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "",
       "partial": true,
@@ -23725,7 +23786,8 @@ window.reportData = {
       "time": "08:44",
       "activity": "",
       "notes": [
-        "自然科把熱與燃燒單元納入紙筆及實作評量。涉及個人隱私，僅保留編目。"
+        "國小自然科結合熱與燃燒單元，以紙筆與實作任務進行期末評量。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "相片",
       "partial": true,
@@ -23872,7 +23934,8 @@ window.reportData = {
       "time": "16:39",
       "activity": "",
       "notes": [
-        "已核對作者、發文時刻及正式網址。涉及個人隱私，僅保留編目。"
+        "幼小銜接說明會。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "相片",
       "partial": true,
@@ -23914,7 +23977,8 @@ window.reportData = {
       "time": "15:28",
       "activity": "",
       "notes": [
-        "已核對作者、發文時刻及正式網址。涉及個人隱私，僅保留編目。"
+        "幼兒防疫影片。",
+        "正文含可識別個人資訊，僅留安全索引。"
       ],
       "media": "影片",
       "partial": true,
@@ -25983,6 +26047,48 @@ window.reportData = {
       "topic": "校慶、藝文與體育",
       "kind": "fb",
       "timeNote": "粉專列表顯示 17:33，單篇顯示 01:33，兩讀值待核。"
+    },
+    {
+      "id": "fb-1087",
+      "year": 2024,
+      "published": "2024-08-25",
+      "time": "23:08",
+      "activity": "",
+      "notes": [
+        "官帖記錄開學前移地行政會議。各處室分享新學年目標，歡迎新任行政同仁並致謝暑期帶隊師長。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0FaQ9NXQ2rXtoK7PpdpYJg5hdcj3WNEzxy49QNgy9JHVQnZzR1TtXeLZoGcEoBnwql"
+        }
+      ],
+      "title": "開學前行政會議與新學年工作目標",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1088",
+      "year": 2024,
+      "published": "2024-08-23",
+      "time": "21:42",
+      "activity": "",
+      "notes": [
+        "兩隊獲聯發科特優獎、全國科展高中工程學科（二）第二名及國中生物科第三名。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ArHLXq1ieV8Lbog3oo1bTijXL9WJxXSGrPSvHSiQAvJ5BXe8BEChc9FzQUuwNpXUl"
+        }
+      ],
+      "title": "全國科展兩組參賽、獲三項獎",
+      "topic": "競賽與成果",
+      "kind": "fb"
     }
   ]
 };
