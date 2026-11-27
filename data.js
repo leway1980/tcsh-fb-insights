@@ -131,7 +131,7 @@ window.reportData = {
       [
         "2024-07",
         "partial",
-        13
+        23
       ]
     ],
     "asOf": "2026-11-27"
@@ -12580,6 +12580,219 @@ window.reportData = {
         }
       ],
       "title": "粉專分享英倫人文交流報導",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-532",
+      "year": 2024,
+      "published": "2024-07-19",
+      "time": "07:05",
+      "activity": "2024-07-18",
+      "notes": [
+        "貼文記錄 7 月 18 日醫療志工營第四天，從精舍早課起，延續醫院志工學習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02aLZvAggFhSn6yHiV124TYGKzE6MJme5jtcFbr6S8uEAFT9AHjBiZAnX47QBqnJWyl"
+        }
+      ],
+      "title": "醫療志工營第四天紀錄",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-533",
+      "year": 2024,
+      "published": "2024-07-18",
+      "time": "16:10",
+      "activity": "",
+      "notes": [
+        "短片說明記錄交流團參加泰北慈中的升旗典禮，向家長表達感謝。",
+        "影音內容待核。"
+      ],
+      "media": "短片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/421232097572803/"
+        }
+      ],
+      "title": "泰北交流團參與升旗典禮",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-534",
+      "year": 2024,
+      "published": "2024-07-15",
+      "time": "21:25",
+      "activity": "",
+      "notes": [
+        "貼文分享醫療志工營第一天的課程與互動，涉及醫院志工學習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0azgcEdym8YzQn8MXKvhcYFBuj6uNSh9DSscZwQFi3JyhYgPN8LFofGmQXrKFfGJ6l"
+        }
+      ],
+      "title": "醫療志工營第一天紀錄",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-535",
+      "year": 2024,
+      "published": "2024-07-15",
+      "time": "14:53",
+      "activity": "",
+      "notes": [
+        "花蓮慈濟小學學生前往美國 Southland School 參加兩週 STEM 課程，從達文西橋到牛頓第二運動定律，與當地學生一起上課。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02MwCcCUbggmJazTYzCqwnUu8ZWX9zcV6GT2NYyr1Pv5HbqhqqDnyZTE1oubg2D1Gel"
+        }
+      ],
+      "title": "附小赴美 STEM 學習之旅",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-536",
+      "year": 2024,
+      "published": "2024-07-14",
+      "time": "16:55",
+      "activity": "",
+      "notes": [
+        "貼文回顧英倫人文交流，包含劍橋課程、文化與創作，以及結業活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02jfGUS6NS42rdidYLBXchj1SXPuSDgg4oPSxqGrMXMYeupzRqv79MNaaJDdmE98eMl"
+        }
+      ],
+      "title": "英倫人文交流與劍橋暑期課程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-537",
+      "year": 2024,
+      "published": "2024-07-10",
+      "time": "17:11",
+      "activity": "",
+      "notes": [
+        "貼文介紹英倫人文交流的牛津、劍橋行程與課程。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0mcX5sUvtCpgmVRZZRhtdjzoaQqAwffb7gsVd5HiCiiPAeMEkiVbxqzsPNgUm3p8Vl"
+        }
+      ],
+      "title": "英倫人文交流中的牛津與劍橋",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-538",
+      "year": 2024,
+      "published": "2024-07-10",
+      "time": "08:22",
+      "activity": "",
+      "notes": [
+        "貼文分享學生在美國加州體驗文化的交流行程。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02EBunmwFyDMEQpXBigsh9ay9y3GekhDLinH9sGmrgUhh6uH3JBbdJdo5vymuvjLe3l"
+        }
+      ],
+      "title": "加州交流團的文化行程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-539",
+      "year": 2024,
+      "published": "2024-07-09",
+      "time": "11:45",
+      "activity": "",
+      "notes": [
+        "粉專提供慈幼小騎士五公里騎乘的實況短片觀看指引。",
+        "影音內容待核。"
+      ],
+      "media": "連結影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0U57ofRpTWqh3FXgoV8XWrJBAUCsDrEGCSZqxmQJiKFduJ8aQe5rmwio82p8tip1yl"
+        }
+      ],
+      "title": "慈幼小騎士五公里單車實況",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-540",
+      "year": 2024,
+      "published": "2024-07-01",
+      "time": "16:53",
+      "activity": "",
+      "notes": [
+        "貼文回顧美國 MCI 暑期營初段，分別記錄 6 月 29 日、30 日的行程與課程互動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0vCJJhF1diUDYLeiBZbcSftgpEJnEQziRvkntuWu6BDoZoNgxzg97dt2VB8iUyRcBl"
+        }
+      ],
+      "title": "美國 MCI 暑期營前兩日",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-541",
+      "year": 2024,
+      "published": "2024-07-01",
+      "time": "16:35",
+      "activity": "",
+      "notes": [
+        "影片說明文字記錄加州遊學營的課程與文化交流。",
+        "影音內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/840460224718546/"
+        }
+      ],
+      "title": "加州遊學營的課程與文化交流",
       "topic": "國際與雙語",
       "kind": "fb"
     }
