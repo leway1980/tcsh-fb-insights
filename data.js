@@ -391,7 +391,7 @@ window.reportData = {
       [
         "2024-01",
         "partial",
-        9
+        10
       ],
       [
         "2024-02",
@@ -416,7 +416,7 @@ window.reportData = {
       [
         "2024-06",
         "partial",
-        8
+        10
       ],
       [
         "2024-07",
@@ -441,7 +441,7 @@ window.reportData = {
       [
         "2024-11",
         "partial",
-        20
+        22
       ],
       [
         "2024-12",
@@ -566,8 +566,20 @@ window.reportData = {
         "fb-54",
         "fb-55",
         "fb-56",
+        "fb-58",
+        "fb-61",
+        "fb-62",
+        "fb-64",
+        "fb-65",
+        "fb-69",
+        "fb-70",
+        "fb-71",
+        "fb-72",
         "fb-73",
+        "fb-74",
         "fb-75",
+        "fb-76",
+        "fb-77",
         "fb-78",
         "fb-79",
         "fb-80",
@@ -582,6 +594,7 @@ window.reportData = {
         "fb-91",
         "fb-92",
         "fb-93",
+        "fb-94",
         "fb-95",
         "fb-96",
         "fb-98",
@@ -601,8 +614,10 @@ window.reportData = {
         "fb-113",
         "fb-114",
         "fb-115",
+        "fb-116",
         "fb-117",
         "fb-118",
+        "fb-119",
         "fb-120",
         "fb-121",
         "fb-122",
@@ -1452,7 +1467,10 @@ window.reportData = {
         "fb-1077",
         "fb-1079",
         "fb-1080",
-        "fb-1081"
+        "fb-1081",
+        "fb-1082",
+        "fb-1084",
+        "fb-1086"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1465,6 +1483,8 @@ window.reportData = {
         "fb-1029"
       ],
       "indexOnly": [
+        "fb-81",
+        "fb-103",
         "fb-131",
         "fb-190",
         "fb-199",
@@ -1507,7 +1527,9 @@ window.reportData = {
         "fb-1066",
         "fb-1067",
         "fb-1068",
-        "fb-1078"
+        "fb-1078",
+        "fb-1083",
+        "fb-1085"
       ]
     }
   },
@@ -2840,8 +2862,7 @@ window.reportData = {
       "timeNote": "",
       "activity": "2017-12-27",
       "notes": [
-        "附幼、國小與中學師生在靜思堂舉行歲末祝福。",
-        "回顧年度並領取福慧紅包。"
+        "幼兒園、國小與中學師生齊聚靜思堂參加歲末祝福。封存文字保留官帖把年份寫成 2107 的字樣。"
       ],
       "media": "相片",
       "partial": false,
@@ -2909,8 +2930,7 @@ window.reportData = {
       "timeNote": "",
       "activity": "2017-12-26",
       "notes": [
-        "中學與國小師生參與清晨六時至下午六時的 12 小時體驗。",
-        "家長、志工、校友及海外友人響應，原文合計 1,654 份。"
+        "中學及國小師生和各方支持者響應 12 小時飢餓體驗。"
       ],
       "media": "相片",
       "partial": false,
@@ -2932,8 +2952,7 @@ window.reportData = {
       "timeNote": "",
       "activity": "2017-12-25",
       "notes": [
-        "圖書館邀校友分享從臺灣到捷克布拉格的學習歷程。",
-        "以文化交流、志工、旅行和國際會議談探索世界。"
+        "圖書館邀畢業校友分享捷克求學、文化交流及志工經驗。"
       ],
       "media": "相片",
       "partial": false,
@@ -2975,11 +2994,10 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-25",
       "time": "23:02",
-      "timeNote": "",
+      "timeNote": "清冊原讀值 23:02，單篇畫面顯示 07:02，兩讀值待核。",
       "activity": "2017-12-26（公告）",
       "notes": [
-        "預告翌日「感飢 12」，邀請共同響應。",
-        "說明清晨六時至下午六時，附直播提示。"
+        "粉專以自己的短文預告感飢 12 活動並邀請響應。"
       ],
       "media": "相片",
       "partial": false,
@@ -2998,11 +3016,10 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-25",
       "time": "22:44",
-      "timeNote": "",
+      "timeNote": "清冊原讀值 22:44，單篇畫面顯示 06:44，兩讀值待核。",
       "activity": "2017-12-25、2017-12-26（公告）",
       "notes": [
-        "中學部管樂與弦樂隊在校內多處快閃演奏。",
-        "同篇記錄聖誕特餐並預告翌日感飢活動。"
+        "中學管樂隊、弦樂隊在校園快閃演奏，妙膳廳準備聖誕餐點。"
       ],
       "media": "相片",
       "partial": false,
@@ -3093,8 +3110,7 @@ window.reportData = {
       "timeNote": "",
       "activity": "2017-12-26（公告）",
       "notes": [
-        "預告 12/26「感飢 12・世界不餓」。",
-        "向粉專讀者招募響應。"
+        "粉專用短文邀請響應「感飢 12 世界不餓」。"
       ],
       "media": "文字",
       "partial": false,
@@ -3113,11 +3129,10 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-21",
       "time": "20:33",
-      "timeNote": "",
+      "timeNote": "清冊原讀值 20:33，單篇畫面顯示 04:33，兩讀值待核。",
       "activity": "",
       "notes": [
-        "輔導室主籌「感飢 12・世界不餓」。",
-        "以年終回顧連結 12 小時飢餓體驗及響應行動。"
+        "輔導室籌劃 12 小時飢餓體驗及自願捐款，作為歲末服務學習。"
       ],
       "media": "相片",
       "partial": false,
@@ -3136,11 +3151,10 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-21",
       "time": "17:23",
-      "timeNote": "",
+      "timeNote": "清冊原讀值 17:23，單篇畫面顯示 01:23，兩讀值待核。",
       "activity": "",
       "notes": [
-        "國小部觀賞彩虹劇團的聖誕音樂劇。",
-        "演出以九式功夫帶出仁愛、耐心和節制等品格。"
+        "附小觀賞聖誕品格音樂劇，透過故事學習仁愛、忍耐及節制等品格。"
       ],
       "media": "相片",
       "partial": false,
@@ -3159,11 +3173,10 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-19",
       "time": "19:49",
-      "timeNote": "",
+      "timeNote": "清冊原讀值 19:49，單篇畫面顯示 03:49，兩讀值待核。",
       "activity": "2017-12-04 至 12-09",
       "notes": [
-        "發布中學部 12/04–12/09 日本修學回顧。",
-        "行程含農家、文化、半日高校生與城市探索。"
+        "粉專回顧日本國際修學，提到農家生活、文化體驗、入校交流及城市探索。"
       ],
       "media": "回顧影片說明",
       "partial": false,
@@ -3208,8 +3221,7 @@ window.reportData = {
       "timeNote": "",
       "activity": "2017-12-16",
       "notes": [
-        "國小三年級雙語班到賣場進行英語校外教學。",
-        "以購物情境練習實際英語使用。"
+        "附小三年級雙語班在賣場用全英語完成尋寶、晚餐設計、文具採買與結帳。"
       ],
       "media": "相片",
       "partial": false,
@@ -3254,7 +3266,7 @@ window.reportData = {
       "timeNote": "",
       "activity": "",
       "notes": [
-        "中學與小學學生假日到東區老人之家陪伴長者，祝福健康平安。"
+        "國小與中學學生參與東區老人之家關懷服務。"
       ],
       "media": "相片，正文待展開",
       "partial": false,
@@ -3273,11 +3285,10 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-16",
       "time": "19:24",
-      "timeNote": "",
+      "timeNote": "清冊原讀值 19:24，單篇畫面顯示 03:24，兩讀值待核。",
       "activity": "2017-12-16 至 12-17",
       "notes": [
-        "與其他學校學生共學星座盤。",
-        "天候不佳，改用 Stellarium 模擬星空並聽希臘神話。"
+        "均質化假日天文營邀多校國中生學習星座盤，遇天候不佳時以 Stellarium 模擬夜空。"
       ],
       "media": "相片，正文待展開",
       "partial": false,
@@ -4424,13 +4435,15 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-15",
       "time": "20:03",
-      "timeNote": "",
+      "timeNote": "清冊原讀值 20:03，單篇畫面顯示 04:03，兩讀值待核。",
       "activity": "",
       "notes": [
-        "講座談陪伴、習慣、自主與多元學習。"
+        "粉專記錄小學部及幼兒園親職講座。",
+        "可見內容涉及個人隱私，僅留安全索引。",
+        "日期錨點另有網址，關係待核。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -4713,7 +4726,7 @@ window.reportData = {
       "timeNote": "",
       "activity": "",
       "notes": [
-        "粉專分享三本木農業高校以夏祭接待的當地新聞。"
+        "官粉分享當地媒體對日本教育旅行的報導。封存貼文的標題、連結及粉專標籤。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -4908,7 +4921,8 @@ window.reportData = {
       "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
-        "粉專刊登大愛新聞文字，記錄兩校學生一起種植菜苗、製作祝福旗幟。該則報導日期為 2017 年 11 月 29 日。"
+        "官粉分享新加坡菩提學校與慈小的交流報導。",
+        "可見內容涉及個人隱私，僅留安全索引。"
       ],
       "media": "粉專刊登外部新聞",
       "partial": true,
@@ -5194,10 +5208,10 @@ window.reportData = {
       "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "2017-11-24",
       "notes": [
-        "附小四年級 11 月 24 日校外教學回顧，正文待展開。"
+        "官粉短文記錄附小四年級到地方法院校外教學。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -5259,10 +5273,10 @@ window.reportData = {
       "time": "10:21",
       "activity": "",
       "notes": [
-        "粉專介紹寒假四種課程，完整正文待展開。"
+        "粉專介紹寒假金頭腦奧林匹亞資優營，公告參加對象、營期與報名時間。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -5271,7 +5285,8 @@ window.reportData = {
       ],
       "title": "寒假課程介紹",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期錨點入口顯示 2017-12-06 10:21，原入口初載顯示 2017-12-05 18:21，兩讀值待核。"
     },
     {
       "id": "fb-120",
@@ -13015,7 +13030,8 @@ window.reportData = {
       "time": "11:54",
       "activity": "2024-10-15 至 2024-10-16",
       "notes": [
-        "貼文說明有通勤生返校取書，中學部第一次段考原定 10 月 15 至 16 日進行，任課教師會彈性調整範圍。"
+        "貼文說明有通勤生返校取書，中學部第一次段考原定 10 月 15 至 16 日進行，任課教師會彈性調整範圍。",
+        "另一入口核為同一則。"
       ],
       "media": "",
       "partial": false,
@@ -13027,7 +13043,8 @@ window.reportData = {
       ],
       "title": "停課期間開放學生取書與段考公告",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊列表 2024-10-03 11:54，此次兩網址單篇顯示 2024-10-02 20:54。兩讀值待核。"
     },
     {
       "id": "fb-482",
@@ -13078,7 +13095,8 @@ window.reportData = {
       "time": "08:49",
       "activity": "",
       "notes": [
-        "論壇在國家圖書館舉行。貼文整理品德與思辨教育的討論，也介紹泰國清邁慈濟學校的教育實例。"
+        "論壇在國家圖書館舉行。貼文整理品德與思辨教育的討論，也介紹泰國清邁慈濟學校的教育實例。",
+        "另一入口核為同一則。"
       ],
       "media": "",
       "partial": false,
@@ -13090,7 +13108,8 @@ window.reportData = {
       ],
       "title": "慈濟教育三十五週年論壇談思辨與品德",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊列表 2024-10-15 08:49，此次兩網址單篇顯示 2024-10-14 17:49。兩讀值待核。"
     },
     {
       "id": "fb-485",
@@ -13204,7 +13223,8 @@ window.reportData = {
       "time": "13:19",
       "activity": "",
       "notes": [
-        "粉專自己的文字提到開學，附轉分享內容。原始轉分享素材未核。"
+        "粉專自己的文字提到開學，附轉分享內容。原始轉分享素材未核。",
+        "另一入口核為同一則。"
       ],
       "media": "轉分享",
       "partial": true,
@@ -13372,7 +13392,8 @@ window.reportData = {
       "time": "08:27",
       "activity": "",
       "notes": [
-        "有感地震後，校方回報中學部、小學部及幼兒園師生均安。"
+        "有感地震後，校方回報中學部、小學部及幼兒園師生均安。",
+        "另一入口核為同一則。"
       ],
       "media": "",
       "partial": false,
@@ -14494,7 +14515,8 @@ window.reportData = {
       "activity": "",
       "notes": [
         "校長、吉安鄉長和家長會代表在國中會考前祝福考生。",
-        "貼文附外部新聞連結，新聞內容待核。"
+        "貼文附外部新聞連結，新聞內容待核。",
+        "另一入口核為同一則。"
       ],
       "media": "外部新聞連結",
       "partial": true,
@@ -14506,7 +14528,8 @@ window.reportData = {
       ],
       "title": "國中會考前的考生祝福",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊列表 2024-05-17 17:46，此次兩網址單篇顯示 2024-05-17 02:46。兩讀值待核。"
     },
     {
       "id": "fb-552",
@@ -14729,7 +14752,8 @@ window.reportData = {
       "time": "15:07",
       "activity": "",
       "notes": [
-        "附小與幼兒園採分流報到，透過引導關卡完成資料繳交、諮詢、量制服和領取用品。"
+        "附小與幼兒園採分流報到，透過引導關卡完成資料繳交、諮詢、量制服和領取用品。",
+        "另一入口核為同一則。"
       ],
       "media": "",
       "partial": false,
@@ -14742,7 +14766,7 @@ window.reportData = {
       "title": "附小與幼兒園新生報到",
       "topic": "招生與校園生活",
       "kind": "fb",
-      "timeNote": "粉專列表顯示 15:07，同一網址的單篇頁顯示 00:07，時刻待核"
+      "timeNote": "清冊列表 2024-04-20 15:07，此次兩網址單篇顯示 2024-04-20 00:07。兩讀值待核。"
     },
     {
       "id": "fb-563",
@@ -25806,6 +25830,115 @@ window.reportData = {
       "topic": "國際與雙語",
       "kind": "fb",
       "timeNote": "粉專列表顯示 22:23，單篇顯示 07:23，兩讀值待核。"
+    },
+    {
+      "id": "fb-1082",
+      "year": 2024,
+      "published": "2024-01-19",
+      "time": "21:24",
+      "activity": "",
+      "notes": [
+        "粉專在學測前一天祝福高三考生，記錄備考過程及師長支持。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02M3yu6fGV7zUct4rgP3zcQFXf3VGx1DzJBkGXFnEdTaKg5iNvnSpiPjtmWVScerrgl"
+        }
+      ],
+      "title": "學測倒數一天的考生祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 21:24，單篇顯示 05:24，兩讀值待核。"
+    },
+    {
+      "id": "fb-1083",
+      "year": 2024,
+      "published": "2024-06-16",
+      "time": "17:36",
+      "activity": "",
+      "notes": [
+        "官粉記錄雙語班以英語發表專題研究。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02bjbtD4h2YbEj6seSnSR7iuUpu24X39M4arEPbKhAxDUmjdp87tcQBXoyNLKA6hupl"
+        }
+      ],
+      "title": "雙語班英文專題研究發表",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 17:36，單篇顯示 02:36，兩讀值待核。"
+    },
+    {
+      "id": "fb-1084",
+      "year": 2024,
+      "published": "2024-06-16",
+      "time": "19:06",
+      "activity": "",
+      "notes": [
+        "慈大附中、清邁慈濟學校與馬來西亞吉華獨中在泰北交流前先在線上破冰，分享對營隊的期待。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GdSxMpJ3p1ahLUfrBT523P4Y4g5ncpXrqbQetDgW96mLAUXSuJgQ1aM3JHSCb3sgl"
+        }
+      ],
+      "title": "三國三校泰北修學交流",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 19:06，單篇顯示 04:06，兩讀值待核。"
+    },
+    {
+      "id": "fb-1085",
+      "year": 2024,
+      "published": "2024-11-12",
+      "time": "10:15",
+      "activity": "",
+      "notes": [
+        "粉專記錄校隊參與外交小尖兵競賽及北區優勝。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02h6XK44RPckC8mKZDqeN5nqQAap1fcSsusKZ8Brx7VRDY5PX9XyDAQQqiDFC4fgvFl"
+        }
+      ],
+      "title": "外交小尖兵北區優勝",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1086",
+      "year": 2024,
+      "published": "2024-11-12",
+      "time": "17:33",
+      "activity": "",
+      "notes": [
+        "粉專公告第 25 屆校慶運動會的開幕時間及校內地點。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0yirEgqdWYofghX6QzwWi3aQLzySEvU3RBuyhuFvssCy6vTZBA9fJfL8YvNJhbqpTl"
+        }
+      ],
+      "title": "第 25 屆校慶運動會倒數",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 17:33，單篇顯示 01:33，兩讀值待核。"
     }
   ]
 };
