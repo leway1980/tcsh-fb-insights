@@ -31,7 +31,7 @@ window.reportData = {
       [
         "2018-01",
         "partial",
-        5
+        12
       ],
       [
         "2018-02",
@@ -181,7 +181,7 @@ window.reportData = {
       [
         "2020-07",
         "partial",
-        5
+        9
       ],
       [
         "2020-08",
@@ -351,7 +351,7 @@ window.reportData = {
       [
         "2023-05",
         "partial",
-        8
+        12
       ],
       [
         "2023-06",
@@ -1611,7 +1611,22 @@ window.reportData = {
         "fb-1197",
         "fb-1198",
         "fb-1200",
-        "fb-1201"
+        "fb-1201",
+        "fb-1202",
+        "fb-1203",
+        "fb-1204",
+        "fb-1205",
+        "fb-1206",
+        "fb-1207",
+        "fb-1208",
+        "fb-1209",
+        "fb-1210",
+        "fb-1211",
+        "fb-1212",
+        "fb-1213",
+        "fb-1214",
+        "fb-1215",
+        "fb-1216"
       ],
       "noVisibleText": [
         "fb-27",
@@ -28607,6 +28622,322 @@ window.reportData = {
       ],
       "title": "附小美國加州遊學營行前培訓",
       "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1202",
+      "year": 2018,
+      "published": "2018-01-29",
+      "time": "22:37",
+      "activity": "",
+      "notes": [
+        "國二與高一學生在寒假營隊練習開口說德文，貼文也提到後續的德國交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02WdXuRdc1jfbr28q1XTDyjin98SPWWE8cbJnwpuvgVRqUUjnezj58LbPcx1CWG9ivl"
+        }
+      ],
+      "title": "寒假多元學習營開營與德文課程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1203",
+      "year": 2018,
+      "published": "2018-01-27",
+      "time": "13:54",
+      "activity": "",
+      "notes": [
+        "教師分組模擬教學現場衝突，討論如何觀察教室、關注學生與引導進步。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1754713281504531/"
+        }
+      ],
+      "title": "教師共備：模擬並討論班級經營情境",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1204",
+      "year": 2018,
+      "published": "2018-01-27",
+      "time": "09:21",
+      "activity": "",
+      "notes": [
+        "官帖祝福學測考生，並預告國小及中學教師的班級經營共備。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1754641758178350/"
+        }
+      ],
+      "title": "學測第二天的祝福與班級經營共備預告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1205",
+      "year": 2018,
+      "published": "2018-01-26",
+      "time": "09:24",
+      "activity": "",
+      "notes": [
+        "官帖記錄社會科開考，校長為考生加油。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1754223258220200/"
+        }
+      ],
+      "title": "107 學年度學測首科開考祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1206",
+      "year": 2018,
+      "published": "2018-01-25",
+      "time": "15:21",
+      "activity": "",
+      "notes": [
+        "附幼孩子透過探索與遊戲認識附小校園，進行幼小銜接。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1753879144921278/"
+        }
+      ],
+      "title": "附幼到附小參加小一體驗營",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1207",
+      "year": 2018,
+      "published": "2018-01-24",
+      "time": "22:55",
+      "activity": "",
+      "notes": [
+        "家長會籌備、妙膳廳供餐，學生志工協助期末聚會。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1753541464955046/"
+        }
+      ],
+      "title": "親師生期末望年會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1208",
+      "year": 2018,
+      "published": "2018-01-24",
+      "time": "19:45",
+      "activity": "",
+      "notes": [
+        "官粉外層短文記錄班聯會邀請師長為即將學測的高三學生加油。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02FBnufMGXFR1JmunZv9SdgUaZmQHtizNa64k3UX6MLw97ArUXEvja4mCNnJNsVQTQl"
+        }
+      ],
+      "title": "班聯會邀請師長為高三考生加油",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1209",
+      "year": 2023,
+      "published": "2023-05-14",
+      "time": "20:33",
+      "activity": "",
+      "notes": [
+        "官帖記錄學生透過健行淨灘、情境任務及生涯輔導思考成年後的生活和服務。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02amU8t8PyCuMNuMyUAvvqAXRWTEHEGh9U6wic8Bz84zSuJeTZbFEV53NN86ewdeYgl"
+        }
+      ],
+      "title": "成年禮：洄瀾健行、環境服務與生涯探索",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1210",
+      "year": 2023,
+      "published": "2023-05-11",
+      "time": "19:27",
+      "activity": "",
+      "notes": [
+        "六年級畢業生共同種植畢業樹，為同伴及未來留下祝福。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0gWzn14ck34svWbwMs8RFPjnTZkmc4qbNNRuNP947yLsycwB7GsonHveD25c35W8Tl"
+        }
+      ],
+      "title": "附小畢業生種下紀念樹",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 19:27，單篇另顯示 04:27。"
+    },
+    {
+      "id": "fb-1211",
+      "year": 2023,
+      "published": "2023-05-07",
+      "time": "18:13",
+      "activity": "",
+      "notes": [
+        "圖書館邀請講師帶領國中生體驗桌遊、敘事及重新設計規則。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0eAGQAZL1ZRKBjZmf4cCjGgWCbRXMCokTAdeHfCTHvaKVdRCgVGBBm1BCbKMvGH6Ll"
+        }
+      ],
+      "title": "文學桌遊工作坊：學生自創規則",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1212",
+      "year": 2023,
+      "published": "2023-05-08",
+      "time": "08:29",
+      "activity": "",
+      "notes": [
+        "官帖公布中學部及小學部兩個學段的報名人數與雙語班分年級的檢測目標。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid035xSfgef8x9LbKxcD1uub6d7Th2Bcyz5UNgKpat7w1EvN68qFqHAvMETWkGYuThUnl"
+        }
+      ],
+      "title": "慈中與慈小劍橋國際英語認證",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1213",
+      "year": 2020,
+      "published": "2020-07-30",
+      "time": "18:33",
+      "activity": "",
+      "notes": [
+        "新生與家長完成報到，師長、小隊輔及家長會協助，住宿生熟悉宿舍。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02GQtVJXEuTTppDrxr8T7vfhYtratYfBR5FbgKLAY2isLZr394nKdoJePWXT4cXpgkl"
+        }
+      ],
+      "title": "中學部新生成長營報到日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1214",
+      "year": 2020,
+      "published": "2020-07-29",
+      "time": "22:52",
+      "activity": "",
+      "notes": [
+        "官帖公告遙控帆船競賽在慈大附中舉行，邀請參與說明會及競賽。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02JsWwFCvZuazrQqr42CjjopZCgrXCwnHExvhTq21NAbrUFRiFNo9qWVDm8j6ZhW8Sl"
+        }
+      ],
+      "title": "全國海洋遙控帆船競賽報名",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1215",
+      "year": 2020,
+      "published": "2020-07-27",
+      "time": "21:01",
+      "activity": "",
+      "notes": [
+        "官帖回顧畢業歌《同行》，告知校友已將歌曲上架音樂平台。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02jwKbhtKJXW5HpMSQTTBkLxHXDeK8y7gUxdsGJ5GZ4pb1WnEKuV9ygW4bYxTyKMmPl"
+        }
+      ],
+      "title": "第十六屆畢業歌曲上架",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1216",
+      "year": 2020,
+      "published": "2020-07-25",
+      "time": "15:10",
+      "activity": "",
+      "notes": [
+        "官帖只錄粉專自有的校友短文。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0PWB4ykqDHiakmboGNaLtoXRTBj4mbxf39vpB33uPH9QMTnoHC5i4Env3KeVhToSDl"
+        }
+      ],
+      "title": "官粉轉分享校友近況",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
