@@ -57,6 +57,11 @@ window.reportData = {
         "2025-10",
         "partial",
         22
+      ],
+      [
+        "2025-09",
+        "partial",
+        38
       ]
     ],
     "asOf": "2026-11-27"
@@ -5711,6 +5716,804 @@ window.reportData = {
       ],
       "title": "9/29 光復救災紀錄",
       "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-210",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:24",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；跨截止重疊"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1516542849353155/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-211",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:23",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；跨截止重疊"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1173085468067924/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-212",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:22",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；跨截止重疊"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/4120589621497437/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-213",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:21",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；同分鐘候選"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1347834136688942/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-214",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:21",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；同分鐘候選"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1696135257731919/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-215",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:20",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/677257264903567/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-216",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:19",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1379450220451619/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-217",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:18",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/735688522827205/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-218",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:17",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；同分鐘候選"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1130846771874519/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-219",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:17",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核；同分鐘候選"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/2145130222639431/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-220",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:16",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1681531129209646/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-221",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:14",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1499881104371468/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-222",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:13",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/4091172067811942/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-223",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:12",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1136714267885907/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-224",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "21:11",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行(2)，慈中孩子護家園。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1343808471088624/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行(2)，慈中孩子護家園",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-225",
+      "year": 2025,
+      "published": "2025-09-29",
+      "time": "09:19",
+      "activity": "",
+      "notes": [
+        "粉專分享救災歌曲《用愛光復》。正文截斷待展開"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02oBvjotk5pUqAAbF2DpaiS17s6i4ZYHTyvFpLp9JhvY8eLs4ueZGt4bFopfwww2wMl"
+        }
+      ],
+      "title": "粉專分享救災歌曲《用愛光復》",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-226",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:15",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/825114233508046/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-227",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:14",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/2603145460046864/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-228",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:13",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1558210958923174/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-229",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:12",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1488579539060135/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-230",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:10",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/25111758225180759/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-231",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:09",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/4033767920173611/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-232",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:08",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1361727759005989/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-233",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:06",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1203289394975665/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-234",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:05",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1328944102283866/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-235",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:02",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1698674230795908/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-236",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "16:01",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。影音、正文待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/2505497866501699/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-237",
+      "year": 2025,
+      "published": "2025-09-28",
+      "time": "15:58",
+      "activity": "",
+      "notes": [
+        "光復救援點滴菩薩行，慈中篇。正文截斷、影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/2794962964042599/"
+        }
+      ],
+      "title": "光復救援點滴菩薩行，慈中篇",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-238",
+      "year": 2025,
+      "published": "2025-09-27",
+      "time": "16:43",
+      "activity": "2025-09-27",
+      "notes": [
+        "百餘名親師生於教師節連假前往光復，投入堰塞湖溢流後災後服務，並以行動實踐生命教育。貼文正文已展開；活動 09/27"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid066JpkTA8pGGSD4kZFRU2piqJtEU5j7Lu3NTYpiNGFUNT3LbVbsdN9jCshib2WiwJl"
+        }
+      ],
+      "title": "百餘名親師生於教師節連假前往光復，投入堰塞湖溢流後災後服務，並以行動實踐生命教育",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-239",
+      "year": 2025,
+      "published": "2025-09-27",
+      "time": "07:15",
+      "activity": "2025-09-27",
+      "notes": [
+        "百位親師生投入風災後復原，協助光復鄉親清理。貼文正文已展開，附外部影片未核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JczVw1AWBqfRX6BmR5bPxSzSGpdRbJDshM2vxzxs5bi8z9hvsuPYznFwiK5paRdPl"
+        }
+      ],
+      "title": "百位親師生投入風災後復原，協助光復鄉親清理",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-240",
+      "year": 2025,
+      "published": "2025-09-22",
+      "time": "22:19",
+      "activity": "",
+      "notes": [
+        "樺加沙颱風逼近，提醒防颱；學校說明已完成防颱工作並持續監測。貼文正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0351qYr5eivhjNB2FrAvF3P6vefxhiyJXtiM1R8N7eDKrRmR2QCe7JBf2FYbLm3yjgl"
+        }
+      ],
+      "title": "樺加沙颱風逼近，提醒防颱；學校說明已完成防颱工作並持續監測",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-241",
+      "year": 2025,
+      "published": "2025-09-20",
+      "time": "17:50",
+      "activity": "2025-09-20",
+      "notes": [
+        "9/20 親師座談，分享三品教育、課程生活與國際交流，午後進行班親座談。貼文正文已展開；活動 09/20"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02fVuvSCQWMdQSWawsecCmc7P6HCkPVdWT1FVRxzLHxJTPW3ypDAy79avACtPGyPxXl"
+        }
+      ],
+      "title": "9/20 親師座談，分享三品教育、課程生活與國際交流，午後進行班親座談",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-242",
+      "year": 2025,
+      "published": "2025-09-20",
+      "time": "16:02",
+      "activity": "2025-09-19",
+      "notes": [
+        "9/19 09:21 防災演練，熟悉避難流程。正文截斷；活動 09/19"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02jeq7U3iEW23YG6oBRKH97ys4FDyfpdqbRXg8UtbCcjj52EsfFi925SJXSsw23GRql"
+        }
+      ],
+      "title": "9/19 09:21 防災演練，熟悉避難流程",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-243",
+      "year": 2025,
+      "published": "2025-09-19",
+      "time": "22:28",
+      "activity": "",
+      "notes": [
+        "慈誠懿德會舉辦敬師謝師活動。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid086j4pVhtTX7XGTaTZU4YArEK19YTfQaPQBVvEr7tf65n2BbmyvNMLErKLYpHDSQQl"
+        }
+      ],
+      "title": "慈誠懿德會舉辦敬師謝師活動",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-244",
+      "year": 2025,
+      "published": "2025-09-17",
+      "time": "09:03",
+      "activity": "",
+      "notes": [
+        "中學部線上親職講座預告。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02g1cpZKhCshcvN5bf7QrZGgVgQUYnedncY3kyYgZ87Cth7t9UpNyckhZygnR9r96Yl"
+        }
+      ],
+      "title": "中學部線上親職講座預告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-245",
+      "year": 2025,
+      "published": "2025-09-08",
+      "time": "18:06",
+      "activity": "",
+      "notes": [
+        "姊妹校馬來西亞吉華獨中人氣票選。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02EBh6aJ7KWvAx8zuVFTu8DoAuySWCXVqezvUqkg4h73itG68qUFb8cxb86oqR3qLkl"
+        }
+      ],
+      "title": "姊妹校馬來西亞吉華獨中人氣票選",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-246",
+      "year": 2025,
+      "published": "2025-09-01",
+      "time": "19:26",
+      "activity": "",
+      "notes": [
+        "開學典禮：以品德為本。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02J1HBik791yDAgjqNreqmmhqrJH1AgRUwgaCHJzqjnPAkHFsqNLYSoqwVYmD3GVcHl"
+        }
+      ],
+      "title": "開學典禮：以品德為本",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-247",
+      "year": 2025,
+      "published": "2025-09-14",
+      "time": "12:43",
+      "activity": "",
+      "notes": [
+        "慈大附中語文表現。正文截斷，具體獎項待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02qxgdrz5EYEBnh5tJwTbddUZGiFqfnBd6TYKZq41qZesSVgsB5D9CfXrgwc7t24bAl"
+        }
+      ],
+      "title": "慈大附中語文表現",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
