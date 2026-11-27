@@ -64,10 +64,12 @@ const yearFilter = get('year');
 const topicFilter = get('topic');
 const kindFilter = get('kind');
 const monthButton = get('remove-month');
+const explorationButton = get('remove-exploration');
 const recordList = get('record-list');
 const loadMore = get('load-more');
 const pageSize = 16;
 let monthFilter = '';
+let explorationFilter = null;
 let visibleLimit = pageSize;
 
 function element(tag, className = '', text = '') {
@@ -139,6 +141,7 @@ function resetControls() {
   topicFilter.value = 'all';
   kindFilter.value = 'fb';
   monthFilter = '';
+  explorationFilter = null;
   visibleLimit = pageSize;
 }
 
@@ -148,6 +151,14 @@ function showRecords() {
   target.tabIndex = -1;
   target.focus({ preventScroll: true });
   get('records').scrollIntoView({ block: 'start' });
+}
+
+function showExplorationRecords({ year, topic, label, ids }) {
+  resetControls();
+  if (year) yearFilter.value = String(year);
+  if (topic) topicFilter.value = topic;
+  explorationFilter = { label, ids: ids ? new Set(ids) : null };
+  showRecords();
 }
 
 function renderInsights() {
@@ -223,6 +234,7 @@ function matchRecords() {
     (topicFilter.value === 'all' || record.topic === topicFilter.value) &&
     (kindFilter.value === 'all' || record.kind === kindFilter.value) &&
     (!monthFilter || (record.kind === 'fb' && record.published.startsWith(monthFilter))) &&
+    (!explorationFilter?.ids || explorationFilter.ids.has(record.id)) &&
     (!term || searchIndex.get(record.id).includes(term))
   );
 }
@@ -253,6 +265,8 @@ function renderRecords() {
     : '符合條件的紀錄 0 筆';
   monthButton.hidden = !monthFilter;
   if (monthFilter) monthButton.textContent = '移除月份 ' + monthFilter;
+  explorationButton.hidden = !explorationFilter;
+  if (explorationFilter) explorationButton.textContent = `清除圖表選取 · ${explorationFilter.label}`;
   loadMore.hidden = shown.length === records.length;
   recordList.replaceChildren();
   if (!records.length) {
@@ -277,6 +291,9 @@ function initFilters() {
   for (const control of [query, yearFilter, topicFilter, kindFilter]) {
     control.addEventListener(control === query ? 'input' : 'change', () => {
       if (control === yearFilter || control === kindFilter) monthFilter = '';
+      if (control === kindFilter || (!explorationFilter?.ids && (control === yearFilter || control === topicFilter))) {
+        explorationFilter = null;
+      }
       visibleLimit = pageSize;
       renderRecords();
     });
@@ -289,6 +306,10 @@ function initFilters() {
     monthFilter = '';
     visibleLimit = pageSize;
     renderRecords();
+  });
+  explorationButton.addEventListener('click', () => {
+    resetControls();
+    showRecords();
   });
   loadMore.addEventListener('click', () => {
     const firstNew = matchRecords()[visibleLimit];
@@ -405,3 +426,5 @@ initFilters();
 renderRecords();
 renderAnnualChart();
 renderCoverage();
+window.initPostExploration?.({ ...report, onPick: showExplorationRecords });
+window.initEvidenceTimeline?.({ records: report.records, onPick: showExplorationRecords });

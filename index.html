@@ -7,15 +7,20 @@
   <meta name="theme-color" content="#123d35">
   <title>慈中 Facebook 歷程｜課程與活動洞察</title>
   <link rel="stylesheet" href="./style.css?v=a897c2314736">
+  <link rel="stylesheet" href="./exploration.css?v=d30de9137ecb">
+  <link rel="stylesheet" href="./evidence-timeline.css?v=eb0685ca3e41">
   <script defer src="./data.js?v=c6263ae034e9"></script>
-  <script defer src="./app.js?v=cbbddc96b92d"></script>
+  <script defer src="./exploration.js?v=f06e712bd545"></script>
+  <script defer src="./evidence-timeline.js?v=ba0c688dee92"></script>
+  <script defer src="./app.js?v=3d4edddcc79f"></script>
 </head>
 <body>
-  <a class="skip" href="#insights">跳到洞察</a>
+  <a class="skip" href="#explore">跳到貼文圖表</a>
   <header class="site-header">
     <div class="frame header-content">
       <a class="wordmark" href="#top">慈中 Facebook 歷程</a>
       <nav aria-label="報告導覽">
+        <a href="#explore">看圖表</a>
         <a href="#insights">看洞察</a>
         <a href="#records">查紀錄</a>
         <a href="#coverage">資料範圍</a>
@@ -31,8 +36,8 @@
           <h1 id="page-title">慈中的課程與<br class="desktop-break">課外活動怎麼演變？</h1>
           <p class="intro">從新課綱前導、在地走讀到校慶服務與國際交流。選一個主題，就能看到關鍵時間點、當時的做法與公開原文。</p>
           <div class="hero-actions">
-            <a class="button primary" href="#insights">展開主題洞察</a>
-            <a class="button light" href="#records">搜尋貼文與事件</a>
+            <a class="button primary" href="#explore">用圖探索貼文</a>
+            <a class="button light" href="#insights">閱讀課程與活動洞察</a>
           </div>
         </div>
         <div class="hero-context" aria-label="已收錄資料">
@@ -45,6 +50,18 @@
         </div>
       </div>
     </section>
+
+    <section id="explore" class="frame section" aria-label="用圖探索 Facebook 貼文">
+      <nav class="explore-jumps" aria-label="貼文圖表導覽">
+        <a href="#topic-year-explorer">主題熱圖</a>
+        <a href="#keyword-explorer">關鍵詞雲</a>
+        <a href="#evidence-timeline">主題時間軸</a>
+      </nav>
+      <div id="topic-year-explorer"></div>
+      <div id="keyword-explorer"></div>
+    </section>
+
+    <section id="evidence-timeline" class="frame section" aria-label="主題脈絡時間軸"></section>
 
     <section id="insights" class="frame section" aria-labelledby="insights-title">
       <div class="section-top">
@@ -93,6 +110,7 @@
         <div class="results-top">
           <p id="result-count" role="status" aria-live="polite"></p>
           <button type="button" class="button small" id="remove-month" hidden></button>
+          <button type="button" class="button small" id="remove-exploration" hidden></button>
         </div>
         <div id="record-list" class="record-list"></div>
         <button type="button" class="button load" id="load-more" hidden>顯示更多紀錄</button>
