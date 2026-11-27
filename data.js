@@ -101,7 +101,7 @@ window.reportData = {
       [
         "2019-03",
         "partial",
-        11
+        13
       ],
       [
         "2019-04",
@@ -111,7 +111,7 @@ window.reportData = {
       [
         "2019-05",
         "partial",
-        8
+        12
       ],
       [
         "2019-06",
@@ -281,17 +281,17 @@ window.reportData = {
       [
         "2022-03",
         "partial",
-        11
+        13
       ],
       [
         "2022-04",
         "partial",
-        6
+        14
       ],
       [
         "2022-05",
         "partial",
-        7
+        9
       ],
       [
         "2022-06",
@@ -1678,7 +1678,23 @@ window.reportData = {
         "fb-1274",
         "fb-1275",
         "fb-1276",
-        "fb-1277"
+        "fb-1277",
+        "fb-1278",
+        "fb-1279",
+        "fb-1280",
+        "fb-1281",
+        "fb-1282",
+        "fb-1284",
+        "fb-1285",
+        "fb-1286",
+        "fb-1287",
+        "fb-1288",
+        "fb-1289",
+        "fb-1290",
+        "fb-1291",
+        "fb-1292",
+        "fb-1293",
+        "fb-1295"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1790,7 +1806,9 @@ window.reportData = {
         "fb-1265",
         "fb-1266",
         "fb-1267",
-        "fb-1270"
+        "fb-1270",
+        "fb-1283",
+        "fb-1294"
       ]
     }
   },
@@ -30294,6 +30312,393 @@ window.reportData = {
       ],
       "title": "國三志學營的步道與團隊闖關",
       "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1278",
+      "year": 2019,
+      "published": "2019-03-15",
+      "time": "20:09",
+      "activity": "",
+      "notes": [
+        "國小、國中及高中三部雙語班師生合作，以三齣英文音樂劇展現學習成果。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/296165994389531/"
+        }
+      ],
+      "title": "雙語班英語成果展青春圓舞曲預告",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1279",
+      "year": 2019,
+      "published": "2019-03-15",
+      "time": "19:02",
+      "activity": "",
+      "notes": [
+        "幼兒園孩子進班體驗一年級課程，由國小學生陪伴並介紹遊戲區安全。",
+        "封存文字省略涉及家庭關係的引述。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0NF1BwCoK83FtekLzn4Y1rR73ev1PP5Gg29QKNTtWuqJtSDB7yCpCUxUFwuCPWichl"
+        }
+      ],
+      "title": "大愛幼兒園進國小部體驗一年級",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "列表日期錨點顯示 19:02，單篇初次載入顯示 04:02。"
+    },
+    {
+      "id": "fb-1280",
+      "year": 2019,
+      "published": "2019-05-14",
+      "time": "20:54",
+      "activity": "",
+      "notes": [
+        "國二美術組舉辦校內外畫展，官帖記錄籌辦過程與團隊合作，學生姓名已省略。",
+        "同日相近內容另有獨立官帖，各自可見不同原址與發文時刻。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid08ziAUCbiCkB8FMKCM7pXQnEBk8wwAhQNnSbxfpbjfGUwZ8LXfmqStrQn2NbxgxEUl"
+        }
+      ],
+      "title": "國二美術組畫展開幕（20:54）",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "列表 20:54，單篇初次載入 05:54。單篇日期錨點與本原址一致。"
+    },
+    {
+      "id": "fb-1281",
+      "year": 2019,
+      "published": "2019-05-15",
+      "time": "06:33",
+      "activity": "",
+      "notes": [
+        "幼兒園把樹木觀察與植物品嘗延伸至賑災議題，師生試作蝶豆花果凍與洛神花茶進行義賣。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1029054953950112/"
+        }
+      ],
+      "title": "附幼植物主題延伸到非洲賑災義賣",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1282",
+      "year": 2022,
+      "published": "2022-03-23",
+      "time": "02:59",
+      "activity": "",
+      "notes": [
+        "校方在凌晨地震後公告住宿學生平安。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034jnT1XLxJ28Tk2oA53Um6voBAdkdGau6CDSFjL8EgtQzFiLCiSqDZwBYQRyE1n7il"
+        }
+      ],
+      "title": "花東地震後住宿學生平安公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1283",
+      "year": 2022,
+      "published": "2022-03-22",
+      "time": "16:58",
+      "activity": "",
+      "notes": [
+        "官粉分享大學繁星推薦錄取成果。正文涉及具名升學結果，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0rfRPzGmXvyKLXHV7tSmgnwiBX3Ai4PVGQtp7cDmtuzVCsw99fziy1vaoCzFCjkH7l"
+        }
+      ],
+      "title": "繁星推薦錄取成果",
+      "topic": "競賽與成果",
+      "kind": "fb",
+      "timeNote": "列表顯示 16:58，單篇顯示 01:58，日期與原址一致。"
+    },
+    {
+      "id": "fb-1284",
+      "year": 2022,
+      "published": "2022-04-15",
+      "time": "14:42",
+      "activity": "",
+      "notes": [
+        "官帖邀請親子動手做麵線糊。封存官粉外層文字，末尾可見「影片連結」標籤。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid024phYhsCyW9LXy5nU3bxQqKrggVWLfVJJKXriCDxQYpuVc6eqKp3MUg2CAbiNLFWzl"
+        }
+      ],
+      "title": "附幼麵線糊親子料理（可見文字）",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1285",
+      "year": 2022,
+      "published": "2022-04-15",
+      "time": "12:01",
+      "activity": "",
+      "notes": [
+        "官帖可見文字為「校長的給家長的一封信」標籤。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid07ALfcoVDyDhovZXNg9V5vk5BQAjtAe3msXsAtqMDzt2Fmyz7HhZnLpxuzDCcZH4Xl"
+        }
+      ],
+      "title": "校長給家長的一封信（可見標籤）",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1286",
+      "year": 2022,
+      "published": "2022-04-14",
+      "time": "22:45",
+      "activity": "",
+      "notes": [
+        "校方以官帖公告翌日預防性停課一天。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0iah4zRSqNNFje4EsAHJeuaApA88nFReKMkJMxcfZTM3ks5PMeBpF81LfTN2k4dSal"
+        }
+      ],
+      "title": "校方公告預防性停課一天",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1287",
+      "year": 2022,
+      "published": "2022-04-12",
+      "time": "10:57",
+      "activity": "",
+      "notes": [
+        "官粉外層可見文字提醒附幼教室清消與防疫。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid031P4cuQHtrQJ3PbCaBy2hUs4C8SSjCpLcYXUUKvJvZPcn4fMqzTh5UtApWg69eEXUl"
+        }
+      ],
+      "title": "附幼清消與防疫分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1288",
+      "year": 2022,
+      "published": "2022-04-22",
+      "time": "16:18",
+      "activity": "",
+      "notes": [
+        "官帖邀請親子動手做韓式部隊鍋。封存官粉外層文字，末尾可見「影片連結」標籤。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid036XCwxgidJVNU9PWEZUAis3tsLbWXPYyc9BAxfLW6NWeGSb6xoh7PacPjPwCFj5vWl"
+        }
+      ],
+      "title": "附幼韓式部隊鍋親子料理（可見文字）",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1289",
+      "year": 2022,
+      "published": "2022-04-21",
+      "time": "16:14",
+      "activity": "",
+      "notes": [
+        "官帖用中英文字邀請全校在世界地球日下課關燈節電。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/235212025465638/"
+        }
+      ],
+      "title": "世界地球日下課關燈",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1290",
+      "year": 2019,
+      "published": "2019-05-14",
+      "time": "20:50",
+      "activity": "",
+      "notes": [
+        "國二美術組公告畫展開幕及展覽地點，學生姓名已省略。",
+        "同日相近內容另有獨立官帖，各自可見不同原址與發文時刻。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0TgQJ3GqLR2VZWLP28qyWnbDQa2pJA4ZfpQnh9X9i8oxu9kyKEJiEShxhjegdFDSFl"
+        }
+      ],
+      "title": "國二美術組畫展開幕（20:50）",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "列表 20:50，單篇初次載入 05:50。單篇日期錨點與本原址一致。"
+    },
+    {
+      "id": "fb-1291",
+      "year": 2019,
+      "published": "2019-05-23",
+      "time": "13:06",
+      "activity": "",
+      "notes": [
+        "高三學生在午休自發邀請高二學弟妹，分組分享科系相關問題。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/446105842624002/"
+        }
+      ],
+      "title": "高三學生自辦科系經驗分享",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1292",
+      "year": 2022,
+      "published": "2022-04-26",
+      "time": "10:33",
+      "activity": "",
+      "notes": [
+        "官帖記錄全班以英語登台演唱，並分享外籍教師對營造英語環境的看法。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022HNjJU518iX18FhAZcevjkbcrNztcf9TLUZnpEafBprDWCNR3vu6asKzfWcxKkPEl"
+        }
+      ],
+      "title": "英語歌唱比賽與生活化英語",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "單篇初載顯示 4 月 25 日，穩定後日期錨點與列表均為 4 月 26 日 10:33。"
+    },
+    {
+      "id": "fb-1293",
+      "year": 2022,
+      "published": "2022-04-12",
+      "time": "09:39",
+      "activity": "",
+      "notes": [
+        "中外教師合作，以全英語結合語文、藝術與自然課程帶領學生探索天文。",
+        "封存正文前兩段，後段人名及其他文字省略。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0iuNC1qsCHPhM128K7xz8zpHetHMEe5iB8jg47rMVUwAD9VvsqVRf6EhvSzsxmVJXl"
+        }
+      ],
+      "title": "附小英語天文營（可見摘錄）",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1294",
+      "year": 2022,
+      "published": "2022-05-13",
+      "time": "14:04",
+      "activity": "",
+      "notes": [
+        "官粉介紹小蔬童與大廚神第 23 集青醬義大利麵。正文涉及具名家庭，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wZFwu1KnmHoRKMoCpQUtBvSXoCPRfu7johi9u9uqsKw28Pc6wRek4dS3NisjgaSWl"
+        }
+      ],
+      "title": "附幼青醬義大利麵親子料理",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1295",
+      "year": 2022,
+      "published": "2022-05-11",
+      "time": "11:37",
+      "activity": "",
+      "notes": [
+        "附幼以標籤公告招生，介紹校園生活及學習特色。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02RdoJqxHvmksK1ys3F8WoB2KBcYH5wpq9M5Nu4STC9rQSouijkdMGxBxekyFcAKuyl"
+        }
+      ],
+      "title": "附幼 111 學年度招生公告",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
