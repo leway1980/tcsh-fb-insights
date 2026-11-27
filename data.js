@@ -136,7 +136,7 @@ window.reportData = {
       [
         "2019-10",
         "partial",
-        6
+        7
       ],
       [
         "2019-11",
@@ -151,7 +151,7 @@ window.reportData = {
       [
         "2020-01",
         "partial",
-        6
+        9
       ],
       [
         "2020-02",
@@ -296,7 +296,7 @@ window.reportData = {
       [
         "2022-06",
         "partial",
-        9
+        12
       ],
       [
         "2022-07",
@@ -1714,7 +1714,14 @@ window.reportData = {
         "fb-1312",
         "fb-1313",
         "fb-1314",
-        "fb-1315"
+        "fb-1315",
+        "fb-1316",
+        "fb-1317",
+        "fb-1318",
+        "fb-1319",
+        "fb-1320",
+        "fb-1321",
+        "fb-1322"
       ],
       "noVisibleText": [
         "fb-27",
@@ -31150,6 +31157,156 @@ window.reportData = {
       ],
       "title": "中秋孝親日返家與返校通知",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1316",
+      "year": 2022,
+      "published": "2022-06-08",
+      "time": "20:20",
+      "activity": "",
+      "notes": [
+        "官帖公告疫情期間三部暨幼兒園的線上畢業典禮，附直播觀看連結。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0SGpf5t3gvMmWf4aFkNyMA3yf15EzsQVmmu5CqXwDTBMW4LGefz6Nx7FQ35SHNFWTl"
+        }
+      ],
+      "title": "國高中、國小與附幼線上畢業典禮預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1317",
+      "year": 2022,
+      "published": "2022-06-07",
+      "time": "08:38",
+      "activity": "",
+      "notes": [
+        "低年級英語社團以繪本辨識情緒、圖像記憶及結合音樂律動的戲劇活動鼓勵開口。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XtVE3UJjAAjBh2q7hgmkNqojx2Q4V2Jp1bzN4XG7TqjNA6CHE49AtpfDyH5zDWmsl"
+        }
+      ],
+      "title": "附小英語社團的繪本與戲劇教學",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "單篇初載曾顯示 6 月 6 日，穩定後日期錨點與列表同為 6 月 7 日 08:38。"
+    },
+    {
+      "id": "fb-1318",
+      "year": 2022,
+      "published": "2022-06-04",
+      "time": "15:40",
+      "activity": "",
+      "notes": [
+        "官帖記錄高中男子籃球隊在花蓮縣假日盃獲高男組冠軍、大專組亞軍。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ECgBvaSZ9Nh6McyrCBb6wCaxYF3rmRUGt2DffYbzdVSFYJXrMQrnsd8PWa3mvWj4l"
+        }
+      ],
+      "title": "高中男籃假日盃團體成績",
+      "topic": "競賽與成果",
+      "kind": "fb",
+      "timeNote": "列表顯示 15:40，單篇顯示 00:40，日期錨點及原址一致。"
+    },
+    {
+      "id": "fb-1319",
+      "year": 2020,
+      "published": "2020-01-28",
+      "time": "",
+      "activity": "",
+      "notes": [
+        "官帖以標籤提醒過年期間持續防疫。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02MFzfCxHhEzpKuB9zyVBtyU1LcdEYb8c1HKB7jPyj1XeogV1tJEtFx4cSXxgZ1LVYl"
+        }
+      ],
+      "title": "春節期間防疫提醒（官帖標籤）",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "官粉列表已確認發文日期，發文時刻尚未核對。"
+    },
+    {
+      "id": "fb-1320",
+      "year": 2020,
+      "published": "2020-01-23",
+      "time": "12:25",
+      "activity": "",
+      "notes": [
+        "官帖以兩個標籤祝賀新春並提醒招生。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033PVUbmSY5ZbB3hHN8iQkBpbxnS3amprKTttbHzjEUoEoEZTKX5kvp2BJxhnP6WMl"
+        }
+      ],
+      "title": "鼠年新春與招生公告（官帖標籤）",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1321",
+      "year": 2020,
+      "published": "2020-01-17",
+      "time": "13:42",
+      "activity": "",
+      "notes": [
+        "學力測驗期間，官帖記錄師長和家長陪伴第十八屆高三考生，為學生加油。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02dVPNRBk5dMGF2PkUT4QFCKPo7eWUsYuLiC25FQzHCTFKCMsMTcJEjyz5nXujvGNfl"
+        }
+      ],
+      "title": "學測期間為高三考生加油",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1322",
+      "year": 2019,
+      "published": "2019-10-27",
+      "time": "23:47",
+      "activity": "",
+      "notes": [
+        "女排在聯賽前赴大觀國中與南湖高中交流，比較球技、訓練態度和球品。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Qw4iXag9vVEphHfQKqRSCEbrRtEJKzHVh5RFDbLEk8P43WrMHpXM958f7TpiWN1ql"
+        }
+      ],
+      "title": "女排移地訓練與校際交流",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     }
   ]
