@@ -206,7 +206,7 @@ window.reportData = {
       [
         "2020-12",
         "partial",
-        6
+        8
       ],
       [
         "2021-01",
@@ -321,12 +321,12 @@ window.reportData = {
       [
         "2022-11",
         "partial",
-        11
+        14
       ],
       [
         "2022-12",
         "partial",
-        10
+        16
       ],
       [
         "2023-01",
@@ -1773,7 +1773,17 @@ window.reportData = {
         "fb-1378",
         "fb-1379",
         "fb-1380",
-        "fb-1382"
+        "fb-1382",
+        "fb-1383",
+        "fb-1384",
+        "fb-1386",
+        "fb-1387",
+        "fb-1388",
+        "fb-1389",
+        "fb-1390",
+        "fb-1391",
+        "fb-1392",
+        "fb-1393"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1895,7 +1905,8 @@ window.reportData = {
         "fb-1348",
         "fb-1352",
         "fb-1377",
-        "fb-1381"
+        "fb-1381",
+        "fb-1385"
       ]
     }
   },
@@ -19085,10 +19096,11 @@ window.reportData = {
       "activity": "2020-12-06",
       "notes": [
         "學生把前一天創作的故事拍成微電影。",
-        "貼文列出四部學生作品。"
+        "貼文列出四部學生作品。",
+        "封存文字省略具名學生的個別回饋。"
       ],
       "media": "相片",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -19097,7 +19109,8 @@ window.reportData = {
       ],
       "title": "微電影課程從故事走到拍攝",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 20:27，原址與另一入口的單篇都顯示 04:27。兩入口的日期錨點與正文相同。"
     },
     {
       "id": "fb-746",
@@ -32654,6 +32667,241 @@ window.reportData = {
         }
       ],
       "title": "小論文研究與惜食行動（可見摘錄）",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1383",
+      "year": 2022,
+      "published": "2022-11-08",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "官帖可見文字介紹慈中與東華大學合作開設法語選修，以及從興趣切入學習法語的做法。",
+        "封存課程介紹前三段，原帖另附電台節目資訊，文字撰寫歸屬待核。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0k8u7BprgChwnyri36CxADcaiFtSMN8KNYxtjqK1nZnGpnsahWndHKCaHVURYQnKMl"
+        }
+      ],
+      "title": "與東華大學合作開設法語選修（可見摘錄）",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1384",
+      "year": 2022,
+      "published": "2022-11-05",
+      "time": "22:15",
+      "activity": "",
+      "notes": [
+        "官帖記錄高二班級改編《魔法黑森林》。封存所見演出節錄。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02He6MTRgrv7GJiEbGga4RK4cxYTSjozn4kscKRbZ5qJUiQa5ndw7XmRSpMwmXGvApl"
+        }
+      ],
+      "title": "雙語班成果展魔法黑森林（可見摘錄）",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "列表顯示 22:15，單篇顯示 07:15，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1385",
+      "year": 2022,
+      "published": "2022-11-06",
+      "time": "19:46",
+      "activity": "",
+      "notes": [
+        "列表可見日期與原址。正文截斷且涉及學生競賽成績，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0387ALHLCrzC3SAbn4zdHUyWgNGC55nq9idWPceh4ysoatpXUvMeKurJpzfLqzCkQZl"
+        }
+      ],
+      "title": "更生日報盃數學競賽",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1386",
+      "year": 2020,
+      "published": "2020-12-05",
+      "time": "22:00",
+      "activity": "",
+      "notes": [
+        "圖書館均質化活動邀高一與國三學生小組設計短劇、用手機實拍，學習從衝突與角色兩難發展故事。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04GGMUtx5D3DwzP9ymTgd2E2WcVkUySCr4c2wStVbo8EC8488ADYtT1nk8NhCtVUil"
+        }
+      ],
+      "title": "微電影工作坊以衝突說故事",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1387",
+      "year": 2020,
+      "published": "2020-12-05",
+      "time": "12:43",
+      "activity": "",
+      "notes": [
+        "配合人文課程，學生認識稻米生長、碾米與米食，親手做麻糬，將珍惜糧食連結到生活。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02F5mjS7u52Fb9DjmwYKz4mR9eRSb99hsjYDjpkEUUussnonrzco81LsVNPAqaP5sl"
+        }
+      ],
+      "title": "附小一年級參訪碾米廠",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1388",
+      "year": 2022,
+      "published": "2022-12-19",
+      "time": "09:40",
+      "activity": "",
+      "notes": [
+        "官帖分享疫情期間志工用視訊延續陪伴，並記錄校方歲末致謝。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Ec3jHBbRf3d9WiufW4qxBENLvZMNHm9DfiBGLePriy3NiuUR97gbvirkCjynpcoyl"
+        }
+      ],
+      "title": "慈懿日志工陪伴與歲末感恩",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1389",
+      "year": 2022,
+      "published": "2022-12-18",
+      "time": "13:38",
+      "activity": "",
+      "notes": [
+        "官帖記錄校園開放參訪，列出課程、社團校隊、國際教育、住宿及志工陪伴等特色。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ibtfJCD6K65BYwMdiV5szH5WAXQr1XQYYD6rfsRyU3ruXn8Y7qwsmZgN6jXt9xPdl"
+        }
+      ],
+      "title": "開放校園參訪與慈中就讀特色",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1390",
+      "year": 2022,
+      "published": "2022-12-14",
+      "time": "10:46",
+      "activity": "",
+      "notes": [
+        "官帖記錄稚齡童軍、幼童軍及童軍共同進行儀式、沙盤創作與技能檢定。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0fz6Cfi2XJnuGebDUB1ivrDygJHzsne1RT3fq4DvSL37u4YWch5kyxcPuTzJatuCdl"
+        }
+      ],
+      "title": "附小幼童軍參與奇萊聯團交流",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1391",
+      "year": 2022,
+      "published": "2022-12-16",
+      "time": "16:38",
+      "activity": "",
+      "notes": [
+        "官帖回顧自 2017 年開始的農家體驗、主題教學及疫情期間線上交流，並預告恢復日本修學。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023ZCe5UGeiDryydhdPgz7x2grf98qEYN3RQ5W1kSwmLwQjKi6MWmfbG6vzPMJgs8Fl"
+        }
+      ],
+      "title": "青森縣府到校交流並預告恢復日本修學",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "列表顯示 16:38，單篇顯示 00:38，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1392",
+      "year": 2022,
+      "published": "2022-12-17",
+      "time": "17:24",
+      "activity": "",
+      "notes": [
+        "官帖記錄中學部歲末感恩會回顧當年疫情與地震，鼓勵師生持續學習與關懷。封存團體活動節錄。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid032JaM3UUMuywMAsFTMovfYDtZM8YjRzNerRL9d5qCAHAoW4cHfiKg3yt6pESXn4Vgl"
+        }
+      ],
+      "title": "中學部歲末祝福感恩會（可見摘錄）",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 17:24，單篇顯示 01:24，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1393",
+      "year": 2022,
+      "published": "2022-12-16",
+      "time": "17:18",
+      "activity": "",
+      "notes": [
+        "官帖以夜市遊戲說明機率，也介紹水土保持、土石流防災及操作體驗。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Zd4zAtn4M43u8is35oLfJhtCDC8VAT2142SzgdeEpL4sz9LpdRAo8jJkfXiUhwCtl"
+        }
+      ],
+      "title": "夜市遊戲學機率與水土保持防災特展",
       "topic": "課程與專題",
       "kind": "fb"
     }
