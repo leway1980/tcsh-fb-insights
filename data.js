@@ -91,7 +91,7 @@ window.reportData = {
       [
         "2019-01",
         "partial",
-        4
+        5
       ],
       [
         "2019-02",
@@ -101,12 +101,12 @@ window.reportData = {
       [
         "2019-03",
         "partial",
-        4
+        6
       ],
       [
         "2019-04",
         "partial",
-        4
+        5
       ],
       [
         "2019-05",
@@ -628,9 +628,14 @@ window.reportData = {
         "fb-155",
         "fb-157",
         "fb-158",
+        "fb-159",
+        "fb-161",
         "fb-164",
+        "fb-165",
+        "fb-166",
         "fb-167",
         "fb-168",
+        "fb-170",
         "fb-174",
         "fb-178",
         "fb-181",
@@ -663,9 +668,13 @@ window.reportData = {
         "fb-253",
         "fb-254",
         "fb-255",
+        "fb-256",
+        "fb-257",
         "fb-258",
         "fb-259",
         "fb-260",
+        "fb-261",
+        "fb-262",
         "fb-263",
         "fb-264",
         "fb-265",
@@ -682,6 +691,7 @@ window.reportData = {
         "fb-276",
         "fb-277",
         "fb-278",
+        "fb-279",
         "fb-280",
         "fb-281",
         "fb-282",
@@ -1308,7 +1318,11 @@ window.reportData = {
         "fb-1024",
         "fb-1027",
         "fb-1031",
-        "fb-1033"
+        "fb-1033",
+        "fb-1034",
+        "fb-1035",
+        "fb-1036",
+        "fb-1037"
       ],
       "noVisibleText": [
         "fb-27",
@@ -5932,10 +5946,10 @@ window.reportData = {
       "time": "04:53",
       "activity": "",
       "notes": [
-        "分享教師研習影片回憶。正文待查。"
+        "粉專短文邀校友響應，提到教師研習每年重看「叫叫ABC」。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -5974,10 +5988,10 @@ window.reportData = {
       "time": "20:26",
       "activity": "",
       "notes": [
-        "慈大附中十八歲生日。分享內容待核。"
+        "粉專自有文字只寫慈大附中十八歲生日標籤。日期錨點與同日其他轉分享各異。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6058,10 +6072,10 @@ window.reportData = {
       "time": "10:32",
       "activity": "",
       "notes": [
-        "慈大附中十八歲生日。分享內容待核。"
+        "粉專自有文字只寫慈大附中十八歲生日標籤。日期錨點與同日其他轉分享各異。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6079,10 +6093,10 @@ window.reportData = {
       "time": "10:26",
       "activity": "",
       "notes": [
-        "慈大附中十八歲生日。分享內容待核。"
+        "粉專自有文字只寫慈大附中十八歲生日標籤。日期錨點與同日其他轉分享各異。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -6163,10 +6177,10 @@ window.reportData = {
       "time": "15:17",
       "activity": "",
       "notes": [
-        "慈大附中十八歲生日。分享內容待核。"
+        "粉專自有文字只寫慈大附中十八歲生日標籤。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -7980,7 +7994,7 @@ window.reportData = {
       "time": "00:31",
       "activity": "2025-08-10",
       "notes": [
-        "08/10 印尼修學團參訪習經院，交流校園、義診與自力更生。正文已展開。"
+        "印尼修學團參訪習經院，交流校園、義診與自力更生。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -7992,7 +8006,8 @@ window.reportData = {
       ],
       "title": "08/10 印尼修學團參訪習經院，交流校園、義診與自力更生",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "同一日期錨點初載顯示 8 月 12 日，載入後顯示 8 月 13 日 00:31。"
     },
     {
       "id": "fb-257",
@@ -8001,7 +8016,7 @@ window.reportData = {
       "time": "20:50",
       "activity": "2025-08-13",
       "notes": [
-        "縣府宣布 08/13 停班課，學校及宿舍完成防颱與供餐準備。正文已展開。"
+        "縣府宣布 8 月 13 日停班課，學校及宿舍完成防颱與供餐準備。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -8013,7 +8028,8 @@ window.reportData = {
       ],
       "title": "縣府宣布 08/13 停班課，學校及宿舍完成防颱與供餐準備",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 20:50，單篇畫面顯示 05:50，兩讀值待核。"
     },
     {
       "id": "fb-258",
@@ -8085,10 +8101,10 @@ window.reportData = {
       "time": "13:38",
       "activity": "",
       "notes": [
-        "楊柳颱風期間宿舍安全。正文截斷、換卡待核。"
+        "楊柳颱風期間校方公告宿舍一切平安、供餐正常，總務處巡視校園。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -8106,7 +8122,7 @@ window.reportData = {
       "time": "11:19",
       "activity": "2025-08-09",
       "notes": [
-        "08/09 印尼修學團走訪扶困區、學校與雅加達文化地標。正文已展開。"
+        "印尼修學團走訪扶困區、學校與雅加達文化地標。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -8118,7 +8134,8 @@ window.reportData = {
       ],
       "title": "08/09 印尼修學團走訪扶困區、學校與雅加達文化地標",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "日期錨點入口初載顯示 8 月 10 日，載入後顯示 8 月 11 日 11:19。"
     },
     {
       "id": "fb-263",
@@ -8463,10 +8480,10 @@ window.reportData = {
       "time": "22:27",
       "activity": "",
       "notes": [
-        "終身為師育良才。正文截斷。"
+        "粉專記錄第八屆校長交接，並引述對卸任及新任校長的勉勵。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -8475,7 +8492,8 @@ window.reportData = {
       ],
       "title": "終身為師育良才",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 22:27，單篇畫面顯示 07:27，兩讀值待核。"
     },
     {
       "id": "fb-280",
@@ -22656,7 +22674,7 @@ window.reportData = {
       "time": "17:34",
       "activity": "",
       "notes": [
-        "粉專分享各學部招生報名資訊，並感謝店家張貼海報。與同日 17:37 為不同貼文。相片及外連待核。"
+        "粉專分享各學部招生資訊，感謝鄰居協助張貼海報。另一入口核為同一則。"
       ],
       "media": "相片及外部報名網頁",
       "partial": true,
@@ -22668,7 +22686,8 @@ window.reportData = {
       ],
       "title": "招生報名與店家協助張貼海報",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 17:34，兩個網址的單篇畫面皆顯示 01:34，兩讀值待核。"
     },
     {
       "id": "fb-947",
@@ -24499,6 +24518,90 @@ window.reportData = {
       ],
       "title": "國樂隊晉級全國學生音樂比賽決賽",
       "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1034",
+      "year": 2019,
+      "published": "2019-01-14",
+      "time": "17:25",
+      "activity": "",
+      "notes": [
+        "校方記錄師長在學測前陪伴高三學生，家長會準備點心及湯品。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/578418742630492/"
+        }
+      ],
+      "title": "學測前師長與家長的支持",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1035",
+      "year": 2019,
+      "published": "2019-03-16",
+      "time": "22:00",
+      "activity": "",
+      "notes": [
+        "國小、國中、高中部雙語班合作，以青春圓舞曲為主題展演三齣英文音樂劇。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/372092426970566/"
+        }
+      ],
+      "title": "跨學部雙語班英語成果展演",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1036",
+      "year": 2019,
+      "published": "2019-03-19",
+      "time": "06:59",
+      "activity": "",
+      "notes": [
+        "慈大附小將 STEAM 動手實作帶入自然課程，並與玉里國小組隊參賽，獲全國亞軍與優等。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/2493722833991332/"
+        }
+      ],
+      "title": "城鄉學生 STEAM 自造共創",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1037",
+      "year": 2019,
+      "published": "2019-04-20",
+      "time": "10:30",
+      "activity": "",
+      "notes": [
+        "慈懿日辦理國一手語比賽，各班以指定曲及自選曲演出。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0r5nSecfr9s5G77w6j8mhByb5dF4WPxTsKzfkRiMp85VajnWmxkRsmwMvqXKSwKohl"
+        }
+      ],
+      "title": "國一妙手生華手語比賽",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     }
   ]
