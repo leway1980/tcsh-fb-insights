@@ -36,7 +36,7 @@ window.reportData = {
       [
         "2018-02",
         "partial",
-        4
+        11
       ],
       [
         "2018-03",
@@ -351,7 +351,7 @@ window.reportData = {
       [
         "2023-05",
         "partial",
-        5
+        8
       ],
       [
         "2023-06",
@@ -1602,7 +1602,16 @@ window.reportData = {
         "fb-1186",
         "fb-1187",
         "fb-1190",
-        "fb-1191"
+        "fb-1191",
+        "fb-1192",
+        "fb-1193",
+        "fb-1194",
+        "fb-1195",
+        "fb-1196",
+        "fb-1197",
+        "fb-1198",
+        "fb-1200",
+        "fb-1201"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1704,7 +1713,8 @@ window.reportData = {
         "fb-1171",
         "fb-1178",
         "fb-1188",
-        "fb-1189"
+        "fb-1189",
+        "fb-1199"
       ]
     }
   },
@@ -28383,6 +28393,220 @@ window.reportData = {
       ],
       "title": "教育部活化教學發表會在慈小",
       "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1192",
+      "year": 2018,
+      "published": "2018-02-22",
+      "time": "18:11",
+      "activity": "",
+      "notes": [
+        "附小官帖記錄震後互相陪伴、海外友校致意及共同關懷行動。",
+        "與同日 17:23 官帖同文，列表並列不同日期連結，分開收錄。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1764623603846832/"
+        }
+      ],
+      "title": "花蓮地震後的共同關懷（18:11 官帖）",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1193",
+      "year": 2018,
+      "published": "2018-02-22",
+      "time": "17:23",
+      "activity": "",
+      "notes": [
+        "附小官帖記錄震後互相陪伴、海外友校致意及共同關懷行動。",
+        "與同日 18:11 官帖同文，列表並列不同日期連結，分開收錄。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02wD43B4ADk5sjuNxWZ8kic2FQMAEonburZwwXeKcDnUNU9qF4AhyACNYyzsPWd3Y9l"
+        }
+      ],
+      "title": "花蓮地震後的共同關懷（17:23 官帖）",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 17:23，單篇另顯示 01:23。"
+    },
+    {
+      "id": "fb-1194",
+      "year": 2018,
+      "published": "2018-02-22",
+      "time": "11:15",
+      "activity": "",
+      "notes": [
+        "官粉以短文介紹品格教育及東臺灣國際科學教育，告知雜誌專文已刊出。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02t5YePTRtdjRoRqcJQNgKvJhUZdKv33oZS3XKbTXPrwaeJYNMt8XUxr3msaVfTX6Xl"
+        }
+      ],
+      "title": "官粉預告《親子天下》慈中教育專文刊出",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1195",
+      "year": 2018,
+      "published": "2018-02-09",
+      "time": "22:42",
+      "activity": "",
+      "notes": [
+        "官帖記錄收容中心支援安排和訊息異動。原文首行標示該活動已暫停。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02umciiDYQUCWuJ7uB8RmguhAYcdhqTAwHJSKjDwPRYDSEQpX2wUM3qgUmE4t1ZPwql"
+        }
+      ],
+      "title": "地震後收容中心志工公告與暫停通知",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1196",
+      "year": 2018,
+      "published": "2018-02-09",
+      "time": "11:46",
+      "activity": "",
+      "notes": [
+        "校方記錄妙膳廳連日供應熱食，師生協助備餐、搬運物資及支援救難人員。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02fzJoxtdujVpLgriYgeNgA6rJ7jD5DU7AqUYKFmRrxWXXrAdpHecVknekqBWdhMfAl"
+        }
+      ],
+      "title": "地震期間供應熱食與後援工作",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1197",
+      "year": 2018,
+      "published": "2018-02-07",
+      "time": "11:33",
+      "activity": "",
+      "notes": [
+        "官帖說明國三住宿生仍在校，由師長安頓，也協助準備送往災區的便當。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0aaz6AfCfg4ZUBmdNrpZun1Gm7ynTTeXHDWaM9yQwauXhaAHKiqgzWFMAcEv4dXsUl"
+        }
+      ],
+      "title": "地震後校園平安與師生支援",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1198",
+      "year": 2018,
+      "published": "2018-02-07",
+      "time": "01:20",
+      "activity": "",
+      "notes": [
+        "官帖通報師生平安、師長進駐宿舍，冬季輔導課程將提早結束。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0onmRq13TEz352xZzYvZML2HF1zHaaC9CD1AwVbev5EPdC8Rs9VrTmb32bGMkEiFpl"
+        }
+      ],
+      "title": "花蓮地震當夜校園平安快報",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "單篇初載顯示 2 月 6 日，穩定讀值與列表均為 2 月 7 日 01:20。"
+    },
+    {
+      "id": "fb-1199",
+      "year": 2023,
+      "published": "2023-05-29",
+      "time": "22:13",
+      "activity": "",
+      "notes": [
+        "官帖記錄日本修學教育旅行第五天。正文涉及個人健康資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0xHrFkp2nzRaX8PqQRniiiPD9bTR5wgK4g4FjCKmeroWQ5a9rkuw2xYHB5kWirCdal"
+        }
+      ],
+      "title": "日本修學教育旅行第五天",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1200",
+      "year": 2023,
+      "published": "2023-05-29",
+      "time": "09:16",
+      "activity": "",
+      "notes": [
+        "官粉外層保留兩個可見標籤，內嵌分享畫面顯示無法查看。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0numN4MahgzNhBVK8oVeAXJwnkMinL8eyyUBvEoqyzvgWm71dfGMoZx9Eh1x2xuhnl"
+        }
+      ],
+      "title": "日本修學教育旅行第三、四天的官粉標籤",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1201",
+      "year": 2023,
+      "published": "2023-05-22",
+      "time": "15:51",
+      "activity": "",
+      "notes": [
+        "十五位高年級學生從蒐集資料及認識加州開始，運用假日進行兩週遊學的行前準備。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0dSSP7hdE9sLzaFPneChEx1QXnBN2AUoVgFSoKgvFWAvTP1McMA83D3z7XvHKjj3Vl"
+        }
+      ],
+      "title": "附小美國加州遊學營行前培訓",
+      "topic": "國際與雙語",
       "kind": "fb"
     }
   ]
