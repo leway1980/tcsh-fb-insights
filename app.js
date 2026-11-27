@@ -392,7 +392,10 @@ function renderCoverage() {
       }
     }
   }
-  get('coverage-note').textContent = `範圍 ${inScope} 個月，${pending} 個月待查。收錄的貼文中 ${partialCount} 則有正文、影音或內容疑點待核，${unverifiedTimeCount} 則的發文時刻待核。`;
+  const coverageSummary = pending
+    ? `範圍 ${inScope} 個月，${pending} 個月待查。`
+    : `${inScope} 個月都有初次查核紀錄。各月實際發文總數仍待對帳。`;
+  get('coverage-note').textContent = `${coverageSummary}收錄的貼文中 ${partialCount} 則有正文、影音或內容疑點待核，${unverifiedTimeCount} 則的發文時刻待核。`;
 }
 
 get('hero-posts').textContent = String(postCount);

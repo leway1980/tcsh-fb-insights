@@ -149,6 +149,21 @@ window.reportData = {
         4
       ],
       [
+        "2020-01",
+        "partial",
+        5
+      ],
+      [
+        "2020-02",
+        "partial",
+        4
+      ],
+      [
+        "2020-03",
+        "partial",
+        4
+      ],
+      [
         "2020-04",
         "partial",
         4
@@ -3650,8 +3665,8 @@ window.reportData = {
       "id": "fb-92",
       "year": 2017,
       "published": "2017-12-11",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "11:42",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "研習探討 AI、新課綱與教師協作"
@@ -3867,8 +3882,8 @@ window.reportData = {
       "id": "fb-102",
       "year": 2017,
       "published": "2017-12-05",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "04:40",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "日本教育旅行第二天，正文待展開"
@@ -3889,13 +3904,13 @@ window.reportData = {
       "id": "fb-103",
       "year": 2017,
       "published": "2017-12-05",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "04:31",
+      "timeNote": "Facebook 單篇頁面顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
-        "粉專分享日本岩手縣官員來訪與防災交流影片，正文待展開"
+        "粉專刊登大愛新聞文字，記錄兩校學生一起種植菜苗、製作祝福旗幟。該則報導日期為 2017 年 11 月 29 日。"
       ],
-      "media": "相片或分享",
+      "media": "粉專刊登外部新聞",
       "partial": true,
       "sources": [
         {
@@ -3903,7 +3918,7 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02i38QTPnhoGgX4mScoCR8jvUU21rHfZSXXWqU1SQyby5Ho4JreUYAzc3jEHSkNYavl"
         }
       ],
-      "title": "岩手縣防災交流新聞分享",
+      "title": "新加坡菩提學校與慈小交流報導",
       "topic": "國際與雙語",
       "kind": "fb"
     },
@@ -3911,8 +3926,8 @@ window.reportData = {
       "id": "fb-104",
       "year": 2017,
       "published": "2017-12-05",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "12:25",
+      "timeNote": "Facebook 影片播放頁顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "離村式影片，未逐幀檢視"
@@ -3933,8 +3948,8 @@ window.reportData = {
       "id": "fb-105",
       "year": 2017,
       "published": "2017-12-05",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "12:24",
+      "timeNote": "Facebook 影片播放頁顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "離村式影片，未逐幀檢視"
@@ -3955,8 +3970,8 @@ window.reportData = {
       "id": "fb-106",
       "year": 2017,
       "published": "2017-12-05",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "12:23",
+      "timeNote": "Facebook 影片播放頁顯示時刻，粉專列表未另核",
       "activity": "",
       "notes": [
         "離村式影片，未逐幀檢視"
@@ -3977,8 +3992,8 @@ window.reportData = {
       "id": "fb-107",
       "year": 2017,
       "published": "2017-12-05",
-      "time": "",
-      "timeNote": "發文時間尚未核對",
+      "time": "11:38",
+      "timeNote": "Facebook 單篇初載顯示前一天，載入完成後兩次核對為 12 月 5 日 11:38，粉專列表未另核",
       "activity": "",
       "notes": [
         "日本教育旅行紀錄，正文待展開"
@@ -21611,7 +21626,7 @@ window.reportData = {
       "time": "19:18",
       "activity": "",
       "notes": [
-        "已保存開頭，完整正文待回補。"
+        "已回補可見正文，記錄附小萬聖節變裝與英語活動。"
       ],
       "media": "",
       "partial": true,
@@ -21623,7 +21638,8 @@ window.reportData = {
       ],
       "title": "附小萬聖節變裝活動",
       "topic": "校慶、藝文與體育",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 19:18，單篇初載顯示 04:18，時刻差異待複核"
     },
     {
       "id": "fb-936",
@@ -22505,6 +22521,279 @@ window.reportData = {
       ],
       "title": "附小母親節感恩活動",
       "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-978",
+      "year": 2020,
+      "published": "2020-01-31",
+      "time": "16:55",
+      "activity": "",
+      "notes": [
+        "粉專分享學校疫情防護準備相關新聞。保留粉專的可見短文，分享新聞待核。"
+      ],
+      "media": "轉分享新聞",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0AoDyp9t2emQ4smbz6L7XCrQ8hKR9FYNCRsrZKTZ38WExVH6jYaKMZoSmajARuvyMl"
+        }
+      ],
+      "title": "開學前防疫準備新聞分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-979",
+      "year": 2020,
+      "published": "2020-01-30",
+      "time": "11:59",
+      "activity": "",
+      "notes": [
+        "粉專公告校方的防疫因應，具體措施載於附圖，圖中文字待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ajwVZH6BoPa2CJp4cprKooSf5Zs7iQZ21ffBHc53wfkjKivyL3PDofghZbVMAW45l"
+        }
+      ],
+      "title": "學校新型冠狀病毒疫情因應公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-980",
+      "year": 2020,
+      "published": "2020-01-15",
+      "time": "08:44",
+      "activity": "",
+      "notes": [
+        "自然科把熱與燃燒單元納入紙筆及實作評量。涉及個人隱私，僅保留編目；相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid056s4q5onLPfko8wPSdi6doMJtbTMU4gYmPKghoDUDS6TvqXfEYYiLVMnrD8C1r2Nl"
+        }
+      ],
+      "title": "附小自然科生活化實作評量",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-981",
+      "year": 2020,
+      "published": "2020-01-05",
+      "time": "12:17",
+      "activity": "",
+      "notes": [
+        "粉專記錄女排獲高中乙級聯賽花蓮區冠軍，取得北區複賽資格。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02o3dLiVPDG87HN3w5JnZUHkN1Vx8nhcno6wfWbmKCQMB6F1sCAvZTgiFWftLbGwSJl"
+        }
+      ],
+      "title": "高中女排奪花蓮區冠軍",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-982",
+      "year": 2020,
+      "published": "2020-01-01",
+      "time": "17:42",
+      "activity": "",
+      "notes": [
+        "粉專分享附幼歲末活動與新年祝福。已核對說明，影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/476057533096153/"
+        }
+      ],
+      "title": "附幼歲末活動迎接新年",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-983",
+      "year": 2020,
+      "published": "2020-02-28",
+      "time": "11:21",
+      "activity": "",
+      "notes": [
+        "受邀的大學教師帶領學生檢視備審資料、互評自傳並反思自己的寫法。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0BzuC3TQExFBngDLC9VTZ9gUwJhnCTTk6ZgUKJxZUdKS9hQ7tHJ7H9icgZumdZuhml"
+        }
+      ],
+      "title": "高三生涯輔導練習備審與自傳",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-984",
+      "year": 2020,
+      "published": "2020-02-25",
+      "time": "15:27",
+      "activity": "",
+      "notes": [
+        "粉專記錄當時入校量體溫、戴口罩、勤洗手和教室通風等安排。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid021n79GvAJVMZpCvJ58QuFf4f6HphEk7fVMq1ynC4CwNHtpybTGa7HuGNq8WGxYwkBl"
+        }
+      ],
+      "title": "第二學期開學防疫紀錄",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-985",
+      "year": 2020,
+      "published": "2020-02-20",
+      "time": "16:55",
+      "activity": "2020-03-07",
+      "notes": [
+        "公告中學部親師座談會暫緩，國三與高三場次另改至 3 月 7 日下午。附件待核。"
+      ],
+      "media": "附件",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0SmsYunojsKu6so33x4DFaUYaWwsK6a81xtXeDfRN6W3EysLgji9dnJGkMXkoDCP9l"
+        }
+      ],
+      "title": "中學部開學防疫與親師會調整",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-986",
+      "year": 2020,
+      "published": "2020-02-03",
+      "time": "16:02",
+      "activity": "",
+      "notes": [
+        "貼文公告因應教育部延後開學，具體校方措施載於圖片，圖中文字待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02t6xxvrbrs1VgzD9VGXHQQHJEm7pejnoafsgmpxuh5wN5rXgMRrmjmEJhBqsjevatl"
+        }
+      ],
+      "title": "校方延後開學因應措施",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-987",
+      "year": 2020,
+      "published": "2020-03-28",
+      "time": "16:39",
+      "activity": "",
+      "notes": [
+        "已核對作者、發文時刻及正式網址。涉及個人隱私，僅保留編目；相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02gfBnF3KgEUsDr6Bf9cHamXf3Em3qRGDb9G9g4d8iMFEG7hizL4rW1bNT5qpDynusl"
+        }
+      ],
+      "title": "附幼幼小銜接說明會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-988",
+      "year": 2020,
+      "published": "2020-03-20",
+      "time": "19:25",
+      "activity": "",
+      "notes": [
+        "幼兒在教師協助下構想劇本、拍攝及演出防疫宣導，感謝防疫人員。這則是官方粉專刊登的新聞內容，外部報導待核。"
+      ],
+      "media": "外部新聞",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid035yyKcFat7BCc37Z44zjNo9eBF9JqnjqCF387Fpn86irDSnYdbLKy8Snddk1MaU1il"
+        }
+      ],
+      "title": "粉專分享附幼製作防疫影片的新聞",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-989",
+      "year": 2020,
+      "published": "2020-03-20",
+      "time": "15:28",
+      "activity": "",
+      "notes": [
+        "已核對作者、發文時刻及正式網址。涉及個人隱私，僅保留編目；影片待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/211331553517193/"
+        }
+      ],
+      "title": "附幼防疫影片官帖",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-990",
+      "year": 2020,
+      "published": "2020-03-10",
+      "time": "10:47",
+      "activity": "2020-03-14",
+      "notes": [
+        "官粉短文邀請讀者參加 3 月 14 日在臺北誠品信義店的教育講座，外部轉分享待核。"
+      ],
+      "media": "外部轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037QeKpuZNj1ef1bwNJAUwRSuDBdp1vZfn7CPTeK17u8pb1zAsKDGbVuBuxUZYhEKRl"
+        }
+      ],
+      "title": "粉專分享教育講座邀請",
+      "topic": "課程與專題",
       "kind": "fb"
     }
   ]
