@@ -91,7 +91,7 @@ window.reportData = {
       [
         "2019-01",
         "partial",
-        5
+        10
       ],
       [
         "2019-02",
@@ -106,7 +106,7 @@ window.reportData = {
       [
         "2019-04",
         "partial",
-        5
+        9
       ],
       [
         "2019-05",
@@ -156,7 +156,7 @@ window.reportData = {
       [
         "2020-02",
         "partial",
-        5
+        7
       ],
       [
         "2020-03",
@@ -201,7 +201,7 @@ window.reportData = {
       [
         "2020-11",
         "partial",
-        8
+        14
       ],
       [
         "2020-12",
@@ -1653,7 +1653,22 @@ window.reportData = {
         "fb-1243",
         "fb-1244",
         "fb-1245",
-        "fb-1246"
+        "fb-1246",
+        "fb-1247",
+        "fb-1248",
+        "fb-1249",
+        "fb-1250",
+        "fb-1251",
+        "fb-1252",
+        "fb-1253",
+        "fb-1254",
+        "fb-1256",
+        "fb-1257",
+        "fb-1258",
+        "fb-1259",
+        "fb-1260",
+        "fb-1261",
+        "fb-1262"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1673,7 +1688,8 @@ window.reportData = {
         "fb-1029",
         "fb-1104",
         "fb-1149",
-        "fb-1233"
+        "fb-1233",
+        "fb-1263"
       ],
       "indexOnly": [
         "fb-81",
@@ -1759,7 +1775,8 @@ window.reportData = {
         "fb-1189",
         "fb-1199",
         "fb-1227",
-        "fb-1236"
+        "fb-1236",
+        "fb-1255"
       ]
     }
   },
@@ -29605,6 +29622,364 @@ window.reportData = {
       "title": "附小六年級木瓜溪自然教學",
       "topic": "在地與校外學習",
       "kind": "fb"
+    },
+    {
+      "id": "fb-1247",
+      "year": 2019,
+      "published": "2019-01-28",
+      "time": "18:35",
+      "activity": "",
+      "notes": [
+        "國小部與幼兒園合作，以自然探索與健康律動課程協助大班孩子熟悉小學環境。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0sXL6Vf3SMiFPgN7JC2yJjEGvtSV6hTq4YbsbcKiwuwKo1BzC9eddzmaN5v8hDExYl"
+        }
+      ],
+      "title": "寒假慈幼潛能探索營開營",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1248",
+      "year": 2019,
+      "published": "2019-01-26",
+      "time": "09:10",
+      "activity": "",
+      "notes": [
+        "師長、家長和同學陪伴高三學生準備學測。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0FPhPrfS7sk73GUJRGmxYFm6bNmZMoGxqDPvEDoUc8HVjrV44dmNtWvJMuMD7sch4l"
+        }
+      ],
+      "title": "108 年學測師生與家長應援",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1249",
+      "year": 2019,
+      "published": "2019-01-16",
+      "time": "17:09",
+      "activity": "",
+      "notes": [
+        "學期末表揚協助校園整潔、收餐與廚餘的小志工。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02V39BaB6gLZyFyjEuS4EYets8qy6qjHt8L4L2r5iVLKnkpkvCwrw4wvKHTQ2qWRaSl"
+        }
+      ],
+      "title": "國小部小志工感恩茶會",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1250",
+      "year": 2019,
+      "published": "2019-01-25",
+      "time": "19:29",
+      "activity": "",
+      "notes": [
+        "幼兒園孩子參與校園闖關，包括葉脈拓印、吹乒乓球、操作樂器和英文活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0KWDHLXR1GsNL4rMdf5XQJR6K4guRHkTkZVHc6tFxq8tshcydJi7jJimmSQxoubEel"
+        }
+      ],
+      "title": "慈小校園尋寶趣第二天",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1251",
+      "year": 2019,
+      "published": "2019-04-19",
+      "time": "22:27",
+      "activity": "",
+      "notes": [
+        "以音樂、舞蹈、國術與手語呈現慈濟故事，花蓮場邀請觀眾一同為東非受災地區祈福。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02DCMg38Wjxk2kPhqbgEW2CEGhCVpJYSN8tE82jzF9gCVam7cNUQPn2N4rNUhRcbUrl"
+        }
+      ],
+      "title": "創校二十週年藝術巡演預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1252",
+      "year": 2019,
+      "published": "2019-04-19",
+      "time": "15:21",
+      "activity": "",
+      "notes": [
+        "多校國中生走訪豐田，透過闖關和電子書挑戰認識日治時期移民村。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid038CCKWyXPMUrQ4YQdsutNjAnBYDphv7yGpCLTrP1ZK8qJbAAmjMyo2fbw6dJB135l"
+        }
+      ],
+      "title": "社會領域均質化課程走讀豐田",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1253",
+      "year": 2020,
+      "published": "2020-02-04",
+      "time": "18:26",
+      "activity": "",
+      "notes": [
+        "國小低年級教師與幼兒園合作，安排英文、科學、音樂與體能活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0n2Kxku6rRv9KXQNkGqs39pHwWgyx6YpiRR41uTrLWAb4TAh7Pnfb5KMKsBoN3PEUl"
+        }
+      ],
+      "title": "慈幼潛能探索營的幼小銜接課程",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1254",
+      "year": 2020,
+      "published": "2020-02-24",
+      "time": "21:43",
+      "activity": "",
+      "notes": [
+        "官粉外層文字以「#開學準備好了」預告開學。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0idXjWTRsfjdp7i7hHEMqBkAbKoqc2KkQvuBJ7wqn9mcUUZ8nXfwKNjZX8wys1kPPl"
+        }
+      ],
+      "title": "開學準備分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1255",
+      "year": 2020,
+      "published": "2020-11-22",
+      "time": "20:16",
+      "activity": "",
+      "notes": [
+        "粉專報告田徑隊參加花蓮縣運動會的競賽成果。正文涉及可識別學生成績，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02WSW9mANmyQQB2JsyWAbVfvmfcZG4AgjYH5UD2eZvKFaC9EZTFSufTsZnTyvqEtvwl"
+        }
+      ],
+      "title": "田徑隊參加花蓮縣運動會",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1256",
+      "year": 2019,
+      "published": "2019-04-19",
+      "time": "14:08",
+      "activity": "",
+      "notes": [
+        "校方評估地震、降雨與路線安全後將精舍路跑擇期，另公布當日上課安排。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0hb2csQwqC7YASHKFPLBMetXi4nbV8fMtzLipccmjAgDnkMmVVhFGm7xzRsHpWhTcl"
+        }
+      ],
+      "title": "第十九屆精舍路跑擇期公告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1257",
+      "year": 2019,
+      "published": "2019-04-18",
+      "time": "13:20",
+      "activity": "",
+      "notes": [
+        "幼兒園、小學部及中學部師生平安，疏散至運動場並進行防災教育。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0eECRwrVtyq3DG4n3iCU5AYBt8CBH1Dw9x7KQ7FGCZYeL798TUNcKpGnhdwK9oTvFl"
+        }
+      ],
+      "title": "花蓮地震後校園平安公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1258",
+      "year": 2019,
+      "published": "2019-01-25",
+      "time": "08:45",
+      "activity": "",
+      "notes": [
+        "幼兒園小朋友參與律動與校園闖關，包括安全教育、九宮格和圖說靜思語。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/602785080168718/"
+        }
+      ],
+      "title": "慈小校園尋寶趣第一天",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1259",
+      "year": 2020,
+      "published": "2020-11-09",
+      "time": "03:43",
+      "activity": "",
+      "notes": [
+        "走訪卑南水圳公園與文化遺址公園，以導覽、QR Code 解題和向遊客講解檢核學習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0xJPvfpofdbXnmhXQb1Z6aRrWJRrDVPtwbpzxZGYDjJPXNF71pg8db7E4TY3n4hA7l"
+        }
+      ],
+      "title": "高一素養走讀與卑南實地檢核",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1260",
+      "year": 2020,
+      "published": "2020-11-07",
+      "time": "23:43",
+      "activity": "",
+      "notes": [
+        "走訪蕃薯寮、石梯坪與長虹橋，在小野柳進行任務檢核。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0TQEqPH8h1quNFteDQTNjs4tybwt5N7xdKmyrDpCkB1DbpNzpCBxzbvNguMx5r2w5l"
+        }
+      ],
+      "title": "高一社會領域校外教學第一天",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1261",
+      "year": 2020,
+      "published": "2020-11-07",
+      "time": "16:17",
+      "activity": "",
+      "notes": [
+        "校慶前，國小部師生參加志工早會，並在靜思精舍協助做家事。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02hzQ5KZZSRwxHi63QqMKqjYKHPKi3tSzvQQXhcfNYkjtmoBozPFseBpkaYabMt9zil"
+        }
+      ],
+      "title": "國小部到靜思精舍服務",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1262",
+      "year": 2020,
+      "published": "2020-11-05",
+      "time": "11:20",
+      "activity": "",
+      "notes": [
+        "官粉公告校慶運動大會開幕，回顧慈濟環保與慈中人文教育。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Eh51z3mo6AFLDQTmt9NKRRKJyD5SKnedeuEuD4QGQqRDwYcbC3YhYy6K48pyNa3nl"
+        }
+      ],
+      "title": "慈中二十一週年校慶運動會邀請",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1263",
+      "year": 2020,
+      "published": "2020-11-14",
+      "time": "11:51",
+      "activity": "",
+      "notes": [
+        "單篇官粉地點動態未見獨立正文。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0515MYLoj8ZCPL87L4bp9LUMUSoqK1x1XtogJGYbVUMxu7oZdsWZ5inkULi1iiKx3l"
+        }
+      ],
+      "title": "官粉地點動態",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "列表與穩定單篇均為 11 月 14 日 11:51，單篇初次載入曾顯示 11 月 13 日。"
     }
   ]
 };
