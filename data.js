@@ -52,6 +52,11 @@ window.reportData = {
         "2017-11",
         "partial",
         68
+      ],
+      [
+        "2025-10",
+        "partial",
+        22
       ]
     ],
     "asOf": "2026-11-27"
@@ -5244,6 +5249,468 @@ window.reportData = {
       ],
       "title": "粉專影片，畫面未見正文",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-188",
+      "year": 2025,
+      "published": "2025-10-31",
+      "time": "22:48",
+      "activity": "",
+      "notes": [
+        "歡迎青森南高校師生。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02uczKUCvD8Zm5m5m9jyZUSQLwP7EttnnGrsAVQnVzGkqkJ4xSQRcv4MuaqL8f4mXSl"
+        }
+      ],
+      "title": "歡迎青森南高校師生",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-189",
+      "year": 2025,
+      "published": "2025-10-31",
+      "time": "14:02",
+      "activity": "",
+      "notes": [
+        "雙語班英語劇公演《心的力量》。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wrd2tm3khL4xzXWo61Gn62xQrGQqoQ9JqWVQ2XYdfJrrTo5QW86XH5BDZCSHQzs4l"
+        }
+      ],
+      "title": "雙語班英語劇公演《心的力量》",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-190",
+      "year": 2025,
+      "published": "2025-10-30",
+      "time": "08:00",
+      "activity": "",
+      "notes": [
+        "學校參加科普列車花蓮站，在花蓮車站設攤。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037HeuthchU2tHwfhJjUEd6ixMrfyrVqMbj9DwqBB2NjmULsH5FUbQ6WbusgTkDEwDl"
+        }
+      ],
+      "title": "學校參加科普列車花蓮站，在花蓮車站設攤",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-191",
+      "year": 2025,
+      "published": "2025-10-29",
+      "time": "11:49",
+      "activity": "",
+      "notes": [
+        "自我探索與品格實踐。僅見標籤，正文待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0MZoC5DD7zqEonY8sNTo83rzTc18mrJkafXUXRv9NucAfMcbN6xGopDfRajb1qAZzl"
+        }
+      ],
+      "title": "自我探索與品格實踐",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-192",
+      "year": 2025,
+      "published": "2025-10-28",
+      "time": "17:45",
+      "activity": "",
+      "notes": [
+        "慈中25，校友回娘家。正文截斷、影片待核；與下筆時間及 ID 不同但主題相同，待核別名"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1499822594550629/"
+        }
+      ],
+      "title": "慈中25，校友回娘家",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-193",
+      "year": 2025,
+      "published": "2025-10-28",
+      "time": "17:43",
+      "activity": "",
+      "notes": [
+        "慈中25，校友回娘家。正文截斷、影片待核；待核與上筆關係"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/2284146995433681/"
+        }
+      ],
+      "title": "慈中25，校友回娘家",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-194",
+      "year": 2025,
+      "published": "2025-10-28",
+      "time": "08:00",
+      "activity": "2025-10-25",
+      "notes": [
+        "10/25 兩組學子參加花蓮青年夢想家並獲行動獎勵金。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034mkTuAvu1JXzcbmWvjhk93hHVLgxffcmvFPS2HGLzbhcrVXsDuTCQ9cYN8j36fEQl"
+        }
+      ],
+      "title": "10/25 兩組學子參加花蓮青年夢想家並獲行動獎勵金",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-195",
+      "year": 2025,
+      "published": "2025-10-27",
+      "time": "12:19",
+      "activity": "",
+      "notes": [
+        "國三學生獲獎祝賀。具體獎項在截斷處，待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022jUaMfp3B3FzhN292HcjKyRriWWEAc5RKodHvjtiR4Ab8XivfRDg6iEqns3L3peql"
+        }
+      ],
+      "title": "國三學生獲獎祝賀",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-196",
+      "year": 2025,
+      "published": "2025-10-21",
+      "time": "18:54",
+      "activity": "",
+      "notes": [
+        "與美國緬因中央中學雙聯學位第五屆開學。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02fSxu6j2bHroLmM6G1NtaxMx6kUDp7uPd6DiL2RPVL7atu9L65FNEapqRirJoQRj2l"
+        }
+      ],
+      "title": "與美國緬因中央中學雙聯學位第五屆開學",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-197",
+      "year": 2025,
+      "published": "2025-10-19",
+      "time": "09:06",
+      "activity": "",
+      "notes": [
+        "114 年更生杯數學競賽開始。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/2869393123265196/"
+        }
+      ],
+      "title": "114 年更生杯數學競賽開始",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-198",
+      "year": 2025,
+      "published": "2025-10-17",
+      "time": "18:40",
+      "activity": "",
+      "notes": [
+        "高中職圖書館輔導團北四區觀摩研習會議。正文截斷；重疊"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02sMHHoni1WyJ6F1rCuuQQeh7Q3Mq4mWHkSWByVbWAd3gibj7U2ZUTjUPswVqxD4ivl"
+        }
+      ],
+      "title": "高中職圖書館輔導團北四區觀摩研習會議",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-199",
+      "year": 2025,
+      "published": "2025-10-16",
+      "time": "17:50",
+      "activity": "",
+      "notes": [
+        "慈中二十五歲。正文截斷；重疊"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0gN9hzeUzqkKZsddEyAkEwg2rcqRkwLaWUgdThxiEzynMKRswJDYpuPvEw1LxqdBrl"
+        }
+      ],
+      "title": "慈中二十五歲",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-200",
+      "year": 2025,
+      "published": "2025-10-16",
+      "time": "11:53",
+      "activity": "",
+      "notes": [
+        "參訪聯華電子，認識半導體產業。正文截斷；重疊"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033yE5PbmogYNKaxh7isNWVkyjrUdu9cZcSu3JCgx4eorgyqJSG2nVfwr2a96hm5VAl"
+        }
+      ],
+      "title": "參訪聯華電子，認識半導體產業",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-201",
+      "year": 2025,
+      "published": "2025-10-15",
+      "time": "19:56",
+      "activity": "2025-10-15",
+      "notes": [
+        "10/15 宿舍防災演練。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02StRYQjC492rx9P5HBNHGusQzQNvpJkWeFo3cqxZDTUmPupCunkSY4hYpxMc5rQ7Bl"
+        }
+      ],
+      "title": "10/15 宿舍防災演練",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-202",
+      "year": 2025,
+      "published": "2025-10-15",
+      "time": "17:27",
+      "activity": "",
+      "notes": [
+        "花蓮慈大附中與台南慈中教學參訪交流。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0rNpaNEQgysK3wFFXtTWx7WaGCpMon7NPvbokTuAe8xUtMH31D2gB75ePx5TxkGHBl"
+        }
+      ],
+      "title": "花蓮慈大附中與台南慈中教學參訪交流",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-203",
+      "year": 2025,
+      "published": "2025-10-13",
+      "time": "10:09",
+      "activity": "",
+      "notes": [
+        "更生盃數學競賽與校園參訪報名。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02gAMXkJS5JWRGa56W29QomXfyKZpVX8sZpKgpaV6RoY6k5ZuNHmestTuWrkiA8cmDl"
+        }
+      ],
+      "title": "更生盃數學競賽與校園參訪報名",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-204",
+      "year": 2025,
+      "published": "2025-10-01",
+      "time": "21:32",
+      "activity": "2025-09-29",
+      "notes": [
+        "9/29 光復救災紀錄。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/791938313449106/"
+        }
+      ],
+      "title": "9/29 光復救災紀錄",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-205",
+      "year": 2025,
+      "published": "2025-10-01",
+      "time": "21:31",
+      "activity": "2025-09-29",
+      "notes": [
+        "9/29 光復救災紀錄。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1662577218031925/"
+        }
+      ],
+      "title": "9/29 光復救災紀錄",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-206",
+      "year": 2025,
+      "published": "2025-10-01",
+      "time": "21:30",
+      "activity": "2025-09-29",
+      "notes": [
+        "9/29 光復救災紀錄。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/782283174686567/"
+        }
+      ],
+      "title": "9/29 光復救災紀錄",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-207",
+      "year": 2025,
+      "published": "2025-10-01",
+      "time": "21:29",
+      "activity": "2025-09-29",
+      "notes": [
+        "9/29 光復救災紀錄。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1289585722486786/"
+        }
+      ],
+      "title": "9/29 光復救災紀錄",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-208",
+      "year": 2025,
+      "published": "2025-10-01",
+      "time": "21:28",
+      "activity": "2025-09-29",
+      "notes": [
+        "9/29 光復救災紀錄。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1931717120737247/"
+        }
+      ],
+      "title": "9/29 光復救災紀錄",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-209",
+      "year": 2025,
+      "published": "2025-10-01",
+      "time": "21:25",
+      "activity": "2025-09-29",
+      "notes": [
+        "9/29 光復救災紀錄。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/693112420468033/"
+        }
+      ],
+      "title": "9/29 光復救災紀錄",
+      "topic": "在地與校外學習",
       "kind": "fb"
     }
   ]
