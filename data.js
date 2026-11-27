@@ -97,6 +97,11 @@ window.reportData = {
         "2025-02",
         "partial",
         10
+      ],
+      [
+        "2025-01",
+        "partial",
+        12
       ]
     ],
     "asOf": "2026-11-27"
@@ -9677,6 +9682,258 @@ window.reportData = {
         }
       ],
       "title": "預告 02/15 招生說明會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-397",
+      "year": 2025,
+      "published": "2025-01-28",
+      "time": "00:01",
+      "activity": "",
+      "notes": [
+        "除夕及蛇年新春祝福，並介紹招生。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0228dyF23w2JEPDeSrQvw8S8fbdDxBQAV9n3sZ7vTQXtv24sSh1HBY5reFpP7BqmXZl"
+        }
+      ],
+      "title": "除夕及蛇年新春祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-398",
+      "year": 2025,
+      "published": "2025-01-19",
+      "time": "15:46",
+      "activity": "",
+      "notes": [
+        "學測期間考生在花蓮女中應考，師長與家長會提供後勤。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02LWkKchQwcCf4oCsHrYaxk9FUswaUr9TqhgHBGZAKkYfcFQCkPt561ocU5tuWdeoxl"
+        }
+      ],
+      "title": "學測期間考生在花蓮女中應考",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-399",
+      "year": 2025,
+      "published": "2025-01-17",
+      "time": "20:30",
+      "activity": "",
+      "notes": [
+        "高三完成學測備考，學校安排試場預查及師長家長祝福物資。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02RZDGmSbPnDAup79t7vFgZKv96TtkBx54vcrtjBsx5E9YArLChrdE4vNahaPbtEDXl"
+        }
+      ],
+      "title": "高三完成學測備考",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-400",
+      "year": 2025,
+      "published": "2025-01-16",
+      "time": "22:14",
+      "activity": "",
+      "notes": [
+        "學測前家長會及師長為高三生準備點心加油。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XDHEBUiY31sgxQE7VkzEfzgEUKnNGEJBT84D6K7sBwwheD8xbM74w7RNScRSJpYSl"
+        }
+      ],
+      "title": "學測前家長會及師長為高三生準備點心加油。正文已展開",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-401",
+      "year": 2025,
+      "published": "2025-01-15",
+      "time": "23:14",
+      "activity": "",
+      "notes": [
+        "難忘 0403 與後山校園，分享素材待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0272FspajjqgmZfDpwXd1qK375i5i7dFxzH4D9NsYeXo9z16cmsowtGDzn2F8EhkZjl"
+        }
+      ],
+      "title": "難忘 0403 與後山校園",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-402",
+      "year": 2025,
+      "published": "2025-01-15",
+      "time": "16:21",
+      "activity": "",
+      "notes": [
+        "食農選修學生採收蔬菜，分享給幼兒園孩子。圖文正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02skm7g8LTH33YGTvCHv91ix34zjVpVUPgNTdSgNo7DDU7xqbhfJzaRkepoUCMNMBHl"
+        }
+      ],
+      "title": "食農選修學生採收蔬菜",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-403",
+      "year": 2025,
+      "published": "2025-01-15",
+      "time": "16:12",
+      "activity": "",
+      "notes": [
+        "食農選修學生採收蔬菜分享幼兒園。影片帖卡正文已展開，影片未核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/8816902018414997/"
+        }
+      ],
+      "title": "食農選修學生採收蔬菜分享幼兒園。影片帖卡正文已展開",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-404",
+      "year": 2025,
+      "published": "2025-01-11",
+      "time": "21:43",
+      "activity": "",
+      "notes": [
+        "寒流夜校方準備點心，為高三學測考生加油。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0VqS9BF9SGzLVLs1NaE2BcwUagg6GVJNB5z4DTi1oKHRDqugmLkFtR3VooyYNy1Kl"
+        }
+      ],
+      "title": "寒流夜校方準備點心",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-405",
+      "year": 2025,
+      "published": "2025-01-07",
+      "time": "22:40",
+      "activity": "",
+      "notes": [
+        "冷天校園關懷，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02oFe6pnQRPEJzEmfmGe3ts6uYkpqciVcWLBVU9JTF95WdkrBdrP7FjoJQ6u1GJU7gl"
+        }
+      ],
+      "title": "冷天校園關懷",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-406",
+      "year": 2025,
+      "published": "2025-01-06",
+      "time": "17:06",
+      "activity": "",
+      "notes": [
+        "校長推薦好書，鼓勵學生探索自我。正文已展開，影片未核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/2276025922768431/"
+        }
+      ],
+      "title": "校長推薦好書",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-407",
+      "year": 2025,
+      "published": "2025-01-03",
+      "time": "14:43",
+      "activity": "",
+      "notes": [
+        "全國高中小論文寫作比賽獲獎，正文已展開，獎項詳情圖片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02SCfsdipzNf6XgRbFJxVak2NK1obox7Xrz9gn7ofqvao98jEp1R24UDs2zYNM5UZVl"
+        }
+      ],
+      "title": "全國高中小論文寫作比賽獲獎",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-408",
+      "year": 2025,
+      "published": "2025-01-01",
+      "time": "00:00",
+      "activity": "",
+      "notes": [
+        "迎接 2025 年與慈中 25 週年，新年祝福。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid08MaYKHzLZAoZFFxpjd3HrsMvbZkDxp2Neu53GqfNTz2bft3UwxCNqrAvxg9fo2hRl"
+        }
+      ],
+      "title": "迎接 2025 年與慈中 25 週年",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
