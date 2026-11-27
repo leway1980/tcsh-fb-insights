@@ -131,7 +131,7 @@ window.reportData = {
       [
         "2019-09",
         "partial",
-        7
+        11
       ],
       [
         "2019-10",
@@ -296,7 +296,7 @@ window.reportData = {
       [
         "2022-06",
         "partial",
-        8
+        9
       ],
       [
         "2022-07",
@@ -1709,7 +1709,12 @@ window.reportData = {
         "fb-1307",
         "fb-1308",
         "fb-1309",
-        "fb-1310"
+        "fb-1310",
+        "fb-1311",
+        "fb-1312",
+        "fb-1313",
+        "fb-1314",
+        "fb-1315"
       ],
       "noVisibleText": [
         "fb-27",
@@ -19303,7 +19308,8 @@ window.reportData = {
       ],
       "title": "雙語實驗班論文專題研究發表",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 18:44，原址與另一入口的單篇都顯示 03:44。兩入口的日期錨點與正文相同。"
     },
     {
       "id": "fb-759",
@@ -31036,6 +31042,114 @@ window.reportData = {
       ],
       "title": "附小動靜態社團才藝成果發表",
       "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1311",
+      "year": 2019,
+      "published": "2019-09-28",
+      "time": "13:28",
+      "activity": "",
+      "notes": [
+        "官粉外層短文指向慈濟教育志業三十週年的大愛電視直播。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02DFk2uQukjvQXavrHPdhe9iB4QXC3mqv9U4fYmEEmqe4mc4GAj5GZH6xWEqB8g92xl"
+        }
+      ],
+      "title": "慈濟教育志業三十週年直播分享",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1312",
+      "year": 2019,
+      "published": "2019-09-27",
+      "time": "14:09",
+      "activity": "",
+      "notes": [
+        "官帖記錄 17 位學生參與環保知識競賽，應用課堂與生活知識。",
+        "封存文字省略具名學生個別成績。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0byaigECLp2xCs5zC2GWMTtTNEiYNVayzv8mz87WcZ2vLgh2RzLMzuHYPkHAmig3Cl"
+        }
+      ],
+      "title": "環保知識競賽（可見摘錄）",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1313",
+      "year": 2019,
+      "published": "2019-09-11",
+      "time": "20:59",
+      "activity": "",
+      "notes": [
+        "國小教師分享教室布置理念與實作，討論學習環境如何影響學習興趣和班級經營。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02C7frJoJ75SXG4A4Ch4s2C6uT4Wvrmz9V4aZbQw1TnA9H1dFreUowLnQUV91RKYw9l"
+        }
+      ],
+      "title": "國小部分享班級教室布置",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1314",
+      "year": 2022,
+      "published": "2022-06-21",
+      "time": "08:46",
+      "activity": "",
+      "notes": [
+        "課程用英語討論社會議題，並與美國學校師生線上交流。",
+        "封存首段，後段具名學生與分享人已省略。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02LypQNsjCcEDmghY5BsbdTnCcq3CbUETDZfZ6ikHACB7Z46eQk52Yign8jDj9mxbl"
+        }
+      ],
+      "title": "多元選修走讀世界與英語線上交流（可見摘錄）",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "單篇初載曾顯示 6 月 20 日，穩定後日期錨點與列表均為 6 月 21 日 08:46。"
+    },
+    {
+      "id": "fb-1315",
+      "year": 2019,
+      "published": "2019-09-11",
+      "time": "09:21",
+      "activity": "",
+      "notes": [
+        "官帖向師生致中秋祝福，告知當年孝親日返家與返校車次。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0arokVxn97etGT4SfEs1bVmxNUvDPdibtdhFsTz76qat6rXc7vhpW5Bg2Nd3vwRMl"
+        }
+      ],
+      "title": "中秋孝親日返家與返校通知",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
