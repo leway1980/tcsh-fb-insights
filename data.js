@@ -71,7 +71,7 @@ window.reportData = {
       [
         "2025-07",
         "partial",
-        16
+        47
       ]
     ],
     "asOf": "2026-11-27"
@@ -7637,6 +7637,657 @@ window.reportData = {
       ],
       "title": "新生報到率及優秀學生",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-301",
+      "year": 2025,
+      "published": "2025-07-10",
+      "time": "16:31",
+      "activity": "",
+      "notes": [
+        "美西團核桃市府議會，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02fKY9di4pKgAq7xCKfEiG6cgA8AJCeDYCWG7GHSVouESeef5wxDxTcwuo5ekfhmjXl"
+        }
+      ],
+      "title": "美西團核桃市府議會",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-302",
+      "year": 2025,
+      "published": "2025-07-09",
+      "time": "20:27",
+      "activity": "",
+      "notes": [
+        "高一新生英文學習，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JTASuzstUW1pn6p7ikcEqRhtcV5vpGh5Dupk6YfKy84TgnkWNHbL8yiogZiMoForl"
+        }
+      ],
+      "title": "高一新生英文學習",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-303",
+      "year": 2025,
+      "published": "2025-07-09",
+      "time": "14:11",
+      "activity": "",
+      "notes": [
+        "新馬國際修學學習圓滿，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/773188531699568/"
+        }
+      ],
+      "title": "新馬國際修學學習圓滿",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-304",
+      "year": 2025,
+      "published": "2025-07-09",
+      "time": "13:15",
+      "activity": "",
+      "notes": [
+        "新馬修學志工服務，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1096225169124236/"
+        }
+      ],
+      "title": "新馬修學志工服務",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-305",
+      "year": 2025,
+      "published": "2025-07-09",
+      "time": "11:22",
+      "activity": "",
+      "notes": [
+        "新馬修學第五天，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid081V3t17oje3fPj3Vfj1DRj4mhfVFjTU9bGUpRPb7zGxKJgNBzfz3qBJVo3eY9cFel"
+        }
+      ],
+      "title": "新馬修學第五天",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-306",
+      "year": 2025,
+      "published": "2025-07-09",
+      "time": "09:51",
+      "activity": "",
+      "notes": [
+        "新馬修學第六天跨世代陪伴，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0uW7JPRdUEg6WzAknpvHPMRcPaZVGAVwc44QRXGhpKPADCWHepvyRzeFiGde9Krobl"
+        }
+      ],
+      "title": "新馬修學第六天跨世代陪伴",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-307",
+      "year": 2025,
+      "published": "2025-07-09",
+      "time": "08:46",
+      "activity": "",
+      "notes": [
+        "新馬修學志工服務，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/2094395654382955/"
+        }
+      ],
+      "title": "新馬修學志工服務",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-308",
+      "year": 2025,
+      "published": "2025-07-08",
+      "time": "12:57",
+      "activity": "",
+      "notes": [
+        "新馬修學第四天，新加坡多元文化街區，正文部分可見"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02G9Nz5GnhxBGzJMc1iKq6qrfWewma3C26crGwnwoj5xFcetU3SmarRg9JRngpJ5gkl"
+        }
+      ],
+      "title": "新馬修學第四天",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-309",
+      "year": 2025,
+      "published": "2025-07-08",
+      "time": "12:53",
+      "activity": "",
+      "notes": [
+        "新馬修學城市探索與團隊領導，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1283551636447789/"
+        }
+      ],
+      "title": "新馬修學城市探索與團隊領導",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-310",
+      "year": 2025,
+      "published": "2025-07-08",
+      "time": "12:48",
+      "activity": "",
+      "notes": [
+        "新馬修學抵吉隆坡，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/24038023449147433/"
+        }
+      ],
+      "title": "新馬修學抵吉隆坡",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-311",
+      "year": 2025,
+      "published": "2025-07-08",
+      "time": "11:00",
+      "activity": "",
+      "notes": [
+        "新馬修學第三天拜訪，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0gJmM8N5z4MXCyRG9L3nYtPGSsoXFPxNBa92agqHhtCrhhQLkPQ69ivQEaDzqYMbWl"
+        }
+      ],
+      "title": "新馬修學第三天拜訪",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-312",
+      "year": 2025,
+      "published": "2025-07-08",
+      "time": "01:13",
+      "activity": "",
+      "notes": [
+        "新馬修學城市探索，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/24093972940293846/"
+        }
+      ],
+      "title": "新馬修學城市探索",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-313",
+      "year": 2025,
+      "published": "2025-07-08",
+      "time": "01:08",
+      "activity": "",
+      "notes": [
+        "新馬修學與長輩溝通，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/736196692249972/"
+        }
+      ],
+      "title": "新馬修學與長輩溝通",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-314",
+      "year": 2025,
+      "published": "2025-07-08",
+      "time": "00:55",
+      "activity": "",
+      "notes": [
+        "新馬修學走進印度神廟，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/523017614166007/"
+        }
+      ],
+      "title": "新馬修學走進印度神廟",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-315",
+      "year": 2025,
+      "published": "2025-07-08",
+      "time": "00:52",
+      "activity": "",
+      "notes": [
+        "新馬修學印度供奉神明的花，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/737855841960004/"
+        }
+      ],
+      "title": "新馬修學印度供奉神明的花",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-316",
+      "year": 2025,
+      "published": "2025-07-07",
+      "time": "15:09",
+      "activity": "",
+      "notes": [
+        "新馬修學由麻六甲前往雪隆，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1461848945252404/"
+        }
+      ],
+      "title": "新馬修學由麻六甲前往雪隆",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-317",
+      "year": 2025,
+      "published": "2025-07-06",
+      "time": "23:16",
+      "activity": "",
+      "notes": [
+        "泰北國際志工團，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02NCpRNhAZHUXVmkM6ExqX3RLEEptGKppwhasfsKFZ6mHEGNnC2FT99DDGNqMEHnUbl"
+        }
+      ],
+      "title": "泰北國際志工團",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-318",
+      "year": 2025,
+      "published": "2025-07-06",
+      "time": "08:12",
+      "activity": "",
+      "notes": [
+        "新馬修學由新加坡前往馬來西亞，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/728598973214745/"
+        }
+      ],
+      "title": "新馬修學由新加坡前往馬來西亞",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-319",
+      "year": 2025,
+      "published": "2025-07-06",
+      "time": "01:25",
+      "activity": "",
+      "notes": [
+        "新加坡歷史課萊佛士，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1535985047786229/"
+        }
+      ],
+      "title": "新加坡歷史課萊佛士",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-320",
+      "year": 2025,
+      "published": "2025-07-06",
+      "time": "01:16",
+      "activity": "",
+      "notes": [
+        "新加坡歷史課紅頭巾，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1434936217541606/"
+        }
+      ],
+      "title": "新加坡歷史課紅頭巾",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-321",
+      "year": 2025,
+      "published": "2025-07-06",
+      "time": "01:09",
+      "activity": "",
+      "notes": [
+        "新加坡歷史課克拉碼頭，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1226870212085849/"
+        }
+      ],
+      "title": "新加坡歷史課克拉碼頭",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-322",
+      "year": 2025,
+      "published": "2025-07-06",
+      "time": "00:48",
+      "activity": "",
+      "notes": [
+        "泰北國際志工團，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Sv4cczQqVjDgUn7MejQnM1TXrtfmsLPpUuAR4CgpxFnahAEvvYXHU36RQCTye9Ydl"
+        }
+      ],
+      "title": "泰北國際志工團",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-323",
+      "year": 2025,
+      "published": "2025-07-05",
+      "time": "15:51",
+      "activity": "",
+      "notes": [
+        "美西團參訪 Stanford 和 UC Berkeley，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xamyBmUbccRYbRSSasXEmv8Xjm1X1Qt1aajVZhvAY8FUvPXYdydueRncNxsuyXBbl"
+        }
+      ],
+      "title": "美西團參訪 Stanford 和 UC Berkeley",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-324",
+      "year": 2025,
+      "published": "2025-07-05",
+      "time": "11:25",
+      "activity": "",
+      "notes": [
+        "新馬修學第二天校際交流共學，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0C1LW92nEpsFdtuCcD547zvLVXpgz7hqjT7Z65zfUmyfbEAJzzAbZgKamCQ8j36Usl"
+        }
+      ],
+      "title": "新馬修學第二天校際交流共學",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-325",
+      "year": 2025,
+      "published": "2025-07-05",
+      "time": "01:57",
+      "activity": "",
+      "notes": [
+        "新馬修學小學校際交流，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/23994029416952937/"
+        }
+      ],
+      "title": "新馬修學小學校際交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-326",
+      "year": 2025,
+      "published": "2025-07-04",
+      "time": "15:36",
+      "activity": "",
+      "notes": [
+        "美西團抵達舊金山與北加，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02iuaoK2UahrwPWQWysFFkNbRxSQXkjntzxQfB1Gs3GjN2nvtHgUFXtdKsf7jwwBxHl"
+        }
+      ],
+      "title": "美西團抵達舊金山與北加",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-327",
+      "year": 2025,
+      "published": "2025-07-04",
+      "time": "00:49",
+      "activity": "",
+      "notes": [
+        "泰北國際志工團，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02bvjwpW2wQGLLNGeAHndYhnr9z8nFHdaHDWbGeqrw6NaKPa9TmzmijTAmpXNWCM6ol"
+        }
+      ],
+      "title": "泰北國際志工團",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-328",
+      "year": 2025,
+      "published": "2025-07-03",
+      "time": "00:37",
+      "activity": "",
+      "notes": [
+        "泰北國際志工團，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02smk87x8RdXMg28tFXitbWq1xG5NbrGRDyQaN5o6kCunqGSaXmwWvx7jchEh4ZVmTl"
+        }
+      ],
+      "title": "泰北國際志工團",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-329",
+      "year": 2025,
+      "published": "2025-07-02",
+      "time": "23:12",
+      "activity": "",
+      "notes": [
+        "新馬修學尊重合作感恩父母，Reel 待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/827235743398300/"
+        }
+      ],
+      "title": "新馬修學尊重合作感恩父母",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-330",
+      "year": 2025,
+      "published": "2025-07-02",
+      "time": "14:30",
+      "activity": "",
+      "notes": [
+        "新馬國際修學第一課、移動力，正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Zp6jqN1J7eAK8tXx8NiKAwkbRkDdCzjxUVCYhD8yoLw19eh1HJDLbMHjw86vvSanl"
+        }
+      ],
+      "title": "新馬國際修學第一課、移動力",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-331",
+      "year": 2025,
+      "published": "2025-07-02",
+      "time": "07:44",
+      "activity": "",
+      "notes": [
+        "新馬修學出發準備，Reel 待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/reel/1040504961140190/"
+        }
+      ],
+      "title": "新馬修學出發準備",
+      "topic": "國際與雙語",
       "kind": "fb"
     }
   ]
