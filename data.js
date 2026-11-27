@@ -136,7 +136,7 @@ window.reportData = {
       [
         "2019-10",
         "partial",
-        7
+        8
       ],
       [
         "2019-11",
@@ -146,7 +146,7 @@ window.reportData = {
       [
         "2019-12",
         "partial",
-        12
+        13
       ],
       [
         "2020-01",
@@ -161,7 +161,7 @@ window.reportData = {
       [
         "2020-03",
         "partial",
-        5
+        9
       ],
       [
         "2020-04",
@@ -301,12 +301,12 @@ window.reportData = {
       [
         "2022-07",
         "partial",
-        6
+        9
       ],
       [
         "2022-08",
         "partial",
-        7
+        12
       ],
       [
         "2022-09",
@@ -1721,7 +1721,20 @@ window.reportData = {
         "fb-1319",
         "fb-1320",
         "fb-1321",
-        "fb-1322"
+        "fb-1322",
+        "fb-1324",
+        "fb-1325",
+        "fb-1326",
+        "fb-1327",
+        "fb-1328",
+        "fb-1329",
+        "fb-1330",
+        "fb-1331",
+        "fb-1332",
+        "fb-1333",
+        "fb-1334",
+        "fb-1335",
+        "fb-1336"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1742,7 +1755,8 @@ window.reportData = {
         "fb-1104",
         "fb-1149",
         "fb-1233",
-        "fb-1263"
+        "fb-1263",
+        "fb-1323"
       ],
       "indexOnly": [
         "fb-81",
@@ -23108,7 +23122,8 @@ window.reportData = {
       ],
       "title": "資源回收微電影人氣獎投票",
       "topic": "競賽與成果",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "列表顯示 17:29，單篇初次載入顯示 02:29。兩入口的日期錨點與正文相同。"
     },
     {
       "id": "fb-937",
@@ -31308,6 +31323,308 @@ window.reportData = {
       "title": "女排移地訓練與校際交流",
       "topic": "校慶、藝文與體育",
       "kind": "fb"
+    },
+    {
+      "id": "fb-1323",
+      "year": 2019,
+      "published": "2019-10-28",
+      "time": "21:06",
+      "activity": "",
+      "notes": [
+        "已開啟單篇，僅見活動分享卡，未見獨立正文。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02X9ZohNA337Yfvv8QDyL8x6kUjCB9TnYoKe3AVZBABCb6dyA55Xt9JzPrp8g31P5ql"
+        }
+      ],
+      "title": "官粉分享活動卡",
+      "topic": "主題待核",
+      "kind": "fb",
+      "timeNote": "列表顯示 21:06，單篇初次載入顯示 06:06，兩者確切原址一致。"
+    },
+    {
+      "id": "fb-1324",
+      "year": 2022,
+      "published": "2022-07-07",
+      "time": "12:58",
+      "activity": "",
+      "notes": [
+        "官帖邀請宜花東家長、師生了解大學考招與學習歷程檔案，也介紹慈中的多元課程規劃。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0VxsgpLy4N5V2sKrqgyWpQuLCMA9z4se2VPfAhhceDVpgzuurm3Wofs4ED2pVNQEql"
+        }
+      ],
+      "title": "大學選才與學習歷程檔案東區說明會",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1325",
+      "year": 2022,
+      "published": "2022-08-03",
+      "time": "17:13",
+      "activity": "",
+      "notes": [
+        "附小暑期科學營涵蓋古生物、材料、動能、火箭及光電，安排實作、觀察與討論。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02s9ADkXa8Jkva3VoPvmSRYSNDeJyEjL5KSC38B6MLfmeWNz2qMtyAEyCEn14WAjL5l"
+        }
+      ],
+      "title": "哈佛小子營八月全日科學營",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1326",
+      "year": 2022,
+      "published": "2022-07-08",
+      "time": "13:46",
+      "activity": "",
+      "notes": [
+        "暑期營包含科學、數藝、料理、創藝和運動，下午另安排閱讀、作業及運動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04sDKQz748R69cU4FfRxuAWU7GhF4b31LUFGGBVH9bRTtrbnb6h9iri4Bp5qBYV5Bl"
+        }
+      ],
+      "title": "附小哈佛小子七週暑期營隊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1327",
+      "year": 2022,
+      "published": "2022-07-08",
+      "time": "22:09",
+      "activity": "",
+      "notes": [
+        "官帖記錄航空課程獲美國電視台採訪。封存的文字摘錄省略提及個別學生的句子。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0AhKxaSmJMvekUrvJutMewbqgzakHUEtybM2Saqx4tJpR9uTUckQfpC8FmbaiLEzkl"
+        }
+      ],
+      "title": "台美雙聯團隊的航空課程（可見摘錄）",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1328",
+      "year": 2022,
+      "published": "2022-08-04",
+      "time": "09:55",
+      "activity": "",
+      "notes": [
+        "官帖記錄首屆台美雙聯團隊完成美國緬因中學暑期課程並返臺。封存官粉可見文字摘錄。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0QMRndADZz4t955SJWGh9HiprL2hbZESF92gm5iG4BxJ4RZYKcvosYVqeiAvzp513l"
+        }
+      ],
+      "title": "首屆台美雙聯團隊結束暑期課程（可見摘錄）",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "單篇初載曾顯示 8 月 3 日，穩定後日期錨點與列表同為 8 月 4 日 09:55。"
+    },
+    {
+      "id": "fb-1329",
+      "year": 2022,
+      "published": "2022-08-24",
+      "time": "10:20",
+      "activity": "",
+      "notes": [
+        "全校教師到靜思精舍採花，透過農事體驗討論慈濟精神與教育實踐。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02zSZqT33FkiEuT4ne5ZWqt4qojQ3ohGRBLkGqNZgQNEfj4n2NCgBMLytWFRCt4hUAl"
+        }
+      ],
+      "title": "教師合心共識營第三天農禪體驗",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1330",
+      "year": 2019,
+      "published": "2019-12-26",
+      "time": "14:18",
+      "activity": "",
+      "notes": [
+        "官帖記錄校園師生聚在運動場觀察當年的日偏食。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wFnTDLvkPNiqWWyUbFoirBUu6n4CaWDbz4Ys5XY5bUgfBaZbfxYhodQsggasWFHBl"
+        }
+      ],
+      "title": "校園運動場觀測日偏食",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1331",
+      "year": 2022,
+      "published": "2022-08-24",
+      "time": "19:31",
+      "activity": "",
+      "notes": [
+        "教師在精舍討論人文教育與教學實踐，官帖也記錄國際教育處與天空學院的角色。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022XuCef68SiyAzReH5fx9WWWNKhkBATgVKKJsoeas78TMJcovNj5rR9g4KHXQABWxl"
+        }
+      ],
+      "title": "教師合心共識營第三天人文教育研討",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1332",
+      "year": 2022,
+      "published": "2022-08-23",
+      "time": "19:55",
+      "activity": "",
+      "notes": [
+        "官帖回顧幼兒園方案課程、國小砂婆礑山海風，以及中學的在地走讀、跨科海洋課程和食農教育。",
+        "教師以表現任務盤點課程，也分部研討新學年規劃。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0TqaNCJEQQ1gPWTjqPHHnJCgcAWYwNZLqrPetU5SJewxGjhxuTUsDgVXcn4Hfyx4Cl"
+        }
+      ],
+      "title": "合心共識營回顧三部的新課綱課程",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "列表顯示 19:55，單篇顯示 04:55，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1333",
+      "year": 2020,
+      "published": "2020-03-26",
+      "time": "",
+      "activity": "",
+      "notes": [
+        "演練串接地震掩蔽、火災煙霧逃生與避難集合。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02fL5qyxUnobXX6j2p98kRhzyKoPC1oqRBo5tCYKpHdr4ZhGmKgKgKTzFGYCFGyt8Wl"
+        }
+      ],
+      "title": "國小部複合式防災演練",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "列表已確認發文日期，發文時刻尚未核對。"
+    },
+    {
+      "id": "fb-1334",
+      "year": 2020,
+      "published": "2020-03-25",
+      "time": "",
+      "activity": "",
+      "notes": [
+        "官帖以足球隊、籃球隊的晨間活動介紹學習環境並公告招生說明會。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0mpXqymx6KzHwvmVAm1jv45Mf7ZNusWR7H8TmTqEhLA5DDX8sSfAGpkyJcuDSYfiLl"
+        }
+      ],
+      "title": "附小招生與球隊晨間活動",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "列表已確認發文日期，發文時刻尚未核對。"
+    },
+    {
+      "id": "fb-1335",
+      "year": 2020,
+      "published": "2020-03-24",
+      "time": "",
+      "activity": "",
+      "notes": [
+        "官帖以國際雙語、品德教育與科學學習介紹附小課程，並公告招生說明會。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid025zdQovenx49D4VNhjVCE3tzEug5byQhfjtyegS5wUCK7ecvep6x2tTUYEsHzohA4l"
+        }
+      ],
+      "title": "附小招生說明會與課程特色",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "列表已確認發文日期，發文時刻尚未核對。"
+    },
+    {
+      "id": "fb-1336",
+      "year": 2020,
+      "published": "2020-03-21",
+      "time": "",
+      "activity": "",
+      "notes": [
+        "高中學生走訪花崗山、菜市場與舊市街，從二二八遺址、老店和地方地名認識花蓮歷史。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023UwdaoUYLyB7LwK3zesCUTRY4HD7BPZ9VX8qq2DTu9HB6v74taXk2QfVdxE9cxV8l"
+        }
+      ],
+      "title": "高中學生走讀花蓮舊市街",
+      "topic": "在地與校外學習",
+      "kind": "fb",
+      "timeNote": "列表已確認發文日期，發文時刻尚未核對。"
     }
   ]
 };
