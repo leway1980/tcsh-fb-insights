@@ -3688,7 +3688,7 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-11",
       "time": "09:02",
-      "timeNote": "",
+      "timeNote": "單篇初載顯示 12 月 10 日，載入完成後為 12 月 11 日 09:02",
       "activity": "",
       "notes": [
         "接待吉隆坡慈濟國際學校師長，開啟一週培訓"
@@ -3732,7 +3732,7 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-09",
       "time": "11:37",
-      "timeNote": "",
+      "timeNote": "單篇初載顯示 12 月 8 日，載入完成後為 12 月 9 日 11:37",
       "activity": "",
       "notes": [
         "小組預先規劃東京六小時城市探索，練習資訊整合、合作與解題"
@@ -3754,7 +3754,7 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-08",
       "time": "19:14",
-      "timeNote": "",
+      "timeNote": "已記錄 19:14，單篇另顯示 03:14，介面讀值差異待核",
       "activity": "",
       "notes": [
         "記錄農村寄宿、佛寺參訪與三本木農業高校夏祭體驗"
@@ -3779,9 +3779,9 @@ window.reportData = {
       "timeNote": "",
       "activity": "",
       "notes": [
-        "粉專新增 30 張日本教育交流旅行相片，內容待核"
+        "官粉在「2017 日本教育交流旅行」相簿新增相片，貼文卡未見獨立正文。相片內容待核。"
       ],
-      "media": "相片或分享",
+      "media": "相簿",
       "partial": true,
       "sources": [
         {
@@ -3798,7 +3798,7 @@ window.reportData = {
       "year": 2017,
       "published": "2017-12-06",
       "time": "20:52",
-      "timeNote": "",
+      "timeNote": "已記錄 20:52，單篇另顯示 04:52，介面讀值差異待核",
       "activity": "",
       "notes": [
         "記錄日本教育旅行第三天，正文待展開"
@@ -9563,7 +9563,8 @@ window.reportData = {
       ],
       "title": "03/21 日本盛岡北高校師生來訪",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "已記錄 17:21，單篇另顯示 02:21，介面讀值差異待核"
     },
     {
       "id": "fb-372",
@@ -9584,7 +9585,8 @@ window.reportData = {
       ],
       "title": "與花蓮高工的單晶片智慧居家跨校遠距選修進行實體參訪",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "已記錄 17:07，單篇另顯示 02:07，介面讀值差異待核"
     },
     {
       "id": "fb-373",
@@ -9941,7 +9943,8 @@ window.reportData = {
       ],
       "title": "慈濟大學與高中討論多元選修、自主學習、大學先修及學群探索。正文已展開",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "已記錄 16:48，單篇另顯示 00:48，介面讀值差異待核"
     },
     {
       "id": "fb-390",
