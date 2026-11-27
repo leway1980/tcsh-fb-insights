@@ -31,7 +31,7 @@ window.reportData = {
       [
         "2018-01",
         "partial",
-        12
+        19
       ],
       [
         "2018-02",
@@ -181,7 +181,7 @@ window.reportData = {
       [
         "2020-07",
         "partial",
-        9
+        12
       ],
       [
         "2020-08",
@@ -191,7 +191,7 @@ window.reportData = {
       [
         "2020-09",
         "partial",
-        5
+        9
       ],
       [
         "2020-10",
@@ -266,7 +266,7 @@ window.reportData = {
       [
         "2021-12",
         "partial",
-        5
+        11
       ],
       [
         "2022-01",
@@ -1626,7 +1626,24 @@ window.reportData = {
         "fb-1213",
         "fb-1214",
         "fb-1215",
-        "fb-1216"
+        "fb-1216",
+        "fb-1217",
+        "fb-1218",
+        "fb-1219",
+        "fb-1220",
+        "fb-1221",
+        "fb-1222",
+        "fb-1223",
+        "fb-1224",
+        "fb-1225",
+        "fb-1226",
+        "fb-1228",
+        "fb-1229",
+        "fb-1230",
+        "fb-1231",
+        "fb-1232",
+        "fb-1234",
+        "fb-1235"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1645,7 +1662,8 @@ window.reportData = {
         "fb-1028",
         "fb-1029",
         "fb-1104",
-        "fb-1149"
+        "fb-1149",
+        "fb-1233"
       ],
       "indexOnly": [
         "fb-81",
@@ -1729,7 +1747,9 @@ window.reportData = {
         "fb-1178",
         "fb-1188",
         "fb-1189",
-        "fb-1199"
+        "fb-1199",
+        "fb-1227",
+        "fb-1236"
       ]
     }
   },
@@ -28938,6 +28958,428 @@ window.reportData = {
       ],
       "title": "官粉轉分享校友近況",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1217",
+      "year": 2018,
+      "published": "2018-01-19",
+      "time": "10:42",
+      "activity": "",
+      "notes": [
+        "官帖記錄期末慈誠懿德日，談師長與志工如何陪伴學生並分享生命經驗。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0NA68GrCMWM1dchLYv248QFUaYeyiKR8VDbj9kah7vwb7DuhqoWKXy7EgTPjEMpqSl"
+        }
+      ],
+      "title": "慈誠懿德日的生命教育分享",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1218",
+      "year": 2018,
+      "published": "2018-01-18",
+      "time": "18:19",
+      "activity": "",
+      "notes": [
+        "附小透過早午茶敘表揚生活競賽優秀班級，鼓勵學生從日常行為累積進步。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02KiYxgyAGuWZqodH4G4Ns9bBWAzWuyHcXZpocQHp5LNC8UbXcycpqtB8YmxhwSXXdl"
+        }
+      ],
+      "title": "附小「與校長有約」茶敘",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1219",
+      "year": 2018,
+      "published": "2018-01-18",
+      "time": "15:52",
+      "activity": "",
+      "notes": [
+        "各處室和領域教師共備，以學校願景與學生圖像規劃校本課程。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1750787448563781/"
+        }
+      ],
+      "title": "108 課綱前的中學校本課程工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1220",
+      "year": 2018,
+      "published": "2018-01-14",
+      "time": "10:40",
+      "activity": "",
+      "notes": [
+        "雙語班在佐倉步道校外教學中用英語觀察與討論生態。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0BVxdbkPxwAHT4UY2oWcWeGKqvV9Suqrkq2icJjBQsbRWEiZEQYkyRCndW3nqjni5l"
+        }
+      ],
+      "title": "附小六年級佐倉步道英語生態探索",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1221",
+      "year": 2018,
+      "published": "2018-01-14",
+      "time": "10:17",
+      "activity": "",
+      "notes": [
+        "外師將英語課程與台開心農場的動植物觀察結合。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0wQdXDm4VaoimpuNjqN4v1iHAsHaaaYweQCpLvD9JTSLAVTgmJGBf74qLxTKNqCrtl"
+        }
+      ],
+      "title": "附小四年級雙語班農場校外教學",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1222",
+      "year": 2018,
+      "published": "2018-01-11",
+      "time": "23:24",
+      "activity": "",
+      "notes": [
+        "官帖回顧第一場成果發表及家長參與，並預告第二場。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1748379398804586/"
+        }
+      ],
+      "title": "附幼首場成果發表回顧與次場預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1223",
+      "year": 2018,
+      "published": "2018-01-11",
+      "time": "00:07",
+      "activity": "",
+      "notes": [
+        "官帖預告附幼第一場成果發表並列出參演班級。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1748038192172040/"
+        }
+      ],
+      "title": "附幼第一場成果發表預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1224",
+      "year": 2020,
+      "published": "2020-07-25",
+      "time": "15:09",
+      "activity": "",
+      "notes": [
+        "官帖保存粉專自有的短文。與同日 15:10 官帖外層同文，兩篇的日期錨點、時刻及分享來源各異。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034iuoP8wrhxGcNJShuV7oFNwUZirGAvYnJfeA4vLdk8ciJFtL9SPYvjNUDWsMr2zKl"
+        }
+      ],
+      "title": "官粉轉分享校友近況（15:09 官帖）",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1225",
+      "year": 2020,
+      "published": "2020-07-22",
+      "time": "07:08",
+      "activity": "",
+      "notes": [
+        "學員體驗精舍作息，並聽醫師分享如何在醫院與病人互動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02YCBJb5g488gNdq4Kp3HanQzwHEq6mV49uBoTDd9LtfcRPitHEMKYTNvDQ8D9SuWAl"
+        }
+      ],
+      "title": "暑期醫療志工營第二天",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1226",
+      "year": 2020,
+      "published": "2020-07-21",
+      "time": "07:28",
+      "activity": "",
+      "notes": [
+        "官帖說明把原先的觀星構想改為 VR 教室，預告國一新生使用。",
+        "封存文字已遮蔽學生姓名。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0388Fg7MkcGmkNrPNGfkcuWYJfrNUsVUxhDMn9FKYXtLV2ZQsxiiqXdwdfkTz2HBBsl"
+        }
+      ],
+      "title": "高瞻計畫下的 VR 教室規劃",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1227",
+      "year": 2020,
+      "published": "2020-09-22",
+      "time": "12:20",
+      "activity": "",
+      "notes": [
+        "官帖分享國高中雙語班英語歌舞劇成果。正文含轉載報導與學生具名引述，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/758975878010584/"
+        }
+      ],
+      "title": "雙語班英語歌舞劇成果展報導",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1228",
+      "year": 2020,
+      "published": "2020-09-21",
+      "time": "12:59",
+      "activity": "",
+      "notes": [
+        "附小師生練習就地掩護及依動線疏散，官帖開頭的地震警報屬演練情境。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02kaEZ6PR8KG2Y3kbrwGJb5eTinaicebV6VPQzNFsgTp2wKMvm94nzmd5yB5YfjnV8l"
+        }
+      ],
+      "title": "國家防災日附小地震避難演練",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1229",
+      "year": 2020,
+      "published": "2020-09-21",
+      "time": "11:40",
+      "activity": "",
+      "notes": [
+        "官帖記錄國高中師生演練地震避難及校園疏散。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0uS4xfALuiuqU9TBCXa8Kn4r1ujTZb3JMFLS5wKrQw6VDC2S2sQcDRxU9BPhoywo3l"
+        }
+      ],
+      "title": "國家防災日國高中避難演練",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1230",
+      "year": 2020,
+      "published": "2020-09-21",
+      "time": "09:54",
+      "activity": "",
+      "notes": [
+        "官粉自有短文指出閱讀理解是自主學習的基礎，記錄兩位講師合作。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0X56BuWkYFD5TL92c7RNgKpfWR2rvFXDFk1Xy6FejGuu9kJSrZuBHAjTfpETeEfU5l"
+        }
+      ],
+      "title": "閱讀理解與自主學習講座",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "單篇初載顯示 9 月 20 日，穩定後與列表均為 9 月 21 日 09:54。"
+    },
+    {
+      "id": "fb-1231",
+      "year": 2021,
+      "published": "2021-12-17",
+      "time": "16:14",
+      "activity": "",
+      "notes": [
+        "附幼官帖介紹涼拌木耳，邀請親子在家一起練習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02tmjbpoXrS8iDKyboRtZcLz7eFEgceAP18zKJ4X6etixuyQRNDhotiMZj37ixZBYBl"
+        }
+      ],
+      "title": "附幼小蔬童與大廚神：涼拌木耳",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1232",
+      "year": 2021,
+      "published": "2021-12-14",
+      "time": "15:55",
+      "activity": "",
+      "notes": [
+        "官帖記錄教師在小四、小六及國二三個班別實班教學，交流 108 課綱的課堂實作。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0MQd7vBp41rtEuLogUUp7XTS3NmGwheyZPMVKHLQ7L1PnkViZVCzJFc2APWMiEztMl"
+        }
+      ],
+      "title": "教育部教學基地有效教學東區發表會",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1233",
+      "year": 2021,
+      "published": "2021-12-14",
+      "time": "19:39",
+      "activity": "",
+      "notes": [
+        "官粉卡可見作者、日期、時刻與原址。當次畫面顯示內容無法查看，未見獨立正文。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Pt8EvVXutd66cfNLCMF8xEPFcxXTS3WMY7JgdPY5KjhoPcMzifyV7V4wFvZETeWHl"
+        }
+      ],
+      "title": "12 月 14 日官帖，內容無法查看",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1234",
+      "year": 2021,
+      "published": "2021-12-15",
+      "time": "09:24",
+      "activity": "",
+      "notes": [
+        "官帖回顧初賽及學生製作的蔬食料理，預告決賽。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Ls4UpPo2HTPMmMnNrJqDvUgMwgmeWzohtYwpLbgXj4urbrLHypvambL1GKPM49owl"
+        }
+      ],
+      "title": "創意蔬食料理王倒數",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1235",
+      "year": 2021,
+      "published": "2021-12-16",
+      "time": "08:11",
+      "activity": "",
+      "notes": [
+        "官帖預告學生設計具地方特色的異國蔬食料理。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04hGt9JnTopGRegX7VgmJr9M87nGRAMHLUKzuuvEtcBKDCF3ETVqmEwgHzaTNezAMl"
+        }
+      ],
+      "title": "異國創意蔬食料理活動預告",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1236",
+      "year": 2021,
+      "published": "2021-12-15",
+      "time": "11:47",
+      "activity": "",
+      "notes": [
+        "官帖分享第二十屆藝才班成果展演。正文為外部新聞轉載，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ZN79FuUmjH7wsVSYNFAKHwpR8nyxXb3M512xAzn5Mtg69H2KfbcQRjXDPTXtgLwfl"
+        }
+      ],
+      "title": "官帖分享「防疫不妨藝」成果展報導",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     }
   ]
