@@ -116,7 +116,12 @@ window.reportData = {
       [
         "2024-10",
         "partial",
-        10
+        12
+      ],
+      [
+        "2024-09",
+        "partial",
+        5
       ]
     ],
     "asOf": "2026-11-27"
@@ -11526,6 +11531,153 @@ window.reportData = {
         }
       ],
       "title": "颱風期間停班停課和校園防災",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-484",
+      "year": 2024,
+      "published": "2024-10-15",
+      "time": "08:49",
+      "activity": "",
+      "notes": [
+        "論壇在國家圖書館舉行。貼文整理品德與思辨教育的討論，也介紹泰國清邁慈濟學校的教育實例。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JHfMB8aPsAVgsoUMszTCEfipbtBLwHR67sr98a5DGic1nXqXMmTcyFidECiT7KTQl"
+        }
+      ],
+      "title": "慈濟教育三十五週年論壇談思辨與品德",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-485",
+      "year": 2024,
+      "published": "2024-10-01",
+      "time": "09:32",
+      "activity": "",
+      "notes": [
+        "校方在颱風影響作息期間向家長說明慈大附中師生平安，提醒在家做好防颱。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid024d86h9ZmFrHet2aEkbvkeGdYrQJ5M5QrP5euDFBkimcJfiZfj9W1rws3L3kWYEEFl"
+        }
+      ],
+      "title": "山陀兒颱風期間校園平安說明",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-486",
+      "year": 2024,
+      "published": "2024-09-28",
+      "time": "20:37",
+      "activity": "2024-09-28",
+      "notes": [
+        "教師節舉行親師座談。校方貼文記載逾千位家長到校，透過親職活動建立雙向交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0gMAhYph2V1g3cgQzL2t3GeFDVxpMTunUfq76KFVi9B3LeBkeCR4dmqPcSbRcZhWdl"
+        }
+      ],
+      "title": "113 學年度第一學期親師座談",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-487",
+      "year": 2024,
+      "published": "2024-09-27",
+      "time": "18:26",
+      "activity": "2024-09-28",
+      "notes": [
+        "預告隔天上午國、高中親師座談的專題分享，也記錄教師節前夕校園的感恩活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid01L7fduS6y9ooWUfeMJZQVMeifWsJuYzsPg37DaX9M67MpR6YNxnnusAThWF8jUmml"
+        }
+      ],
+      "title": "預告中學部第一學期親師座談",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-488",
+      "year": 2024,
+      "published": "2024-09-27",
+      "time": "08:16",
+      "activity": "",
+      "notes": [
+        "貼文記錄慈大附中與印尼師生以視訊交流，一起向教師表達祝福。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0316nmzjZGr5anb8NT2wcHENSeFds3D7oX3Qtt3GAfQgZDGKpKTkHrJhsmrDjANwNxl"
+        }
+      ],
+      "title": "與印尼師生視訊慶祝教師節",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-489",
+      "year": 2024,
+      "published": "2024-09-11",
+      "time": "17:26",
+      "activity": "",
+      "notes": [
+        "校方統計國小到高中共 16 位學生獲特優、14 位獲優等，6 位代表花蓮縣進入全國賽。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid035q1wesLTpVFmqG5QCjqH2qGYjaMc4PkE1RtE2XQUBZqgZuPfQARchA5UNojDmN52l"
+        }
+      ],
+      "title": "花蓮縣國語文競賽得獎與晉級",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-490",
+      "year": 2024,
+      "published": "2024-09-03",
+      "time": "13:19",
+      "activity": "",
+      "notes": [
+        "粉專自己的文字提到開學，附轉分享內容。原始轉分享素材未核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02CKMaqFQtaNwb1HRSRPrh3CBxz7HAafZk3uR9yMQu5JUgz7XVADYQykjxW83FPUmNl"
+        }
+      ],
+      "title": "粉專轉分享開學日校園動態",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
