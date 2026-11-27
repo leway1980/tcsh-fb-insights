@@ -231,7 +231,7 @@ window.reportData = {
       [
         "2021-05",
         "partial",
-        8
+        11
       ],
       [
         "2021-06",
@@ -341,7 +341,7 @@ window.reportData = {
       [
         "2023-03",
         "partial",
-        15
+        20
       ],
       [
         "2023-04",
@@ -1806,7 +1806,15 @@ window.reportData = {
         "fb-1414",
         "fb-1416",
         "fb-1417",
-        "fb-1418"
+        "fb-1418",
+        "fb-1419",
+        "fb-1420",
+        "fb-1421",
+        "fb-1422",
+        "fb-1423",
+        "fb-1424",
+        "fb-1425",
+        "fb-1426"
       ],
       "noVisibleText": [
         "fb-27",
@@ -33467,6 +33475,178 @@ window.reportData = {
       "topic": "招生與校園生活",
       "kind": "fb",
       "timeNote": "列表顯示 21:49，單篇顯示 06:49，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1419",
+      "year": 2023,
+      "published": "2023-03-09",
+      "time": "20:04",
+      "activity": "",
+      "notes": [
+        "人文室、家長會與班聯會合辦義賣，慈少社協助訊息傳遞。官帖記錄校內募心募愛及對地震災區的關懷。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034ssBLXCGzha6G4knh8dKBDdfTDeEEgyX7vcRwJDvN4B45R54tJqgyP9bNdVXJhSPl"
+        }
+      ],
+      "title": "慈中快閃義賣聲援土耳其與敘利亞地震災民",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1420",
+      "year": 2023,
+      "published": "2023-03-04",
+      "time": "17:24",
+      "activity": "",
+      "notes": [
+        "親師座談安排四場學習及升學講座，說明多元課程與校園生活。封存團體活動節錄。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0zqHQYQvYHenCfTAQEhzPj3B4z8YBErW5xJodriNH5cqAqU5FdnCpWWv7S9E4VrfRl"
+        }
+      ],
+      "title": "親師座談介紹慈中二十三事與課程規劃（節錄）",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1421",
+      "year": 2021,
+      "published": "2021-05-18",
+      "time": "14:32",
+      "activity": "",
+      "notes": [
+        "官粉外層以兩個標籤告知正在開防疫會議，並表示後續將公告因應措施。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02DWvWYpTXdJwyTaAxobwiQ3hADV7LSeZYeE7c4XM8fEJFRd1XWqKcbn6T6oF8E5XYl"
+        }
+      ],
+      "title": "校方召開防疫會議並預告後續公告",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "日期列表與重新開啟的單篇原址均核對為 2021-05-18 14:32，先前單篇初載曾顯示 5 月 17 日。"
+    },
+    {
+      "id": "fb-1422",
+      "year": 2023,
+      "published": "2023-03-09",
+      "time": "18:51",
+      "activity": "",
+      "notes": [
+        "附小與花蓮林區管理處合作，師生分年級進行除草、修剪等校園植物養護，並學習外來種如何影響生態。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid038PymoJo47k6hkwa3CZgLM9bXGhpdD1YPZT8aTs1ZyxEz6k4mSMrETPTUBL3ugEmyl"
+        }
+      ],
+      "title": "附小植樹節護樹與外來植物環境教育",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "同一日期連結的列表顯示 18:51，單篇顯示 02:51。"
+    },
+    {
+      "id": "fb-1423",
+      "year": 2023,
+      "published": "2023-03-03",
+      "time": "22:14",
+      "activity": "",
+      "notes": [
+        "附小邀家長交流學習狀況、參觀學生作品，並介紹假日英語營、校慶和全校英語闖關。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023RLbx7ZyhxrBCvgucrCthDXz1QY3cJ535RKtzypkrcvr4iGGsiUotnkXZQKZqgsul"
+        }
+      ],
+      "title": "附小學校日與親師交流",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "同一日期連結的列表顯示 22:14，單篇顯示 06:14。"
+    },
+    {
+      "id": "fb-1424",
+      "year": 2023,
+      "published": "2023-03-03",
+      "time": "21:54",
+      "activity": "",
+      "notes": [
+        "一年級教師設計小學體驗，讓附幼孩子熟悉小學生活，也讓一年級學生帶領學弟妹。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0yXPAvo2GujT16RKxjY8cwsCzmvAesc44GA3RoPRRd8WmB5t5ynVYAC9cmeW9fZ6al"
+        }
+      ],
+      "title": "附幼與附小一年級銜接體驗",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "同一日期連結的列表顯示 21:54，單篇顯示 05:54。"
+    },
+    {
+      "id": "fb-1425",
+      "year": 2021,
+      "published": "2021-05-16",
+      "time": "17:56",
+      "activity": "",
+      "notes": [
+        "校方說明量體溫、消毒、活動調整、校園出入及住宿安排，並請家長協助防疫。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022DzNSBfzMVyAGqKxKPqN5HYmeMRVNGN5gnmELvwFSrA6ZLLiX5WBmV4Bq3zqc4mjl"
+        }
+      ],
+      "title": "校長致家長信說明校園防疫升級",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1426",
+      "year": 2021,
+      "published": "2021-05-16",
+      "time": "09:34",
+      "activity": "",
+      "notes": [
+        "疫情限制陪考期間，家長會備茶水並安排線上祈福，教師服務隊協助考生休息區。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0MMtnnManeMBAya8dGNXn1S9k2z7M5Pqsb1pvfhfWPemkK1CtVhpRxuyUyzSf15UYl"
+        }
+      ],
+      "title": "疫情期間的國中會考考生支持",
+      "topic": "招生與校園生活",
+      "kind": "fb"
     }
   ]
 };
