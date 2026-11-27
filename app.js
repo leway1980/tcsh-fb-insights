@@ -52,9 +52,9 @@ const insights = [
     id: 'international', group: 'activity', period: '2017–2025',
     title: '國際交流有出訪、入校共學和長程課程',
     idea: '早年已有海外修學和接待。後來的可見紀錄增加視訊、學伴共學、跨科任務與雙聯學位等形式。',
-    detail: '盛岡第一高校在 2018 和 2025 年都有來訪紀錄。2025 年盛岡交流加入在地走讀，青森南高校則在地震後用視訊維持原定共學。',
+    detail: '2024 年暑期規劃五國六團，各團依目的地安排不同課程，赴美的雙聯團參加實體 STEAM 課程。盛岡第一高校在 2018 和 2025 年都有來訪紀錄，2025 年的交流加入在地走讀。青森南高校也在地震後透過視訊維持共學。',
     topic: '國際與雙語',
-    evidence: ['fb-72','event-07','event-16','event-24','event-27','event-29','event-31','event-34','event-44','event-51','event-56','fb-17','fb-13']
+    evidence: ['fb-72','event-07','event-16','event-24','event-27','event-29','event-31','event-34','event-44','fb-544','fb-542','fb-540','event-51','event-56','fb-17','fb-13']
   }
 ];
 
@@ -298,6 +298,46 @@ function initFilters() {
   });
 }
 
+function renderAnnualChart() {
+  const list = get('annual-chart');
+  const firstYear = Number(report.coverage.start.slice(0, 4));
+  const lastYear = Number(report.coverage.end.slice(0, 4));
+  const counts = new Map();
+  const visited = new Map();
+  for (const { year } of facebookPosts) counts.set(year, (counts.get(year) || 0) + 1);
+  for (const [month] of report.coverage.visited) {
+    const year = Number(month.slice(0, 4));
+    visited.set(year, (visited.get(year) || 0) + 1);
+  }
+  const maximum = Math.max(1, ...counts.values());
+  for (let year = firstYear; year <= lastYear; year++) {
+    const count = counts.get(year) || 0;
+    const firstMonth = year === firstYear ? Number(report.coverage.start.slice(5)) : 1;
+    const lastMonth = year === lastYear ? Number(report.coverage.end.slice(5)) : 12;
+    const coverage = `${visited.get(year) || 0} / ${lastMonth - firstMonth + 1} 個月有查核紀錄`;
+    const item = element('li');
+    const row = element(count ? 'button' : 'div', 'annual-row');
+    const track = element('span', 'annual-track');
+    track.setAttribute('aria-hidden', 'true');
+    const bar = element('span', 'annual-bar');
+    bar.style.width = `${100 * count / maximum}%`;
+    track.append(bar);
+    row.append(element('span', 'annual-year', `${year} 年`), track,
+      element('span', 'annual-count', count ? `${count} 則` : '尚無收錄'), element('span', 'annual-coverage', coverage));
+    if (count) {
+      row.type = 'button';
+      row.setAttribute('aria-label', `查看 ${year} 年 ${count} 則已收錄的 Facebook 貼文，${coverage}`);
+      row.addEventListener('click', () => {
+        resetControls();
+        yearFilter.value = String(year);
+        showRecords();
+      });
+    }
+    item.append(row);
+    list.append(item);
+  }
+}
+
 function renderCoverage() {
   const table = get('coverage-table');
   const head = table.createTHead().insertRow();
@@ -360,4 +400,5 @@ get('hero-events').textContent = String(eventCount);
 renderInsights();
 initFilters();
 renderRecords();
+renderAnnualChart();
 renderCoverage();

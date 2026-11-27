@@ -135,6 +135,16 @@ input::placeholder { color: #596d63; }
 .no-results { border: 1px solid var(--line); border-radius: var(--radius); background: var(--white); padding: 1.2rem; }
 .no-results p { color: var(--muted); }
 
+.annual { padding-top: 0; }
+.annual-chart { display: grid; gap: .25rem; list-style: none; margin: 0; padding: .4rem 0; border-block: 1px solid var(--line); }
+.annual-row { display: grid; grid-template-columns: 4.6rem minmax(0, 1fr) 5.2rem 11.2rem; align-items: center; gap: .8rem; width: 100%; min-height: 2.7rem; padding: .25rem .6rem; border: 0; border-radius: .35rem; background: transparent; text-align: left; color: var(--ink); font-variant-numeric: tabular-nums; }
+button.annual-row:hover { background: var(--leaf); }
+button.annual-row .annual-year { color: var(--green-strong); text-decoration: underline; text-underline-offset: .17em; }
+.annual-year, .annual-count { font-weight: 750; }
+.annual-track { display: block; height: .85rem; background: #e7efe8; border-left: 1px solid #789183; }
+.annual-bar { display: block; height: 100%; background: var(--green-strong); print-color-adjust: exact; }
+.annual-coverage, div.annual-row .annual-count { color: var(--muted); }
+
 .legend { display: flex; flex-wrap: wrap; gap: .45rem 1rem; list-style: none; padding: 0; margin: -.15rem 0 .7rem; color: var(--muted); }
 .legend li { display: flex; align-items: center; gap: .42rem; font-size: .92rem; }
 .sample { min-width: 1.85rem; padding: 0 .2rem; border-radius: .2rem; text-align: center; font-weight: 750; }
@@ -179,6 +189,8 @@ td { height: 2.3rem; border-radius: .25rem; font-size: .92rem; font-weight: 700;
   .record-summary .expand-icon { grid-column: 2; grid-row: 1 / span 2; }
   .footer-content { align-items: start; flex-direction: column; gap: .35rem; }
   .footer a { margin-left: 0; margin-right: .85rem; }
+  .annual-row { grid-template-columns: 4.2rem minmax(0, 1fr) 4.4rem; gap: .1rem .45rem; padding: .3rem .22rem; }
+  .annual-coverage { grid-column: 2 / -1; font-size: .9rem; }
 }
 @media (max-width: 28rem) {
   .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }

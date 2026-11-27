@@ -44,9 +44,19 @@ window.reportData = {
         0
       ],
       [
+        "2024-04",
+        "partial",
+        8
+      ],
+      [
+        "2024-05",
+        "partial",
+        5
+      ],
+      [
         "2024-06",
         "partial",
-        6
+        8
       ],
       [
         "2024-07",
@@ -12932,6 +12942,329 @@ window.reportData = {
       "title": "113 學年度多元入學放榜",
       "topic": "競賽與成果",
       "kind": "fb"
+    },
+    {
+      "id": "fb-548",
+      "year": 2024,
+      "published": "2024-06-07",
+      "time": "19:02",
+      "activity": "2024-06-07",
+      "notes": [
+        "幼兒園、國小部、國中部和高中部共 519 名畢業生參加學校的畢業典禮。",
+        "貼文記錄人文課與國語、臺語、英語的畢業生致詞。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid027VtRfrgiibej3mpPRJW1qNEwjySBR72vnVnJw6XakQDd8AC9RAhL7LZb2WV4wujHl"
+        }
+      ],
+      "title": "112 學年度畢業典禮",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-549",
+      "year": 2024,
+      "published": "2024-06-01",
+      "time": "10:07",
+      "activity": "",
+      "notes": [
+        "旅程最後一天，慈中師生與當地志工在代代木公園與慈濟東京分會服務。",
+        "學生參與公園清潔、摺見舞金信封，並聽取能登震後援助的分享。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02LnFmyUawSGuRQNBtEV8JJnTp1CXvtbBe7njVeVWg9eAHyBJBkVfsKdmDBGRbRzYYl"
+        }
+      ],
+      "title": "日本教育旅行的東京志工服務",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-550",
+      "year": 2024,
+      "published": "2024-05-18",
+      "time": "11:02",
+      "activity": "2024-05-18",
+      "notes": [
+        "貼文記錄國中會考登場，精舍師父帶領國三師生浴佛，校內師生祈禱祝福。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JEPM8HaFraYPXce8sHG5mf3fUMAApZMRPFo1VPRiCn2XdMyhhjyaTdakj47BQCExl"
+        }
+      ],
+      "title": "國中會考當日的浴佛與祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-551",
+      "year": 2024,
+      "published": "2024-05-17",
+      "time": "17:46",
+      "activity": "",
+      "notes": [
+        "校長、吉安鄉長和家長會代表在國中會考前祝福考生。",
+        "貼文附外部新聞連結，新聞內容待核。"
+      ],
+      "media": "外部新聞連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02herCvpBaaJMmDkHVhun3UFMFvHABFqpxTnHsRhf76i41bdt85Sw6jhqwnBfVosjTl"
+        }
+      ],
+      "title": "國中會考前的考生祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-552",
+      "year": 2024,
+      "published": "2024-05-16",
+      "time": "18:08",
+      "activity": "2024-05-16",
+      "notes": [
+        "校方與 WordBranch 線上學習系統簽署合作備忘錄，為學生增加數位英語單字學習管道。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02udKKcpBXv4nKnyox3hHkUo3cQkxL1ExjHb5R1cW9ZaywCmUWSvki9kDmicUuY4sTl"
+        }
+      ],
+      "title": "引進 WordBranch 英語單字學習",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-553",
+      "year": 2024,
+      "published": "2024-05-12",
+      "time": "11:24",
+      "activity": "2024-05-12",
+      "notes": [
+        "慈大附中師生與慈懿會在靜思堂道侶廣場參加慈濟 58 週年浴佛典禮。",
+        "貼文稱當年儀式加入德行品梵唄，並另預告 5 月 16 日附小和幼兒園校內浴佛。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02hEPMBR84cu2akgwYE2NXZaQjbMgtfvWS9g4Q1wt4V77DRkfXMkJyafiuVEvyF5zKl"
+        }
+      ],
+      "title": "三節合一的浴佛典禮",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-554",
+      "year": 2024,
+      "published": "2024-05-10",
+      "time": "15:12",
+      "activity": "",
+      "notes": [
+        "課堂將法語學習與製作法式甜點結合。",
+        "學生成組備料、製作並體驗法式飲食文化。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid027S4jGmGcE15hru3XbnRnAgyowqteN4wb27uUXr2v1XhTq6xK4mD3nAWBzBPJcjC7l"
+        }
+      ],
+      "title": "法語多元選修的甜點實作",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-555",
+      "year": 2024,
+      "published": "2024-04-26",
+      "time": "20:16",
+      "activity": "2024-04-26",
+      "notes": [
+        "圖書館愛閱週安排綠動市集、說書人音樂會和大手牽小手計畫。",
+        "各班以攤位介紹自選書籍，結合遊戲和實作。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0LrjY91Rrw13EBEividskW36XQVTuBZLGgFsxExbN64NHL8UeBsfWyqemW38rC782l"
+        }
+      ],
+      "title": "圖書館愛閱週綠動市集",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-556",
+      "year": 2024,
+      "published": "2024-04-25",
+      "time": "08:15",
+      "activity": "",
+      "notes": [
+        "圖書館愛閱週利用晨讀時間，由高一、高二各班派選書師，跨班跨年級介紹書籍。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0upg8u7aFu2PvcnwTemyrZ22ye46Qeqo1mg63oroFQGkijTd3zLnR1DQC1SoCkhbjl"
+        }
+      ],
+      "title": "高一、高二班級選書師",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-557",
+      "year": 2024,
+      "published": "2024-04-23",
+      "time": "15:36",
+      "activity": "2024-04-23",
+      "notes": [
+        "校方回顧停課公告、校舍巡檢、住宿供餐及安心輔導等應變措施。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Qbqu9uqpXkZu1vk18xnNiu8g8m6QiXg5k2WqmwsxWZmUt6eo2dj6jG8LJsNWXYUHl"
+        }
+      ],
+      "title": "4 月 23 日地震後的校園應變",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-558",
+      "year": 2024,
+      "published": "2024-04-23",
+      "time": "06:22",
+      "activity": "2024-04-23",
+      "notes": [
+        "花蓮縣宣布停班停課後，校方通知通勤生勿到校，住宿生留在宿舍，由校方供餐。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0odNfULVjZRGUtBaqafdktUzzDrCCjDUDuhYM1JDiaLHvhdxRih9wZ4Rjt8Q8TMfyl"
+        }
+      ],
+      "title": "地震停課與住宿生安排",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-559",
+      "year": 2024,
+      "published": "2024-04-22",
+      "time": "20:19",
+      "activity": "2024-04-22",
+      "notes": [
+        "粉專向家長說明晚間地震後的校園值勤，並稱夜間多元學習與校隊練習如常進行。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02TkzFDKzc8pPpDkzhqgjfRJ7qc86v6KnSVjtGTfcehZxhUNKRt7axzRccGs8ofKYRl"
+        }
+      ],
+      "title": "晚間地震後的校園報平安",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-560",
+      "year": 2024,
+      "published": "2024-04-21",
+      "time": "19:19",
+      "activity": "",
+      "notes": [
+        "工作坊以邏輯與桌遊規則帶入創意思考。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0MiyEnzy698xC7zYFK9PnzBzbMW7HSPjr2rwAUESuBQu44LHqkmGXxVtesJJZvbUWl"
+        }
+      ],
+      "title": "均質化文學工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-561",
+      "year": 2024,
+      "published": "2024-04-21",
+      "time": "09:19",
+      "activity": "2024-04-09 至 2024-04-20",
+      "notes": [
+        "輔導室結合圖書館等處室辦理性別平等教育週，讓全校認識多元性別。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0q7sLerFEq93kGGXko2zSaehLtN9n5qQ49GLRyiHMyuEtewdnRnSSnKZCPckU39TMl"
+        }
+      ],
+      "title": "性別平等教育週",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 4 月 21 日 09:19。單篇初載一度顯示 4 月 20 日 18:19，穩定後與列表一致"
+    },
+    {
+      "id": "fb-562",
+      "year": 2024,
+      "published": "2024-04-20",
+      "time": "15:07",
+      "activity": "",
+      "notes": [
+        "附小與幼兒園採分流報到，透過引導關卡完成資料繳交、諮詢、量制服和領取用品。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0YB5yMokGbRCaFcoMyskMCE2LzB4sbnmBh89dcsHPJz23FfuN7xTZvgWDnx2iYsE9l"
+        }
+      ],
+      "title": "附小與幼兒園新生報到",
+      "topic": "招生與校園生活",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 15:07，同一網址的單篇頁顯示 00:07，時刻待核"
     }
   ]
 };
