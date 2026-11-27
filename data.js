@@ -67,6 +67,11 @@ window.reportData = {
         "2025-08",
         "partial",
         37
+      ],
+      [
+        "2025-07",
+        "partial",
+        16
       ]
     ],
     "asOf": "2026-11-27"
@@ -7295,6 +7300,342 @@ window.reportData = {
         }
       ],
       "title": "感恩兩任校長",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-285",
+      "year": 2025,
+      "published": "2025-07-31",
+      "time": "22:14",
+      "activity": "",
+      "notes": [
+        "新生報到、住宿引導及惜福義賣，正文展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0y9DJnRAvcWDgoZm7MxYeChHfez6CqcNb5aqqdT1QFnhrEjh3FSbMc1tYBCwPNBazl"
+        }
+      ],
+      "title": "新生報到、住宿引導及惜福義賣",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-286",
+      "year": 2025,
+      "published": "2025-07-30",
+      "time": "21:09",
+      "activity": "",
+      "notes": [
+        "迎新、校園準備及報到安排，正文展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022YLWkEU8KbN522KvU4GPFcXoepDMsWuUPXvHvv34E4KsdZwPk3HMLRT5shanckqMl"
+        }
+      ],
+      "title": "迎新、校園準備及報到安排",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-287",
+      "year": 2025,
+      "published": "2025-07-30",
+      "time": "15:57",
+      "activity": "",
+      "notes": [
+        "火箭隊台灣盃發射獲堅定不移獎，正文展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02An8Z5fo26ayQEQxH9WTFgdXdsNCuk6DHiMVuhXeVTdaD8JUcSP6nHGsBLjg45c2ql"
+        }
+      ],
+      "title": "火箭隊台灣盃發射獲堅定不移獎",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-288",
+      "year": 2025,
+      "published": "2025-07-30",
+      "time": "15:47",
+      "activity": "",
+      "notes": [
+        "美式教育，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XB6X6BywdVfyXuQS4ebKHfCbUeWA9RSbbq4wzzWQwY5JXv59Qxm6xajC39LuCU19l"
+        }
+      ],
+      "title": "美式教育",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-289",
+      "year": 2025,
+      "published": "2025-07-22",
+      "time": "22:23",
+      "activity": "",
+      "notes": [
+        "國一新生家長信、報到與營隊，正文展開，信件圖片待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0fP2uMR7mTkqp8kLwtgJTifTcg2mZeDsGXo5wUUXTn8hXqcxcEmNduHJg52M9kzjEl"
+        }
+      ],
+      "title": "國一新生家長信、報到與營隊",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-290",
+      "year": 2025,
+      "published": "2025-07-19",
+      "time": "14:36",
+      "activity": "2025-07-18",
+      "notes": [
+        "07/18 醫療志工營最後一天、精舍早課及關懷回顧，正文展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0BZ8JGPeL1y4DRCwK3ZUUvAH1XanZjT3yhQxMrAW61ke81s6Xiqnj6iPYPg2duwSql"
+        }
+      ],
+      "title": "07/18 醫療志工營最後一天、精舍早課及關懷回顧",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-291",
+      "year": 2025,
+      "published": "2025-07-18",
+      "time": "21:59",
+      "activity": "",
+      "notes": [
+        "第65屆全國科展高中鼻嗅細胞及國中蚯蚓糞菌作品獲獎，正文展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02EqUkTetSaEW7CqpKDVBYbqk5NwCHP9FeejZNBZh4ffdSFRJ1utC9fyyDbJCHTqtQl"
+        }
+      ],
+      "title": "第65屆全國科展高中鼻嗅細胞及國中蚯蚓糞菌作品獲獎",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-292",
+      "year": 2025,
+      "published": "2025-07-18",
+      "time": "09:08",
+      "activity": "",
+      "notes": [
+        "醫療志工第五天醫院服務、榮家關懷及表演，正文展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0kdWe3gxXbfkCySZUSjTt13zoJBNVL9e66pr3Udr8fsnAXiKsnx2ohCcdSeKnAKJYl"
+        }
+      ],
+      "title": "醫療志工第五天醫院服務、榮家關懷及表演",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-293",
+      "year": 2025,
+      "published": "2025-07-17",
+      "time": "11:03",
+      "activity": "",
+      "notes": [
+        "醫療志工第四天，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02623knZTs25izmSxhZdm3U371AcTMbMLvjc6qQvj5shf52QyX4Rt48NMBVkUYKDUCl"
+        }
+      ],
+      "title": "醫療志工第四天",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-294",
+      "year": 2025,
+      "published": "2025-07-16",
+      "time": "15:19",
+      "activity": "",
+      "notes": [
+        "醫療志工第三天花蓮慈濟醫院，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0fDRX6pLhc4avtZqkTEiVPU6BrN7upEeeV9YpU2iiMwdazai2HQUpyvj3bT1FxdVAl"
+        }
+      ],
+      "title": "醫療志工第三天花蓮慈濟醫院",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-295",
+      "year": 2025,
+      "published": "2025-07-15",
+      "time": "13:42",
+      "activity": "",
+      "notes": [
+        "醫療志工第二天花蓮慈濟醫院，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0n4QHbWoUEDathyUavA8ctoofQp65pxQC6UH6mHsbg3JZyWcPruRXyNU8J7McKSzel"
+        }
+      ],
+      "title": "醫療志工第二天花蓮慈濟醫院",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-296",
+      "year": 2025,
+      "published": "2025-07-14",
+      "time": "14:49",
+      "activity": "",
+      "notes": [
+        "雙聯學位美國 MCI 暑期營隊，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0zakxdTYWpDe4Q3dAft43qD63rorfppXukMBa41aJ6SxwwVRsG1S2QgWU6bL5Xsj2l"
+        }
+      ],
+      "title": "雙聯學位美國 MCI 暑期營隊",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-297",
+      "year": 2025,
+      "published": "2025-07-14",
+      "time": "06:35",
+      "activity": "",
+      "notes": [
+        "醫療志工第一天花蓮慈濟醫院，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid03jo7gMNxCGLQnZeUoE3NW9yiw1HEHS7v6QGCP3Q9yxcJQZqtXvtccdbhNPt7KXqdl"
+        }
+      ],
+      "title": "醫療志工第一天花蓮慈濟醫院",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-298",
+      "year": 2025,
+      "published": "2025-07-11",
+      "time": "02:34",
+      "activity": "",
+      "notes": [
+        "美西團與核桃市議員座談，影片待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1290710682617294/"
+        }
+      ],
+      "title": "美西團與核桃市議員座談",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-299",
+      "year": 2025,
+      "published": "2025-07-10",
+      "time": "21:57",
+      "activity": "",
+      "notes": [
+        "新馬國際修學第六天探訪老婦院，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0cYLyX2cjKVuV2qtq5bxuafZFK1MytEqGv7e265rGCA56fZST11DaLf8UKyzPAXrQl"
+        }
+      ],
+      "title": "新馬國際修學第六天探訪老婦院",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-300",
+      "year": 2025,
+      "published": "2025-07-10",
+      "time": "16:36",
+      "activity": "",
+      "notes": [
+        "新生報到率及優秀學生，正文截斷待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid095BqjGuNRgkuPoaf9ZEhf8LECQ5ZhcVWaMefjpNUkQNGifuArYeXykRQvCbWY3el"
+        }
+      ],
+      "title": "新生報到率及優秀學生",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
