@@ -66,17 +66,17 @@ window.reportData = {
       [
         "2018-08",
         "partial",
-        9
+        10
       ],
       [
         "2018-09",
         "partial",
-        7
+        9
       ],
       [
         "2018-10",
         "partial",
-        6
+        7
       ],
       [
         "2018-11",
@@ -606,6 +606,8 @@ window.reportData = {
         "fb-120",
         "fb-121",
         "fb-122",
+        "fb-123",
+        "fb-124",
         "fb-125",
         "fb-126",
         "fb-127",
@@ -618,6 +620,7 @@ window.reportData = {
         "fb-139",
         "fb-140",
         "fb-141",
+        "fb-142",
         "fb-144",
         "fb-146",
         "fb-155",
@@ -643,6 +646,12 @@ window.reportData = {
         "fb-214",
         "fb-218",
         "fb-219",
+        "fb-241",
+        "fb-242",
+        "fb-243",
+        "fb-244",
+        "fb-245",
+        "fb-246",
         "fb-250",
         "fb-251",
         "fb-252",
@@ -696,7 +705,9 @@ window.reportData = {
         "fb-329",
         "fb-330",
         "fb-331",
+        "fb-335",
         "fb-337",
+        "fb-339",
         "fb-342",
         "fb-371",
         "fb-372",
@@ -1282,7 +1293,9 @@ window.reportData = {
         "fb-1019",
         "fb-1020",
         "fb-1021",
-        "fb-1022"
+        "fb-1022",
+        "fb-1024",
+        "fb-1027"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1301,7 +1314,9 @@ window.reportData = {
         "fb-1011",
         "fb-1015",
         "fb-1018",
-        "fb-1023"
+        "fb-1023",
+        "fb-1025",
+        "fb-1026"
       ]
     }
   },
@@ -5137,7 +5152,7 @@ window.reportData = {
       "time": "10:33",
       "activity": "",
       "notes": [
-        "幼兒園國際交流。正文待查。"
+        "官粉記錄德國校長到幼兒園入班，與孩子唱歌和交流。兩個入口同日期、時刻及正文。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -5158,7 +5173,7 @@ window.reportData = {
       "time": "08:05",
       "activity": "",
       "notes": [
-        "歡迎新馬華裔青少年華語暨人文營。正文待查。"
+        "官粉記錄新馬華裔青少年華語暨人文營開展，並歡迎學員入校。兩個入口同日期、時刻及正文。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -5540,7 +5555,7 @@ window.reportData = {
       "time": "08:23",
       "activity": "",
       "notes": [
-        "校慶活動。正文待查。"
+        "官粉提到一位教師，並附十八週年校慶祝賀標籤。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -7626,7 +7641,7 @@ window.reportData = {
       "time": "17:50",
       "activity": "2025-09-20",
       "notes": [
-        "9/20 親師座談，分享三品教育、課程生活與國際交流，午後進行班親座談。貼文正文已展開；活動 09/20。"
+        "親師座談介紹三品教育、課程規劃、生活教育、國際交流及自主學習，下午分班座談。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -7638,7 +7653,8 @@ window.reportData = {
       ],
       "title": "9/20 親師座談，分享三品教育、課程生活與國際交流，午後進行班親座談",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 17:50，同網址單篇顯示 02:50，兩種讀值待核"
     },
     {
       "id": "fb-242",
@@ -7647,7 +7663,7 @@ window.reportData = {
       "time": "16:02",
       "activity": "2025-09-19",
       "notes": [
-        "9/19 09:21 防災演練，熟悉避難流程。正文截斷；活動 09/19。"
+        "9 月 19 日進行防災演練，練習避難路線與自我保護。兩個入口的可見文字及日期錨點一致。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -7659,7 +7675,8 @@ window.reportData = {
       ],
       "title": "9/19 09:21 防災演練，熟悉避難流程",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 16:02，單篇顯示 01:02，兩種讀值待核"
     },
     {
       "id": "fb-243",
@@ -7668,7 +7685,7 @@ window.reportData = {
       "time": "22:28",
       "activity": "",
       "notes": [
-        "慈誠懿德會舉辦敬師謝師活動。正文截斷。"
+        "慈誠懿德會為教師舉辦敬師謝師活動，學生以戲劇、國術及手語表演致謝。兩個入口的可見文字及日期錨點一致。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -7680,7 +7697,8 @@ window.reportData = {
       ],
       "title": "慈誠懿德會舉辦敬師謝師活動",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 22:28，單篇顯示 07:28，兩種讀值待核"
     },
     {
       "id": "fb-244",
@@ -7689,7 +7707,7 @@ window.reportData = {
       "time": "09:03",
       "activity": "",
       "notes": [
-        "中學部線上親職講座預告。正文截斷。"
+        "官粉公告線上親職講座，介紹孩子使用 3C 的需求、專注力與親子對話。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -7710,7 +7728,7 @@ window.reportData = {
       "time": "18:06",
       "activity": "",
       "notes": [
-        "姊妹校馬來西亞吉華獨中人氣票選。正文截斷。"
+        "官粉邀請讀者為馬來西亞姊妹校吉華獨中參加華樂合奏比賽投票。已保存官粉外層可見文字。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -7731,7 +7749,7 @@ window.reportData = {
       "time": "19:26",
       "activity": "",
       "notes": [
-        "開學典禮：以品德為本。正文截斷。"
+        "官粉記錄新學期開學典禮按年段辦理，介紹學習規劃、生活常規、國際交流與升學輔導。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -7743,7 +7761,8 @@ window.reportData = {
       ],
       "title": "開學典禮：以品德為本",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 19:26，同網址單篇顯示 04:26，兩種讀值待核"
     },
     {
       "id": "fb-247",
@@ -9618,7 +9637,7 @@ window.reportData = {
       "time": "20:00",
       "activity": "",
       "notes": [
-        "高一多元選修製作法式吐司，認識浸蛋液、煎製與法國飲食文化。正文已展開。"
+        "高一多元選修透過製作法式吐司認識法國文化。兩個入口顯示相同正文及日期錨點。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -9702,7 +9721,7 @@ window.reportData = {
       "time": "17:14",
       "activity": "2025-07-25",
       "notes": [
-        "濟天之翼火箭隊晉級台灣盃全國決賽，規劃 07/25 屏東旭海發射，述及設計、航電、酬載及回收訓練。正文已展開。"
+        "官粉記錄學生組成「濟天之翼」火箭隊，參與研習與實務訓練並晉級全國決賽。兩個入口顯示相同正文及日期錨點。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -24246,6 +24265,90 @@ window.reportData = {
       "topic": "國際與雙語",
       "kind": "fb",
       "timeNote": "粉專篩選卡顯示 23:52，同網址單篇顯示 08:52，兩種讀值待核"
+    },
+    {
+      "id": "fb-1024",
+      "year": 2018,
+      "published": "2018-08-25",
+      "time": "14:01",
+      "activity": "",
+      "notes": [
+        "粉專記錄附小始業輔導，教師迎接小一新生與轉學生。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/250462432264925/"
+        }
+      ],
+      "title": "附小新生始業輔導迎接小一與轉學生",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1025",
+      "year": 2018,
+      "published": "2018-09-13",
+      "time": "08:58",
+      "activity": "",
+      "notes": [
+        "粉專分享花蓮祈福會及學生參與。僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid036YWxZ7mvSUhDMHDDzEncvLTDUL2yP3xoATCvzcapLLeLuQyxFkPz6FgEzaWM3YbAl"
+        }
+      ],
+      "title": "花蓮吉祥孝親祈福會",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1026",
+      "year": 2018,
+      "published": "2018-09-21",
+      "time": "18:48",
+      "activity": "",
+      "notes": [
+        "粉專轉載大愛新聞，記錄附小演練就地掩護、避難疏散和緊急救護。僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Zm3KeTySgibuAGvJzqzETe6WLXDyYaW16YgkXdXHNVABq7CtTcxVcQWstaY8WhGDl"
+        }
+      ],
+      "title": "附小國家防災日地震應變演練",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1027",
+      "year": 2018,
+      "published": "2018-10-11",
+      "time": "16:24",
+      "activity": "",
+      "notes": [
+        "粉專公告中學部在全國學生美術比賽花蓮縣初賽取得佳績，並感謝教師指導。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02m8EUFmZ6KrEdZDz7bKwKibdnpe2cemGCXnNTdL1ek52SrJon87V14tGcQhqfwWynl"
+        }
+      ],
+      "title": "107 學年度全國學生美術比賽花蓮縣初賽佳績",
+      "topic": "競賽與成果",
+      "kind": "fb"
     }
   ]
 };
