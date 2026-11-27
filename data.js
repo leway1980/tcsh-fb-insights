@@ -146,7 +146,7 @@ window.reportData = {
       [
         "2019-12",
         "partial",
-        13
+        17
       ],
       [
         "2020-01",
@@ -161,7 +161,7 @@ window.reportData = {
       [
         "2020-03",
         "partial",
-        9
+        11
       ],
       [
         "2020-04",
@@ -306,12 +306,12 @@ window.reportData = {
       [
         "2022-08",
         "partial",
-        12
+        14
       ],
       [
         "2022-09",
         "partial",
-        6
+        10
       ],
       [
         "2022-10",
@@ -1734,7 +1734,15 @@ window.reportData = {
         "fb-1333",
         "fb-1334",
         "fb-1335",
-        "fb-1336"
+        "fb-1336",
+        "fb-1337",
+        "fb-1338",
+        "fb-1340",
+        "fb-1341",
+        "fb-1342",
+        "fb-1343",
+        "fb-1344",
+        "fb-1346"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1849,7 +1857,11 @@ window.reportData = {
         "fb-1267",
         "fb-1270",
         "fb-1283",
-        "fb-1294"
+        "fb-1294",
+        "fb-1339",
+        "fb-1345",
+        "fb-1347",
+        "fb-1348"
       ]
     }
   },
@@ -31625,6 +31637,264 @@ window.reportData = {
       "topic": "在地與校外學習",
       "kind": "fb",
       "timeNote": "列表已確認發文日期，發文時刻尚未核對。"
+    },
+    {
+      "id": "fb-1337",
+      "year": 2019,
+      "published": "2019-12-25",
+      "time": "17:50",
+      "activity": "",
+      "notes": [
+        "官粉外層三行說明與交大策略聯盟，引進大學線上課程。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid024Wa5ADvPPik98GW5oh7umU4EECEXVu1pnKFXeMZnhUQ6fxyG7R8a1Q8tTVEx3yLEl"
+        }
+      ],
+      "title": "與交通大學合作引進線上課程（官帖外層文字）",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1338",
+      "year": 2019,
+      "published": "2019-12-25",
+      "time": "10:28",
+      "activity": "",
+      "notes": [
+        "官帖以短文記錄管樂隊聖誕快閃活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0BtZoqhdK7DJ1kkFwgc9HAHvATCuRE97mwhMGnZxJTUXjwcy8dzUTMTkpwUanyWSUl"
+        }
+      ],
+      "title": "慈中管樂隊聖誕節快閃",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1339",
+      "year": 2019,
+      "published": "2019-12-25",
+      "time": "15:10",
+      "activity": "",
+      "notes": [
+        "官帖主題為學院制多元選修成果發表及課程合作。正文涉及來源尚待查明的報導文字，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1212995225561100/"
+        }
+      ],
+      "title": "學院制多元選修成果發表",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1340",
+      "year": 2019,
+      "published": "2019-12-27",
+      "time": "06:45",
+      "activity": "",
+      "notes": [
+        "收錄官帖開頭兩個標籤，標明附小及附幼歲末祝福。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04YeWLXoNJjdk66TTW6JsRPxwrwTCA2K4sss1u71ceZpKkhRBXAi7AhKVpKc3hrTFl"
+        }
+      ],
+      "title": "附小與附幼歲末祝福（官帖標籤）",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1341",
+      "year": 2022,
+      "published": "2022-08-23",
+      "time": "09:00",
+      "activity": "",
+      "notes": [
+        "學生到豐田進行田野調查和在地文史體驗，並以分組提案參與地方創生。",
+        "封存前三段，後續具名學生內容已省略。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02vA7ZZy1yiWMaTSirGUFKxSwGpuVKpWs9Fnefhs9BE74thTCvRjni95o8YiMbty5yl"
+        }
+      ],
+      "title": "高中生豐田文史營與地方創生（可見摘錄）",
+      "topic": "在地與校外學習",
+      "kind": "fb",
+      "timeNote": "單篇初載顯示 8 月 22 日，穩定後日期錨點與列表同為 8 月 23 日 09:00。"
+    },
+    {
+      "id": "fb-1342",
+      "year": 2022,
+      "published": "2022-08-22",
+      "time": "18:02",
+      "activity": "",
+      "notes": [
+        "教師用角色扮演討論學生情緒的回應方式，並分組盤點各部別的班級經營議題。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0viLEQDCkrcrFY8LRsNEpqZ7pmH5ZFMma855FpvGcW7ttAeJjT3LH6DF1FZaZaUK6l"
+        }
+      ],
+      "title": "教師共識營班級經營與學生支持",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "列表顯示 18:02，單篇顯示 03:02，原址和日期錨點一致。"
+    },
+    {
+      "id": "fb-1343",
+      "year": 2022,
+      "published": "2022-09-06",
+      "time": "08:00",
+      "activity": "",
+      "notes": [
+        "官帖記錄高一戶外教學結合阿美族漁業文化、公民與社會課及永續海洋。",
+        "封存前兩段，省略具名學生經驗與分享人。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0a9DDpq5rabcdcQBmXvwKR6iCyb9Mbppn3izwFLJ2dhFRuJCyu6zgSp7vR8QW2y43l"
+        }
+      ],
+      "title": "高一靜浦部落文化探索（可見摘錄）",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1344",
+      "year": 2022,
+      "published": "2022-09-02",
+      "time": "20:15",
+      "activity": "",
+      "notes": [
+        "附幼以標籤記錄外籍教師入園與幼兒互動，介紹國際教育處的課程安排。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02piH6VrKksXgGSw95Wy2neXF21j2dfJq8aCKoxj7tXxwmXrVAxGrGgNtAn79nJVsjl"
+        }
+      ],
+      "title": "外籍教師入園與附幼英語課",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1345",
+      "year": 2022,
+      "published": "2022-09-06",
+      "time": "08:45",
+      "activity": "",
+      "notes": [
+        "官帖記錄附小參加花蓮縣語文競賽。正文涉及可識別學生資料，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02h7WKVtDMyGkuvMHnsxipMc3WRuMbSQ7pb1gM8hybR4Ns6vE3Y5c1zBU55WAq16Ptl"
+        }
+      ],
+      "title": "附小參加花蓮縣語文競賽",
+      "topic": "競賽與成果",
+      "kind": "fb",
+      "timeNote": "單篇初載曾顯示 9 月 5 日，穩定後日期錨點與列表一致。"
+    },
+    {
+      "id": "fb-1346",
+      "year": 2022,
+      "published": "2022-09-05",
+      "time": "18:13",
+      "activity": "",
+      "notes": [
+        "官帖記錄比賽提前、團隊準備與師長支持。已封存不具名的前段摘錄。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02YKH1326JdHwzpyijDYKK5UUbdSi9zHhYEUkymVCgqJp539AkBDywNebryK3XY4fxl"
+        }
+      ],
+      "title": "花蓮縣語文競賽捷報（可見摘錄）",
+      "topic": "競賽與成果",
+      "kind": "fb",
+      "timeNote": "列表顯示 18:13，單篇顯示 03:13，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1347",
+      "year": 2020,
+      "published": "2020-03-27",
+      "time": "12:39",
+      "activity": "",
+      "notes": [
+        "慈中官帖分享大愛新聞蔬食推廣報導並附招生資訊。正文為轉載的報導，僅留索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0SAbcGL2Y1CeL1F4dLEHsWKK681zhqcpC9XTkNVZQqnHT3mMZDjGJiUdtHfDfsivcl"
+        }
+      ],
+      "title": "官粉轉載蔬食推廣報導",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1348",
+      "year": 2020,
+      "published": "2020-03-27",
+      "time": "12:37",
+      "activity": "",
+      "notes": [
+        "慈中官帖分享大愛新聞防疫課程報導並附招生資訊。正文為轉載的報導，僅留索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ZyGkXAWCfWW3f8xzeCjNAYf5z1uU2G3gkuHvjEiMQxj6rLwBvXWm1Rhv1qM2dj5Jl"
+        }
+      ],
+      "title": "官粉轉載防疫課程報導",
+      "topic": "課程與專題",
+      "kind": "fb"
     }
   ]
 };
