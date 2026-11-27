@@ -5,7 +5,19 @@ const byId = new Map(report.records.map(record => [record.id, record]));
 const facebookPosts = report.records.filter(record => record.kind === 'fb');
 const postCount = facebookPosts.length;
 const eventCount = report.records.length - postCount;
-const partialCount = facebookPosts.filter(record => record.partial).length;
+const textArchive = report.coverage.textArchive || {};
+const storedText = new Set(textArchive.stored);
+const noVisibleText = new Set(textArchive.noVisibleText);
+const indexOnly = new Set(textArchive.indexOnly);
+const pendingTextCount = postCount - storedText.size - noVisibleText.size - indexOnly.size;
+
+function textStatus(record) {
+  if (record.kind !== 'fb') return '';
+  if (storedText.has(record.id)) return '已封存文字';
+  if (noVisibleText.has(record.id)) return '未見獨立正文';
+  if (indexOnly.has(record.id)) return '僅留索引';
+  return '文字待查';
+}
 const unverifiedTimeCount = facebookPosts.filter(record => !record.time).length;
 const insights = [
   {
@@ -98,7 +110,7 @@ function sourceLinks(record) {
 function dates(record) {
   const list = element('dl', 'record-dates');
   const entries = record.kind === 'fb'
-    ? [['發文', [record.published, record.time].filter(Boolean).join(' ')], ['活動', record.activity || (record.partial ? '待核對' : '原文未載')]]
+    ? [['發文', [record.published, record.time].filter(Boolean).join(' ')], ['活動', record.activity || '未記載']]
     : [['活動或適用', record.activity], ['刊登或備查', record.published || '未載']];
   for (const [label, value] of entries) {
     const pair = element('div');
@@ -113,8 +125,7 @@ function notes(record) {
   const list = element('ul');
   for (const point of record.notes) list.append(element('li', '', point));
   wrapper.append(list);
-  const hints = [record.media, record.timeNote].filter(Boolean);
-  if (record.partial) hints.push('正文或影音內容待確認');
+  const hints = [record.timeNote].filter(Boolean);
   if (hints.length) wrapper.append(element('p', 'record-hint', hints.join(' · ')));
   return wrapper;
 }
@@ -122,7 +133,8 @@ function notes(record) {
 function recordChips(record) {
   const line = element('div', 'chips');
   line.append(element('span', 'chip', sourceType(record)), element('span', 'chip secondary', record.topic));
-  if (record.partial) line.append(element('span', 'chip pending-chip', '部分待核'));
+  const status = textStatus(record);
+  if (status) line.append(element('span', status === '文字待查' ? 'chip pending-chip' : 'chip', status));
   return line;
 }
 
@@ -419,7 +431,7 @@ function renderCoverage() {
   const timeSummary = unverifiedTimeCount
     ? `${unverifiedTimeCount} 則發文時刻待核。`
     : '已收錄的貼文皆有發文時刻，有介面讀值差異者逐篇附註。';
-  get('coverage-note').textContent = `${coverageSummary}收錄的貼文中 ${partialCount} 則有正文、影音或內容疑點待核。${timeSummary}`;
+  get('coverage-note').textContent = `${coverageSummary}已封存 ${storedText.size} 則文字，${pendingTextCount} 則文字待查，${noVisibleText.size} 則未見獨立正文，${indexOnly.size} 則僅留索引。${timeSummary}`;
 }
 
 get('hero-posts').textContent = String(postCount);
@@ -430,4 +442,4 @@ renderRecords();
 renderAnnualChart();
 renderCoverage();
 window.initPostExploration?.({ ...report, onPick: showExplorationRecords });
-window.initEvidenceTimeline?.({ records: report.records, onPick: showExplorationRecords });
+window.initEvidenceTimeline?.({ records: report.records, textStatus, onPick: showExplorationRecords });

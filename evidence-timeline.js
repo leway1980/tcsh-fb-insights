@@ -27,7 +27,7 @@
     if (text) node.textContent = text;
     return node;
   }
-  window.initEvidenceTimeline = function ({ records, onPick } = {}) {
+  window.initEvidenceTimeline = function ({ records, textStatus, onPick } = {}) {
     const root = document.getElementById('evidence-timeline');
     if (!root) return;
     root.replaceChildren();
@@ -50,8 +50,9 @@
         const body = el('div', 'et-body');
         body.append(el('p', '', description), el('p', 'et-source-title', record.title));
         const posted = ['發文', record.published, record.time].filter(Boolean).join(' ');
-        body.append(el('p', 'et-meta', posted), el('p', 'et-meta', '活動日期 ' + (record.activity || '待核對')));
-        if (record.partial) body.append(el('p', 'et-caution', ['部分內容待核', record.media, record.timeNote].filter(Boolean).join(' · ')));
+        body.append(el('p', 'et-meta', posted), el('p', 'et-meta', '活動日期 ' + (record.activity || '未記載')));
+        const sourceNote = [textStatus?.(record), record.timeNote].filter(Boolean).join(' · ');
+        if (sourceNote) body.append(el('p', 'et-caution', sourceNote));
         const links = el('div', 'et-actions');
         for (const source of record.sources || []) {
           let url;
