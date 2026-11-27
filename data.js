@@ -221,12 +221,12 @@ window.reportData = {
       [
         "2021-03",
         "partial",
-        12
+        13
       ],
       [
         "2021-04",
         "partial",
-        14
+        16
       ],
       [
         "2021-05",
@@ -336,7 +336,7 @@ window.reportData = {
       [
         "2023-02",
         "partial",
-        7
+        12
       ],
       [
         "2023-03",
@@ -1789,7 +1789,15 @@ window.reportData = {
         "fb-1396",
         "fb-1397",
         "fb-1398",
-        "fb-1399"
+        "fb-1399",
+        "fb-1401",
+        "fb-1402",
+        "fb-1403",
+        "fb-1404",
+        "fb-1405",
+        "fb-1406",
+        "fb-1407",
+        "fb-1408"
       ],
       "noVisibleText": [
         "fb-27",
@@ -22556,7 +22564,7 @@ window.reportData = {
       "title": "3 月 6 日官帖，僅保留編目",
       "topic": "主題待核",
       "kind": "fb",
-      "timeNote": "清冊記為 17:25，同篇的另一個單篇入口初載顯示 01:25。已用官粉作者、日期及相同相簿比對兩網址，兩種時刻讀值待核"
+      "timeNote": "列表顯示 17:25，兩個官帖入口的單篇顯示 01:25。兩個官帖入口的日期錨點與可見正文一致。"
     },
     {
       "id": "fb-907",
@@ -22713,7 +22721,8 @@ window.reportData = {
       "time": "18:44",
       "activity": "2021-03-13",
       "notes": [
-        "公告招生說明會於台北、台中、高雄、花蓮和桃園同步舉行。相片及報名連結待核。"
+        "公告招生說明會於台北、台中、高雄、花蓮和桃園同步舉行。相片及報名連結待核。",
+        "兩個官帖入口的日期錨點與可見正文一致。"
       ],
       "media": "相片及外部報名網頁",
       "partial": true,
@@ -25987,7 +25996,8 @@ window.reportData = {
       "time": "10:00",
       "activity": "",
       "notes": [
-        "附小三年級生與慈大國際學生組隊，以英語解題、購物及結帳，將物資送到食物銀行。"
+        "附小三年級生與慈大國際學生組隊，以英語解題、購物及結帳，將物資送到食物銀行。",
+        "兩個官帖入口的日期錨點與可見正文一致。"
       ],
       "media": "",
       "partial": false,
@@ -26008,7 +26018,8 @@ window.reportData = {
       "time": "13:36",
       "activity": "",
       "notes": [
-        "官粉記錄高一九門多元選修，學生以展演、英語調查報告、標本和短片呈現學習成果。"
+        "官粉記錄高一九門多元選修，學生以展演、英語調查報告、標本和短片呈現學習成果。",
+        "兩個官帖入口的日期錨點與可見正文一致。"
       ],
       "media": "",
       "partial": false,
@@ -33060,6 +33071,175 @@ window.reportData = {
       ],
       "title": "官帖分享學生考試成果",
       "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1401",
+      "year": 2023,
+      "published": "2023-02-18",
+      "time": "20:17",
+      "activity": "",
+      "notes": [
+        "官帖記錄接待家庭研習、跨文化溝通、師生日程與雙方校長的交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02AWBp4Yt8EVuh3yRCDrndjJNErVeZo4R5KXVgjJddB4wRJnDNexKcmuPqA21cGaMEl"
+        }
+      ],
+      "title": "附小與美國 Cornerstone 小學寄宿交流準備",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1402",
+      "year": 2023,
+      "published": "2023-02-17",
+      "time": "09:54",
+      "activity": "",
+      "notes": [
+        "官帖以幼兒園在地震中的反應說明安全教育。",
+        "正文的事件年份寫 111 年，Facebook 顯示發文日為 2023 年 2 月 17 日。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034ndAQ2cCGkLBeXXd27Lhkbu7WGb3cwWAYMbJ882eSoaDXEWin5PHHg4A6h7jhF2el"
+        }
+      ],
+      "title": "附幼地震應變與安全教育",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1403",
+      "year": 2023,
+      "published": "2023-02-13",
+      "time": "15:39",
+      "activity": "",
+      "notes": [
+        "開學典禮為土耳其地震受災者祈福，並談及環保、垃圾分類和永續觀念。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0K1bj3Rg43LR7xqhG3r1pFTTHKyqwUCfEEUcxWNKg7HwerbR7t9JFDRQth6q1B6rnl"
+        }
+      ],
+      "title": "第二學期開學典禮的關懷與環保教育",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1404",
+      "year": 2023,
+      "published": "2023-02-13",
+      "time": "08:35",
+      "activity": "",
+      "notes": [
+        "官帖記錄師長的精舍巡禮、品書會與協力工廠參訪，封存所見節錄。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04bNrubfjWmsBGMNZcr1ypYSbEaFToLcRF9DUNq2GBxs8wxA53pYkaMy7NRikMfAwl"
+        }
+      ],
+      "title": "附小師長靜思精舍巡禮與研習（可見摘錄）",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1405",
+      "year": 2023,
+      "published": "2023-02-12",
+      "time": "12:43",
+      "activity": "",
+      "notes": [
+        "官帖記錄五區同步舉辦招生說明會，介紹校定必修、多元選修、自主學習與教師跨領域增能。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02T3hwwxLu3rXMDp5xV8zygyFnXMjadGkb6CRbEzHJ4E63NtAdtEGGrTtsXiAr5FeGl"
+        }
+      ],
+      "title": "國高中招生說明會與跨領域課程",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1406",
+      "year": 2021,
+      "published": "2021-03-17",
+      "time": "15:54",
+      "activity": "",
+      "notes": [
+        "官粉外層說明附幼定期逃生演練，並記錄這次增加滅火器使用教學。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037oUAqGJGkfZx7U3hJxEBGPHgLESpfHR5jnMJJrPWfpM8zfE9RYSrxG6cTGUH1kUFl"
+        }
+      ],
+      "title": "附幼無預警逃生及消防教學（官帖外層文字）",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1407",
+      "year": 2021,
+      "published": "2021-04-06",
+      "time": "10:57",
+      "activity": "",
+      "notes": [
+        "官帖可見兩個標籤，提到收假和校長給同學的信。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid025NooFT6iSofbMp8GR9Y5AJjdh6q6Xfvdt78pK6SBs36TPPWZ32YZADzgCXwNqfFCl"
+        }
+      ],
+      "title": "收假日校長給同學的一封信（官帖標籤）",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1408",
+      "year": 2021,
+      "published": "2021-04-02",
+      "time": "13:05",
+      "activity": "",
+      "notes": [
+        "官帖回報住宿生已平安返家，慈中國小與幼兒園親師生均安。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02ACiKNtV5reFsBPRHpweqpUWorusvvog86b6ai41opzh2utHvueQowd1Ut5NCXNUtl"
+        }
+      ],
+      "title": "清明孝親假師生平安訊息",
+      "topic": "招生與校園生活",
       "kind": "fb"
     }
   ]
