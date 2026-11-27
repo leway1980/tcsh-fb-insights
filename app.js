@@ -97,7 +97,10 @@ function sourceType(record) {
 
 function sourceLinks(record) {
   const list = element('div', 'source-links');
-  for (const source of record.sources) {
+  const sources = record.observedSource
+    ? [...record.sources, { label: 'Facebook 候選連結（同篇待核）', url: record.observedSource }]
+    : record.sources;
+  for (const source of sources) {
     const link = element('a', 'source-link', source.label);
     link.href = source.url;
     link.target = '_blank';

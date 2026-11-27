@@ -121,7 +121,7 @@ window.reportData = {
       [
         "2019-07",
         "partial",
-        4
+        10
       ],
       [
         "2019-08",
@@ -146,7 +146,7 @@ window.reportData = {
       [
         "2019-12",
         "partial",
-        4
+        12
       ],
       [
         "2020-01",
@@ -426,7 +426,7 @@ window.reportData = {
       [
         "2024-08",
         "partial",
-        30
+        31
       ],
       [
         "2024-09",
@@ -1513,7 +1513,21 @@ window.reportData = {
         "fb-1084",
         "fb-1086",
         "fb-1087",
-        "fb-1088"
+        "fb-1088",
+        "fb-1090",
+        "fb-1091",
+        "fb-1092",
+        "fb-1093",
+        "fb-1094",
+        "fb-1095",
+        "fb-1096",
+        "fb-1097",
+        "fb-1098",
+        "fb-1099",
+        "fb-1100",
+        "fb-1101",
+        "fb-1102",
+        "fb-1103"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1601,7 +1615,8 @@ window.reportData = {
         "fb-1068",
         "fb-1078",
         "fb-1083",
-        "fb-1085"
+        "fb-1085",
+        "fb-1089"
       ]
     }
   },
@@ -9235,7 +9250,8 @@ window.reportData = {
       "time": "16:36",
       "activity": "",
       "notes": [
-        "原連結先前兩次顯示錯誤，正文仍待查。"
+        "粉專日期列表另見同日同時的招生與會考成果貼文，主題與原清冊吻合。",
+        "原入口曾顯示錯誤。可開啟的候選連結如列，兩入口的同篇關係仍待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9247,7 +9263,8 @@ window.reportData = {
       ],
       "title": "新生報到率及優秀學生",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "observedSource": "https://www.facebook.com/tcsh.edu/posts/pfbid02CSg2MJFzTG4yVqHe6drEatxc8rB6Es9zR7jmVsUmpRMUihLAhN4ch4b436iaZmR5l"
     },
     {
       "id": "fb-301",
@@ -22350,7 +22367,8 @@ window.reportData = {
       "time": "15:15",
       "activity": "",
       "notes": [
-        "原連結顯示目前無法查看。另見異址日期連結，待核同篇。"
+        "原連結顯示目前無法查看，正文待查。",
+        "從日期篩選找到同一時刻的官方卡，畫面仍顯示無法查看。該卡日期連結與原址是否同篇待核。"
       ],
       "media": "",
       "partial": true,
@@ -26088,6 +26106,324 @@ window.reportData = {
       ],
       "title": "全國科展兩組參賽、獲三項獎",
       "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1089",
+      "year": 2024,
+      "published": "2024-08-21",
+      "time": "10:28",
+      "activity": "",
+      "notes": [
+        "圖書館開學前邀講者向高一新生推薦閱讀書目，涵蓋自我、冒險、生命與情感。",
+        "正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0oZ7dYS4XMaDkQkSU3cDrsFNVfiY3yHYaDviopaUJARBiPTYMMGQL9mccUdqGYSjVl"
+        }
+      ],
+      "title": "圖書館講座「青春正好讀」",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1090",
+      "year": 2019,
+      "published": "2019-12-19",
+      "time": "23:35",
+      "activity": "",
+      "notes": [
+        "官帖記錄青森祭典文化、體驗日本高校生活，以及寄宿家庭交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02mKUv7svynbKEJJtvDsQsJLLBQ6RWsoSEtuUQXjjYSHmnaxtQHmUUwmS3A5nG2Zt7l"
+        }
+      ],
+      "title": "青森修學體驗：睡魔祭、一日高校生與寄宿家庭",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1091",
+      "year": 2019,
+      "published": "2019-12-19",
+      "time": "16:56",
+      "activity": "",
+      "notes": [
+        "家長會送上包粽祝福和必勝頭帶，校長也為高三學生加油。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0mVkN8v8reVDcYR1ZVpLqb4GT7xFL9U8bqHYmprg2yxobFnhfh1RW7qFsUATKeTa8l"
+        }
+      ],
+      "title": "高三學測倒數 28 天的祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1092",
+      "year": 2019,
+      "published": "2019-12-11",
+      "time": "23:13",
+      "activity": "",
+      "notes": [
+        "官粉外層文字為一句給童軍團的鼓勵。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0pkuB9wLWandKQWZtBrhdpM4icvDieetgpsF1p37ARt5U9G9mQQxMEW5WvSuejEa1l"
+        }
+      ],
+      "title": "童軍團轉分享",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1093",
+      "year": 2019,
+      "published": "2019-12-11",
+      "time": "20:21",
+      "activity": "",
+      "notes": [
+        "官粉分享校友創業開設蔬食餐廳，邀請大家支持。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023qN8AhcPwymtJXJrqXmQNnvyyxDeBCSGxLHy9wfyKWUPg3USFVQv6tPQH4JsEHXUl"
+        }
+      ],
+      "title": "校友蔬食餐廳轉分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1094",
+      "year": 2019,
+      "published": "2019-12-11",
+      "time": "09:42",
+      "activity": "",
+      "notes": [
+        "官粉公告 12 月 13 日感飢活動，邀請參與並支持飢餓救助。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/559790711263095/"
+        }
+      ],
+      "title": "感飢 12 行善活動倒數",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1095",
+      "year": 2019,
+      "published": "2019-12-19",
+      "time": "11:02",
+      "activity": "",
+      "notes": [
+        "官粉祝賀學生參加文化局閱讀活動及 N.423 星球主題書展徵文獲佳績。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Cx3ttaeGM28jK8ZLVDpiRTMpnnNzCBy9mBKjgoNgU484o5YCNuP8g2TM2skabdypl"
+        }
+      ],
+      "title": "主題書展徵文成果",
+      "topic": "競賽與成果",
+      "kind": "fb",
+      "timeNote": "列表顯示 2019-12-19 11:02，單篇另顯示 2019-12-18 19:02。"
+    },
+    {
+      "id": "fb-1096",
+      "year": 2019,
+      "published": "2019-12-17",
+      "time": "22:31",
+      "activity": "",
+      "notes": [
+        "中學部獲九組項目全國賽代表權，並準備接續報名全國決賽。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/photo/?fbid=2162268617415660&set=a.433436092139415"
+        }
+      ],
+      "title": "花蓮縣學生音樂賽取得九項全國賽代表權",
+      "topic": "競賽與成果",
+      "kind": "fb",
+      "timeNote": "列表顯示 22:31，單篇另顯示 06:31。"
+    },
+    {
+      "id": "fb-1097",
+      "year": 2019,
+      "published": "2019-12-17",
+      "time": "00:16",
+      "activity": "",
+      "notes": [
+        "學生由松山經羽田到青森，官帖記錄同學在旅途中互助與學習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0muStCtux72rEz6rP3wKAGpJMpgCJ3BHcXHb8YXt3DbBL1rXENz6dAVDYknurD1Qal"
+        }
+      ],
+      "title": "日本青森國際修學啟程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1098",
+      "year": 2019,
+      "published": "2019-07-19",
+      "time": "15:47",
+      "activity": "",
+      "notes": [
+        "兩校互相介紹，安排入班學習及泰文課。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02jggpQjBW89cvvzS4CHnb4zrFRPpbU25QK45pUrKSytmyV12NafNuRCFnbeqUybUjl"
+        }
+      ],
+      "title": "清邁校際交流第四天",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1099",
+      "year": 2019,
+      "published": "2019-07-19",
+      "time": "15:44",
+      "activity": "",
+      "notes": [
+        "學生學泰文、到市場採買並練習烹飪。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Hnin8fxA6d7xDvLUwcR9NdNbgs5Ja9VW9DiefGuijMeeZXaAr7iwHjckijxQsZPMl"
+        }
+      ],
+      "title": "清邁校際交流第三天",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1100",
+      "year": 2019,
+      "published": "2019-07-19",
+      "time": "01:47",
+      "activity": "",
+      "notes": [
+        "官帖列出馬來及印度舞蹈、娘惹蠟染、植物園和國家圖書館等行程。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ym9Fj6Un3dcMGwRbi49MPm2gYzdGBdZawJvsYtJD7jLTKricb8u8Vz8LiiFV5oi3l"
+        }
+      ],
+      "title": "附小新加坡國際修學與菩提學校交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1101",
+      "year": 2019,
+      "published": "2019-07-18",
+      "time": "16:08",
+      "activity": "",
+      "notes": [
+        "官粉以短文分享泰北修學，鼓勵學生走出舒適圈。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid033dgJjnxMBWpHMQA9jwsmJB9tyAVzAJMf9Gj8dkYhGCfkKwgN3ZKQRZQrzCqNmSZCl"
+        }
+      ],
+      "title": "慈大附中泰北行轉分享",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1102",
+      "year": 2019,
+      "published": "2019-07-18",
+      "time": "00:43",
+      "activity": "",
+      "notes": [
+        "附小與菩提學校從新生水、剩食、海洋垃圾及減塑等議題展開交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid08M2tqWrZkipRsNFP5uFYHx46GJWsGcZM1q5i3CzM8wUtj4sJwqP7kzwFUH6AofuVl"
+        }
+      ],
+      "title": "新加坡修學：兒童環境議題交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1103",
+      "year": 2019,
+      "published": "2019-07-17",
+      "time": "09:51",
+      "activity": "",
+      "notes": [
+        "修學團透過泰語課與香花燭製作認識當地生活禮節和文化。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Lbt65SnWfy9bvsLmzbuMaXQKGKwFtN8BQUKxgTPgq1J48DnZ4b7BcHicJAcNMV9Cl"
+        }
+      ],
+      "title": "泰北修學第二天：泰語與香花燭",
+      "topic": "國際與雙語",
       "kind": "fb"
     }
   ]
