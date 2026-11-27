@@ -19,6 +19,11 @@ window.reportData = {
         62
       ],
       [
+        "2018-11",
+        "partial",
+        7
+      ],
+      [
         "2018-12",
         "partial",
         5
@@ -39,14 +44,24 @@ window.reportData = {
         0
       ],
       [
+        "2022-10",
+        "partial",
+        6
+      ],
+      [
         "2022-11",
         "partial",
-        2
+        7
       ],
       [
         "2022-12",
         "partial",
         10
+      ],
+      [
+        "2023-08",
+        "partial",
+        13
       ],
       [
         "2023-09",
@@ -15077,6 +15092,678 @@ window.reportData = {
       ],
       "title": "颱風假期間的校園整理",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-645",
+      "year": 2018,
+      "published": "2018-11-30",
+      "time": "18:51",
+      "activity": "2018-11-29",
+      "notes": [
+        "貼文記錄香港中文大學等教育夥伴到校交流。",
+        "中學部公開授課項目包括多元選修「樂活花蓮」及國一英語，交流依說課、觀課、共同議課進行。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0oUdvr87mHshNpLmBW4ApfrMZc79xE2GU7EYNdoUPNqVPaPP6nWjUtMq64BwesS9dl"
+        }
+      ],
+      "title": "香港中文大學團到校觀摩校本課程",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-646",
+      "year": 2018,
+      "published": "2018-11-30",
+      "time": "17:47",
+      "activity": "",
+      "notes": [
+        "幼兒園善解班為餐廳主題分組準備問題，前往學校附近的蔬食餐廳觀察。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/340017149887946/"
+        }
+      ],
+      "title": "幼兒園到蔬食餐廳觀察學習",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-647",
+      "year": 2018,
+      "published": "2018-11-17",
+      "time": "19:10",
+      "activity": "",
+      "notes": [
+        "附小三年級雙語班在賣場完成英語闖關，用英語交談、查詢、討論與結帳。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/318899672029559/"
+        }
+      ],
+      "title": "附小三年級英語賣場任務",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-648",
+      "year": 2018,
+      "published": "2018-11-15",
+      "time": "14:26",
+      "activity": "",
+      "notes": [
+        "貼文介紹幼兒組 60 公尺跑及趣味競賽，亦記錄師長及志工參與。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/725036087872473/"
+        }
+      ],
+      "title": "慈幼 60 公尺競賽與趣味競賽",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-649",
+      "year": 2018,
+      "published": "2018-11-14",
+      "time": "17:34",
+      "activity": "",
+      "notes": [
+        "「手護洄瀾」社區服務加入校園記者獎，國三、高一與高二各班派學生用新聞帶記錄服務。",
+        "外連影片待核。"
+      ],
+      "media": "相片與外連影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02D3jGo7tYd8vyFNNEDhS3vrYjsaR2Yv3549npMrrNC3bDu3rXduTQ4KdxTuVCoPRal"
+        }
+      ],
+      "title": "校慶社區服務加入校園記者獎",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-650",
+      "year": 2022,
+      "published": "2022-11-18",
+      "time": "20:24",
+      "activity": "2022-11-16",
+      "notes": [
+        "美國緬因中央中學校長到慈大附中交流，分享青少年應具備的國際觀。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0sYCmZH5dnSVxNRsqnh7TMJVPdrf2WW8fGjXeoYRsFXFtYWT6GeG4Et5ww1nZcJKcl"
+        }
+      ],
+      "title": "美國緬因中央中學校長來訪交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-651",
+      "year": 2022,
+      "published": "2022-11-16",
+      "time": "13:47",
+      "activity": "",
+      "notes": [
+        "貼文記錄附小與新加坡菩提學校的國際交流邁入第 12 年，雙方在雲端分享校園及社團活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02MjQYHpj8GFT84pdNdNTWACU9he8THeYWXKJ6BzapLBBWL2MusTNJkRS1VpJ1xEBal"
+        }
+      ],
+      "title": "附小與新加坡菩提學校線上交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-652",
+      "year": 2022,
+      "published": "2022-11-10",
+      "time": "13:19",
+      "activity": "",
+      "notes": [
+        "粉專祝賀學生獲全國高級中等學校英語演講比賽北二區決賽優勝。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0449FzQB6AK1rDDAfA6GMZ4PnwpyxZckk6LrTrBKdkEqQPBZgsvV8B2YRP5qgNtiel"
+        }
+      ],
+      "title": "全國高中英語演講競賽優勝",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-653",
+      "year": 2022,
+      "published": "2022-11-09",
+      "time": "14:51",
+      "activity": "",
+      "notes": [
+        "慈大附中國小、國中及高中部舞蹈隊於地方舞蹈比賽取得成果，貼文說明將有四支舞碼代表花蓮參加全國賽。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0fC1B8BXdY4cWmrb7bWiwCETgm7CmNSgTWmBgPrv2J1s6rjUUXPkDjJDSp3Y1L9CJl"
+        }
+      ],
+      "title": "四支舞碼取得全國賽資格",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-654",
+      "year": 2022,
+      "published": "2022-11-01",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "貼文以學生經驗說明專題課整合既有研究、發展新論點，並透過團體報告練習討論、分工與表達。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0FKsg2LNuYTCTGa6xJkCaGmdbnQJJwNGD7fh6cjnaXWDpKfMqg4iSeye5iJ7XQMoul"
+        }
+      ],
+      "title": "國中專題課程的分工與論點建立",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-655",
+      "year": 2023,
+      "published": "2023-08-31",
+      "time": "17:16",
+      "activity": "",
+      "notes": [
+        "粉專分享附小開學典禮，以友伴和學習作為開學主題。",
+        "原文所附外部新聞內容待核。"
+      ],
+      "media": "外部新聞連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid036abHPjUYEsrhSRsFN4kFW7AR815vRJLbaUx8fFq8BDiweM8UuFzDxeKZ6AFoyJorl"
+        }
+      ],
+      "title": "附小開學典禮與友伴學習",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-656",
+      "year": 2023,
+      "published": "2023-08-30",
+      "time": "22:51",
+      "activity": "2023-08-30",
+      "notes": [
+        "校方以好書、好友、好習慣為開學主題，並向國一、高一新生說明健檢與健康習慣。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid026buL29ntyWGzJubjwB2UebDdorqZ1fGtL3aTmYer9VudNTUtiGwSF8Rhv3NkxRcKl"
+        }
+      ],
+      "title": "新學期「心三好」開學活動",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-657",
+      "year": 2023,
+      "published": "2023-08-30",
+      "time": "14:19",
+      "activity": "2023-08-30",
+      "notes": [
+        "附小在 8 月 30 日開學日辦理「小一新生齊步走」始業輔導。",
+        "原文所附外部新聞內容待核。"
+      ],
+      "media": "外部新聞連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022F5iGDDjdrjRc8gxJsuFQsVowue4f1SxKEo2xwcCTEEpUC3H1xT2JqVVBJTGvmz3l"
+        }
+      ],
+      "title": "附小小一始業輔導",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-658",
+      "year": 2023,
+      "published": "2023-08-28",
+      "time": "10:11",
+      "activity": "",
+      "notes": [
+        "影片說明提到泰北清邁服務、跨文化理解與學生的成長。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1751341691969468/"
+        }
+      ],
+      "title": "泰北清邁服務學習影片",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-659",
+      "year": 2023,
+      "published": "2023-08-28",
+      "time": "00:17",
+      "activity": "",
+      "notes": [
+        "影片說明引用校長分享，談教師為孩子成長提供方向。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1239770926708789/"
+        }
+      ],
+      "title": "「有溫度的慈濟良師」影片",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-660",
+      "year": 2023,
+      "published": "2023-08-26",
+      "time": "22:01",
+      "activity": "",
+      "notes": [
+        "影片說明標題聚焦慈濟教育與永續，主講者來自慈濟大學。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1365949174013950/"
+        }
+      ],
+      "title": "「慈濟教育攜手邁向永續」影片",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-661",
+      "year": 2023,
+      "published": "2023-08-26",
+      "time": "12:58",
+      "activity": "",
+      "notes": [
+        "粉專影片說明以《經典》雜誌 25 週年為題。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/270638822394634/"
+        }
+      ],
+      "title": "《經典》雜誌 25 週年影片",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-662",
+      "year": 2023,
+      "published": "2023-08-26",
+      "time": "12:49",
+      "activity": "",
+      "notes": [
+        "粉專影片說明題為「從竹筒歲月邁向永續」。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/677431104300892/"
+        }
+      ],
+      "title": "「從竹筒歲月邁向永續」影片",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-663",
+      "year": 2018,
+      "published": "2018-11-10",
+      "time": "20:24",
+      "activity": "",
+      "notes": [
+        "粉專記錄 19 週年校慶因雨變更場地並繼續辦理。",
+        "大愛新聞轉分享內容待核。"
+      ],
+      "media": "轉分享新聞",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid078oxpjHH8gTPUTW82pmzJtdr47P1fqY6etAwPbpKhBxwvESV9ixsor1f5Q9Sp21Ml"
+        }
+      ],
+      "title": "19 週年校慶啟用雨天備案",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-664",
+      "year": 2018,
+      "published": "2018-11-01",
+      "time": "20:03",
+      "activity": "",
+      "notes": [
+        "官粉貼文引述大愛新聞，記錄高中部班聯會與國小部學生在校園籌辦募愛，回應印尼地震及海嘯。",
+        "外部新聞影片待核。"
+      ],
+      "media": "外部新聞影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0tx15H5Nq8hqyYrzb9SB2vdFUJ7vigkNycu1PpBBMDiitpD1V74BTH1YhJeJjGjYBl"
+        }
+      ],
+      "title": "響應印尼震災的校園募愛",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-665",
+      "year": 2022,
+      "published": "2022-10-29",
+      "time": "19:28",
+      "activity": "",
+      "notes": [
+        "粉專報導慈大附中在第 18 屆國家地理知識競賽獲得前三名。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0LyPvVNU7ZZq8gJUeGbgKut4G1orxKwyCxjMPWFJu652y633nzPUBddKZHzosNAVml"
+        }
+      ],
+      "title": "國家地理知識競賽再度奪牌",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-666",
+      "year": 2022,
+      "published": "2022-10-19",
+      "time": "11:51",
+      "activity": "2022-11-05",
+      "notes": [
+        "雙語班成果展演預告 11 月 5 日在慈濟大學大愛樓戲劇廳演出，包含戲劇、舞蹈與歌曲。",
+        "貼文提及學生製作服裝、道具與布景。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02N27frqCeJT2RbdQVGByX3ZQnXLykWv2JBKsoMCSzm6H8FbKvg3aV9TupBTtFyEjnl"
+        }
+      ],
+      "title": "雙語班成果展演預告",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-667",
+      "year": 2022,
+      "published": "2022-10-18",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "校方介紹在課堂及社團中培養學生口語表達，並提供課後人才培訓。",
+        "貼文談到以清楚、有邏輯的方式分享想法。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XsBC1ocLBFYwEYjadERkgB6dBqRdgQKarTqZpGs8cvjPdY6NJhH4q5Wv5ZXJ7ippl"
+        }
+      ],
+      "title": "口語表達的課堂、社團及課後培訓",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-668",
+      "year": 2022,
+      "published": "2022-10-08",
+      "time": "20:11",
+      "activity": "",
+      "notes": [
+        "官粉有發文時間及永久連結，畫面只見外部新聞分享。",
+        "本次未見粉專自寫正文，新聞內容待核。"
+      ],
+      "media": "外部新聞分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0gohua56G5TraMeE2EbiSYkBRcuaFyiMNhnXKJbbFTr9LD4XnNaXScPFRLX8tn1WHl"
+        }
+      ],
+      "title": "慈大附中 10 月 8 日新聞分享",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-669",
+      "year": 2022,
+      "published": "2022-10-05",
+      "time": "11:24",
+      "activity": "",
+      "notes": [
+        "圖書館帶低年級學生認識圖書種類、分類號及架號，再透過學習單與找書活動練習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0RraU6tVipjLLyTMMjAXsZ6hxRZQ29s2uSsV9TXuN3vmdDD6158FwQQHSX1P7HxhTl"
+        }
+      ],
+      "title": "附小低年級圖書館找書練習",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-670",
+      "year": 2022,
+      "published": "2022-10-04",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "貼文記錄學校自民國 98 年推動志工服務。",
+        "幸福祖孫志工出隊前練習長者生活體驗、與長輩互動及活動帶領。",
+        "貼文另附收聽資源，內容待核。"
+      ],
+      "media": "外連音訊",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02y8zZ7Z87V7hxHwNSH2Ruaj1VWPMWjDiqbdFjpwT5jTUeTyAXMJ6HQbLsR2ikXccel"
+        }
+      ],
+      "title": "幸福祖孫志工隊的出隊前培訓",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-671",
+      "year": 2023,
+      "published": "2023-08-26",
+      "time": "12:28",
+      "activity": "",
+      "notes": [
+        "官粉影片標為 2023 年合心共識營的「護身安心的磐石」。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/961004762309733/"
+        }
+      ],
+      "title": "共識營「護身安心的磐石」影片",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-672",
+      "year": 2023,
+      "published": "2023-08-25",
+      "time": "17:05",
+      "activity": "",
+      "notes": [
+        "貼文記錄 2023 年慈大附中合心共識營的精舍尋根。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0kgnfXmbmSuCR7Rj7uxc9MTz8Ti76PS3UTQmjcgBP49d3ffjTbASC74cawZdNANFjl"
+        }
+      ],
+      "title": "合心共識營的精舍尋根",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-673",
+      "year": 2023,
+      "published": "2023-08-24",
+      "time": "19:58",
+      "activity": "",
+      "notes": [
+        "粉專回顧 2023 年合心共識營的講師分享。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid06oUqW6LGerQKVAGRV7CiBchegEMKroLDmQZgEhdVTDE5ZZ2bBW17S3g8VfYvzZ3wl"
+        }
+      ],
+      "title": "合心共識營講師分享",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-674",
+      "year": 2023,
+      "published": "2023-08-24",
+      "time": "17:38",
+      "activity": "",
+      "notes": [
+        "貼文以偏鄉村莊志工任務等案例說明高峰經驗，並提及人文與生命教育等主題學習。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02E4vQGxxPoHnpYQu3YPJ1MFPoE9rEajF7tCYfvQWsM5eViYi6YBC3DurAaYhX74QDl"
+        }
+      ],
+      "title": "合心共識營分享主題學習案例",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-675",
+      "year": 2023,
+      "published": "2023-08-18",
+      "time": "15:54",
+      "activity": "",
+      "notes": [
+        "官粉影片說明引述新聞報導，介紹新生透過外籍教師帶領的英語對話與遊戲認識彼此。",
+        "影片本身待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/751334393418159/"
+        }
+      ],
+      "title": "為期三天的新生英語營",
+      "topic": "國際與雙語",
       "kind": "fb"
     }
   ]

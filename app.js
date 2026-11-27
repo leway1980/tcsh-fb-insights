@@ -12,9 +12,9 @@ const insights = [
     id: 'school-curriculum', group: 'course', period: '2017–2025',
     title: '校本課程從前導試行走到三年規劃',
     idea: '早期先做跨科共備、校訂必修與選修試行。正式課程計畫逐年留下班型、年段、學習目標與評量證據。',
-    detail: '2019 年已有茶道、花道與其他學科結合的成果。112 至 114 學年度的備查計畫，進一步讓普通班、兩種實驗班和跨科必修有可讀的正式架構。',
+    detail: '2018 年粉專已記錄「樂活花蓮」和國一英語的公開授課，教師依說課、觀課、議課交流。2019 年可見茶道、花道與其他學科結合的成果。112 至 114 學年度的備查計畫，進一步記載普通班、兩種實驗班和跨科必修的正式架構。',
     topic: '課程與專題',
-    evidence: ['event-04','event-08','event-12','event-15','event-22','event-38','event-45','event-59']
+    evidence: ['event-04','fb-645','event-08','event-12','event-15','event-22','event-38','event-45','event-59']
   },
   {
     id: 'local-learning', group: 'course', period: '2019–2025',
@@ -30,7 +30,7 @@ const insights = [
     idea: '實驗班從科學思維與研究方法起步，結合大學指導、跨學期專題、口頭發表與探究評量。',
     detail: '國二、高二科學班以口頭或海報展示研究，高二雙語班以英語報告。小論文競賽的模擬口試補上學生從研究到表達的過程。',
     topic: '課程與專題',
-    evidence: ['event-25','event-28','event-40','event-41','event-45','event-53','event-54','fb-52','fb-26']
+    evidence: ['event-25','event-28','fb-654','event-40','event-41','event-45','event-53','event-54','fb-52','fb-26']
   },
   {
     id: 'life-education', group: 'activity', period: '2017–2025',
@@ -38,7 +38,7 @@ const insights = [
     idea: '12 小時體驗和參與行動延續多年。不同年份用分齡安排、視訊交流與募款，回應不同的國際議題。',
     detail: '2017 年中學、國小與親師志工已共同響應。2022 年的視訊把行動連到烏克蘭難民，2025 年則以南蘇丹為援助對象，海外學校也有各自的響應方式。',
     topic: '生命教育與服務',
-    evidence: ['event-03','fb-70','fb-69','fb-64','fb-61','event-09','event-14','event-20','event-21','event-30','event-36','fb-10','event-57']
+    evidence: ['event-03','fb-70','fb-69','fb-64','fb-61','event-09','event-14','event-20','event-21','event-30','fb-624','event-36','fb-10','event-57']
   },
   {
     id: 'anniversary', group: 'activity', period: '2017–2025',
@@ -46,7 +46,7 @@ const insights = [
     idea: '歷年可見運動會、社區清掃與國際文化進場。25 週年把精舍志工、三地服務、運動會、義賣和校友回聚串成一系列。',
     detail: '2017、2018 年已有校慶前的社區服務。2025 年的紀錄可比對預告、實際服務、義賣用途及校友餐會，讀出活動安排的先後與分工。',
     topic: '校慶、藝文與體育',
-    evidence: ['event-02','event-05','event-06','event-13','event-26','event-35','event-43','fb-55','fb-51','fb-50','fb-47','fb-45','fb-43']
+    evidence: ['event-02','event-05','event-06','fb-663','fb-649','event-13','event-26','event-35','event-43','fb-55','fb-51','fb-50','fb-47','fb-45','fb-43']
   },
   {
     id: 'international', group: 'activity', period: '2017–2025',
