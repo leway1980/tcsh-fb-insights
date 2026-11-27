@@ -2,9 +2,11 @@
 
 const report = window.reportData;
 const byId = new Map(report.records.map(record => [record.id, record]));
-const postCount = report.records.filter(record => record.kind === 'fb').length;
+const facebookPosts = report.records.filter(record => record.kind === 'fb');
+const postCount = facebookPosts.length;
 const eventCount = report.records.length - postCount;
-const partialCount = report.records.filter(record => record.partial).length;
+const partialCount = facebookPosts.filter(record => record.partial).length;
+const unverifiedTimeCount = facebookPosts.filter(record => !record.time).length;
 const insights = [
   {
     id: 'school-curriculum', group: 'course', period: '2017–2025',
@@ -350,7 +352,7 @@ function renderCoverage() {
       }
     }
   }
-  get('coverage-note').textContent = '範圍 ' + inScope + ' 個月，' + pending + ' 個月待查。收錄的貼文中 ' + partialCount + ' 則仍待核完整正文或影音。';
+  get('coverage-note').textContent = `範圍 ${inScope} 個月，${pending} 個月待查。收錄的貼文中 ${partialCount} 則仍待核完整正文或影音，${unverifiedTimeCount} 則的發文時刻待核。`;
 }
 
 get('hero-posts').textContent = String(postCount);

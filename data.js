@@ -51,7 +51,7 @@ window.reportData = {
       [
         "2017-11",
         "partial",
-        55
+        68
       ]
     ],
     "asOf": "2026-11-27"
@@ -4970,6 +4970,279 @@ window.reportData = {
         }
       ],
       "title": "慈大附中十八歲生日",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-175",
+      "year": 2017,
+      "published": "2017-11-15",
+      "time": "15:18",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日祝福。轉分享內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0aTn2uHPYQDoRnbmkmqtZWHYNnSB2ww96YNFqD4jAqsEHDaZHGX5NFz1CdYxmzA4Sl"
+        }
+      ],
+      "title": "慈大附中十八歲生日祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-176",
+      "year": 2017,
+      "published": "2017-11-14",
+      "time": "13:12",
+      "activity": "2017-11-11",
+      "notes": [
+        "11/11 校慶系列：師生到精舍做一日志工。正文截斷"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0U4MTz1Y31sgrDwYzdvdfa8ubcCMqrBDpJZa8vzcN3xXrMoqBGLFMWtM1P8oCLtoEl"
+        }
+      ],
+      "title": "11/11 校慶系列：師生到精舍做一日志工",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-177",
+      "year": 2017,
+      "published": "2017-11-14",
+      "time": "12:55",
+      "activity": "",
+      "notes": [
+        "粉專影片，畫面未見正文。影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1727159677593225/"
+        }
+      ],
+      "title": "粉專影片，畫面未見正文",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-178",
+      "year": 2017,
+      "published": "2017-11-13",
+      "time": "22:58",
+      "activity": "",
+      "notes": [
+        "慈大附中十八歲生日祝福影片。正文截斷、影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1726941077615085/"
+        }
+      ],
+      "title": "慈大附中十八歲生日祝福影片",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-179",
+      "year": 2017,
+      "published": "2017-11-13",
+      "time": "19:00",
+      "activity": "",
+      "notes": [
+        "粉專達百讚，邀請校友師長分享並迎接校慶。可見文字"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0PeUSdvYz1REX46G98UwFoGAwKzKYrZFsKNfFrDAk3TMPm8o4MyDPvUjBhcFoy5T9l"
+        }
+      ],
+      "title": "粉專達百讚，邀請校友師長分享並迎接校慶",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-180",
+      "year": 2017,
+      "published": "2017-11-13",
+      "time": "17:30",
+      "activity": "",
+      "notes": [
+        "粉專更新近況，正文未見。內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0dDYwwnZpc8ERw4uTPPdoXFGtZk5Kjjn2ZiN8zfoBfpJdoSyLRonjpzCXX7Zw1ioYl"
+        }
+      ],
+      "title": "粉專更新近況，正文未見",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-181",
+      "year": 2017,
+      "published": "2017-11-13",
+      "time": "16:14",
+      "activity": "",
+      "notes": [
+        "高一走讀東海岸花絮影片。正文截斷、影音待核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1726876600954866/"
+        }
+      ],
+      "title": "高一走讀東海岸花絮影片",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-182",
+      "year": 2017,
+      "published": "2017-11-11",
+      "time": "13:48",
+      "activity": "",
+      "notes": [
+        "校慶系列：菩提林立種子回故鄉。依可見文字"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0kjQgidiMjBArQB3pfoz6Mi5irp6cr6yGELGNg9Fv6PoWVChAVnhFwMHyDZTA5GYxl"
+        }
+      ],
+      "title": "校慶系列：菩提林立種子回故鄉",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-183",
+      "year": 2017,
+      "published": "2017-11-10",
+      "time": "09:25",
+      "activity": "",
+      "notes": [
+        "校慶系列：青春18守護花蓮、邁向國際。圖像內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0jG7gkMGNfvfRXVv1TtRk5zJnNFAEZUtx2nP97ayNsGzbhDLgsC1PHbqMMqfvUap2l"
+        }
+      ],
+      "title": "校慶系列：青春18守護花蓮、邁向國際",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-184",
+      "year": 2017,
+      "published": "2017-11-09",
+      "time": "13:11",
+      "activity": "",
+      "notes": [
+        "校慶系列：青春18守護花蓮、邁向國際。圖像內容待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid035pFaYDQwUymTKFYrDEyWVTDcAXrxrnZrbt3eBusJGyyFitVdyQqq65LaHAPPW3uel"
+        }
+      ],
+      "title": "校慶系列：青春18守護花蓮、邁向國際",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-185",
+      "year": 2017,
+      "published": "2017-11-08",
+      "time": "20:24",
+      "activity": "2017-11-17",
+      "notes": [
+        "預告 11/17 守護花蓮志工服務。正文截斷；兩 cutoff 重疊"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02hCrfpaZDcsRDR4GY3PUEuH8swLHgXzJYHnfvxTmgMNSy1h9rDRSjHJetMYoKdJu5l"
+        }
+      ],
+      "title": "預告 11/17 守護花蓮志工服務",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-186",
+      "year": 2017,
+      "published": "2017-11-07",
+      "time": "09:53",
+      "activity": "",
+      "notes": [
+        "祝賀田徑長跑隊佳績。圖像待核；兩 cutoff 重疊"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02GK6kaYbkR3zKnuGAVf9bwucXTj77mUBD6FUX12EvRAECRfzkFUEmhoQzfVxKE3Z1l"
+        }
+      ],
+      "title": "祝賀田徑長跑隊佳績",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-187",
+      "year": 2017,
+      "published": "2017-11-06",
+      "time": "14:07",
+      "activity": "",
+      "notes": [
+        "粉專影片，畫面未見正文。影音待核；兩 cutoff 重疊"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1724287637880429/"
+        }
+      ],
+      "title": "粉專影片，畫面未見正文",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
