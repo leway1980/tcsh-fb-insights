@@ -102,6 +102,11 @@ window.reportData = {
         "2025-01",
         "partial",
         12
+      ],
+      [
+        "2024-12",
+        "partial",
+        24
       ]
     ],
     "asOf": "2026-11-27"
@@ -9935,6 +9940,510 @@ window.reportData = {
       ],
       "title": "迎接 2025 年與慈中 25 週年",
       "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-409",
+      "year": 2024,
+      "published": "2024-12-29",
+      "time": "23:23",
+      "activity": "",
+      "notes": [
+        "第九屆微電影工作坊，學生從劇本、分鏡、拍攝到後製完成四部作品。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0T1JdZUzvDZ35kdT7FX9rBYfP11ujx5u8e4a2jsvPzpqb4U1WVuPngpztgpzjMKH3l"
+        }
+      ],
+      "title": "第九屆微電影工作坊",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-410",
+      "year": 2024,
+      "published": "2024-12-29",
+      "time": "09:15",
+      "activity": "",
+      "notes": [
+        "太平洋盃科技教育競賽創意創客及物聯網創客組獲一金一銅。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0LU8Mu4CWkygYzzzhCmcHWbTDZvhCy6u1B5zEiZDZy1bYbWqGUcbs68DbqQ7fG2DWl"
+        }
+      ],
+      "title": "太平洋盃科技教育競賽創意創客及物聯網創客組獲一金一銅。正文已展開",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-411",
+      "year": 2024,
+      "published": "2024-12-28",
+      "time": "09:25",
+      "activity": "",
+      "notes": [
+        "國三知足班畢業藝術成果發表「藝想視界」。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0UGasRURh9uKXySBdhNW8pW6PWkfgtqnFZky7CC6WUL2rRoJCyVuUUXH7v2mYkuGDl"
+        }
+      ],
+      "title": "國三知足班畢業藝術成果發表「藝想視界」。正文已展開",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-412",
+      "year": 2024,
+      "published": "2024-12-26",
+      "time": "20:05",
+      "activity": "2024-12-24",
+      "notes": [
+        "國一奇萊山海戶外教學於 12/24 走讀吉野村與客家藝文館，認識多元族群歷史。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JkJtaajQPRv1sA7ZAxZEP8NTkE9qe7hwuLzX76crn6rGD17TK6N8ae7u5q8SRU47l"
+        }
+      ],
+      "title": "國一奇萊山海戶外教學於 12/24 走讀吉野村與客家藝文館",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-413",
+      "year": 2024,
+      "published": "2024-12-24",
+      "time": "19:43",
+      "activity": "2024-12-23",
+      "notes": [
+        "12/23 全國自主學習論壇分享流浪犬議題專題，另有學生參與未來展望論壇。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0yYN9wPB9Rgh5eyzcfn9XDtXTLm1gRWf7fvgGpzJXnGffS9nqVrAp1GzVoDxjduXXl"
+        }
+      ],
+      "title": "12/23 全國自主學習論壇分享流浪犬議題專題",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-414",
+      "year": 2024,
+      "published": "2024-12-23",
+      "time": "16:35",
+      "activity": "",
+      "notes": [
+        "第一批大學特殊選才成果，正文已展開；原文註有 12/24 增補"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0jjJu4pCFqUYSC4CnpK6vRwdJWA9GDBZfQBQMEdvRoD1k6QBz55FZnC8nLVWaWrsyl"
+        }
+      ],
+      "title": "第一批大學特殊選才成果",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-415",
+      "year": 2024,
+      "published": "2024-12-23",
+      "time": "15:33",
+      "activity": "",
+      "notes": [
+        "高三學測閉關衝刺祝福典禮，學弟妹、家長及校友鼓勵考生。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Hx7VcsDg6XmRPadrkMEsecu59RcHbGWMyMqhhfH35ZAgxdw8wiCezqwyT3KDk3Htl"
+        }
+      ],
+      "title": "高三學測閉關衝刺祝福典禮",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-416",
+      "year": 2024,
+      "published": "2024-12-21",
+      "time": "17:48",
+      "activity": "",
+      "notes": [
+        "運動會及校園開放日，校方稱 170 多名孩子與家長參加。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0buyh3YHnB3Hnx7xMmkjPW2ix1BdUCCpBdLD74FRu7rSTKvfCwadE1AwnCAEFFrsml"
+        }
+      ],
+      "title": "運動會及校園開放日",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-417",
+      "year": 2024,
+      "published": "2024-12-21",
+      "time": "17:21",
+      "activity": "",
+      "notes": [
+        "募心募愛園遊會獲師生家長支持。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02x7h7gjwbDdp2UsHkiknAmcmcD8Dza9KDEwuj1dojnyagyZsnXtTfoNP6vWZzq5g9l"
+        }
+      ],
+      "title": "募心募愛園遊會獲師生家長支持。正文已展開",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-418",
+      "year": 2024,
+      "published": "2024-12-21",
+      "time": "14:41",
+      "activity": "",
+      "notes": [
+        "校友回校參與活動，國術隊校友表演並邀參與閉幕。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02HtBTqa3ngATdDkegNdEEzLQghNuVc5CzPhkWqSf8kA8peg7co9BiPh5q6i4C98k4l"
+        }
+      ],
+      "title": "校友回校參與活動",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-419",
+      "year": 2024,
+      "published": "2024-12-21",
+      "time": "11:12",
+      "activity": "",
+      "notes": [
+        "募心募愛園遊會美食與環保手作，義賣回饋佛陀故鄉。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02D9Qehf8pttGAMHtHhz38dovztZT5EEnZqjn5Tf997tFn9iBxCgo9JuwSTVVEZcRgl"
+        }
+      ],
+      "title": "募心募愛園遊會美食與環保手作",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-420",
+      "year": 2024,
+      "published": "2024-12-20",
+      "time": "19:25",
+      "activity": "",
+      "notes": [
+        "師生與慈懿夥伴在精舍師父帶領下回顧 2024 年並交流。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0AZuD7RoXPfKV4PasnhNAXe9gYKd63HDZbhnqUejGKzkVpWvNB2jeUbaha95UjF8wl"
+        }
+      ],
+      "title": "師生與慈懿夥伴在精舍師父帶領下回顧 2024 年並交流。正文已展開",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-421",
+      "year": 2024,
+      "published": "2024-12-20",
+      "time": "11:07",
+      "activity": "",
+      "notes": [
+        "泰國清邁慈濟學校送來 25 週年校慶祝福。正文已展開，影片未核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1252983996006830/"
+        }
+      ],
+      "title": "泰國清邁慈濟學校送來 25 週年校慶祝福。正文已展開",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-422",
+      "year": 2024,
+      "published": "2024-12-20",
+      "time": "00:40",
+      "activity": "",
+      "notes": [
+        "圖書館邀作家吳曉樂為高一二演講，鼓勵認識自己與善待他人。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0222xcmiSkb7LhjoD7wrqGjgyWnhgnZHa78BnRAPprKQVYASudYXADnRtzf4vB44Unl"
+        }
+      ],
+      "title": "圖書館邀作家吳曉樂為高一二演講",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-423",
+      "year": 2024,
+      "published": "2024-12-19",
+      "time": "11:15",
+      "activity": "2024-12-21",
+      "notes": [
+        "全國高中英文作文優勝、英文單字比賽三等獎。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02gXsPbTkn2w1DmKeSz1UFgyRDY63h6eKBcJA9GKwgCweYyDLaKGRtLihGqYkpkXfYl"
+        }
+      ],
+      "title": "全國高中英文作文優勝、英文單字比賽三等獎。正文已展開",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-424",
+      "year": 2024,
+      "published": "2024-12-19",
+      "time": "10:51",
+      "activity": "2024-12-21",
+      "notes": [
+        "邀請校友參加 12/21 二十五週年校慶運動會。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02wQJTbvu1NJPDJuAETjmxP9rmXUUtHeEWicQ4ZyZBMVAGT1ocdsZkGdS3FzH2GzBRl"
+        }
+      ],
+      "title": "邀請校友參加 12/21 二十五週年校慶運動會。正文已展開",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-425",
+      "year": 2024,
+      "published": "2024-12-17",
+      "time": "22:43",
+      "activity": "",
+      "notes": [
+        "感飢 12 活動串聯師生、家長與國內外學校，關注國際需求。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02oTKqMEXCt2azULCny3UrdwmxVxxLKnEEE9QAdSjj6DGLobzebtHrSoiKNS1cUqxrl"
+        }
+      ],
+      "title": "感飢 12 活動串聯師生、家長與國內外學校",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-426",
+      "year": 2024,
+      "published": "2024-12-16",
+      "time": "07:42",
+      "activity": "2024-12-17",
+      "notes": [
+        "感飢 12 活動倒數一天，分享課程新聞。正文已展開，外部報導待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0CXNQQmLG8TVqgqPGcmkgmj5cEG33DjkdNBJJo6qK826mHGzpx7VfqUBgynTJPHGCl"
+        }
+      ],
+      "title": "感飢 12 活動倒數一天",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-427",
+      "year": 2024,
+      "published": "2024-12-15",
+      "time": "16:53",
+      "activity": "",
+      "notes": [
+        "高一見學東台灣第八站大坡國小，認識板塊及斷層。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02zhrd3QhhjBZJdKiJ4Z1e7o4PxmQ8yiBEej5bXsqq2mbrDqDWJKuJzSpDRRv8TU6ml"
+        }
+      ],
+      "title": "高一見學東台灣第八站大坡國小",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-428",
+      "year": 2024,
+      "published": "2024-12-15",
+      "time": "14:15",
+      "activity": "",
+      "notes": [
+        "見學東台灣第七站史前文化博物館，導覽、文創設計與知識活動。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xrq7to4ZvdMaMzT3BybZnaEheX7LFi7VWkeJ3cQ6GomJaTofLfmcWvyjdfAHV3xNl"
+        }
+      ],
+      "title": "見學東台灣第七站史前文化博物館",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-429",
+      "year": 2024,
+      "published": "2024-12-15",
+      "time": "09:48",
+      "activity": "",
+      "notes": [
+        "感飢 12 活動倒數兩天，介紹國際參與及援助對象。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0d2xWNtiaiR63uv5FSeetAjSu86eg2Qn9a4V71Y7hkPDGo5zXeY8ryZux5PfEBbnZl"
+        }
+      ],
+      "title": "感飢 12 活動倒數兩天",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-430",
+      "year": 2024,
+      "published": "2024-12-15",
+      "time": "09:30",
+      "activity": "",
+      "notes": [
+        "見學東台灣第六站利吉惡地，從地質觀察造山運動。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0EFxDQf5nzgs3a4dM6Hqtz6cx5N3WC4ozwPmDz2XEtzAdaBXZoj15FWpHiMEVprEil"
+        }
+      ],
+      "title": "見學東台灣第六站利吉惡地",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-431",
+      "year": 2024,
+      "published": "2024-12-14",
+      "time": "18:43",
+      "activity": "",
+      "notes": [
+        "見學東台灣第五站小野柳富岡地質公園，透過觀察與測量闖關。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0fUbwskcGosQDgTmfEU4q6x63PK7uSacMhZ7e3e2UpiDw8fPySKYVtnkTcU7ZGbEQl"
+        }
+      ],
+      "title": "見學東台灣第五站小野柳富岡地質公園",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-432",
+      "year": 2024,
+      "published": "2024-12-14",
+      "time": "12:52",
+      "activity": "",
+      "notes": [
+        "見學東台灣第四站八仙洞，認識長濱文化與環境。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02i56RM3NeWVPdc34s9VmhMxF9MYyXS4rSVFPsGKnCLkw46KZdbyW6ugqw9XUWQZs7l"
+        }
+      ],
+      "title": "見學東台灣第四站八仙洞",
+      "topic": "在地與校外學習",
       "kind": "fb"
     }
   ]
