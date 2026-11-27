@@ -61,12 +61,12 @@ window.reportData = {
       [
         "2018-07",
         "partial",
-        10
+        11
       ],
       [
         "2018-08",
         "partial",
-        6
+        9
       ],
       [
         "2018-09",
@@ -671,7 +671,12 @@ window.reportData = {
         "fb-280",
         "fb-281",
         "fb-283",
+        "fb-285",
+        "fb-286",
+        "fb-291",
+        "fb-296",
         "fb-298",
+        "fb-302",
         "fb-303",
         "fb-304",
         "fb-307",
@@ -687,8 +692,12 @@ window.reportData = {
         "fb-320",
         "fb-321",
         "fb-325",
+        "fb-326",
         "fb-329",
+        "fb-330",
         "fb-331",
+        "fb-337",
+        "fb-342",
         "fb-371",
         "fb-372",
         "fb-389",
@@ -1270,7 +1279,10 @@ window.reportData = {
         "fb-1014",
         "fb-1016",
         "fb-1017",
-        "fb-1019"
+        "fb-1019",
+        "fb-1020",
+        "fb-1021",
+        "fb-1022"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1280,13 +1292,16 @@ window.reportData = {
         "fb-187"
       ],
       "indexOnly": [
+        "fb-131",
         "fb-199",
         "fb-248",
+        "fb-293",
         "fb-893",
         "fb-906",
         "fb-1011",
         "fb-1015",
-        "fb-1018"
+        "fb-1018",
+        "fb-1023"
       ]
     }
   },
@@ -5293,7 +5308,7 @@ window.reportData = {
       "time": "13:02",
       "activity": "",
       "notes": [
-        "官粉公開轉分享大愛新聞。官方作者、發文日期時刻與來源網址已核對。公開清冊僅摘要編目。"
+        "官粉公開轉分享大愛新聞，同卡發文日期時間與永久連結已核對。轉載含可識別資訊，僅留安全編目。"
       ],
       "media": "轉分享",
       "partial": true,
@@ -8535,7 +8550,7 @@ window.reportData = {
       "time": "22:14",
       "activity": "",
       "notes": [
-        "新生報到、住宿引導及惜福義賣，正文展開。"
+        "官粉記錄新生入學報到、宿舍入住引導與惜福物義賣，義賣所得捐作慈善。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -8547,7 +8562,8 @@ window.reportData = {
       ],
       "title": "新生報到、住宿引導及惜福義賣",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊顯示 22:14，同網址單篇顯示 07:14，兩種讀值待核"
     },
     {
       "id": "fb-286",
@@ -8556,7 +8572,7 @@ window.reportData = {
       "time": "21:09",
       "activity": "",
       "notes": [
-        "迎新、校園準備及報到安排，正文展開。"
+        "官粉記錄導師、宿舍團隊和行政同仁準備校園與新生報到。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -8568,7 +8584,8 @@ window.reportData = {
       ],
       "title": "迎新、校園準備及報到安排",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊顯示 21:09，同網址單篇顯示 06:09，兩種讀值待核"
     },
     {
       "id": "fb-287",
@@ -8661,7 +8678,7 @@ window.reportData = {
       "time": "21:59",
       "activity": "",
       "notes": [
-        "第65屆全國科展高中鼻嗅細胞及國中蚯蚓糞菌作品獲獎，正文展開。"
+        "官粉記錄第 65 屆全國科展，高中部鼻嗅黏膜間質幹細胞專題與國中部蚯蚓糞菌專題獲獎。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -8673,7 +8690,8 @@ window.reportData = {
       ],
       "title": "第65屆全國科展高中鼻嗅細胞及國中蚯蚓糞菌作品獲獎",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊顯示 21:59，同網址單篇顯示 06:59，兩種讀值待核"
     },
     {
       "id": "fb-292",
@@ -8694,7 +8712,8 @@ window.reportData = {
       ],
       "title": "醫療志工第五天醫院服務、榮家關懷及表演",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 2025-07-18 09:08，同網址單篇顯示 2025-07-17 18:08，兩種讀值待核"
     },
     {
       "id": "fb-293",
@@ -8703,7 +8722,7 @@ window.reportData = {
       "time": "11:03",
       "activity": "",
       "notes": [
-        "醫療志工第四天，正文截斷待核。"
+        "官粉公開貼文的日期時間與永久連結已核對。正文涉及個人資訊，僅留索引。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -8766,7 +8785,7 @@ window.reportData = {
       "time": "14:49",
       "activity": "",
       "notes": [
-        "雙聯學位美國 MCI 暑期營隊，正文截斷待核。"
+        "雙聯學位暑期營隊在美國緬因中央中學體驗課堂，內容涵蓋體育、藝術、機器人、化學與 3D 列印。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -8892,7 +8911,7 @@ window.reportData = {
       "time": "20:27",
       "activity": "",
       "notes": [
-        "高一新生英文學習，正文截斷。"
+        "高一雙語實驗班以英語主播與臺北走讀等任務介紹英語學習。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -8904,7 +8923,8 @@ window.reportData = {
       ],
       "title": "高一新生英文學習",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊顯示 20:27，同網址單篇顯示 05:27，兩種讀值待核"
     },
     {
       "id": "fb-303",
@@ -9408,7 +9428,7 @@ window.reportData = {
       "time": "15:36",
       "activity": "",
       "notes": [
-        "美西團抵達舊金山與北加，正文截斷。"
+        "美西團抵達舊金山與北加。已保存官粉可見文字。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9420,7 +9440,8 @@ window.reportData = {
       ],
       "title": "美西團抵達舊金山與北加",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊顯示 15:36，同網址單篇顯示 00:36，兩種讀值待核"
     },
     {
       "id": "fb-327",
@@ -9492,7 +9513,7 @@ window.reportData = {
       "time": "14:30",
       "activity": "",
       "notes": [
-        "新馬國際修學第一課、移動力，正文截斷。"
+        "新馬國際修學第一課、移動力。已保存官粉可見文字。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9639,7 +9660,7 @@ window.reportData = {
       "time": "12:50",
       "activity": "",
       "notes": [
-        "暑期五國交流團授旗，包含美國、泰國、新加坡、馬來西亞及印尼，交流內容含科技、雙聯、服務與長者陪伴。正文已展開。"
+        "貼文記錄五支暑期交流隊伍授旗，涵蓋美國探索與雙聯學位營、泰北志工、新馬及印尼修學。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -9744,7 +9765,7 @@ window.reportData = {
       "time": "17:21",
       "activity": "2025-06-07",
       "notes": [
-        "公告 06/07 14:00–16:40 於花蓮靜思堂舉行 113 學年度畢業典禮。正文已展開。"
+        "官粉公告 113 學年度畢業典禮於 2025 年 6 月 7 日 14:00–16:40 在花蓮靜思堂舉行。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -24138,6 +24159,93 @@ window.reportData = {
       "title": "附小暑期美國遊學營走訪加州科學中心",
       "topic": "國際與雙語",
       "kind": "fb"
+    },
+    {
+      "id": "fb-1020",
+      "year": 2018,
+      "published": "2018-07-14",
+      "time": "18:03",
+      "activity": "",
+      "notes": [
+        "粉專分享兩校合作到三育服務及國際志工交流。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid04rmxSwSraF3XvzEcQaU3TMGMVrqbj6Qx89WfvXfTKsCA8AmXXaFjU5r9Ju2AmFCLl"
+        }
+      ],
+      "title": "慈中與循人中學馬來西亞志工交流",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專篩選卡顯示 18:03，同網址單篇顯示 03:03，兩種讀值待核"
+    },
+    {
+      "id": "fb-1021",
+      "year": 2018,
+      "published": "2018-08-14",
+      "time": "01:44",
+      "activity": "",
+      "notes": [
+        "交流團以歌曲向當地夥伴致謝。已封存可見文字節錄。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1956553927698574/"
+        }
+      ],
+      "title": "馬來西亞志工藝術交流第五日",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1022",
+      "year": 2018,
+      "published": "2018-08-15",
+      "time": "08:47",
+      "activity": "",
+      "notes": [
+        "兩支樂隊在暑期輔導期間練習，準備新生招生音樂會與花蓮縣音樂比賽。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid028cYGHqVJK34askgra5VUDddrjjHE9qC3V3DebNfUSQ7HRjWDQYd3FHemHMzCT5xil"
+        }
+      ],
+      "title": "國樂隊與管樂隊暑期集訓",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb",
+      "timeNote": "粉專篩選卡顯示 2018-08-15 08:47，同網址單篇顯示 2018-08-14 17:47，兩種讀值待核"
+    },
+    {
+      "id": "fb-1023",
+      "year": 2018,
+      "published": "2018-08-15",
+      "time": "23:52",
+      "activity": "",
+      "notes": [
+        "交流團感謝當地志工並分享舞劇交流心得。僅留安全編目。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0isBWMnmhiHvCZtykQUR7mSSnC7YchonBae1Qk7a9cWXogB8ekR1sYKq5gHWHRXLZl"
+        }
+      ],
+      "title": "馬來西亞志工藝術交流第七日",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專篩選卡顯示 23:52，同網址單篇顯示 08:52，兩種讀值待核"
     }
   ]
 };
