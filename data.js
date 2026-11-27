@@ -96,12 +96,12 @@ window.reportData = {
       [
         "2019-02",
         "partial",
-        5
+        6
       ],
       [
         "2019-03",
         "partial",
-        6
+        11
       ],
       [
         "2019-04",
@@ -276,12 +276,12 @@ window.reportData = {
       [
         "2022-02",
         "partial",
-        6
+        10
       ],
       [
         "2022-03",
         "partial",
-        7
+        11
       ],
       [
         "2022-04",
@@ -1668,7 +1668,17 @@ window.reportData = {
         "fb-1259",
         "fb-1260",
         "fb-1261",
-        "fb-1262"
+        "fb-1262",
+        "fb-1264",
+        "fb-1268",
+        "fb-1269",
+        "fb-1271",
+        "fb-1272",
+        "fb-1273",
+        "fb-1274",
+        "fb-1275",
+        "fb-1276",
+        "fb-1277"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1776,7 +1786,11 @@ window.reportData = {
         "fb-1199",
         "fb-1227",
         "fb-1236",
-        "fb-1255"
+        "fb-1255",
+        "fb-1265",
+        "fb-1266",
+        "fb-1267",
+        "fb-1270"
       ]
     }
   },
@@ -29980,6 +29994,307 @@ window.reportData = {
       "topic": "招生與校園生活",
       "kind": "fb",
       "timeNote": "列表與穩定單篇均為 11 月 14 日 11:51，單篇初次載入曾顯示 11 月 13 日。"
+    },
+    {
+      "id": "fb-1264",
+      "year": 2019,
+      "published": "2019-02-13",
+      "time": "22:48",
+      "activity": "",
+      "notes": [
+        "高一試辦多元選修，官帖記錄學生三分鐘內完成選課。",
+        "泰文課規劃結合清邁修學與國際志工服務。",
+        "原文稱開設七門課，內文列出六項。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0nQw8zrLCbsSaaUb7x5SFF8EB4hCdU14X8DSfZeh5xsMGpvc5rH2iHzFecvEH8vEcl"
+        }
+      ],
+      "title": "108 新課綱多元選修與泰國修學",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1265",
+      "year": 2019,
+      "published": "2019-03-28",
+      "time": "23:58",
+      "activity": "",
+      "notes": [
+        "官粉記錄文學講座。正文涉及個別兒童健康資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034HTwBv6NPvmU4VYk3i4ppbAJzk2epCj67R3ZkQgLhcQSEvkzkqpY9nbwuQpWt6zsl"
+        }
+      ],
+      "title": "文學講座生活、詩與書寫",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1266",
+      "year": 2019,
+      "published": "2019-03-09",
+      "time": "15:05",
+      "activity": "",
+      "notes": [
+        "官粉記錄招生說明與親師分享。正文涉及可識別家庭資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid07re1JpdANrJFcHyn1WntvPr79qF2qG3ruZ24gxpwrQB4zBGziJzGWzstGrq8zLTMl"
+        }
+      ],
+      "title": "招生說明與親師分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1267",
+      "year": 2019,
+      "published": "2019-03-09",
+      "time": "12:52",
+      "activity": "",
+      "notes": [
+        "官粉記錄東區招生說明會。正文涉及可識別家庭資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/546272465861968/"
+        }
+      ],
+      "title": "東區招生說明會",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1268",
+      "year": 2022,
+      "published": "2022-02-16",
+      "time": "17:53",
+      "activity": "",
+      "notes": [
+        "官帖記錄科學班獲國教署訪視評為成效特優，並說明科學思維及與大學端合作的專題研究。",
+        "同篇提及領域雙語教學及數位資源。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0s48tBC7ZCCSQG9JCdXEpV92JrTutJ5eqdt3685guTNStrPx4qkfCaTe8XxA7Qt9Bl"
+        }
+      ],
+      "title": "科學班獲實驗教育特優評定",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1269",
+      "year": 2022,
+      "published": "2022-02-25",
+      "time": "14:29",
+      "activity": "",
+      "notes": [
+        "官帖以標籤介紹古早味芋圓湯，邀請親子一起動手。",
+        "已以單篇原址確認，官粉正文容器末尾為「影片連結」標籤，另有外部連結卡。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0D7Z46fqvPN7V8XmJqgWZhm2AjyDF93ik1ePkQjCbNo9GPTP9Ds88o7U8yBxaRTPGl"
+        }
+      ],
+      "title": "附幼古早味芋圓湯親子料理（可見文字）",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "單篇初載曾顯示 2 月 24 日，穩定後原網址日期錨點為 2 月 25 日 14:29。"
+    },
+    {
+      "id": "fb-1270",
+      "year": 2022,
+      "published": "2022-02-21",
+      "time": "19:41",
+      "activity": "",
+      "notes": [
+        "圖書館辦理表達力講座，介紹整理與表達想法的方法。正文涉及具名學生心得，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02sZWk7issLDaR9hHy9n1WpnSRdZ4Y9NQidiiDr7s7jG8HQXURWxdePLpjTYNXuMSZl"
+        }
+      ],
+      "title": "圖書館表達力講座",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1271",
+      "year": 2022,
+      "published": "2022-02-21",
+      "time": "09:44",
+      "activity": "",
+      "notes": [
+        "官帖說明招生說明會，介紹多元課程、校隊、社團及志工服務機會。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02eWoAfSKUfK7cgJn27D6jydtDDmjQPkHcfuNYxURjQ1er5Lhsq8NZeBRtpxhQ5Rowl"
+        }
+      ],
+      "title": "國高中招生說明會回顧",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1272",
+      "year": 2019,
+      "published": "2019-03-24",
+      "time": "12:40",
+      "activity": "",
+      "notes": [
+        "座談說明 108 課綱多元選修、大學 AP 課程、國際教育路線以及學思達。",
+        "原帖末段涉及可識別學生與家長敘事，封存時省略該段。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02qdMWYM8E4NcKxu7gsyapBqzJYdCEYzHfUtpk8R7kPy9jzAemeXZqCWvNUpDxzQcul"
+        }
+      ],
+      "title": "親師座談談多元選修與國際教育",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1273",
+      "year": 2019,
+      "published": "2019-03-15",
+      "time": "19:56",
+      "activity": "",
+      "notes": [
+        "林務局人員指導，國小一至五年級分工清除小花蔓澤及修整校園植物。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02cGqTh2Ya4PtiRg4X2oxYpn9ewsx8UaGz9Kbf6RWoAR1Cgqj3qac3X9tViJHhAeVJl"
+        }
+      ],
+      "title": "國小部植樹節護樹活動",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1274",
+      "year": 2022,
+      "published": "2022-03-28",
+      "time": "17:15",
+      "activity": "",
+      "notes": [
+        "附小以砂婆礑山海風慈濟人文課程獲得花蓮縣教學卓越金質獎。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid032bwUuhUXXNkz9FFcUnYhMZ9uuyBHDnqyyVjw53S2XxAKRYCpdvZvndEnb6acz8K2l"
+        }
+      ],
+      "title": "砂婆礑山海風課程獲花蓮縣教學卓越金質獎",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1275",
+      "year": 2022,
+      "published": "2022-03-26",
+      "time": "21:53",
+      "activity": "",
+      "notes": [
+        "團集會介紹童軍諾言、規律與領巾配戴。社團規劃童軍技能、服務人群及戶外探索。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid082MiwdA1AUKsD19gp6dNWgSPf2cBqhPqxkdyHmz1B2krcbuDDbsFM12kpYNWGerYl"
+        }
+      ],
+      "title": "附小幼童軍新學期首次團集會",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1276",
+      "year": 2022,
+      "published": "2022-03-25",
+      "time": "13:00",
+      "activity": "",
+      "notes": [
+        "官帖邀請親子動手做五行蔬菜粥。",
+        "已封存官粉外層可見文字，末尾顯示「影片連結」標籤。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022RtpbWaXPE97XHh7d5cMGjCD7ZwuqDR8FZ1ykqbvn1eA8d9aFcQX3etibDfNSJAQl"
+        }
+      ],
+      "title": "附幼五行蔬菜粥親子料理（可見文字）",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1277",
+      "year": 2022,
+      "published": "2022-03-25",
+      "time": "17:27",
+      "activity": "",
+      "notes": [
+        "國三學生在楓林步道完成關卡，以團隊活動與立願儀式練習合作和設定目標。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02RAH6Nt6ipnphkkRzg64k6gjY3VfMt5zSZQm1A5E7ZhbqM4TLyr9sQrKT4juDYtkVl"
+        }
+      ],
+      "title": "國三志學營的步道與團隊闖關",
+      "topic": "生命教育與服務",
+      "kind": "fb"
     }
   ]
 };
