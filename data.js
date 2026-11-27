@@ -281,7 +281,7 @@ window.reportData = {
       [
         "2022-03",
         "partial",
-        6
+        7
       ],
       [
         "2022-04",
@@ -296,12 +296,12 @@ window.reportData = {
       [
         "2022-06",
         "partial",
-        5
+        6
       ],
       [
         "2022-07",
         "partial",
-        5
+        6
       ],
       [
         "2022-08",
@@ -702,8 +702,11 @@ window.reportData = {
         "fb-288",
         "fb-289",
         "fb-291",
+        "fb-295",
         "fb-296",
+        "fb-297",
         "fb-298",
+        "fb-299",
         "fb-302",
         "fb-303",
         "fb-304",
@@ -721,9 +724,11 @@ window.reportData = {
         "fb-319",
         "fb-320",
         "fb-321",
+        "fb-322",
         "fb-324",
         "fb-325",
         "fb-326",
+        "fb-327",
         "fb-329",
         "fb-330",
         "fb-331",
@@ -769,6 +774,18 @@ window.reportData = {
         "fb-386",
         "fb-389",
         "fb-395",
+        "fb-397",
+        "fb-398",
+        "fb-399",
+        "fb-400",
+        "fb-401",
+        "fb-402",
+        "fb-403",
+        "fb-404",
+        "fb-405",
+        "fb-406",
+        "fb-407",
+        "fb-408",
         "fb-409",
         "fb-410",
         "fb-413",
@@ -1397,7 +1414,9 @@ window.reportData = {
         "fb-199",
         "fb-248",
         "fb-287",
+        "fb-290",
         "fb-293",
+        "fb-294",
         "fb-301",
         "fb-308",
         "fb-317",
@@ -1425,7 +1444,10 @@ window.reportData = {
         "fb-1049",
         "fb-1051",
         "fb-1058",
-        "fb-1063"
+        "fb-1063",
+        "fb-1066",
+        "fb-1067",
+        "fb-1068"
       ]
     }
   },
@@ -8795,10 +8817,12 @@ window.reportData = {
       "time": "14:36",
       "activity": "2025-07-18",
       "notes": [
-        "07/18 醫療志工營最後一天、精舍早課及關懷回顧，正文展開。"
+        "暑期醫療志工營最後一天進行早課、服務回顧與圓緣。",
+        "正文涉及個人隱私，僅留安全索引。",
+        "畫面另有日期錨點網址，關係待核。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -8838,10 +8862,10 @@ window.reportData = {
       "time": "09:08",
       "activity": "",
       "notes": [
-        "醫療志工第五天醫院服務、榮家關懷及表演，正文展開。"
+        "醫療志工營第五天記錄醫院服務與榮家關懷。本次只讀到正文前段，待查。"
       ],
       "media": "相片或分享",
-      "partial": false,
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -8881,7 +8905,8 @@ window.reportData = {
       "time": "15:19",
       "activity": "",
       "notes": [
-        "醫療志工第三天花蓮慈濟醫院，正文截斷待核。"
+        "醫療志工營第三天進行醫院服務與訪視關懷。",
+        "正文涉及個人隱私，僅留安全索引。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -8893,7 +8918,8 @@ window.reportData = {
       ],
       "title": "醫療志工第三天花蓮慈濟醫院",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 15:19，單篇畫面顯示 00:19，兩讀值待核。"
     },
     {
       "id": "fb-295",
@@ -8902,10 +8928,10 @@ window.reportData = {
       "time": "13:42",
       "activity": "",
       "notes": [
-        "醫療志工第二天花蓮慈濟醫院，正文截斷待核。"
+        "醫療志工營第二天聽醫師分享、到不同病房服務，並安排小組反思。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -8944,10 +8970,10 @@ window.reportData = {
       "time": "06:35",
       "activity": "",
       "notes": [
-        "醫療志工第一天花蓮慈濟醫院，正文截斷待核。"
+        "醫療志工營第一天安排開營、熟悉醫院服務定點及精舍生活。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -8986,10 +9012,10 @@ window.reportData = {
       "time": "21:57",
       "activity": "",
       "notes": [
-        "新馬國際修學第六天探訪老婦院，正文截斷待核。"
+        "新馬修學團再訪銀禧老婦院，與長者用餐、交談與做環保。封存文字已遮蔽學生署名。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -8998,7 +9024,8 @@ window.reportData = {
       ],
       "title": "新馬國際修學第六天探訪老婦院",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 21:57，單篇畫面顯示 06:57，兩讀值待核。"
     },
     {
       "id": "fb-300",
@@ -9007,7 +9034,7 @@ window.reportData = {
       "time": "16:36",
       "activity": "",
       "notes": [
-        "新生報到率及優秀學生，正文截斷待核。"
+        "既有貼文入口本次顯示錯誤，文字待查。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9138,7 +9165,8 @@ window.reportData = {
       "time": "09:51",
       "activity": "",
       "notes": [
-        "新馬修學第六天跨世代陪伴，正文截斷。"
+        "新馬修學團在馬六甲長者學堂參與跨世代交流。本次只讀到正文前段，待查。",
+        "畫面另有日期錨點網址，關係待核。"
       ],
       "media": "相片或分享",
       "partial": true,
@@ -9488,10 +9516,10 @@ window.reportData = {
       "time": "00:48",
       "activity": "",
       "notes": [
-        "泰北國際志工團，正文截斷。"
+        "泰北志工團在廣華學校安排運動會、華語教學及科學遊戲。封存文字已遮蔽學生姓名與暱稱。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -9598,11 +9626,10 @@ window.reportData = {
       "time": "00:49",
       "activity": "",
       "notes": [
-        "附中泰北團在清邁慈濟學校入班與準備營隊。目前只讀到正文前段，文字待查。",
-        "畫面日期錨點另有網址，關係待核。"
+        "泰北志工團赴清邁慈濟學校入班、準備營隊與文化交流。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -11103,7 +11130,7 @@ window.reportData = {
       "time": "00:01",
       "activity": "",
       "notes": [
-        "除夕及蛇年新春祝福，並介紹招生。正文已展開。"
+        "粉專發布除夕及蛇年新春祝福。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11124,7 +11151,7 @@ window.reportData = {
       "time": "15:46",
       "activity": "",
       "notes": [
-        "學測期間考生在花蓮女中應考，師長與家長會提供後勤。正文已展開。"
+        "粉專記錄學測期間考生在花蓮女中應考，並感謝師長及家長會支援。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11145,7 +11172,7 @@ window.reportData = {
       "time": "20:30",
       "activity": "",
       "notes": [
-        "高三完成學測備考，學校安排試場預查及師長家長祝福物資。正文已展開。"
+        "高三學生結束一個月的學測備考，學校安排查看考場並準備應考物資。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11157,7 +11184,8 @@ window.reportData = {
       ],
       "title": "高三完成學測備考",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 20:30，單篇畫面顯示 04:30，兩讀值待核。"
     },
     {
       "id": "fb-400",
@@ -11166,7 +11194,7 @@ window.reportData = {
       "time": "22:14",
       "activity": "",
       "notes": [
-        "學測前家長會及師長為高三生準備點心加油。正文已展開。"
+        "學測倒數期間，家長會與師長準備茶葉蛋及可頌為高三學生加油。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11176,9 +11204,10 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XDHEBUiY31sgxQE7VkzEfzgEUKnNGEJBT84D6K7sBwwheD8xbM74w7RNScRSJpYSl"
         }
       ],
-      "title": "學測前家長會及師長為高三生準備點心加油。正文已展開",
+      "title": "學測前師長與家長會準備點心",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 22:14，單篇畫面顯示 06:14，兩讀值待核。"
     },
     {
       "id": "fb-401",
@@ -11187,10 +11216,10 @@ window.reportData = {
       "time": "23:14",
       "activity": "",
       "notes": [
-        "難忘 0403 與後山校園，分享素材待核。"
+        "粉專用短文回顧四月三日的校園經歷，並轉分享相關內容。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -11208,7 +11237,7 @@ window.reportData = {
       "time": "16:21",
       "activity": "",
       "notes": [
-        "食農選修學生採收蔬菜，分享給幼兒園孩子。圖文正文已展開。"
+        "食農教育選修課學生採收校園蔬菜並與幼兒園分享，粉專以文字回顧。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11220,7 +11249,8 @@ window.reportData = {
       ],
       "title": "食農選修學生採收蔬菜",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 16:21，單篇畫面顯示 00:21，兩讀值待核。"
     },
     {
       "id": "fb-403",
@@ -11229,10 +11259,10 @@ window.reportData = {
       "time": "16:12",
       "activity": "",
       "notes": [
-        "食農選修學生採收蔬菜分享幼兒園。影片帖卡正文已展開。"
+        "食農教育選修課學生採收蔬菜與幼兒園分享。這則發文有獨立日期錨點及較短正文。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -11250,7 +11280,7 @@ window.reportData = {
       "time": "21:43",
       "activity": "",
       "notes": [
-        "寒流夜校方準備點心，為高三學測考生加油。正文已展開。"
+        "寒流夜校方準備加油點心，支持高三學測備考。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -11262,7 +11292,8 @@ window.reportData = {
       ],
       "title": "寒流夜校方準備點心",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 21:43，單篇畫面顯示 05:43，兩讀值待核。"
     },
     {
       "id": "fb-405",
@@ -11271,10 +11302,10 @@ window.reportData = {
       "time": "22:40",
       "activity": "",
       "notes": [
-        "冷天校園關懷，正文截斷待核。"
+        "校方為國一住宿生辦心靈晚宴，回顧學期並練習道謝、道愛與道歉。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -11283,7 +11314,8 @@ window.reportData = {
       ],
       "title": "冷天校園關懷",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 22:40，單篇畫面顯示 06:40，兩讀值待核。"
     },
     {
       "id": "fb-406",
@@ -11292,10 +11324,10 @@ window.reportData = {
       "time": "17:06",
       "activity": "",
       "notes": [
-        "校長推薦好書，鼓勵學生探索自我。正文已展開。"
+        "新年初的校長好書推薦，鼓勵學生閱讀。"
       ],
       "media": "影片",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -11304,7 +11336,8 @@ window.reportData = {
       ],
       "title": "校長推薦好書",
       "topic": "課程與專題",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 17:06，單篇畫面顯示 17:05，兩讀值待核。"
     },
     {
       "id": "fb-407",
@@ -11313,10 +11346,10 @@ window.reportData = {
       "time": "14:43",
       "activity": "",
       "notes": [
-        "全國高中小論文寫作比賽獲獎，正文已展開，獎項詳情圖片待核。"
+        "粉專祝賀全國高中小論文寫作比賽獲獎學生，感謝指導老師。"
       ],
       "media": "相片或分享",
-      "partial": true,
+      "partial": false,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -11334,7 +11367,7 @@ window.reportData = {
       "time": "00:00",
       "activity": "",
       "notes": [
-        "迎接 2025 年與慈中 25 週年，新年祝福。正文已展開。"
+        "粉專以慈大附中 25 歲迎接 2025 年，並送上新年祝福。"
       ],
       "media": "相片或分享",
       "partial": false,
@@ -16170,7 +16203,8 @@ window.reportData = {
       "activity": "",
       "notes": [
         "可見文字為提到慈中與牛津的短標籤。",
-        "原帖轉分享內容待核。"
+        "原帖轉分享內容待核。",
+        "另一入口核為同一則。"
       ],
       "media": "轉分享",
       "partial": true,
@@ -16182,7 +16216,8 @@ window.reportData = {
       ],
       "title": "牛津交流的粉專短分享",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊原讀值 16:38，兩個網址的單篇畫面均顯示 00:38，兩讀值待核。"
     },
     {
       "id": "fb-636",
@@ -19292,7 +19327,8 @@ window.reportData = {
       "time": "14:27",
       "activity": "",
       "notes": [
-        "粉專以五色生菜香鬆為題邀親子在家實作。"
+        "粉專以五色生菜香鬆為題邀親子在家實作。",
+        "另一入口核為同一則。"
       ],
       "media": "影片",
       "partial": true,
@@ -25315,6 +25351,69 @@ window.reportData = {
       ],
       "title": "高一心靈晚粥",
       "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1066",
+      "year": 2022,
+      "published": "2022-03-18",
+      "time": "12:22",
+      "activity": "",
+      "notes": [
+        "粉專介紹英語檢定成果、雙語課程與國際交流。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0rUVxGmeyFtqMeP1ZQdvrRDD6rZLZ7HR7MFisp1xXuk17hSDAUG1x8b2voDV6ijLRl"
+        }
+      ],
+      "title": "英語檢定與雙語課程",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1067",
+      "year": 2022,
+      "published": "2022-06-14",
+      "time": "10:44",
+      "activity": "",
+      "notes": [
+        "粉專分享風起長跑隊的運動與學習經驗。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0293L9d5TEteRr7Yfwz5qoMwYtM4qbUVEym869gwK6uVVD1GwdmfvVFZMKSfUBP1krl"
+        }
+      ],
+      "title": "風起長跑隊學生分享",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1068",
+      "year": 2022,
+      "published": "2022-07-12",
+      "time": "09:09",
+      "activity": "",
+      "notes": [
+        "官粉記錄長跑隊在縣運與接力賽的表現及合作經驗。正文涉及個人隱私，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0UVoMcU2dAZR9iH327CXdi8jBQtrNknqrz8F4WdYRUvGoxQRv37PJTgXcSZjVowqbl"
+        }
+      ],
+      "title": "風起長跑隊競賽與團隊分享",
+      "topic": "校慶、藝文與體育",
       "kind": "fb"
     }
   ]
