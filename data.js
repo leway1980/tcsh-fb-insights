@@ -19,6 +19,16 @@ window.reportData = {
         62
       ],
       [
+        "2018-09",
+        "partial",
+        7
+      ],
+      [
+        "2018-10",
+        "partial",
+        6
+      ],
+      [
         "2018-11",
         "partial",
         7
@@ -44,6 +54,16 @@ window.reportData = {
         0
       ],
       [
+        "2022-08",
+        "partial",
+        5
+      ],
+      [
+        "2022-09",
+        "partial",
+        6
+      ],
+      [
         "2022-10",
         "partial",
         6
@@ -59,9 +79,14 @@ window.reportData = {
         10
       ],
       [
+        "2023-07",
+        "partial",
+        8
+      ],
+      [
         "2023-08",
         "partial",
-        13
+        16
       ],
       [
         "2023-09",
@@ -15764,6 +15789,755 @@ window.reportData = {
       ],
       "title": "為期三天的新生英語營",
       "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-676",
+      "year": 2018,
+      "published": "2018-09-30",
+      "time": "19:17",
+      "activity": "",
+      "notes": [
+        "粉專分享慈大附中參與 107 學年度花蓮縣國語文競賽的成果。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0jNEQBhXkfFdvnCzDmF8H3NH1k2adcWWSaye91jMF9aBVdwBhJRFpbykgx1pYqbiwl"
+        }
+      ],
+      "title": "花蓮縣國語文競賽成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-677",
+      "year": 2018,
+      "published": "2018-10-26",
+      "time": "21:34",
+      "activity": "2018-10-26",
+      "notes": [
+        "校方記錄北京修學交流第四天，學生搭地鐵探索城市，將移動與觀察納入交流學習。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0r9c93i5xeW6d8JGEZfveLUGZhDoPsmRtNGvcX7XNnH5kKTm7ncvXdJeuS1HBdRcxl"
+        }
+      ],
+      "title": "北京修學交流第四天的城市探索",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-678",
+      "year": 2018,
+      "published": "2018-10-20",
+      "time": "19:53",
+      "activity": "2018-10-20",
+      "notes": [
+        "貼文記錄第三次培訓與家長說明，預告 10 月 24 日至 28 日赴北京交流與入班體驗。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/1817467185018105/"
+        }
+      ],
+      "title": "北京教育修學的培訓與家長說明",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-679",
+      "year": 2018,
+      "published": "2018-10-20",
+      "time": "13:29",
+      "activity": "2018-10-22 至 2018-10-23",
+      "notes": [
+        "幼兒園以班級課程發想規劃兩天義賣，為印尼災民募款。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid06wZZq6BbMH6dxFdFnsgmBv1TQGdJLfRMm4pmU3NM9f4UxWwirjtTJuzhURmTVtYWl"
+        }
+      ],
+      "title": "幼兒園為印尼災民義賣募愛",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-680",
+      "year": 2018,
+      "published": "2018-10-09",
+      "time": "17:44",
+      "activity": "",
+      "notes": [
+        "附小校外教學結合自然領域，以觀察、標本與實作認識昆蟲。",
+        "學生在環保站動手分類回收物，對應綠色生活地圖課程。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0b5pKEATAmBwxBe9hWdZdnxeuaz8R7kvnVnwxJSLouKRGpAPSczfspTPyW1h7qj9hl"
+        }
+      ],
+      "title": "附小校外課程的昆蟲與垃圾分類",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-681",
+      "year": 2018,
+      "published": "2018-10-08",
+      "time": "20:05",
+      "activity": "",
+      "notes": [
+        "粉專分享學生在 2018 年世界數學邀請賽總決賽獲得銀牌。",
+        "外部得獎名單連結內容待核。"
+      ],
+      "media": "得獎名單連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0q7DLMdibG5qVbGpuZ3qn4knKXePJK1k9shLaxedoqVfKFLdw1FxP2BzqW74Zq4wDl"
+        }
+      ],
+      "title": "世界數學邀請賽總決賽銀牌",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-682",
+      "year": 2018,
+      "published": "2018-10-01",
+      "time": "10:21",
+      "activity": "",
+      "notes": [
+        "校方在親師座談會後分享慈中校訊。",
+        "外部校訊連結待核。"
+      ],
+      "media": "校訊連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid028YVsh6vY82Cq5oMB51Ts2sU2Z9L316KPEjXxMR87iTa2hPzEMhDTxwLZvuE9eu6Wl"
+        }
+      ],
+      "title": "親師座談會後的慈中校訊分享",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-683",
+      "year": 2022,
+      "published": "2022-09-28",
+      "time": "20:36",
+      "activity": "2022-09-28",
+      "notes": [
+        "附小在教師節利用校園廣播讓學生向師長致謝。",
+        "敬師系列自開學規劃，融入生活美語、藝術及慈濟人文等課程。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02cJ38uFr6GoyyNTpxc45MmDuJseJd81i15G4de1PbSzK1uKPbUh3PwkpUJtgWW259l"
+        }
+      ],
+      "title": "附小教師節活動融入課程",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-684",
+      "year": 2022,
+      "published": "2022-09-28",
+      "time": "17:03",
+      "activity": "",
+      "notes": [
+        "學生用圖畫表達對師長的感謝，粉專分享當年參賽作品。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02bXNRu8XAjJP2Qben8sgPqsq3g5RJf2emHx7utvyHaeiNxU4hJSqbG2f324frXxCjl"
+        }
+      ],
+      "title": "敬師活動「畫我良師」作品",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-685",
+      "year": 2022,
+      "published": "2022-09-19",
+      "time": "17:26",
+      "activity": "2022-09-19",
+      "notes": [
+        "貼文記錄附小避難逃生演習，並回顧演習前的有感地震。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0j2uFRpweLZjGDsGofZ8xiXZpavoB13Mim1KWreGdwJm2TxqStjXnZH7s8pvMqEHcl"
+        }
+      ],
+      "title": "附小地震避難演練",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-686",
+      "year": 2022,
+      "published": "2022-09-19",
+      "time": "17:16",
+      "activity": "",
+      "notes": [
+        "貼文以親師合作為題，記錄附小學校日與家長對學習的參與。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02qMX42xguSoVUcMXxEbDphboJeHVWLaFKMLj1HxeAuuJgbQ7xvCfTsm4nTDE4nCiAl"
+        }
+      ],
+      "title": "附小學校日：親師伴學",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-687",
+      "year": 2022,
+      "published": "2022-09-08",
+      "time": "15:46",
+      "activity": "",
+      "notes": [
+        "粉專刊出當時的中秋假期防疫公告，說明 9 月 12 日後校園政策會調整。",
+        "公告附圖內容待核。"
+      ],
+      "media": "附圖",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0JMA4rrNHQz4Wo9Jx3bNmDRf8zPFjc8atxcVksSFXrJoibY9JE6hpqY4sLRcFzKszl"
+        }
+      ],
+      "title": "2022 年中秋假期防疫公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-688",
+      "year": 2022,
+      "published": "2022-09-08",
+      "time": "11:34",
+      "activity": "",
+      "notes": [
+        "粉專以短文送上中秋節祝福。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0aA5sTDUxAaRsVfCUDxwQy47hYcsSP7UyTRuTwpHGuPk7sWuNHyWBZtUXspit8QGtl"
+        }
+      ],
+      "title": "中秋佳節祝福",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-689",
+      "year": 2023,
+      "published": "2023-08-15",
+      "time": "23:58",
+      "activity": "",
+      "notes": [
+        "粉專影片說明記錄慈中馬來西亞行與吉華的感恩音樂會。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/188510707569212/"
+        }
+      ],
+      "title": "慈中與吉華的馬來西亞感恩音樂會",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-690",
+      "year": 2023,
+      "published": "2023-08-03",
+      "time": "09:51",
+      "activity": "2023-08-04",
+      "notes": [
+        "粉專提醒高一新生，雙聯課程申請說明會在發文翌日晚上舉行。",
+        "畫面中的表單網址縮寫顯示，目標待核。"
+      ],
+      "media": "報名表單連結",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Dh5ZiS1U86rUeEoG8fd48VNTwJa7KceZ5dUmPMUmTchu3fAUmnCow19zc5tsT4H9l"
+        }
+      ],
+      "title": "高一新生雙聯課程說明會提醒",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-691",
+      "year": 2023,
+      "published": "2023-08-01",
+      "time": "20:05",
+      "activity": "2023-08-04",
+      "notes": [
+        "粉專預告 8 月 4 日線上雙聯課程說明會。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023BFU8jZx7EPrZpM1PLPxgGDYD1hHpMNFvAoAbiAcoP4TWQm3nu2dFr16najAHH6cl"
+        }
+      ],
+      "title": "線上雙聯課程說明會預告",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-692",
+      "year": 2023,
+      "published": "2023-07-30",
+      "time": "18:29",
+      "activity": "2023-07-30",
+      "notes": [
+        "新生成長營安排校園搜查線，讓新生認識各處室。",
+        "志工與家長協助學生練習服儀和生活日常，班聯會參與圓緣活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0261q4avKDKYW3EP2wn5HxktD67fUmvhL2saKoRNsHgHXaTs86hofdhfNwpcCR2Csal"
+        }
+      ],
+      "title": "112 學年度新生成長營",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-693",
+      "year": 2023,
+      "published": "2023-07-29",
+      "time": "22:20",
+      "activity": "2023-07-29",
+      "notes": [
+        "受到先前雨勢影響，報到延後兩天。校方分流安排國一、高一新生報到。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02bM73MKDTJSip24AkXJfK2SVZuCXC71KpsUogjd2DFkxc1JgsmJfFMe8kduDjAnkdl"
+        }
+      ],
+      "title": "國一、高一新生報到",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-694",
+      "year": 2023,
+      "published": "2023-07-28",
+      "time": "16:29",
+      "activity": "",
+      "notes": [
+        "慈大附中兩組學生代表花蓮參加全國科展，分獲動物與醫學科第一、農業與食品學科第二。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0HDdZBFXWPi4GgCq8piMEVghEjHrA8QfkFzETXdkf3JWyero6JKRouXmdoUtQFax2l"
+        }
+      ],
+      "title": "全國中小學科展兩組獲獎",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-695",
+      "year": 2018,
+      "published": "2018-09-30",
+      "time": "18:27",
+      "activity": "2018-09-30",
+      "notes": [
+        "粉專記錄師生北上參與《青春愛讀書》錄影，並預告 12 月播出。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0sb9mTWpT1c89UfXhkp9sapz8aZKL5J7MQFKf9yBgomgP2hwCMfykSoWBrBbfdQAxl"
+        }
+      ],
+      "title": "學生參與《青春愛讀書》錄影",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-696",
+      "year": 2018,
+      "published": "2018-09-17",
+      "time": "10:36",
+      "activity": "",
+      "notes": [
+        "中學部與國小部學生到花蓮慈濟醫院以才藝服務，貼文記錄國術隊與國樂隊的演出準備。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0313x7UhaEYoVAeVZy9tBVrBkRD1KTGDjGxc7eRNpFBTxf3AqxUACA9SBdSNYtPqotl"
+        }
+      ],
+      "title": "國術與國樂隊參與醫院志工服務",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-697",
+      "year": 2018,
+      "published": "2018-09-16",
+      "time": "10:11",
+      "activity": "2018-09-15",
+      "notes": [
+        "短說明標示 9 月 15 日醫院志工活動。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid05Q1XvuJQ66ChmvU5TvAiEerkZNg2DU2ojHUYMbYKhjDVeqnH3wDiW5oSW6UQd1ycl"
+        }
+      ],
+      "title": "9 月 15 日醫院志工紀錄",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-698",
+      "year": 2018,
+      "published": "2018-09-15",
+      "time": "12:36",
+      "activity": "2018-09-15",
+      "notes": [
+        "校方說明颱風外圍降雨期間的宿舍安排與供餐。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0UN9uwovCVvWMjhzh7bJcnCj4p6MsQAgAADkWDLp9USpGvQyLMU1Pq3Pjh5TgYcbLl"
+        }
+      ],
+      "title": "山竹颱風期間的住宿安排",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-699",
+      "year": 2018,
+      "published": "2018-09-09",
+      "time": "13:54",
+      "activity": "",
+      "notes": [
+        "粉專以教育故事為題轉分享，所分享內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02WyQj6WxzhaMiEBBv2eEpoJfMYcU2Xw1FcZRan1r9thbNVRrkhvDyvPipc5jTkzEUl"
+        }
+      ],
+      "title": "粉專分享教育故事",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-700",
+      "year": 2018,
+      "published": "2018-09-09",
+      "time": "08:08",
+      "activity": "",
+      "notes": [
+        "粉專提到首位來自馬來西亞的學生已成為校友。",
+        "轉分享內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0YddCpHnc2VrbuyVDZQzhq9jifBCGt6e6twgSRkXjrtSKzAXrnnrcoQdZHzGFVZGcl"
+        }
+      ],
+      "title": "慈中首位馬來西亞學生的校友短訊",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-701",
+      "year": 2022,
+      "published": "2022-08-30",
+      "time": "20:41",
+      "activity": "",
+      "notes": [
+        "粉專記錄開學、校園防疫與學校活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid06T4LvCCR3ZrgG97Yt8pLAE1QqZEcd7igqns7878ggbdChuygj4doguxWHqabpNKFl"
+        }
+      ],
+      "title": "2022 年慈大附中開學記事",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-702",
+      "year": 2022,
+      "published": "2022-08-30",
+      "time": "09:00",
+      "activity": "",
+      "notes": [
+        "保留本則官粉公告的發文時間及來源。原文涉及個人健康資訊，公開清冊只列索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02K13yDxMv8HjQHASNBJztGQTww5NjemsawgFK5B5R7TAx94tQKaXhnSmVR1fidMMwl"
+        }
+      ],
+      "title": "慈大附中 8 月 30 日公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-703",
+      "year": 2022,
+      "published": "2022-08-25",
+      "time": "22:45",
+      "activity": "",
+      "notes": [
+        "粉專引述當時的開學及防疫消息，涉及中小學與幼兒園。",
+        "附帶內容待核。"
+      ],
+      "media": "引用新聞",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid037UFMTbTwMhC9kqUQwSiSX3u23QB4iRJAaAYkSf2Tay3qA3n1KAF2E3kjPcLfxdzAl"
+        }
+      ],
+      "title": "2022 年中小學及幼兒園開學前公告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-704",
+      "year": 2023,
+      "published": "2023-07-28",
+      "time": "16:20",
+      "activity": "2023-07-29",
+      "notes": [
+        "粉專通知 7 月 29 日新生報到，並列分流安排。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0WMhWPU4rZEwYAke4w6KgS1RUQgffvoAn5iGmphgqBcj7MDJXPxgB7qNpAaMyXLz5l"
+        }
+      ],
+      "title": "新生分流報到變更通知",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-705",
+      "year": 2023,
+      "published": "2023-07-12",
+      "time": "02:31",
+      "activity": "",
+      "notes": [
+        "附小美國遊學營安排 STEAM 課程，先認識植物，再製作捕蠅草作品。",
+        "原分享內容與影音待核。"
+      ],
+      "media": "轉分享與影音",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02rgqf4T3LjLokb1h8cLM4QuQothLuYyeQKMk1LbLCvYn46qPLtDQLw2SL5EkJ8tKtl"
+        }
+      ],
+      "title": "附小美國遊學營的捕蠅草 STEAM 課",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-706",
+      "year": 2023,
+      "published": "2023-07-12",
+      "time": "05:02",
+      "activity": "",
+      "notes": [
+        "貼文記錄核桃小學安排體育教練及棒球活動，讓學生練習揮棒。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02NtMPx4NyMNijcVA447V8uzCC8btFJFhsdkMsPP7KR42BC6xhxnnitePxbm4YiJRhl"
+        }
+      ],
+      "title": "附小美國遊學營的棒球體育課",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-707",
+      "year": 2023,
+      "published": "2023-07-07",
+      "time": "15:10",
+      "activity": "",
+      "notes": [
+        "附小學生赴美參訪並隨 Walnut 市學生上學，營隊課程以科學、科技、工程、藝術及數學等 STEAM 主題為主。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02CKnvN4RzHctnD9HLBDP7K5RvG1fXoFSmGQVvazG9teS4W9qvjCoQxwo55rRhRaKGl"
+        }
+      ],
+      "title": "附小美國遊學營的 STEAM 與同班學習",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-708",
+      "year": 2023,
+      "published": "2023-07-07",
+      "time": "10:57",
+      "activity": "",
+      "notes": [
+        "貼文說明遊學營透過 STEAM 與英語會話學習，結合創意科學實驗與藝術創作。",
+        "外連美國慈濟教育基金會貼文內容待核。"
+      ],
+      "media": "外連貼文",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Ycrofec26WYTXsCZQHFaV4Qz1WAfyEsipjsNMjWQggMayeKQ9oQsVGfv79rvS6GNl"
+        }
+      ],
+      "title": "附小美國遊學營的創意實驗",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-709",
+      "year": 2022,
+      "published": "2022-08-16",
+      "time": "09:04",
+      "activity": "2022-08-10 至 2022-08-12",
+      "notes": [
+        "粉專記錄 8 月 10 日至 12 日美語營，使用機場英語及點餐等生活情境練習。",
+        "另附收聽資源，內容待核。"
+      ],
+      "media": "外連音訊",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02qhWD63ofLVzoQeSi5fAEqtLkXvNMCAgaaSvPJK1j2ycba5vhE5wcj67G4Uo61raHl"
+        }
+      ],
+      "title": "新生美語營的生活英語體驗",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-710",
+      "year": 2022,
+      "published": "2022-08-14",
+      "time": "17:54",
+      "activity": "2022-08-14",
+      "notes": [
+        "中學圖書館讓國中學生用桌遊機制與說故事練習創作，從魔術開場探討伏筆。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0K4sj6GgC3yU1LAnt3JPYWF7JGC2DZrsrg9wrGTXK1rFS54AKhkm1DYk3a9RC9zWEl"
+        }
+      ],
+      "title": "第五屆文學桌遊工作坊",
+      "topic": "課程與專題",
       "kind": "fb"
     }
   ]
