@@ -40,13 +40,18 @@ window.reportData = {
       ],
       [
         "2022-12",
-        "located",
-        0
+        "partial",
+        6
+      ],
+      [
+        "2023-10",
+        "partial",
+        7
       ],
       [
         "2023-11",
         "partial",
-        2
+        7
       ],
       [
         "2023-12",
@@ -54,9 +59,14 @@ window.reportData = {
         11
       ],
       [
+        "2024-01",
+        "partial",
+        8
+      ],
+      [
         "2024-02",
         "partial",
-        3
+        4
       ],
       [
         "2024-03",
@@ -14049,6 +14059,586 @@ window.reportData = {
       ],
       "title": "附小哈佛小子營的三類課程",
       "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-598",
+      "year": 2023,
+      "published": "2023-10-30",
+      "time": "22:41",
+      "activity": "2023-10-30",
+      "notes": [
+        "美國慈濟青少年團與附小學生視訊同慶萬聖節，以節慶文化進行英語交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0DLSTqMGE6WQrsuFj41TSUGB6NsuD8kYAUCJLWPVpwY3yU781d2sZuDzuhTPWr2Ftl"
+        }
+      ],
+      "title": "附小與美國慈少線上萬聖節活動",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-599",
+      "year": 2023,
+      "published": "2023-11-14",
+      "time": "10:01",
+      "activity": "",
+      "notes": [
+        "貼文回顧「菩提種子回故鄉」校慶服務，邀請慈濟大學與慈濟科技大學外籍生與中學部學生做志工。",
+        "從志工服務連結農禪生活與跨文化交流。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0RkF5u8inyjv21bvkdzvvXMmkBCCQ75FLgWHZXLFYn2x6hgPHqJGfn33UUHPXWLMKl"
+        }
+      ],
+      "title": "校慶志工的大手牽小手計畫",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-600",
+      "year": 2023,
+      "published": "2023-11-12",
+      "time": "19:18",
+      "activity": "2023-11-12",
+      "notes": [
+        "國小、國中及高中各學段師生到靜思精舍做志工，與外籍大專志工一同參與。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid025td2kn9BtZbrFEMxt2TSrNmAt2tHJMCYEGXiPjQphqMFtYQtDuwPmu53u8J44v6fl"
+        }
+      ],
+      "title": "24 週年校慶精舍志工服務",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-601",
+      "year": 2023,
+      "published": "2023-11-05",
+      "time": "18:22",
+      "activity": "2023-11-04 至 2023-11-05",
+      "notes": [
+        "慈大附中首次辦理青年防災士課程。課程為期 15 小時，包含學科與術科測驗。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid036SHtJL7fgeePYg5Q8ezatKEvWWxvPTNbAUjmgRVUw2FNNLU25UncZH6JAXq9veHRl"
+        }
+      ],
+      "title": "青年防災士首次課程",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-602",
+      "year": 2023,
+      "published": "2023-11-02",
+      "time": "16:23",
+      "activity": "",
+      "notes": [
+        "慈中與附小參與科普列車的科學推廣。",
+        "附小以餐桌上的電池為主題，讓民眾操作食材、調味料測試。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0SQ2iMFrpCDtW8CqBdENcHgWM6xRAySihP18pLEWy8mCB1C6PskgU8FRgCJs2jVvYl"
+        }
+      ],
+      "title": "臺灣科普環島列車抵達花蓮",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-603",
+      "year": 2023,
+      "published": "2023-11-01",
+      "time": "21:05",
+      "activity": "",
+      "notes": [
+        "可見粉專標籤寫明英國學校入班交流兩天。",
+        "貼文轉分享臺灣導報新聞，外部報導內容待核。"
+      ],
+      "media": "轉分享新聞",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XxREPXqWjqxyY6QaPEmiMD4B5jz7tWwUKH3E7JwSwLN7uvUDxfEqGTufteMbg6yfl"
+        }
+      ],
+      "title": "英國學校入班交流短分享",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-604",
+      "year": 2024,
+      "published": "2024-01-30",
+      "time": "22:27",
+      "activity": "",
+      "notes": [
+        "附小教師與其他獲肯定的合作學習學校教師赴休士頓參訪。",
+        "貼文討論即時回饋工具如何配合差異化教學。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02kfuvzvfQb1yatKrFozPr51hYNPLkV3SFnejJMvSPB6JJU5jhR4XsdSPg5AV63d6cl"
+        }
+      ],
+      "title": "附小教師赴休士頓觀摩差異化教學",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-605",
+      "year": 2024,
+      "published": "2024-01-22",
+      "time": "23:36",
+      "activity": "",
+      "notes": [
+        "附小學生到美國中英雙語學校 Cornerstone School 入班共學。",
+        "貼文記錄英語及跨領域課堂體驗。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0pknqmjajetZweaJsj7QVofi1pWjPUVAttzgScma6qaQAoETZHaCqNv6D9YpVibiel"
+        }
+      ],
+      "title": "附小赴美國 Cornerstone School 入班交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-606",
+      "year": 2024,
+      "published": "2024-01-13",
+      "time": "14:21",
+      "activity": "2024-01-20",
+      "notes": [
+        "附小預告 1 月 20 日招生說明會。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid027aumqwmFakggfJsCxZ2xKA1Z49cThxqf6g2DBy1D1GpDSEXfooirvv2b2mC6d7u8l"
+        }
+      ],
+      "title": "附小 1 月 20 日招生說明會預告",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-607",
+      "year": 2024,
+      "published": "2024-01-12",
+      "time": "22:41",
+      "activity": "2024-01-12",
+      "notes": [
+        "慈大附中與 Fryeburg Academy 締結姊妹校，簽訂高中線上課程及雙聯學位合作協議。",
+        "貼文說明國三起遠距修課及高中赴美實體交換的安排。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0SKZ1ewv48d3s3g3BJeZRpwCWfhavRQcohhUDgkc55fYWe41xcisGTx14tj5pZLDml"
+        }
+      ],
+      "title": "與美國佛萊柏格中學簽約",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-608",
+      "year": 2024,
+      "published": "2024-01-02",
+      "time": "12:08",
+      "activity": "",
+      "notes": [
+        "雙語班與日本青森南高校、韓國新上中學交流聖誕及新年祝福。",
+        "影片內容待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/924943975819296/"
+        }
+      ],
+      "title": "雙語班以手寫明信片向姊妹校送祝福",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-609",
+      "year": 2024,
+      "published": "2024-02-02",
+      "time": "20:47",
+      "activity": "",
+      "notes": [
+        "附小教師赴美進班觀課，觀摩分站任務、機器人、編碼、專案式學習及 STEM 挑戰等課程。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0bfZZ5Z2Rnh4JhYJ1GmL4BfQBh3aJyzSURvM1fNBGJRw2hscRJc7AVh6yCJA2HGu8l"
+        }
+      ],
+      "title": "附小教師赴休士頓觀摩分站學習",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 20:47，單篇初載顯示 04:47，時刻待核"
+    },
+    {
+      "id": "fb-610",
+      "year": 2023,
+      "published": "2023-10-29",
+      "time": "10:24",
+      "activity": "2023-10-27",
+      "notes": [
+        "高二透過大學參訪認識大學系所與學習方向，作為生涯探索。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02wF22dU74cbJtaJithqYVZJ48wPaHy27yAviQFZpNzmQfSKywp9GTDsifvgtQPRiHl"
+        }
+      ],
+      "title": "高二大學參訪與生涯探索",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-611",
+      "year": 2023,
+      "published": "2023-10-20",
+      "time": "10:35",
+      "activity": "2023-10-21",
+      "notes": [
+        "粉專用七星潭海龜與龍宮的劇情預告 10 月 21 日雙語班音樂劇公演。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid021UCMvv2N5TkZ2tzRzScRMTbnuCD8kp82QgKpvcKqcM2yg13Nf5cEm1pCTwGLgfg7l"
+        }
+      ],
+      "title": "雙語班音樂劇公演預告：七星潭海龜",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-612",
+      "year": 2023,
+      "published": "2023-10-19",
+      "time": "18:13",
+      "activity": "2023-10-21",
+      "notes": [
+        "粉專用玻里尼西亞島嶼的故事預告 10 月 21 日雙語班音樂劇公演。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Fqaa9Tfc4HNTWJuoL6pbtMHFoRfFirJUPHDzRRMTvSQehzmUqY9XgDE5cY1nBbqtl"
+        }
+      ],
+      "title": "雙語班音樂劇公演預告：玻里尼西亞",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-613",
+      "year": 2023,
+      "published": "2023-10-17",
+      "time": "14:49",
+      "activity": "2023-11-04 至 2023-11-05",
+      "notes": [
+        "校方公告高一、高二青年防災士培訓，並列 10 月 30 日報名截止。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02xE2UTG5RE7obhCXdw8oUtpGGCEj6Yr9YaGPc8N7Rf32tpzx9nJMa1vD5kX8D5X9al"
+        }
+      ],
+      "title": "青年防災士培訓招生",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-614",
+      "year": 2023,
+      "published": "2023-10-13",
+      "time": "19:32",
+      "activity": "",
+      "notes": [
+        "粉專正文只有短標籤。",
+        "轉分享的大愛新聞與影片內容待核。"
+      ],
+      "media": "轉分享新聞及影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02or3NQd9RpRifFf3j6Lo1e5fxB3isLH6WjZLSYZj29QfmyWhaTkzyGjvuTg27zv9ol"
+        }
+      ],
+      "title": "「好樣的慈中孩子」短分享",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-615",
+      "year": 2024,
+      "published": "2024-01-22",
+      "time": "01:04",
+      "activity": "",
+      "notes": [
+        "附小 Cornerstone School 交流包含進入美國家庭，體驗當地日常和文化。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02mLuEfH6x1vAD16rLuhAKgADxbHsq3PLzDG4iAxQ6A64MdXHESBMGpkwrSFaop4xKl"
+        }
+      ],
+      "title": "附小赴美校際交流的家庭體驗",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-616",
+      "year": 2024,
+      "published": "2024-01-29",
+      "time": "22:30",
+      "activity": "",
+      "notes": [
+        "粉專介紹附小寒假營隊及科學學習活動，並預告後續紀錄。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0bs2fi4us7GaLwVVrPydEE8tFkvPyXkFaVvsDmbDVC8zu5Go3RsZcrrkCumtv36Nwl"
+        }
+      ],
+      "title": "附小寒假哈佛小子營活動",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-617",
+      "year": 2024,
+      "published": "2024-01-25",
+      "time": "14:54",
+      "activity": "",
+      "notes": [
+        "粉專分享附小在美國 Cornerstone School 的慶祝活動及交流尾聲。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0DY8Do327RuScugXo17tdNT5iqxX1vaH63yc4UbYrk95ZHF5bsi8R57X5JirgeJGUl"
+        }
+      ],
+      "title": "附小 Cornerstone School 交流成果與返程",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "粉專列表顯示 1 月 25 日 14:54，單篇初載顯示 1 月 24 日 22:54，時刻待核"
+    },
+    {
+      "id": "fb-618",
+      "year": 2022,
+      "published": "2022-12-30",
+      "time": "16:23",
+      "activity": "",
+      "notes": [
+        "粉專標籤提到 2022 年花蓮慈幼及附小歲末祝福。",
+        "轉分享新聞及附件內容待核。"
+      ],
+      "media": "轉分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0MbmCxro4i8Sy9rcGqrBdDNe3uPR7Vg68PktaRRWunWQNN8anAnbEg93XCyUiB8hZl"
+        }
+      ],
+      "title": "花蓮慈幼與附小歲末祝福分享",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-619",
+      "year": 2022,
+      "published": "2022-12-27",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "貼文回顧高中多元選修，課程結合認識在地農產、菜園實作及跨領域教學。",
+        "教學團隊分享不同年度的種植與收成經驗。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02JfPntEsPBRaG8CUkWQuwB5qPSvTTi7MkA7GpFVb7h4BfqKPfoVbFJra3CoLha4A2l"
+        }
+      ],
+      "title": "高中食農多元選修「從產地到餐桌」",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-620",
+      "year": 2022,
+      "published": "2022-12-26",
+      "time": "14:06",
+      "activity": "",
+      "notes": [
+        "粉專公告 112 學年度特殊選才放榜與 10 位學生的錄取成果。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0hdKcUS9zr2E8SxnurNrpmkwN65W4vZGMFXL1RPw9v9z1rvAS2iX4XN9GQ9UBC52Sl"
+        }
+      ],
+      "title": "112 學年度特殊選才錄取成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-621",
+      "year": 2022,
+      "published": "2022-12-23",
+      "time": "23:05",
+      "activity": "",
+      "notes": [
+        "粉專分享附小聖誕快閃活動。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022N56mBXK4717ounVqB7RE9tykqqwFG1jFKPG3kgXQUTNnfDcZyXshSf6JagdSACLl"
+        }
+      ],
+      "title": "附小聖誕快閃",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-622",
+      "year": 2022,
+      "published": "2022-12-23",
+      "time": "09:52",
+      "activity": "",
+      "notes": [
+        "粉專記錄慈大附中學生錄取國立臺灣大學的成果。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02o11KXdGcypspTBRxJ4AWiDEKWYWq1NKVUznWzhTUYoLZLUp4SEFaZ8BUiQAHG3Tul"
+        }
+      ],
+      "title": "112 學年度臺大錄取成果",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-623",
+      "year": 2023,
+      "published": "2023-10-16",
+      "time": "14:18",
+      "activity": "",
+      "notes": [
+        "粉專分享附小學生參加花蓮縣英語字彙王競賽的成果。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0AS39YqTkYo9T9ZXFvZCma59D8LoJUUeEwVbs7y1v5vJEEiKDh1RLLXBpnzaLQwJ1l"
+        }
+      ],
+      "title": "附小參加花蓮縣英語字彙王競賽",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-624",
+      "year": 2022,
+      "published": "2022-12-21",
+      "time": "16:08",
+      "activity": "",
+      "notes": [
+        "粉專記錄「感飢 12」已連續辦理第六年，將系列活動納入 12 月生命教育月。",
+        "貼文把行動連到對烏克蘭的關懷。"
+      ],
+      "media": "相片",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02V1WAq8n4QgSWYB34CmEWniFYwhUnJ6RmNxTZGdDYoyDPUSSSYhKerkUmgeWbqX8Gl"
+        }
+      ],
+      "title": "生命教育月的第六年「感飢 12」",
+      "topic": "生命教育與服務",
       "kind": "fb"
     }
   ]
