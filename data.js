@@ -92,6 +92,11 @@ window.reportData = {
         "2025-03",
         "partial",
         19
+      ],
+      [
+        "2025-02",
+        "partial",
+        10
       ]
     ],
     "asOf": "2026-11-27"
@@ -9462,6 +9467,216 @@ window.reportData = {
         }
       ],
       "title": "花蓮縣適性揚才博覽會慈中攤位",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-387",
+      "year": 2025,
+      "published": "2025-02-28",
+      "time": "10:24",
+      "activity": "",
+      "notes": [
+        "公告暑期泰國、新馬、印尼海外交流，含校際交流、志工、文化和城市探索。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GwU6XFprzZw4CuSkjfBtUs9K5se87GUzUuczEHL5x8zTrVMmBW93QceyG47iuRGhl"
+        }
+      ],
+      "title": "公告暑期泰國、新馬、印尼海外交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-388",
+      "year": 2025,
+      "published": "2025-02-26",
+      "time": "21:30",
+      "activity": "",
+      "notes": [
+        "高三線上親師座談介紹升學輔導與選填時程，導師與家長晤談。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0vfbrPuhHofRQ8qhfEvKx5AyM3LyEqhuY8x4kngektwt5FnUTwWoBsfT5pfv2rVfql"
+        }
+      ],
+      "title": "高三線上親師座談介紹升學輔導與選填時程",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-389",
+      "year": 2025,
+      "published": "2025-02-19",
+      "time": "16:48",
+      "activity": "2025-02-18",
+      "notes": [
+        "慈濟大學與高中討論多元選修、自主學習、大學先修及學群探索。正文已展開，文述會議 02/18"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid069asfmSUWQBGo7VycQZ8hkLmL8b137bUTBdd8ky5GfWwghgJh4jGDtF5gyTYSEPkl"
+        }
+      ],
+      "title": "慈濟大學與高中討論多元選修、自主學習、大學先修及學群探索。正文已展開",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-390",
+      "year": 2025,
+      "published": "2025-02-15",
+      "time": "15:46",
+      "activity": "",
+      "notes": [
+        "國高中招生說明會在北桃中南東舉辦，學校介紹環境、課程與國際學習。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0VpuGSKEQkoaPmUymep94sdExUZWPe5CDqqhuVSQg6WNjUr6VRCrEefS6yh3R1UEcl"
+        }
+      ],
+      "title": "國高中招生說明會在北桃中南東舉辦",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-391",
+      "year": 2025,
+      "published": "2025-02-14",
+      "time": "22:29",
+      "activity": "2025-06-29",
+      "notes": [
+        "公告 06/29–07/12 美國國際探索營，結合學術參訪、環保與服務。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02cz1RaCSWDbzyffBXzoFJ79V5njtMgSvyLvhahWSXj7QXea7UtA7kp6Si3sWn7TZQl"
+        }
+      ],
+      "title": "公告 06/29–07/12 美國國際探索營",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-392",
+      "year": 2025,
+      "published": "2025-02-12",
+      "time": "15:55",
+      "activity": "2025-02-11",
+      "notes": [
+        "02/11 分部與年級舉行開學典禮，以敬師禮及新學期祝福迎接學生。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0SDDdTC98HYxKmDF9LZiCPKLJWVrsPrvNp6PLyF3NNDgXQDqhNewU3JWFjwc4EhNBl"
+        }
+      ],
+      "title": "02/11 分部與年級舉行開學典禮",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-393",
+      "year": 2025,
+      "published": "2025-02-10",
+      "time": "19:27",
+      "activity": "",
+      "notes": [
+        "開學前流感高峰，學校公告校園清消及防疫準備。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid022doCT8Zku7dbfgV78CYCTR4QEsbfat6Rvp2bay4btQhuxKysp5pQi39QJtXV6bzGl"
+        }
+      ],
+      "title": "開學前流感高峰",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-394",
+      "year": 2025,
+      "published": "2025-02-08",
+      "time": "16:10",
+      "activity": "",
+      "notes": [
+        "寒假科學鑑識營以指紋採集等實作，結合化學、生物、觀察與推理。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02uxs996HC6SjcBXJj1TA8uJdP36g2DRXDK1KNKDtAYpzVNeT56ZYfNrMWFU1W2jVwl"
+        }
+      ],
+      "title": "寒假科學鑑識營以指紋採集等實作",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-395",
+      "year": 2025,
+      "published": "2025-02-08",
+      "time": "12:46",
+      "activity": "",
+      "notes": [
+        "開學前行政會議以新春祝福、猜謎和工作規劃交流。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0ohxg7cZAiLFg1LzS4UQk4P3EEieJr8ChZHDVXNsjkKkBB5jqcAReQhhMRMTd1gVTl"
+        }
+      ],
+      "title": "開學前行政會議以新春祝福、猜謎和工作規劃交流。正文已展開",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-396",
+      "year": 2025,
+      "published": "2025-02-02",
+      "time": "22:44",
+      "activity": "2025-02-15",
+      "notes": [
+        "預告 02/15 招生說明會，介紹國一班型與住宿。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02uTNunNW3S3wjfqD19m3jtvUY3EF48jVo4G2zrduQsFe6Ye1rhHdPKU55sW8dwqn9l"
+        }
+      ],
+      "title": "預告 02/15 招生說明會",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
