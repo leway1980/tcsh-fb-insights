@@ -116,12 +116,12 @@ window.reportData = {
       [
         "2019-06",
         "partial",
-        4
+        11
       ],
       [
         "2019-07",
         "partial",
-        10
+        16
       ],
       [
         "2019-08",
@@ -186,7 +186,7 @@ window.reportData = {
       [
         "2020-08",
         "partial",
-        7
+        11
       ],
       [
         "2020-09",
@@ -261,7 +261,7 @@ window.reportData = {
       [
         "2021-11",
         "partial",
-        3
+        6
       ],
       [
         "2021-12",
@@ -1527,7 +1527,24 @@ window.reportData = {
         "fb-1100",
         "fb-1101",
         "fb-1102",
-        "fb-1103"
+        "fb-1103",
+        "fb-1105",
+        "fb-1106",
+        "fb-1107",
+        "fb-1108",
+        "fb-1109",
+        "fb-1110",
+        "fb-1111",
+        "fb-1112",
+        "fb-1113",
+        "fb-1114",
+        "fb-1115",
+        "fb-1116",
+        "fb-1117",
+        "fb-1119",
+        "fb-1120",
+        "fb-1122",
+        "fb-1123"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1544,7 +1561,8 @@ window.reportData = {
         "fb-937",
         "fb-950",
         "fb-1028",
-        "fb-1029"
+        "fb-1029",
+        "fb-1104"
       ],
       "indexOnly": [
         "fb-81",
@@ -1616,7 +1634,9 @@ window.reportData = {
         "fb-1078",
         "fb-1083",
         "fb-1085",
-        "fb-1089"
+        "fb-1089",
+        "fb-1118",
+        "fb-1121"
       ]
     }
   },
@@ -26423,6 +26443,433 @@ window.reportData = {
         }
       ],
       "title": "泰北修學第二天：泰語與香花燭",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1104",
+      "year": 2019,
+      "published": "2019-06-28",
+      "time": "19:20",
+      "activity": "",
+      "notes": [
+        "粉專日期列表顯示發文日期、時刻與原址。畫面顯示內容無法查看，未見獨立正文。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0385QxirVNHyBB4L6HCwX1M9tJdkT82mvJNiDUDNybFmcvHZSSQsQ5ScVzznVH4PMgl"
+        }
+      ],
+      "title": "6 月 28 日官帖，內容無法查看",
+      "topic": "主題待核",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1105",
+      "year": 2019,
+      "published": "2019-06-28",
+      "time": "10:25",
+      "activity": "",
+      "notes": [
+        "官帖記錄與當地學生一起上課，內容包含基礎科學、數學、藝術及烹飪。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02AoYvVYFC1N5VetNPDXLyHrypHwAUnNMtPcnE3BzdGLRGEajiaug5NJDnTnLrxZWhl"
+        }
+      ],
+      "title": "附小美國修學：Southland School 上課第一天",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1106",
+      "year": 2019,
+      "published": "2019-06-27",
+      "time": "11:54",
+      "activity": "",
+      "notes": [
+        "修學團抵達加州慈濟美國總會，展開兩週的學習行程。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/866439393718851/"
+        }
+      ],
+      "title": "附小美國修學團抵達洛杉磯",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1107",
+      "year": 2019,
+      "published": "2019-06-23",
+      "time": "22:35",
+      "activity": "",
+      "notes": [
+        "附小利用假日練習手語，介紹新加坡文化並分享海洋垃圾議題。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0oxA9KCJyEybzf2EQ61pYNDTQuxbAX6ubiVJUioHdAxHdmpi97KizmQK4pzcY8j8Pl"
+        }
+      ],
+      "title": "新加坡遊學團行前培訓",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1108",
+      "year": 2019,
+      "published": "2019-06-23",
+      "time": "11:08",
+      "activity": "",
+      "notes": [
+        "附小各班分為紅、藍兩隊進行水中競賽，親師生共同參與。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02QzLhyg4LBZxvkcrAdWz4ARE9UunUeiZ5CqcbpQxnA9T62C4HVN2tjtDmWMq1LYjVl"
+        }
+      ],
+      "title": "附小水上運動會",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1109",
+      "year": 2019,
+      "published": "2019-06-28",
+      "time": "18:10",
+      "activity": "",
+      "notes": [
+        "家長會安排教師觀看《如常》，官帖分享對陪伴與日常實踐的省思。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0FchBr1tQC2BT4Ju6yTT2tFfR7vNXV4UhdtzgjYqok1RpUzERbBRb8dU3vSnkkLV8l"
+        }
+      ],
+      "title": "期末《如常》紀錄片觀影與教育省思",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 18:10，單篇另顯示 03:10。"
+    },
+    {
+      "id": "fb-1110",
+      "year": 2019,
+      "published": "2019-06-27",
+      "time": "12:00",
+      "activity": "",
+      "notes": [
+        "附小修學團參訪位於 Walnut 與 Monrovia 的慈濟小學。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0efKGZESxfZWWbrvovZ2WxjRK2i3nuBfzodrRARqrtW2kZHYoJjBHVdnaVCzkiSRKl"
+        }
+      ],
+      "title": "附小洛杉磯慈濟小學參訪",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "列表顯示 2019-06-27 12:00，單篇另顯示 2019-06-26 21:00。"
+    },
+    {
+      "id": "fb-1111",
+      "year": 2019,
+      "published": "2019-07-14",
+      "time": "19:39",
+      "activity": "",
+      "notes": [
+        "附小帶領五、六年級學生準備交流，安排新加坡多元文化與手語等五次假日培訓。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/399837340656205/"
+        }
+      ],
+      "title": "附小與新加坡菩提小學交流行前培訓",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1112",
+      "year": 2019,
+      "published": "2019-07-13",
+      "time": "22:32",
+      "activity": "",
+      "notes": [
+        "兩校學生在菲律賓志工行前互相認識，共同練習語言和生活禮節。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02hczYrbzWdScFAQJkgbo9F6g3UrLKPB2nMYGwaLYjKi4B5aC8iTG25HtpTbV2rMzel"
+        }
+      ],
+      "title": "花蓮與臺南慈小的菲律賓志工交流準備",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "列表顯示 22:32，單篇另顯示 07:32。"
+    },
+    {
+      "id": "fb-1113",
+      "year": 2019,
+      "published": "2019-07-11",
+      "time": "07:48",
+      "activity": "",
+      "notes": [
+        "官帖回顧兩週美國修學，感謝接待與陪伴。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/462150897907504/"
+        }
+      ],
+      "title": "附小美國修學結束，感謝慈濟美國總會",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1114",
+      "year": 2019,
+      "published": "2019-07-19",
+      "time": "18:22",
+      "activity": "",
+      "notes": [
+        "官粉外層短文列出泰國佛教禮儀、泰文學習與減塑推廣。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02JqYtvKhXMf3U1YjbiLjAPLzfwLLioQ8EXAR9JCas7eekYEtziVWx6UGfcbKDe53xl"
+        }
+      ],
+      "title": "泰北清邁交流的官粉轉分享",
+      "topic": "國際與雙語",
+      "kind": "fb",
+      "timeNote": "列表顯示 18:22，單篇另顯示 03:22。"
+    },
+    {
+      "id": "fb-1115",
+      "year": 2019,
+      "published": "2019-07-16",
+      "time": "23:15",
+      "activity": "",
+      "notes": [
+        "交流團在菲律賓 Dagat Dagatan 的義診現場協助服務並反思服務經驗。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02eacqdJ6VK2dYeieM4T5H8cLZzkh2Y2em4QtWBsxRTSHqWFQodMATuabr3hNYdnV1l"
+        }
+      ],
+      "title": "菲律賓國際志工：義診現場服務",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 23:15，單篇另顯示 08:15。"
+    },
+    {
+      "id": "fb-1116",
+      "year": 2019,
+      "published": "2019-07-17",
+      "time": "00:44",
+      "activity": "",
+      "notes": [
+        "附小與菩提學校學生體驗不同族群童玩，下午依學生規劃的路線探索多元文化地點。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0iMocPGkKz4jUEjwmTf8WW2DNTYt72vmzKFPiJ86eRFtbRu552FQg5VAekBpkqJEQl"
+        }
+      ],
+      "title": "新加坡菩提學校種族和諧日與城市探索",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1117",
+      "year": 2020,
+      "published": "2020-08-21",
+      "time": "10:38",
+      "activity": "",
+      "notes": [
+        "附幼安排六週暑期活動，包含主題教學、烘焙、美術與表演藝術。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02rCfTjPxb3mpPLCLdxWYQSZRqkLcNsRX99e7GPaGrYqA6Kyq2xsGwMomG18CVVp1Ml"
+        }
+      ],
+      "title": "附幼六週暑期夏令營",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1118",
+      "year": 2020,
+      "published": "2020-08-16",
+      "time": "18:24",
+      "activity": "",
+      "notes": [
+        "官帖分享蔬食主題節目。正文涉及兒童家庭經驗，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0XG1akYauFBbX1zCyBDyoLMzfmh7xF4D1pT68fzXDWcffXyvjLxy6eLPQNxCTyyPil"
+        }
+      ],
+      "title": "官粉分享附小畢業生的蔬食故事",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1119",
+      "year": 2020,
+      "published": "2020-08-27",
+      "time": "18:15",
+      "activity": "",
+      "notes": [
+        "營隊安排志工出坡、慈善與國際服務分享，也討論疫情下的教育與世界公民培育。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Tp9xkSXAtqPZH6VsfyUEcMzv5ApDwcXDFetMXxbLHY1a8ReMkjywit364BjpEavwl"
+        }
+      ],
+      "title": "合心共識營第三天：志工實作與慈善分享",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 18:15，單篇另顯示 03:15。"
+    },
+    {
+      "id": "fb-1120",
+      "year": 2020,
+      "published": "2020-08-26",
+      "time": "20:06",
+      "activity": "",
+      "notes": [
+        "教師討論課綱前導、教師社群與素養課程，分享自主學習的四個構面。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02GLQmAyf3Z4ZDpkMf79WEcjUniLdEtXbRr7cDqxwhS43eHs7NqsqEh2nT2Y8NeFbol"
+        }
+      ],
+      "title": "合心共識營第二天：校本課程與自主學習",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "列表顯示 20:06，單篇另顯示 05:06。"
+    },
+    {
+      "id": "fb-1121",
+      "year": 2021,
+      "published": "2021-11-24",
+      "time": "17:27",
+      "activity": "",
+      "notes": [
+        "官帖記錄附小和美國慈少視訊交流感恩節文化。正文涉及學生個人資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0S2qt5wSY6CxmXyiconRbYimGd8CE9iRdpja87XKKJco7YRPAC3vwb9ukBqxpiv9tl"
+        }
+      ],
+      "title": "附小與美國慈少的感恩節視訊交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1122",
+      "year": 2021,
+      "published": "2021-11-21",
+      "time": "14:58",
+      "activity": "",
+      "notes": [
+        "附小五年級和新加坡學伴視訊交流，透過短劇及論壇分享疫情下的學習，並倡議蔬食減碳。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0nQiSoDBYuVsEiTmPYi4MsLPgr2PT9QqpvnfevPzKv6Hfdubg7RpCRpXPCdM3TpDyl"
+        }
+      ],
+      "title": "附小與新加坡菩提學校雲端交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1123",
+      "year": 2021,
+      "published": "2021-11-10",
+      "time": "23:24",
+      "activity": "",
+      "notes": [
+        "高二雙語班在艋舺和大稻埕踏查，練習用英語介紹景點並接受教師回饋。"
+      ],
+      "media": "",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0Y1NHAErXeSWuFdBLgfgTaucYcB2uAeHcQRW5h8kAoCosZU7Dq1JiHxZaoqpGnoAYl"
+        }
+      ],
+      "title": "高二雙語班「青年外交官」英語導覽",
       "topic": "國際與雙語",
       "kind": "fb"
     }
