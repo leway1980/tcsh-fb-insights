@@ -106,7 +106,7 @@ window.reportData = {
       [
         "2024-12",
         "partial",
-        24
+        45
       ]
     ],
     "asOf": "2026-11-27"
@@ -10444,6 +10444,448 @@ window.reportData = {
       ],
       "title": "見學東台灣第四站八仙洞",
       "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-433",
+      "year": 2024,
+      "published": "2024-12-14",
+      "time": "11:25",
+      "activity": "",
+      "notes": [
+        "見學東台灣第三站靜浦，認識大港口事件及在地歷史。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02yx4cY945T5GKRZ88wsXAd68tTYQrc695fT6MFxvyDswLvNTFr4JhkukrnVdekNWTl"
+        }
+      ],
+      "title": "見學東台灣第三站靜浦",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-434",
+      "year": 2024,
+      "published": "2024-12-14",
+      "time": "10:51",
+      "activity": "",
+      "notes": [
+        "見學第二站石梯坪，與馬來西亞學生觀察海蝕地形及操作傾斜儀。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GYXv8hLC2yT18vs8WctQTyomy2jxGs1ffqtEGXh5xSrAm2rWp2EDAsXEFtWi1T2kl"
+        }
+      ],
+      "title": "見學第二站石梯坪",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-435",
+      "year": 2024,
+      "published": "2024-12-14",
+      "time": "08:38",
+      "activity": "",
+      "notes": [
+        "見學第一站蕃薯寮，戶外觀察並預告與國際學校會合。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid03jgnJ9dBGU4Q1Ww6Y9jLZXpAXkXj58RnxVA5kcNuexktfvMuy6hwi1kTeGcAH1WDl"
+        }
+      ],
+      "title": "見學第一站蕃薯寮",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-436",
+      "year": 2024,
+      "published": "2024-12-13",
+      "time": "22:21",
+      "activity": "",
+      "notes": [
+        "吉隆坡慈濟國際學校師生來訪，國樂國術迎賓與隔日戶外教學準備。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid035poGtTpuxuUHHeeL7ojNx3pgDVaZc8iYFejHWFwneXQVcDAbTfnFWXTghJUZU5jml"
+        }
+      ],
+      "title": "吉隆坡慈濟國際學校師生來訪",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-437",
+      "year": 2024,
+      "published": "2024-12-13",
+      "time": "09:12",
+      "activity": "",
+      "notes": [
+        "花蓮縣音樂賽三組代表赴全國。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02RZDGmSbPnFptK4wV8dezSr7ZPhToT3kavViHFBAaAuDSGkFbZMrk75HNhk7uhtb4l"
+        }
+      ],
+      "title": "花蓮縣音樂賽三組代表赴全國",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-438",
+      "year": 2024,
+      "published": "2024-12-12",
+      "time": "15:04",
+      "activity": "",
+      "notes": [
+        "感飢 12 活動倒數五天邀響應。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0yj4t21VxZy7NpnuvJybk8ztgFS49vhMsnPa7TLRwpHW8WQ4nCRyNdphxTKZK9zPMl"
+        }
+      ],
+      "title": "感飢 12 活動倒數五天邀響應",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-439",
+      "year": 2024,
+      "published": "2024-12-12",
+      "time": "11:35",
+      "activity": "",
+      "notes": [
+        "預告 12/21 校慶運動會與公益園遊會。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0GwaRuTadvTmuhiLTinTMeWVP1MmGxzH5nMSkLFCEHFZFxFthGftgJjdsuJ8GAg6tl"
+        }
+      ],
+      "title": "預告 12/21 校慶運動會與公益園遊會",
+      "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-440",
+      "year": 2024,
+      "published": "2024-12-12",
+      "time": "11:08",
+      "activity": "",
+      "notes": [
+        "日本教育旅行於東京代代木公園參與掃街志工",
+        "粉專正文已展開，轉分享內容目前無法查看"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0xgTRzmG9ANoU5WQgc33YCTFLiAG9n8be6pXiNgzcFDLH8gmNWQBXsG9czQoLJeQcl"
+        }
+      ],
+      "title": "日本教育旅行於東京代代木公園參與掃街志工",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-441",
+      "year": 2024,
+      "published": "2024-12-11",
+      "time": "11:26",
+      "activity": "",
+      "notes": [
+        "感飢 12 活動倒數六天邀響應。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0bS293f5UWWto6MiS2QGGRAUL2jBcp5G1RXUU2KiBBnsgjbieptDP7LRgaw1y1dEKl"
+        }
+      ],
+      "title": "感飢 12 活動倒數六天邀響應",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-442",
+      "year": 2024,
+      "published": "2024-12-11",
+      "time": "00:02",
+      "activity": "",
+      "notes": [
+        "日本教育旅行遠野農家住宿、盛岡北高校課堂與文化交流。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Qd3WtvFBJseGgVgEBhqgdHVePR47zTY8pwsfZaU48xnNoUikfbZPTd6FQTomyUekl"
+        }
+      ],
+      "title": "日本教育旅行遠野農家住宿、盛岡北高校課堂與文化交流",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-443",
+      "year": 2024,
+      "published": "2024-12-10",
+      "time": "20:00",
+      "activity": "",
+      "notes": [
+        "感飢 12 倒數七天邀響應。正文已展開，影片未核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/3984490298536918/"
+        }
+      ],
+      "title": "感飢 12 倒數七天邀響應",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-444",
+      "year": 2024,
+      "published": "2024-12-10",
+      "time": "08:43",
+      "activity": "",
+      "notes": [
+        "分享岩手放送新聞。正文已展開，外部新聞待核"
+      ],
+      "media": "相片或分享",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02Kk5e3oj7uSB9ctJoehRG943hRo1c7GaMPKpupWZawkP3XTGFF1ixFyFxjBX5QKSRl"
+        }
+      ],
+      "title": "分享岩手放送新聞",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-445",
+      "year": 2024,
+      "published": "2024-12-09",
+      "time": "23:09",
+      "activity": "",
+      "notes": [
+        "日本教育旅行回訪盛岡第一高校，入班與文化交流。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0eVpCFbnZtzWLtZHSZRxbqGy4Hg3JZCgQWGpFGYdS9s4WXYtaA7R9KSPHaVateQHDl"
+        }
+      ],
+      "title": "日本教育旅行回訪盛岡第一高校",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-446",
+      "year": 2024,
+      "published": "2024-12-08",
+      "time": "22:51",
+      "activity": "",
+      "notes": [
+        "日本教育旅行參訪仙台城跡、中尊寺並體驗雪景。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0et6NLwkbHS9xtbrLNsDRrU3kFFPP9VLqXSbydfGLu7JKXoRTMw2MMbVNK2qfLF4jl"
+        }
+      ],
+      "title": "日本教育旅行參訪仙台城跡、中尊寺並體驗雪景",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-447",
+      "year": 2024,
+      "published": "2024-12-08",
+      "time": "00:05",
+      "activity": "",
+      "notes": [
+        "外交小尖兵英語種籽隊選拔全國優等。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0385ddVFzv9pAoV96mHnjn9LxGN4m2XNcQgvLnCNEmSSr7aurjV3uwaMf1EBL6urCwl"
+        }
+      ],
+      "title": "外交小尖兵英語種籽隊選拔全國優等",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-448",
+      "year": 2024,
+      "published": "2024-12-07",
+      "time": "21:53",
+      "activity": "",
+      "notes": [
+        "冬季日本教育旅行由桃園經東京前往仙台。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02zjPJQFGYiyZuDrkdTsyjsALqzHiUbtGfhfJCQwVeJGW4H2wd9a1pKAszbiYqxBAUl"
+        }
+      ],
+      "title": "冬季日本教育旅行由桃園經東京前往仙台",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-449",
+      "year": 2024,
+      "published": "2024-12-07",
+      "time": "15:41",
+      "activity": "",
+      "notes": [
+        "海外交流團啟程預告。正文已展開，影片未核"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/2244247679281303/"
+        }
+      ],
+      "title": "海外交流團啟程預告",
+      "topic": "國際與雙語",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-450",
+      "year": 2024,
+      "published": "2024-12-07",
+      "time": "09:38",
+      "activity": "",
+      "notes": [
+        "公告 12/17 感飢 12 體驗與國際教育援助活動。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid034NNwyoR8LQb2GF8E9Eq2w39ZphD5JC3TYiPxDZL7ofpExf9zZ8VLDkFUjtnG9kTjl"
+        }
+      ],
+      "title": "公告 12/17 感飢 12 體驗與國際教育援助活動",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-451",
+      "year": 2024,
+      "published": "2024-12-05",
+      "time": "08:45",
+      "activity": "",
+      "notes": [
+        "校方拜訪東華大學，討論更生盃數學競賽與花東數理培育合作。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0qVAWJNRHs2W1xo29XdDn7QMhjh7dGwbFzAnt9XwSuvbzn17v3go2adQrTP6sFbnul"
+        }
+      ],
+      "title": "校方拜訪東華大學",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-452",
+      "year": 2024,
+      "published": "2024-12-02",
+      "time": "08:19",
+      "activity": "",
+      "notes": [
+        "公告 12/21 校園開放日供小六生與家長參訪。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02W5KJ4cKQ2W69WhmRKVwPctUX4LiXfniaWNr4onuzxB6f9Vimb9g1yZcGs1TA99ahl"
+        }
+      ],
+      "title": "公告 12/21 校園開放日供小六生與家長參訪",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-453",
+      "year": 2024,
+      "published": "2024-12-02",
+      "time": "00:12",
+      "activity": "",
+      "notes": [
+        "教師閱讀增能工作坊涵蓋媒體資訊判讀、數位公民與批判思考。正文已展開"
+      ],
+      "media": "相片或分享",
+      "partial": false,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0317fT4MbUGpeAdx9F1GjxJ3TwUWJjbHNHAHRL1MKB8pXSVJk6bYmpT7oaBraERHw9l"
+        }
+      ],
+      "title": "教師閱讀增能工作坊涵蓋媒體資訊判讀、數位公民與批判思考",
+      "topic": "課程與專題",
       "kind": "fb"
     }
   ]
