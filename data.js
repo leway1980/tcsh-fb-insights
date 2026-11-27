@@ -111,7 +111,7 @@ window.reportData = {
       [
         "2019-05",
         "partial",
-        4
+        8
       ],
       [
         "2019-06",
@@ -1128,11 +1128,11 @@ window.reportData = {
       "timeNote": "",
       "activity": "2026-01-26 至 02-06（公告）",
       "notes": [
-        "粉專刊登慈大附小寒假營隊招生，含才藝半日、全日與安親安排",
-        "營隊分兩梯次，2025-12-18 開放報名"
+        "粉專公開轉分享花蓮慈大附小公告，外層無獨立正文。日期與兩個網址已核對。",
+        "附小公告營隊分兩梯次，2025-12-18 開放報名，提供才藝半日、全日與安親安排。相片待核。"
       ],
-      "media": "相片。附小活動",
-      "partial": false,
+      "media": "轉分享，相片",
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -1151,11 +1151,11 @@ window.reportData = {
       "timeNote": "",
       "activity": "2025-11-29（第一場）、2026-01-10（公告）",
       "notes": [
-        "粉專刊登慈大附小第二場 OPEN DAY 報名，回顧第一場",
-        "第二場包括小一校園導覽、課程體驗與教室參訪"
+        "粉專公開轉分享花蓮慈大附小公告，外層無獨立正文。日期與兩個網址已核對。",
+        "依轉分享內的附小公告，第二場校園開放日安排小一校園導覽、課程體驗與教室參訪。相片待核。"
       ],
-      "media": "相片。附小活動",
-      "partial": false,
+      "media": "轉分享，相片",
+      "partial": true,
       "sources": [
         {
           "label": "Facebook 原文",
@@ -4280,7 +4280,7 @@ window.reportData = {
       "time": "16:55",
       "activity": "",
       "notes": [
-        "慈小四年級歡迎新加坡菩提學校，表演哈卡舞。正文或影片待核"
+        "慈小四年級以哈卡舞歡迎新加坡菩提學校。已核對官粉影片說明，影片內容待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -4301,7 +4301,7 @@ window.reportData = {
       "time": "14:57",
       "activity": "",
       "notes": [
-        "幼兒園與德國校長國際交流。正文或影片待核"
+        "幼兒園班級製作水果茶，向到訪的德國校長奉茶。已核對官粉影片說明，影片內容待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -4322,7 +4322,7 @@ window.reportData = {
       "time": "11:25",
       "activity": "",
       "notes": [
-        "幼兒園國際交流。正文或影片待核"
+        "幼兒園與到訪的德國校長透過音樂交流。已核對官粉影片說明，影片內容待核。"
       ],
       "media": "影片",
       "partial": true,
@@ -4385,9 +4385,9 @@ window.reportData = {
       "time": "09:45",
       "activity": "2017-11-24",
       "notes": [
-        "11/24 一至四年級戶外教學，分赴藥草園、碾米廠、森林園區及環保站、農場及地方法院。正文或影片待核"
+        "11 月 24 日附小一至四年級分赴慈大藥草園、花蓮市農會碾米廠、池南森林園區與環保站、豐禾農場及花蓮地方法院。已核對正文，內嵌 YouTube 影音待核。"
       ],
-      "media": "相片或分享",
+      "media": "內嵌 YouTube",
       "partial": true,
       "sources": [
         {
@@ -4395,7 +4395,7 @@ window.reportData = {
           "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02k6pg1WyhJ3TeEDWs3E26Ku6D9erBxCATRTw1rCGhNFCqZK3DjRhVABJxzFh6fWRhl"
         }
       ],
-      "title": "11/24 一至四年級戶外教學，分赴藥草園、碾米廠、森林園區及環保站、",
+      "title": "附小一至四年級戶外教學走訪六處場域",
       "topic": "在地與校外學習",
       "kind": "fb"
     },
@@ -4406,9 +4406,9 @@ window.reportData = {
       "time": "19:29",
       "activity": "",
       "notes": [
-        "國術隊。正文或影片待核"
+        "粉專轉分享慈中國術隊貼文，外層有簡短介紹。已核對粉專自身文字，內嵌分享內容待核。"
       ],
-      "media": "相片或分享",
+      "media": "轉分享",
       "partial": true,
       "sources": [
         {
@@ -4418,7 +4418,8 @@ window.reportData = {
       ],
       "title": "國術隊",
       "topic": "招生與校園生活",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 19:29。本次單篇日期連結讀值為 03:29，兩種讀值待核"
     },
     {
       "id": "fb-127",
@@ -5708,9 +5709,9 @@ window.reportData = {
       "time": "22:48",
       "activity": "",
       "notes": [
-        "歡迎青森南高校師生。正文截斷"
+        "青森南高校師生回訪慈中，參與為期兩天的交流。已補正文，附圖與圖片型表情符號待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -5720,7 +5721,8 @@ window.reportData = {
       ],
       "title": "歡迎青森南高校師生",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 22:48，本次單篇介面顯示 07:48，兩種讀值待核"
     },
     {
       "id": "fb-189",
@@ -5876,9 +5878,9 @@ window.reportData = {
       "time": "18:54",
       "activity": "",
       "notes": [
-        "與美國緬因中央中學雙聯學位第五屆開學。正文截斷"
+        "慈大附中與美國緬因中央中學合作的雙聯學位課程進入第五年。已補開學公告正文，附圖與圖片型表情符號待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -5888,7 +5890,8 @@ window.reportData = {
       ],
       "title": "與美國緬因中央中學雙聯學位第五屆開學",
       "topic": "國際與雙語",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 18:54，本次單篇介面顯示 03:54，兩種讀值待核"
     },
     {
       "id": "fb-197",
@@ -6002,9 +6005,9 @@ window.reportData = {
       "time": "17:27",
       "activity": "",
       "notes": [
-        "花蓮慈大附中與台南慈中教學參訪交流。正文截斷"
+        "花蓮慈大附中赴台南慈中訪校，分組交流行政與教學，並討論環境教育基地及課程規劃。已補正文，附圖與圖片型表情符號待核。"
       ],
-      "media": "相片或分享",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -6014,7 +6017,8 @@ window.reportData = {
       ],
       "title": "花蓮慈大附中與台南慈中教學參訪交流",
       "topic": "在地與校外學習",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 17:27，本次單篇介面顯示 02:27，兩種讀值待核"
     },
     {
       "id": "fb-203",
@@ -21046,7 +21050,8 @@ window.reportData = {
       ],
       "title": "3 月 6 日官帖，僅保留編目",
       "topic": "主題待核",
-      "kind": "fb"
+      "kind": "fb",
+      "timeNote": "清冊記為 17:25，同篇的另一個單篇入口初載顯示 01:25。已用官粉作者、日期及相同相簿比對兩網址，兩種時刻讀值待核"
     },
     {
       "id": "fb-907",
@@ -22084,11 +22089,11 @@ window.reportData = {
       "year": 2019,
       "published": "2019-07-09",
       "time": "14:22",
-      "activity": "",
+      "activity": "2019-07-05（兩天課程的第一天）",
       "notes": [
-        "粉專記錄韓國修學的無人機課程與職訓參訪。僅保存開頭，完整正文待補。"
+        "韓國教育修學團參訪職訓設施，從安全與產業介紹進到電腦模擬和實機飛行。已補正文，相片待核。"
       ],
-      "media": "",
+      "media": "相片",
       "partial": true,
       "sources": [
         {
@@ -23000,6 +23005,90 @@ window.reportData = {
         }
       ],
       "title": "附小學校日及親師交流",
+      "topic": "招生與校園生活",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1000",
+      "year": 2019,
+      "published": "2019-05-02",
+      "time": "12:49",
+      "activity": "",
+      "notes": [
+        "幼兒依主題課程籌備蔬食館，練習列購物清單、分工找齊 12 項材料，以及用查價和加總控制預算。已讀貼文說明，影片待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/615523055522725/"
+        }
+      ],
+      "title": "幼兒園善解班為蔬食館進行校外採買",
+      "topic": "在地與校外學習",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1001",
+      "year": 2019,
+      "published": "2019-05-05",
+      "time": "22:04",
+      "activity": "",
+      "notes": [
+        "教保研習從基礎滑步與平衡進到賽道和兩輪腳踏車練習，貼文記錄教師規劃將所學融入幼兒園體能教學。影片待核。"
+      ],
+      "media": "影片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/videos/483076418897996/"
+        }
+      ],
+      "title": "附設幼兒園教師進修平衡車與感覺統合教學",
+      "topic": "課程與專題",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1002",
+      "year": 2019,
+      "published": "2019-05-08",
+      "time": "11:28",
+      "activity": "作品展至 2019-05-30",
+      "notes": [
+        "官方公告兩組優等、三組佳作，涵蓋動物醫學、行為社會科學、數學、物理及工程。作品在圖書館二樓展示至 5 月 30 日，相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02A1TvPFPQ5DntVivgrBCXdcBNdbwcMPFFMF1Avs6EuTaYYLcAwUbVGe79VR8cFLJnl"
+        }
+      ],
+      "title": "第 59 屆第七區高中科展獲五項獎，作品在校展示",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1003",
+      "year": 2019,
+      "published": "2019-05-18",
+      "time": "10:52",
+      "activity": "2019-05-18 至 2019-05-19",
+      "notes": [
+        "貼文於會考首日記錄家長會、師長與家長陪伴考生，並提到接續兩日的支持安排。相片待核。"
+      ],
+      "media": "相片",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02rzXpWWwvy1ZrfvpMCmZvpPTbuK1f2gFns2BPg1MRbYigYnKHAWGNY6nEH81PG234l"
+        }
+      ],
+      "title": "國中教育會考期間家長會與師長陪考",
       "topic": "招生與校園生活",
       "kind": "fb"
     }
