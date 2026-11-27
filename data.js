@@ -181,7 +181,7 @@ window.reportData = {
       [
         "2020-07",
         "partial",
-        15
+        18
       ],
       [
         "2020-08",
@@ -321,7 +321,7 @@ window.reportData = {
       [
         "2022-11",
         "partial",
-        7
+        11
       ],
       [
         "2022-12",
@@ -1768,7 +1768,12 @@ window.reportData = {
         "fb-1372",
         "fb-1373",
         "fb-1374",
-        "fb-1375"
+        "fb-1375",
+        "fb-1376",
+        "fb-1378",
+        "fb-1379",
+        "fb-1380",
+        "fb-1382"
       ],
       "noVisibleText": [
         "fb-27",
@@ -1888,7 +1893,9 @@ window.reportData = {
         "fb-1345",
         "fb-1347",
         "fb-1348",
-        "fb-1352"
+        "fb-1352",
+        "fb-1377",
+        "fb-1381"
       ]
     }
   },
@@ -32495,6 +32502,159 @@ window.reportData = {
       ],
       "title": "官粉邀請支持學生藝文創作（可見摘錄）",
       "topic": "校慶、藝文與體育",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1376",
+      "year": 2020,
+      "published": "2020-07-03",
+      "time": "12:19",
+      "activity": "",
+      "notes": [
+        "官帖記錄讀書繪徵文的故事接龍獲獎。封存文字省略學生姓名及班級。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02tN9R92WXubSrzZh3zjQjbD9JNzTtBzLdkowaojbV8V4gypHk8ZHtBgH7pjyfiCDYl"
+        }
+      ],
+      "title": "讀書繪故事接龍競賽（可見摘錄）",
+      "topic": "競賽與成果",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1377",
+      "year": 2020,
+      "published": "2020-07-03",
+      "time": "10:37",
+      "activity": "",
+      "notes": [
+        "官帖分享校園蔬食報導。正文涉及可識別學生資訊，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid023xFBHUACSLPmhq5YwysXxff5wMnXyTEAt49ztNSCfV6YdBYiknpExPZmA2k766Mel"
+        }
+      ],
+      "title": "官粉分享校園蔬食報導",
+      "topic": "生命教育與服務",
+      "kind": "fb",
+      "timeNote": "列表顯示 7 月 3 日 10:37，單篇另顯示 7 月 2 日 19:37。"
+    },
+    {
+      "id": "fb-1378",
+      "year": 2020,
+      "published": "2020-07-02",
+      "time": "15:54",
+      "activity": "",
+      "notes": [
+        "官帖感謝師生投入閱讀與寫作。封存文字省略學生姓名及個別成績。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02BJpV5rWnoxSszWYpBg98gaDaMWrnxAxjkUNKRGJXi1cn1gd3sAzEX85vUH5WNY1vl"
+        }
+      ],
+      "title": "龍顏閱讀書寫競賽（可見摘錄）",
+      "topic": "競賽與成果",
+      "kind": "fb",
+      "timeNote": "列表顯示 15:54，單篇另顯示 00:54。"
+    },
+    {
+      "id": "fb-1379",
+      "year": 2022,
+      "published": "2022-11-29",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "官帖介紹國小、國中及高中參與創意蔬食料理，並記錄市集義賣支援地震後重建。",
+        "封存官帖可見摘錄。貼文另附電台節目資訊，文字撰寫歸屬待核。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid08sPoFrfuqqfRnwuLGo612FhB1P4PtZZHqmY4RYAu3RUVsbhcDHuziVZPMUGW7ThKl"
+        }
+      ],
+      "title": "蔬食創意料理競賽與義賣（可見摘錄）",
+      "topic": "生命教育與服務",
+      "kind": "fb"
+    },
+    {
+      "id": "fb-1380",
+      "year": 2022,
+      "published": "2022-11-24",
+      "time": "21:56",
+      "activity": "",
+      "notes": [
+        "官帖記錄航空業講者為高三學生送上學測祝福。封存摘錄省略個別成績及具名校友段落。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0FhHDvXawBTrnHtpNG9w1pb3LBfAroTwxE2UVJ9BU9FM8kjEuERE5AvMFa9p7jZs5l"
+        }
+      ],
+      "title": "學測倒數與高三生涯分享（可見摘錄）",
+      "topic": "課程與專題",
+      "kind": "fb",
+      "timeNote": "列表顯示 21:56，單篇顯示 05:56，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1381",
+      "year": 2022,
+      "published": "2022-11-28",
+      "time": "16:15",
+      "activity": "",
+      "notes": [
+        "官帖記錄校內外各項獎項，正文涉及具名學生個別成績，僅留安全索引。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid0E43p7oTTe9UCuPPESTd8L3jrzxvg2vz3T6cL2V6iU9xQLnmA5w53NgVkpXofHc1Zl"
+        }
+      ],
+      "title": "學生校內外獎項紀錄",
+      "topic": "競賽與成果",
+      "kind": "fb",
+      "timeNote": "列表顯示 16:15，單篇顯示 00:15，日期錨點與原址一致。"
+    },
+    {
+      "id": "fb-1382",
+      "year": 2022,
+      "published": "2022-11-22",
+      "time": "10:00",
+      "activity": "",
+      "notes": [
+        "官帖分享學生走訪社區和超商，探討即期食品處理與惜食。",
+        "封存官帖不具名摘錄。貼文另附電台節目資訊，文字撰寫歸屬待核。"
+      ],
+      "media": "",
+      "partial": true,
+      "sources": [
+        {
+          "label": "Facebook 原文",
+          "url": "https://www.facebook.com/tcsh.edu/posts/pfbid02U8cSSh55nnZgUA8q51Q73LEF19VkarJQKckMdm9PNsJiqFZPnRehnhh7twYUHAisl"
+        }
+      ],
+      "title": "小論文研究與惜食行動（可見摘錄）",
+      "topic": "課程與專題",
       "kind": "fb"
     }
   ]
